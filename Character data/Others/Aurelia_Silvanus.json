@@ -1,0 +1,200 @@
+{
+  "id": "char_1753368839830",
+  "Version": "1.0",
+  "Created": "2024-07-30T10:00:00Z",
+  "Age": 20,
+  "Worlds": [
+    "Ancient Rome"
+  ],
+  "Name": {
+    "FirstName": "Aurelia",
+    "LastName": "Silvanus",
+    "Race": "Half-Elf",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "she/her"
+  ],
+  "Sexuality": "Undetermined",
+  "Size": {
+    "Height": 1.7,
+    "Weight": 58,
+    "BMI": 200692
+  },
+  "Birth": {
+    "BirthDateTime": "circa 280 BCE",
+    "BornCity": "Rome",
+    "BornCountry": "Roman Republic",
+    "Nationality": [
+      "Roman",
+      "Half-Elven"
+    ]
+  },
+  "IQ": 125,
+  "Naked": [
+    "Slender build",
+    "delicate elven features",
+    "slightly pointed ears",
+    "fair skin",
+    "long, wavy brown hair"
+  ],
+  "Story": [
+    "The eldest of the three half-elven sisters, Aurelia is a thoughtful and studious young woman. She is fascinated by ancient texts and philosophy, often trying to reconcile her Roman upbringing with the subtle hints of her father's mystical elven heritage."
+  ],
+  "Residence": "A grand villa in Rome, Roman Republic",
+  "BodyMarks": [],
+  "BodyParts": [
+    {
+      "Name": "Ears",
+      "Details": [
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Slightly pointed, betraying her elven lineage"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Wavy brown"
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Often kept loose or in a simple braid"
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Father",
+      "FirstName": "Lucius",
+      "LastName": "Silvanus",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Elf",
+      "Gender": "Male"
+    },
+    {
+      "Relation": "Mother",
+      "FirstName": "Julia",
+      "LastName": "Valeria",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Sister",
+      "FirstName": "Valeria",
+      "LastName": "Silvanus",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Half-Elf",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Sister",
+      "FirstName": "Livia",
+      "LastName": "Silvanus",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Half-Elf",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Curious",
+    "intelligent",
+    "diligent",
+    "introverted",
+    "calm",
+    "perceptive"
+  ],
+  "Languages": [
+    "Latin (fluent)",
+    "Elvish (proficient)"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Owl",
+    "FavoriteColor": "Indigo",
+    "FavoriteDrink": "Herbal Tea",
+    "FavoriteFood": "Figs",
+    "FavoritePlant": "Laurel"
+  },
+  "Skills": [
+    "Reading ancient texts",
+    "Astronomy",
+    "Herbalism",
+    "Philosophy",
+    "Logic"
+  ],
+  "Talents": [
+    "Calligraphy",
+    "Playing the Lute",
+    "Riddle Solving"
+  ],
+  "Advantages": [
+    "Quick learner",
+    "Excellent memory",
+    "Sharp analytical mind"
+  ],
+  "Disadvantages": [
+    "Socially awkward at times",
+    "Prefers solitude over large gatherings"
+  ],
+  "Employer": [],
+  "Possessions": [
+    {
+      "ItemType": "Books/Scrolls",
+      "Description": [
+        "A personal collection of philosophical and historical scrolls"
+      ]
+    },
+    {
+      "ItemType": "Writing Implements",
+      "Description": [
+        "Fine quills and parchment"
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Daily",
+        "Studying"
+      ],
+      "Items": [
+        {
+          "Type": "Simple Tunic",
+          "Color": "White, light blue",
+          "Style": "Simple",
+          "Fabric": "Linen",
+          "Size": "M",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Chiton",
+          "Color": "Cream",
+          "Style": "Simple",
+          "Fabric": "Cotton",
+          "Size": "M",
+          "Fit": "Draped"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Intellectual and introverted, she finds solace in knowledge. She has a quiet curiosity about magic and her elven ancestry."
+  ]
+}

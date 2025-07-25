@@ -1,0 +1,524 @@
+{
+  "id": "char_1753372404342",
+  "Version": "1.0",
+  "Created": "2024-07-30T10:00:00Z",
+  "Age": 21,
+  "Worlds": [
+    "Historical Scandinavia",
+    "Norse Mythology"
+  ],
+  "Name": {
+    "FirstName": "Estrid",
+    "LastName": "Bjornsdottir",
+    "Race": "Norse",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "She",
+    "Her"
+  ],
+  "Sexuality": "Homosexual",
+  "Size": {
+    "Height": 1.7,
+    "Weight": 70,
+    "BMI": 242214.5
+  },
+  "Birth": {
+    "BirthDateTime": "1000-05-15T00:00:00Z",
+    "BornCity": "Bjornstad",
+    "BornCountry": "Norway",
+    "Nationality": [
+      "Norse"
+    ]
+  },
+  "IQ": 115,
+  "Naked": [
+    "Toned and muscular physique",
+    "Scars from minor skirmishes"
+  ],
+  "Story": [
+    "Born in a small fjord village, Estrid showed an early aptitude for hunting and a natural talent with a bow. Despite her family's farming background, she yearned for adventure and joined a shieldmaiden company, quickly distinguishing herself with her marksmanship and tactical mind. She is a quiet but indispensable member of the longship crew, often tasked with reconnaissance and providing ranged support in raids."
+  ],
+  "Residence": "Viking Longship 'Sea Serpent'",
+  "BodyMarks": [
+    {
+      "Name": "Raven Tattoo",
+      "Location": "Right Forearm",
+      "Description": "An intricate, stylized raven design",
+      "Details": []
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Overall Physique",
+      "Details": [
+        {
+          "Name": "Arms",
+          "Descriptions": [
+            "Toned and strong from years of training and sailing"
+          ]
+        },
+        {
+          "Name": "Hair",
+          "Descriptions": [
+            "Long, braided brown hair"
+          ]
+        },
+        {
+          "Name": "Eyes",
+          "Descriptions": [
+            "Sharp, discerning grey eyes"
+          ]
+        }
+      ]
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "A thick cascade of flaxen blonde hair, streaked with lighter tones from sun exposure and sea spray."
+          ],
+          "Name": "Color"
+        },
+        {
+          "Descriptions": [
+            "Coarse and resilient, often kept in practical, tight braids that remain neat even after long hours on the longship or in battle."
+          ],
+          "Name": "Texture and Style"
+        }
+      ],
+      "Name": "Hair"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "An oval head shape with a strong, defined jawline, reflecting a resolute nature."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Clean-cut and proportional, framed by neatly braided hair, conveying a sense of practical beauty and stoicism."
+          ],
+          "Name": "Overall Features"
+        }
+      ],
+      "Name": "Head"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Piercing, storm-grey eyes, sometimes appearing a deep blue, that convey deep thought and unwavering focus, typical of a skilled archer."
+          ],
+          "Name": "Color"
+        },
+        {
+          "Descriptions": [
+            "Almond-shaped and deep-set, providing a keen, observant gaze that misses little."
+          ],
+          "Name": "Shape and Expression"
+        }
+      ],
+      "Name": "Eyes"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "A straight, well-proportioned nose with a slightly aquiline bridge, fitting her Norse heritage."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Practical and robust, showing no signs of having been broken despite her active lifestyle."
+          ],
+          "Name": "Structure"
+        }
+      ],
+      "Name": "Nose"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Well-proportioned ears, set close to her head, with no piercings or adornments, emphasizing a no-nonsense demeanor."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Often partially obscured by her practical hairstyles, they are efficient tools for hearing the subtle sounds of the wilderness or battlefield."
+          ],
+          "Name": "Features"
+        }
+      ],
+      "Name": "Ears"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thin, firm lips that naturally rest in a serious, determined line, seldom breaking into a wide smile."
+          ],
+          "Name": "Lips"
+        },
+        {
+          "Descriptions": [
+            "Her mouth often carries a slight, almost imperceptible set of focus, indicating her reserved and contemplative nature."
+          ],
+          "Name": "Expression"
+        }
+      ],
+      "Name": "Mouth"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "A strong, muscular neck, well-developed from years of training, carrying armor, and maintaining a steady head for archery."
+          ],
+          "Name": "Structure"
+        },
+        {
+          "Descriptions": [
+            "Tanned and unadorned, providing a sturdy base for her head, reflecting her physical resilience."
+          ],
+          "Name": "Appearance"
+        }
+      ],
+      "Name": "Neck"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Broad and strong, her shoulders are squared and capable, hinting at her prowess with a bow and axe."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "They carry the natural poise of a warrior, accustomed to bearing weight and enduring physical demands."
+          ],
+          "Name": "Posture"
+        }
+      ],
+      "Name": "Shoulders"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Lean and powerfully muscled, her arms show clear definition from years of pulling a bowstring and wielding weapons."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Skin is sun-tanned and shows faint, well-healed scars, marks of a life lived on the battlefield and in the wild."
+          ],
+          "Name": "Skin and Markings"
+        }
+      ],
+      "Name": "Arms"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Strong and calloused, her hands are those of a worker and a warrior, showing the marks of a bowstring and oar."
+          ],
+          "Name": "Build and Texture"
+        },
+        {
+          "Descriptions": [
+            "Fingers are long and dexterous, perfect for nocking arrows with precision and gripping a hilt firmly."
+          ],
+          "Name": "Fingers"
+        }
+      ],
+      "Name": "Hands"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Short, clean, and meticulously maintained for practicality, never left long enough to hinder her grip or snag."
+          ],
+          "Name": "Length and Condition"
+        },
+        {
+          "Descriptions": [
+            "Natural in color, unpolished, reflecting her practical and unadorned lifestyle."
+          ],
+          "Name": "Appearance"
+        }
+      ],
+      "Name": "Nails"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "A broad and deep chest, indicative of strong lungs and a powerful core, vital for a shieldmaiden's endurance and martial prowess."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "The ribcage is well-defined beneath taut muscle, conveying robust health and strength."
+          ],
+          "Name": "Structure"
+        }
+      ],
+      "Name": "Chest"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Taut and lean, her abdomen is sculpted by rigorous training and a disciplined life, showing subtle muscular definition."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "The skin is unblemished and firm, reflecting her excellent physical condition and a strong core."
+          ],
+          "Name": "Condition"
+        }
+      ],
+      "Name": "Abdomen"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Her hips are athletic and narrow, providing agility and balance crucial for combat and navigating uneven terrain."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Strong and well-developed musculature around the hip region supports her powerful legs."
+          ],
+          "Name": "Musculature"
+        }
+      ],
+      "Name": "Hip"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Powerful and shapely, her legs are muscular and agile, built for sustained running, fighting, and long marches."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Calves and thighs are notably strong and defined from her life as a hunter and warrior."
+          ],
+          "Name": "Musculature"
+        }
+      ],
+      "Name": "Legs"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Sturdy and well-arched, her feet are accustomed to harsh conditions, showing calluses from long treks and fighting barefoot or in light footwear."
+          ],
+          "Name": "Build and Condition"
+        },
+        {
+          "Descriptions": [
+            "Toes are strong and unadorned, providing excellent grip and balance."
+          ],
+          "Name": "Toes"
+        }
+      ],
+      "Name": "Feet"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Natural and unremarkable in appearance, reflecting a focus on practicality rather than aesthetic. "
+          ],
+          "Name": "Appearance"
+        },
+        {
+          "Descriptions": [
+            "Maintained with a clean and functional simplicity, consistent with a life of constant activity."
+          ],
+          "Name": "Care"
+        }
+      ],
+      "Name": "Genitals"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Moderate in size and firmly set, providing an athletic silhouette that does not impede her movement in battle or daily tasks."
+          ],
+          "Name": "Size and Firmness"
+        },
+        {
+          "Descriptions": [
+            "Well-supported and proportional to her strong frame, indicative of a healthy and active young woman."
+          ],
+          "Name": "Shape and Proportion"
+        }
+      ],
+      "Name": "Breasts"
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Father",
+      "FirstName": "Bjorn",
+      "LastName": "Rolfsson",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Norse",
+      "Gender": "Male"
+    },
+    {
+      "Relation": "Mother",
+      "FirstName": "Ingrid",
+      "LastName": "Thorsdottir",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Norse",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Calm",
+    "Observant",
+    "Precise",
+    "Loyal",
+    "Brave",
+    "Reserved"
+  ],
+  "Languages": [
+    "Old Norse"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Raven",
+    "FavoriteColor": "Forest Green",
+    "FavoriteDrink": "Mead",
+    "FavoriteFood": "Venison Stew",
+    "FavoritePlant": "Juniper"
+  },
+  "Skills": [
+    "Archery (Expert)",
+    "Tracking",
+    "Coastal Navigation",
+    "Wilderness Survival",
+    "Scouting"
+  ],
+  "Talents": [
+    "Sharpshooting",
+    "Camouflage",
+    "Silent Movement"
+  ],
+  "Advantages": [
+    "Exceptional Markswoman",
+    "Keen Eyesight",
+    "Stealthy"
+  ],
+  "Disadvantages": [
+    "Overly Cautious",
+    "Reserved"
+  ],
+  "Employer": [
+    {
+      "Company": "Viking Longship Crew",
+      "JobTitles": [
+        "Shieldmaiden",
+        "Archer",
+        "Scout"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Longbow",
+      "Description": [
+        "A longbow crafted from yew wood, adorned with simple carvings"
+      ]
+    },
+    {
+      "ItemType": "Quiver and Arrows",
+      "Description": [
+        "A quiver full of meticulously fletched arrows"
+      ]
+    },
+    {
+      "ItemType": "Hunting Knife",
+      "Description": [
+        "A sharp, practical hunting knife with a bone handle"
+      ]
+    },
+    {
+      "ItemType": "Leather Armor",
+      "Description": [
+        "Light leather armor providing flexibility"
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Daily Wear",
+        "Battle Attire"
+      ],
+      "Items": [
+        {
+          "Type": "Leather Tunic",
+          "Color": "Dark Brown",
+          "Style": "Practical",
+          "Fabric": "Leather",
+          "Size": "M",
+          "Fit": "Fitted"
+        },
+        {
+          "Type": "Wool Trousers",
+          "Color": "Dark Grey",
+          "Style": "Viking",
+          "Fabric": "Wool",
+          "Size": "M",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Sturdy Boots",
+          "Color": "Black",
+          "Style": "Practical",
+          "Fabric": "Leather",
+          "Size": "M",
+          "Fit": "Snug"
+        },
+        {
+          "Type": "Wool Cloak",
+          "Color": "Forest Green",
+          "Style": "Warm",
+          "Fabric": "Wool",
+          "Size": "M",
+          "Fit": "Loose"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Known for her quiet observation and deadly precision with a bow. Often prefers to listen and assess before speaking."
+  ]
+}

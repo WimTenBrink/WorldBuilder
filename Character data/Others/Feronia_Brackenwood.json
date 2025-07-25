@@ -1,0 +1,253 @@
+{
+  "id": "char_1753355431140",
+  "Version": "1.0",
+  "Created": "2024-05-23T10:30",
+  "Age": 19,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Feronia",
+    "LastName": "Brackenwood",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [
+      "Willow"
+    ],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "She/Her"
+  ],
+  "Sexuality": "Bisexual",
+  "Size": {
+    "Height": 165,
+    "Weight": 58,
+    "BMI": 21.3
+  },
+  "Birth": {
+    "BirthDateTime": "2005-04-12",
+    "BornCity": "Stonemire",
+    "BornCountry": "The Grim Marches",
+    "Nationality": [
+      "Marcher"
+    ]
+  },
+  "IQ": 115,
+  "Naked": [
+    "Feronia has a lean, athletic body, toned from a life of physical labor, with soft curves at her hips and breasts. Her skin is pale and smooth, currently slick with cold sweat and marred by grime.",
+    "Her breasts are full and round, a C-cup, with wide, dark rose-colored areolas that pucker tightly in the cavern's chill. Her nipples are prominent and highly sensitive.",
+    "Her vulva is neat and fleshy, with soft, dark hair trimmed short. Her outer labia are plush and conceal delicate, pink inner lips that protect a sensitive, prominent clitoris beneath its hood.",
+    "Raised in a practical village environment, Feronia holds no shame in nudity, viewing it as natural, though her current state of forced exposure fills her with cold rage rather than embarrassment."
+  ],
+  "Story": [
+    "Born in the grim village of Stonemire, Feronia lived a simple life, her days spent foraging in the woods and tending to what little livestock her family had.",
+    "She shared a secret, passionate romance with a girl named Linara, a bond severed when Linara's family fled the failing village months before the sacrifice.",
+    "When the harvest failed completely, the village elders, driven by fear of the Murk-Maws, revived the ancient tradition of human sacrifice. Feronia was chosen by a rigged lottery.",
+    "Dragged into the subterranean depths, she is now bound to a living, fleshy spire as an offering to the cavern's monstrous inhabitants.",
+    "Unbeknownst to her captors, Feronia possesses a spark of pyromantic magic inherited from a distant ancestor. As the creatures' ritual begins, she is gathering this inner fire, intending to turn their unholy communion into a cleansing inferno, either achieving freedom or a fiery, defiant death."
+  ],
+  "Residence": "Bound to a Ritual Spire in the Murk-Maw caverns, beneath the village of Stonemire.",
+  "BodyMarks": [
+    {
+      "Name": "Scar",
+      "Location": "Left knee",
+      "Description": "A small, silvery, crescent-shaped scar from falling on a sharp rock during a childhood chase through the woods.",
+      "Details": []
+    },
+    {
+      "Name": "Chafing",
+      "Location": "Wrists and ankles",
+      "Description": "Raw, red abrasions where the fleshy tendrils of the ritual spire are bound tightly to her skin.",
+      "Details": []
+    },
+    {
+      "Name": "Birthmark",
+      "Location": "Right hip",
+      "Description": "A faint, swirling mark the size of her thumb, resembling a flicker of flame, that sometimes feels warm to the touch.",
+      "Details": []
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Dark brown, like rich soil"
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Long, falling past her shoulders",
+            "Matted and tangled with dirt and moisture"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Hazel, with flecks of green and gold that seem to shimmer with inner light"
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Almond-shaped, with a steady, defiant gaze"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Details": [
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Heart-shaped with a strong jawline and high cheekbones."
+          ]
+        },
+        {
+          "Name": "Features",
+          "Descriptions": [
+            "Full lips, currently set in a firm line.",
+            "A straight, proud nose.",
+            "Pale, almost translucent skin, smudged with dirt."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Breasts",
+      "Details": [
+        {
+          "Name": "Size",
+          "Descriptions": [
+            "C-cup"
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Full, round, and naturally high on her chest."
+          ]
+        },
+        {
+          "Name": "Nipples",
+          "Descriptions": [
+            "Large, dark-rose areolas.",
+            "Prominent, expressive nipples that are perpetually hard in the cold air."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Genitals",
+      "Details": [
+        {
+          "Name": "Vulva",
+          "Descriptions": [
+            "A plump, fleshy mound (mons pubis) with a small patch of dark, curly hair.",
+            "Her outer labia are full and protectively enclose the softer, pink inner lips.",
+            "Her clitoris is visibly prominent under its hood, a pearl of sensitive flesh."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Lost Love",
+      "FirstName": "Linara",
+      "LastName": "Meadowlight",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Defiant",
+    "Resilient",
+    "Pragmatic",
+    "Intensely focused under pressure",
+    "Secretive",
+    "Possesses a core of barely-suppressed rage"
+  ],
+  "Languages": [
+    "Marcher Common"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Wolf",
+    "FavoriteColor": "Forest Green",
+    "FavoriteDrink": "Fresh spring water",
+    "FavoriteFood": "Hearth-baked bread with honey",
+    "FavoritePlant": "Wild Thistle"
+  },
+  "Skills": [
+    "Latent Elemental Magic (Pyromancy)",
+    "Foraging and Herbology",
+    "High Pain Tolerance",
+    "Exceptional Survival Instincts",
+    "Mental Fortitude"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Forager",
+        "Community Laborer",
+        "Sacrificial Offering"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Clothing",
+      "Description": [
+        "A tattered, threadbare linen shift, once white, now stained with dirt and grime."
+      ]
+    },
+    {
+      "ItemType": "Bindings",
+      "Description": [
+        "Thick, sinewy tendrils from the ritual spire, wrapped tightly around her wrists and ankles, pulsing faintly."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Ritual Sacrifice"
+      ],
+      "Items": [
+        {
+          "Type": "Shift",
+          "Color": "Off-white, heavily soiled",
+          "Style": "Simple, sleeveless, ankle-length",
+          "Fabric": "Coarse linen",
+          "Size": "Medium",
+          "Fit": "Loose, but clinging with cavern dampness"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

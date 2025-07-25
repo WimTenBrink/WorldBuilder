@@ -1,0 +1,234 @@
+{
+  "Version": "1.2",
+  "Created": "2024-10-26T10:47",
+  "Age": 25,
+  "Topics": [
+    "Theme|Sodomy|A theme focusing on anal penetration for dominance or sexual stimulation.",
+    "Theme|Rape|A sensitive theme involving non-consensual sexual acts.",
+    "Theme|Vengeance|A narrative theme centered on seeking retribution for a wrong.",
+    "Symbol|Hamsa|A palm-shaped amulet popular throughout the Middle East and North Africa, commonly used to protect against the evil eye.",
+    "Setting|Island Paradise|A beautiful, isolated island with lush vegetation and pristine beaches.",
+    "Location (Fictional)|Lost Land (Tarzan)|A general term for various uncharted or hidden regions in Tarzan's adventures, often containing forgotten civilizations, strange creatures, or valuable resources.",
+    "Genre|Quest|A narrative theme focused on a long search for something.",
+    "Genre|Lost World|A genre featuring the discovery of an isolated, undiscovered region.",
+    "Encounter|Dinosaurs|Prehistoric animals, often large reptiles, that dominated the Earth for millions of years."
+  ],
+  "Name": {
+    "FirstName": "Angel",
+    "Names": [],
+    "LastName": "Stone",
+    "MaidenName": null,
+    "Race": "Human",
+    "Gender": "Female"
+  },
+  "Pronouns": [
+    "she",
+    "her",
+    "hers"
+  ],
+  "Sexuality": "Heterosexual",
+  "Size": {
+    "Height": 170,
+    "Weight": 60,
+    "BMI": 20.76
+  },
+  "Birth": {
+    "BirthDateTime": "1999-05-10",
+    "BornCity": "London",
+    "BornCountry": "United Kingdom",
+    "Nationality": [
+      "British"
+    ]
+  },
+  "IQ": 120,
+  "Naked": [
+    "Angel possesses a toned and athletic physique, indicative of her adventurous lifestyle. She is not entirely comfortable with nudity, viewing it more as a practical necessity in the humid jungle environment than a form of personal expression. Her body bears the marks of past expeditions and conflicts, testaments to her resilience and determination."
+  ],
+  "Story": [
+    "Angel Stone, a renowned explorer, ventured into the uncharted Lost Land in search of a legendary artifact. However, she was captured by the brutal Ghorzog tribe, and now serves as a slave. Her captor, while keeping her virginity intact for unknown purposes, has developed a lustful obsession, resorting to sodomy to satisfy his desires and exert dominance.",
+    "Driven by a thirst for vengeance against Ghorzog and his tribe for their treatment of her and the injustices she has witnessed, Angel plans her escape, seeking retribution for the wrongs inflicted upon her and the island's inhabitants.",
+    "Angel carries a Hamsa amulet, a gift from her grandmother, believing it will protect her from harm and guide her through the dangers of the Lost Land as she navigates the treacherous terrain and confronts the prehistoric creatures that roam the island."
+  ],
+  "Residence": "Lost Land (Tarzan)",
+  "BodyMarks": [
+    {
+      "Name": "Freckles",
+      "Location": "Face and shoulders",
+      "Description": "A scattering of light brown freckles across her nose, cheeks, and shoulders, giving her a youthful and sun-kissed appearance.",
+      "Details": []
+    },
+    {
+      "Name": "Scar",
+      "Location": "Left thigh",
+      "Description": "A long, jagged scar on her left thigh, a memento from a previous encounter with a jungle predator.",
+      "Details": [
+        "Approximately 10 cm in length",
+        "Slightly raised and discolored"
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Intense blue, reflecting a mix of determination and vulnerability."
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Almond-shaped, framed by thick, dark lashes."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Long, blonde hair, often tangled and streaked with dirt from her jungle surroundings."
+          ]
+        },
+        {
+          "Name": "Texture",
+          "Descriptions": [
+            "Naturally wavy, with a tendency to frizz in the humid climate."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Details": [
+        {
+          "Name": "Features",
+          "Descriptions": [
+            "Strong jawline and high cheekbones, lending her a striking and resilient appearance."
+          ]
+        },
+        {
+          "Name": "Expression",
+          "Descriptions": [
+            "Determined and resolute, even in the face of adversity."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Captor",
+      "FirstName": "Ghorzog",
+      "Names": [],
+      "LastName": "Skull-Taker",
+      "MaidenName": null,
+      "Race": "Orc",
+      "Gender": "Male"
+    },
+    {
+      "Relation": "Friend",
+      "FirstName": "Kaelen",
+      "Names": [],
+      "LastName": "Veridian",
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Male"
+    }
+  ],
+  "Personality": [
+    "Courageous",
+    "Resilient",
+    "Determined",
+    "Resourceful",
+    "Vengeful",
+    "Independent"
+  ],
+  "Languages": [
+    "English",
+    "German",
+    "Basic Orcish"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Jaguar",
+    "FavoriteColor": "Emerald Green",
+    "FavoriteDrink": "Fresh Coconut Water",
+    "FavoriteFood": "Grilled Fish",
+    "FavoritePlant": "Orchid"
+  },
+  "Skills": [
+    "Survival Skills",
+    "Tracking",
+    "Close Combat",
+    "Linguistics",
+    "Botany",
+    "First Aid"
+  ],
+  "Employer": [
+    {
+      "Company": [
+        "Stone Explorations"
+      ],
+      "JobTitles": [
+        "Lead Explorer",
+        "Expedition Leader"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Hamsa Amulet",
+      "Description": [
+        "A palm-shaped amulet made of silver, believed to offer protection against the evil eye. It was a gift from her grandmother.",
+        "The amulet is intricately designed with ancient symbols.",
+        "It serves as a reminder of hope."
+      ]
+    },
+    {
+      "ItemType": "Machete",
+      "Description": [
+        "A long, sharp blade used for clearing vegetation and self-defense.",
+        "The handle is wrapped in worn leather.",
+        "Her most essential item"
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Jungle Exploration",
+        "Survival"
+      ],
+      "Items": [
+        {
+          "Type": "Tank Top",
+          "Color": "Olive Green",
+          "Style": "Functional",
+          "Fabric": "Cotton",
+          "Size": "Small",
+          "Fit": "Snug"
+        },
+        {
+          "Type": "Cargo Pants",
+          "Color": "Khaki",
+          "Style": "Practical",
+          "Fabric": "Durable Canvas",
+          "Size": "Small",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Boots",
+          "Color": "Brown",
+          "Style": "Hiking",
+          "Fabric": "Leather",
+          "Size": "7",
+          "Fit": "Sturdy"
+        }
+      ]
+    }
+  ]
+}

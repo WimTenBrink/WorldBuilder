@@ -1,0 +1,362 @@
+{
+  "id": "char_1753355246371",
+  "Version": "1.0",
+  "Created": "2024-05-23T10:00",
+  "Age": 38,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Cendria",
+    "LastName": "Aethelgard",
+    "Race": "Centaur",
+    "Gender": "Female",
+    "Names": [
+      "Lysandra"
+    ],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "She",
+    "Her"
+  ],
+  "Sexuality": "Lesbian",
+  "Size": {
+    "Height": 220,
+    "Weight": 550,
+    "BMI": 113.6
+  },
+  "Birth": {
+    "BirthDateTime": "1220-05-15",
+    "BornCity": "Kallipolis",
+    "BornCountry": "Arcadia",
+    "Nationality": [
+      "Arcadian"
+    ]
+  },
+  "IQ": 125,
+  "Naked": [
+    "Cendria's unclothed form is a testament to a life of martial discipline, combining the power of an equine body with the grace of an athletic human torso.",
+    "Her human half is leanly muscled, with strong shoulders and arms. Her skin is fair but weathered from sun and wind.",
+    "Her equine body is that of a powerful warhorse, with a gleaming silver-gray coat that shimmers over well-defined muscle, a strong back, and powerful haunches.",
+    "She possesses a practical and professional view of nudity, unconcerned by it in private or among those she trusts completely, viewing her body as a functional tool of her trade."
+  ],
+  "Story": [
+    "Born in the Arcadian city of Kallipolis, Cendria was destined for service in the esteemed Centaur Guard.",
+    "She is a decorated knight, known for her stoic demeanor, tactical acumen, and unwavering loyalty to the crown.",
+    "Cendria harbors a deep-seated protectiveness, which is now fully directed towards her new ward, a young human knight named Verida.",
+    "Recently commissioned by the Queen, she and Verida are on a quest to the Whisperwood to investigate a mysterious curse that drains the forest of life.",
+    "While her relationship with Verida is officially that of a mentor, a profound and gentle affection grows between them, promising a romance forged in the crucible of their journey.",
+    "Their quest is shadowed by an unknown antagonist who seems to be orchestrating the curse, with their path leading them towards a confrontation at a place of forgotten power, like the Ivy-Covered Villa."
+  ],
+  "Residence": "On the road; formally the Centaur Guard barracks in Oakhaven.",
+  "BodyMarks": [
+    {
+      "Name": "Scar",
+      "Location": "Left flank",
+      "Description": "A set of three long, faded white scars, remnants of an encounter with a griffin in her youth.",
+      "Details": [
+        "Each scar is about a finger's width and curves along her equine ribs."
+      ]
+    },
+    {
+      "Name": "Scar",
+      "Location": "Right forearm",
+      "Description": "A blotchy, discolored patch of skin from a poorly deflected fire spell.",
+      "Details": [
+        "The skin is smooth and slightly shiny."
+      ]
+    },
+    {
+      "Name": "Birthmark",
+      "Location": "Left hindquarter",
+      "Description": "A small patch of fur that is a darker, charcoal gray, shaped distinctly like a crescent moon.",
+      "Details": []
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Shining silver, like spun moonlight."
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Long and thick, typically worn in a single, practical braid that falls past her shoulders to keep it clear during combat."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "A clear, bright sapphire blue."
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Almond-shaped, keen, and observant, framed by long, pale lashes."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Details": [
+        {
+          "Name": "Structure",
+          "Descriptions": [
+            "A strong, noble face with high cheekbones, a firm jawline, and a straight nose.",
+            "Her features are weathered by years of service but retain an inherent grace."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Torso",
+      "Details": [
+        {
+          "Name": "Musculature",
+          "Descriptions": [
+            "Athletically built with well-defined abdominal, back, and arm muscles from years of swordplay and archery."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Breasts",
+      "Details": [
+        {
+          "Name": "Size",
+          "Descriptions": [
+            "Medium-sized, around a C-cup, proportionate to her human frame."
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Firm and round, with a natural, athletic fullness."
+          ]
+        },
+        {
+          "Name": "Areolae",
+          "Descriptions": [
+            "Pale rose in color, moderately sized with a smooth texture."
+          ]
+        },
+        {
+          "Name": "Nipples",
+          "Descriptions": [
+            "Matching the pale rose of her areolae, they are compact and become taut when cold or aroused."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Genitals",
+      "Details": [
+        {
+          "Name": "Vulva",
+          "Descriptions": [
+            "Neat and well-formed, situated at the juncture between her human and equine bodies.",
+            "She has a modest mons pubis covered in a fine dusting of silver hair."
+          ]
+        },
+        {
+          "Name": "Labia",
+          "Descriptions": [
+            "The outer labia are smooth and of a similar tone to her fair skin. The inner labia are a soft pink and are mostly concealed."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Equine Body",
+      "Details": [
+        {
+          "Name": "Coat",
+          "Descriptions": [
+            "A beautiful silver-gray, short and sleek over her entire equine form."
+          ]
+        },
+        {
+          "Name": "Musculature",
+          "Descriptions": [
+            "Extremely powerful and well-defined, with strong legs, a broad chest, and muscular haunches built for speed and stability in battle."
+          ]
+        },
+        {
+          "Name": "Tail",
+          "Descriptions": [
+            "Long and thick, the same shining silver as her hair, often kept neatly brushed."
+          ]
+        },
+        {
+          "Name": "Hooves",
+          "Descriptions": [
+            "Dark gray, almost black, and always well-shod for travel."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Ward & Romantic Interest",
+      "FirstName": "Verida",
+      "LastName": "Kallista",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Employer",
+      "FirstName": "Lyraena",
+      "LastName": "Thellora",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Stoic",
+    "Protective",
+    "Disciplined",
+    "Honorable",
+    "Patient",
+    "Pragmatic",
+    "Possesses a dry, subtle wit reserved for those she trusts.",
+    "Fiercely loyal."
+  ],
+  "Languages": [
+    "Arcadian Common",
+    "Old Elvish",
+    "Sylvan"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Griffin",
+    "FavoriteColor": "Sky Blue",
+    "FavoriteDrink": "Cool spring water",
+    "FavoriteFood": "Roasted boar with honeyed apples",
+    "FavoritePlant": "Asphodel"
+  },
+  "Skills": [
+    "Master Swordswoman",
+    "Expert Archer",
+    "Military Strategy & Tactics",
+    "Wilderness Survival",
+    "Tracking",
+    "Animal Handling",
+    "Basic Blacksmithing (Armor Maintenance)"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Knight-Commander",
+        "Royal Emissary"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Weapon",
+      "Description": [
+        "A steel longsword with a simple crossguard and a pommel shaped like a horse's head."
+      ]
+    },
+    {
+      "ItemType": "Armor",
+      "Description": [
+        "Ornate steel plate armor for her human torso, engraved with Hellenistic patterns and the Guard's crest."
+      ]
+    },
+    {
+      "ItemType": "Personal Gear",
+      "Description": [
+        "A large leather saddle with attached bedroll and saddlebags containing rations, maps, and supplies."
+      ]
+    },
+    {
+      "ItemType": "Quest Item",
+      "Description": [
+        "A royal scroll bearing the Queen's wax seal, detailing the commission to investigate the Whisperwood."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "On Duty",
+        "Combat",
+        "Travel"
+      ],
+      "Items": [
+        {
+          "Type": "Plate Armor Set",
+          "Color": "Polished Steel",
+          "Style": "Ornate Hellenistic",
+          "Fabric": "Steel and Leather",
+          "Size": "Custom Fit",
+          "Fit": "Articulated"
+        },
+        {
+          "Type": "Saddle and Tack",
+          "Color": "Dark Brown",
+          "Style": "Military",
+          "Fabric": "Treated Leather",
+          "Size": "Custom Fit",
+          "Fit": "Fitted"
+        }
+      ]
+    },
+    {
+      "Usage": [
+        "Off-duty",
+        "Camp",
+        "Relaxing"
+      ],
+      "Items": [
+        {
+          "Type": "Tunic",
+          "Color": "Royal Blue",
+          "Style": "Sleeveless Chiton",
+          "Fabric": "Linen",
+          "Size": "Large",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Bracers",
+          "Color": "Brown",
+          "Style": "Simple",
+          "Fabric": "Worn Leather",
+          "Size": "Medium",
+          "Fit": "Snug"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

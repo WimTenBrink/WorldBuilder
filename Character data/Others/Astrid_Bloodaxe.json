@@ -1,0 +1,199 @@
+{
+  "id": "char_1753364498769",
+  "Version": "1.0",
+  "Created": "2024-05-15T12:00:00Z",
+  "Age": 25,
+  "Worlds": [
+    "Viking Age Scandinavia"
+  ],
+  "Name": {
+    "FirstName": "Astrid",
+    "LastName": "Bloodaxe",
+    "Race": "Norse",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "she/her"
+  ],
+  "Sexuality": "Homosexual",
+  "Size": {
+    "Height": 1.7,
+    "Weight": 70,
+    "BMI": 242214.5
+  },
+  "Birth": {
+    "BirthDateTime": "0983-05-15T00:00:00Z",
+    "BornCity": "Fjordskaal",
+    "BornCountry": "Norway",
+    "Nationality": [
+      "Norse"
+    ]
+  },
+  "IQ": 110,
+  "Naked": [
+    "Athletic and lithe build",
+    "Scar on left eyebrow",
+    "No visible tattoos",
+    "No piercings"
+  ],
+  "Story": [
+    "Astrid Bloodaxe, the middle sister, is the most agile and impulsive of the trio. She grew up alongside Freya and Helga, training relentlessly and developing a deep-seated hatred for the Christian invaders who threatened their way of life. Astrid's quick wit and even quicker reflexes make her a formidable opponent, often seen leading the charge with her twin hand axes. Her loyalty to her sisters is absolute, and she would readily lay down her life for them and their shared cause. She finds joy in the thrill of battle and the camaraderie of her kin."
+  ],
+  "Residence": "A shared longhouse in the village of Fjordskaal, Norway",
+  "BodyMarks": [
+    {
+      "Name": "Eyebrow Scar",
+      "Location": "Left Eyebrow",
+      "Description": "A distinctive scar running across her left eyebrow from a training accident.",
+      "Details": []
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "General Appearance",
+      "Details": [
+        {
+          "Name": "Hair",
+          "Descriptions": [
+            "Thick, dark brown hair, often tied back in a practical braid or bun."
+          ]
+        },
+        {
+          "Name": "Eyes",
+          "Descriptions": [
+            "Sharp, intelligent green eyes that miss nothing."
+          ]
+        },
+        {
+          "Name": "Physique",
+          "Descriptions": [
+            "Athletic and lithe build, emphasizing speed and agility over raw power."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Sister",
+      "FirstName": "Freya",
+      "LastName": "Bloodaxe",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Norse",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Sister",
+      "FirstName": "Helga",
+      "LastName": "Bloodaxe",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Norse",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Agile",
+    "Quick-witted",
+    "Impulsive",
+    "Loyal",
+    "Brave",
+    "Resourceful"
+  ],
+  "Languages": [
+    "Old Norse"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Raven",
+    "FavoriteColor": "Forest Green",
+    "FavoriteDrink": "Ale",
+    "FavoriteFood": "Wild Game",
+    "FavoritePlant": "Birch Tree"
+  },
+  "Skills": [
+    "Dual axe fighting",
+    "Scouting",
+    "Tracking",
+    "Stealth",
+    "Hunting"
+  ],
+  "Talents": [
+    "Acrobatic combat",
+    "Exceptional stealth",
+    "Improvised weapon use"
+  ],
+  "Advantages": [
+    "Exceptional agility",
+    "Quick reflexes",
+    "Dual-wielding mastery"
+  ],
+  "Disadvantages": [
+    "Impulsive",
+    "Short temper",
+    "Reckless in battle"
+  ],
+  "Employer": [
+    {
+      "Company": "Fjordskaal Village Warband",
+      "JobTitles": [
+        "Shieldmaiden",
+        "Scout"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Weapon (Hand Axes)",
+      "Description": [
+        "Two finely crafted hand axes, light and balanced for fast strikes."
+      ]
+    },
+    {
+      "ItemType": "Shield (Buckler)",
+      "Description": [
+        "A small, lighter buckler shield, used primarily for parrying."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Daily Wear",
+        "Battle Attire"
+      ],
+      "Items": [
+        {
+          "Type": "Light Leather Armor",
+          "Color": "Dark Brown",
+          "Style": "Viking",
+          "Fabric": "Leather",
+          "Size": "Medium",
+          "Fit": "Snug"
+        },
+        {
+          "Type": "Linen Tunic",
+          "Color": "Natural White",
+          "Style": "Viking",
+          "Fabric": "Linen",
+          "Size": "Medium",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Animal Skin Cloak",
+          "Color": "Grey/Brown",
+          "Style": "Viking",
+          "Fabric": "Animal Skin",
+          "Size": "One Size",
+          "Fit": "Loose"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Middle sister, known for her speed and cunning.",
+    "Prefers fighting with two hand axes."
+  ]
+}

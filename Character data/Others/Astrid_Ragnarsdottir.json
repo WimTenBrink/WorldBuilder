@@ -1,0 +1,553 @@
+{
+  "id": "char_1753372436448",
+  "Version": "1.0",
+  "Created": "2024-07-30T12:00:00Z",
+  "Age": 21,
+  "Worlds": [
+    "Viking Age Scandinavia",
+    "Historical Fiction"
+  ],
+  "Name": {
+    "FirstName": "Astrid",
+    "LastName": "Ragnarsdottir",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [
+      "Astrid Ragnarsdottir"
+    ],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "she",
+    "her"
+  ],
+  "Sexuality": "Homosexual",
+  "Size": {
+    "Height": 1.75,
+    "Weight": 70,
+    "BMI": 228571.4
+  },
+  "Birth": {
+    "BirthDateTime": "1003-07-30T00:00:00Z",
+    "BornCity": "Hedeby",
+    "BornCountry": "Denmark",
+    "Nationality": [
+      "Norse"
+    ]
+  },
+  "IQ": 100,
+  "Naked": [
+    "Muscular build",
+    "Numerous battle scars across her body",
+    "Athletic physique"
+  ],
+  "Story": [
+    "Astrid Ragnarsdottir was born in Hedeby, a bustling trading hub, into a family with a long lineage of warriors. From a young age, she showed an unusual aptitude for combat and strategy, often outmaneuvering older boys in mock battles. At sixteen, she joined a longship crew, quickly proving her worth as a fierce and dependable shieldmaiden. Her experience has seen her through many raids and skirmishes, earning her a reputation for unwavering courage. She is fiercely loyal to her shipmates and her jarl, and her calm under pressure makes her a valued member of any raiding party. Her heart belongs to the women she fights alongside, finding kinship and love among her fellow shieldmaidens.",
+    "She earned her facial scar defending a fallen comrade during a particularly brutal skirmish against a rival clan, a mark she wears with pride."
+  ],
+  "Residence": "Viking Longship 'Sea Serpent'",
+  "BodyMarks": [
+    {
+      "Name": "Battle Scar",
+      "Location": "Left side of face",
+      "Description": "A jagged scar running from her left eyebrow to her cheekbone, a souvenir from her first major skirmish.",
+      "Details": []
+    },
+    {
+      "Name": "Raven Tattoo",
+      "Location": "Right forearm",
+      "Description": "A stylized raven, signifying her loyalty to Odin and her warrior clan.",
+      "Details": []
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Physique",
+      "Details": [
+        {
+          "Name": "Arms",
+          "Descriptions": [
+            "Strong and well-defined from years of training and combat.",
+            "Capable of wielding heavy weapons with ease."
+          ]
+        },
+        {
+          "Name": "Eyes",
+          "Descriptions": [
+            "Piercing blue eyes that convey both determination and keen observation.",
+            "Often narrowed in thought or focused intensity."
+          ]
+        },
+        {
+          "Name": "Torso",
+          "Descriptions": [
+            "A sturdy, athletic build, reflecting her life as a shieldmaiden."
+          ]
+        }
+      ]
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "A pale, sun-bleached blonde, often appearing almost white at the tips, darkened slightly at the roots from sweat and grime."
+          ],
+          "Name": "Color"
+        },
+        {
+          "Descriptions": [
+            "Typically tied back in a thick, practical braid or bun, secured tightly to keep out of the way during combat. Sometimes loose and wild after a long voyage or skirmish.",
+            "Weathered and often tangled, reflecting a life spent outdoors and in battle."
+          ],
+          "Name": "Style"
+        },
+        {
+          "Descriptions": [
+            "Coarse and strong, resistant to the elements, though sometimes matted from sea spray and dried blood."
+          ],
+          "Name": "Texture"
+        }
+      ],
+      "Name": "Hair"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Strong, angular jawline and prominent cheekbones, giving her a resolute appearance."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Broad and unlined, indicative of her focused and strategic mind."
+          ],
+          "Name": "Forehead"
+        },
+        {
+          "Descriptions": [
+            "A stark, deep scar diagonally bisects her left cheek, starting from below the temple and ending near the jawline, a testament to a brutal skirmish."
+          ],
+          "Name": "Scar"
+        }
+      ],
+      "Name": "Head"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Piercing sea-grey, reflecting the often stormy skies of her northern homeland."
+          ],
+          "Name": "Color"
+        },
+        {
+          "Descriptions": [
+            "Almond-shaped, typically narrowed in intense concentration or appraisal, rarely fully relaxed."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Intense and watchful, conveying a deep inner strength and unwavering resolve, though a spark of camaraderie can sometimes be seen among her shieldmaidens."
+          ],
+          "Name": "Expression"
+        }
+      ],
+      "Name": "Eyes"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Straight and well-defined, with a slight aquiline curve at the bridge, befitting her strong facial features."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Proportionate to her face, neither delicate nor overly prominent, suggesting a practical and sturdy constitution."
+          ],
+          "Name": "Size"
+        }
+      ],
+      "Name": "Nose"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Practical and close-set, without any piercings or adornments, rarely visible beneath her hair or helmet."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Attached, showing no signs of being stretched or modified, in keeping with her utilitarian nature."
+          ],
+          "Name": "Lobe"
+        }
+      ],
+      "Name": "Ears"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thin and firm, typically set in a determined, disciplined line, rarely breaking into a wide smile."
+          ],
+          "Name": "Lips"
+        },
+        {
+          "Descriptions": [
+            "Often stern and resolute, capable of issuing sharp commands, yet can soften subtly when in the company of those she trusts deeply."
+          ],
+          "Name": "Expression"
+        }
+      ],
+      "Name": "Mouth"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thick and muscular, capable of bearing heavy armor and absorbing the shock of blows, showing clear signs of strength."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Tanned and slightly weathered, with a few faint lines from constant exposure to the elements and motion during voyages."
+          ],
+          "Name": "Skin"
+        }
+      ],
+      "Name": "Neck"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Broad and powerful, conveying immense strength forged from years of wielding shields and axes in battle."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Held high and squared, exuding confidence and constant readiness, even when at rest."
+          ],
+          "Name": "Posture"
+        }
+      ],
+      "Name": "Shoulders"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Well-defined and corded with muscle, honed from countless hours of training, rowing, and combat."
+          ],
+          "Name": "Musculature"
+        },
+        {
+          "Descriptions": [
+            "Tanned and toughened, often bearing a scattering of small, faded scars from nicks and scrapes during skirmishes."
+          ],
+          "Name": "Skin"
+        }
+      ],
+      "Name": "Arms"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Large, strong, and deeply calloused, indicative of a lifetime gripping axe handles, sword hilts, and ship ropes."
+          ],
+          "Name": "Size"
+        },
+        {
+          "Descriptions": [
+            "Long and nimble, capable of both brutal force in combat and delicate precision when repairing equipment."
+          ],
+          "Name": "Fingers"
+        }
+      ],
+      "Name": "Hands"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Short, unpainted, and kept meticulously clean despite constant exposure to dirt and grime. Often slightly chipped or worn at the edges."
+          ],
+          "Name": "Condition"
+        },
+        {
+          "Descriptions": [
+            "Thick and resilient, reflecting a life of manual labor and practical necessity rather than adornment."
+          ],
+          "Name": "Strength"
+        }
+      ],
+      "Name": "Nails"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Broad and deep, indicative of robust lung capacity and a powerful core, essential for endurance in battle."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Solid and well-muscled beneath her practical clothing, showing the results of rigorous physical training and combat."
+          ],
+          "Name": "Muscle"
+        }
+      ],
+      "Name": "Chest"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Flat and toned, with a discernible hint of strong abdominal muscles, a testament to her disciplined physical regimen."
+          ],
+          "Name": "Definition"
+        },
+        {
+          "Descriptions": [
+            "Tanned and hardened, possibly with faint, healed scars from the periphery of combat, reflecting her resilient nature."
+          ],
+          "Name": "Skin"
+        }
+      ],
+      "Name": "Abdomen"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Lean and strong, built for agility and powerful rotation, crucial for axe swings and quick maneuvers in battle."
+          ],
+          "Name": "Width"
+        },
+        {
+          "Descriptions": [
+            "Well-defined, supporting her powerful legs and core strength, reflecting her constant physical activity."
+          ],
+          "Name": "Musculature"
+        }
+      ],
+      "Name": "Hip"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Powerful and well-defined, built for long marches, swift charges, and explosive movements in combat, with prominent thigh and calf muscles."
+          ],
+          "Name": "Musculature"
+        },
+        {
+          "Descriptions": [
+            "Tanned and hardened by exposure, often bearing scrapes, bruises, or older, faded scars from navigating rough terrain and skirmishes."
+          ],
+          "Name": "Skin"
+        }
+      ],
+      "Name": "Legs"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Arched and sturdy, accustomed to long journeys over varied, often unforgiving terrain."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Calloused and tough, with thick skin on the soles and a few minor nicks or hardened patches, indicative of a life spent mostly on her feet."
+          ],
+          "Name": "Skin"
+        }
+      ],
+      "Name": "Feet"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Practical and unadorned, reflecting her focus on combat and utility rather than external display."
+          ],
+          "Name": "Description"
+        },
+        {
+          "Descriptions": [
+            "Kept clean and functional, consistent with the rigorous demands of a warrior's lifestyle."
+          ],
+          "Name": "Feature"
+        }
+      ],
+      "Name": "Genitals"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Moderate in size, firm and athletic, designed for function and mobility rather than prominent display, allowing for ease of movement in combat."
+          ],
+          "Name": "Size"
+        },
+        {
+          "Descriptions": [
+            "Muscular and well-supported, consistent with her physically demanding lifestyle as a shieldmaiden."
+          ],
+          "Name": "Shape"
+        }
+      ],
+      "Name": "Breasts"
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Fellow Shieldmaiden",
+      "FirstName": "Hildr",
+      "LastName": "Svensdottir",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Commander",
+      "FirstName": "Bjorn",
+      "LastName": "Ironhide",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Male"
+    }
+  ],
+  "Personality": [
+    "Brave",
+    "Loyal",
+    "Disciplined",
+    "Strategic",
+    "Resilient",
+    "Stern yet fair"
+  ],
+  "Languages": [
+    "Old Norse"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Wolf",
+    "FavoriteColor": "Deep forest green",
+    "FavoriteDrink": "Strong Mead",
+    "FavoriteFood": "Smoked salmon",
+    "FavoritePlant": "Oak Tree"
+  },
+  "Skills": [
+    "Axe combat",
+    "Shield wall formation",
+    "Basic navigation",
+    "First aid",
+    "Survival in harsh environments",
+    "Hand-to-hand combat"
+  ],
+  "Talents": [
+    "Tactical improvisation",
+    "Inspiring courage in others",
+    "Exceptional focus during combat"
+  ],
+  "Advantages": [
+    "Battle-hardened",
+    "Exceptional endurance",
+    "Skilled with axe and shield",
+    "Natural leader"
+  ],
+  "Disadvantages": [
+    "Stubborn when challenged",
+    "Can be overly protective of her comrades"
+  ],
+  "Employer": [
+    {
+      "Company": "Jarl Hrodrick's Fleet",
+      "JobTitles": [
+        "Shieldmaiden",
+        "Crew Member"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Battle Axe",
+      "Description": [
+        "A well-balanced, hand-forged steel axe, her primary weapon."
+      ]
+    },
+    {
+      "ItemType": "Shield",
+      "Description": [
+        "A sturdy round shield, painted with her clan's symbol (a stylized wolf head)."
+      ]
+    },
+    {
+      "ItemType": "Pouch",
+      "Description": [
+        "A small leather pouch containing a few silver coins and a runic amulet."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Battle",
+        "Daily Wear",
+        "Travel"
+      ],
+      "Items": [
+        {
+          "Type": "Leather tunic",
+          "Color": "Brown",
+          "Style": "Practical",
+          "Fabric": "Leather",
+          "Size": "Medium",
+          "Fit": "Fitted"
+        },
+        {
+          "Type": "Woolen trousers",
+          "Color": "Dark grey",
+          "Style": "Comfortable",
+          "Fabric": "Wool",
+          "Size": "Medium",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Chainmail hauberk",
+          "Color": "Steel",
+          "Style": "Protective",
+          "Fabric": "Metal",
+          "Size": "Medium",
+          "Fit": "Fitted"
+        },
+        {
+          "Type": "Leather boots",
+          "Color": "Dark brown",
+          "Style": "Durable",
+          "Fabric": "Leather",
+          "Size": "8",
+          "Fit": "Snug"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Eleventh of twenty 21-year-old, experienced, homosexual shieldmaidens in the crew.",
+    "She is known for her calm demeanor under pressure and her strategic thinking.",
+    "Holds a mid-tier position in the crew's ranking, respected for her experience."
+  ]
+}

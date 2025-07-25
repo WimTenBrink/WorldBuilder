@@ -1,0 +1,218 @@
+{
+  "id": "char_1753355156961",
+  "Version": "1.0",
+  "Created": "2024-10-27T18:22",
+  "Age": 24,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Elodie",
+    "LastName": "Beaumont",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": ""
+  },
+  "Pronouns": [
+    "she",
+    "her",
+    "hers"
+  ],
+  "Sexuality": "Lesbian",
+  "Size": {
+    "Height": 175,
+    "Weight": 68,
+    "BMI": 22.2
+  },
+  "Birth": {
+    "BirthDateTime": "1678-04-15",
+    "BornCity": "Providence",
+    "BornCountry": "Colonial America",
+    "Nationality": [
+      "American"
+    ]
+  },
+  "IQ": 120,
+  "Naked": [
+    "Elodie possesses a strong, athletic build, honed from years of farm work and outdoor life.",
+    "Her fair skin is marked only by the sun, a testament to her days spent under the open sky.",
+    "She carries herself with a quiet confidence, comfortable in her own skin, but wary of the dangers that lurk in the eyes of men in this era.",
+    "Nudity, for her, is a symbol of vulnerability, something she guards fiercely, especially in these uncertain times."
+  ],
+  "Story": [
+    "Elodie Beaumont was born in the colony of Providence in 1678.",
+    "She grew up on a small farm, working alongside her family, learning the hardships and resilience of life in the New World.",
+    "After facing a brutal attack, where she and her newfound lover Naeve were captured and repeatedly assaulted, Elodie is driven by a thirst for vengeance.",
+    "She will do whatever it takes to protect herself and those she loves, even if it means embracing the darkness.",
+    "Her quest leads her to an ancient bottle containing a powerful Jinn, offering her a chance at freedom and retribution.",
+    "She and Naeve use their wishes to become free, invulnerable, immortal and extraordinarily powerful."
+  ],
+  "Residence": "Remote cabin in the woods of Colonial America",
+  "BodyMarks": [
+    {
+      "Name": "Scar",
+      "Location": "Left shoulder",
+      "Description": "A jagged scar from an attack, a constant reminder of the violence she has endured.",
+      "Details": [
+        "Raised and discolored",
+        "Approximately 5 inches long"
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Golden blonde, catching the light like spun sunshine."
+          ]
+        },
+        {
+          "Name": "Texture",
+          "Descriptions": [
+            "Thick and wavy, often tied back for practicality but prone to escaping its bonds."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Deep blue, reflecting both the vastness of the sky and the depths of her resolve."
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Almond-shaped, framed by thick lashes that accentuate her piercing gaze."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Skin",
+      "Details": [
+        {
+          "Name": "Tone",
+          "Descriptions": [
+            "Fair, bearing the marks of outdoor labor - calluses on her hands, a sun-kissed tan on her face."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Lover",
+      "FirstName": "Naeve",
+      "LastName": "Oakhaven",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Resilient",
+    "Determined",
+    "Protective",
+    "Haunted",
+    "Seeking Vengeance",
+    "Quietly Observant"
+  ],
+  "Languages": [
+    "English",
+    "Some Algonquin"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Horse",
+    "FavoriteColor": "Blue",
+    "FavoriteDrink": "Fresh Water",
+    "FavoriteFood": "Wild Berries",
+    "FavoritePlant": "Sunflower"
+  },
+  "Skills": [
+    "Farming",
+    "Hunting",
+    "Tracking",
+    "Woodcraft",
+    "Knife Fighting",
+    "Herbalism"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Farmhand"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Knife",
+      "Description": [
+        "A sturdy hunting knife, always at her side.",
+        "Honed to a razor's edge, both a tool and a weapon."
+      ]
+    },
+    {
+      "ItemType": "Bottle",
+      "Description": [
+        "An antique glass bottle, found hidden in a cave.",
+        "Contains a powerful Jinn capable of granting wishes."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Everyday",
+        "Work"
+      ],
+      "Items": [
+        {
+          "Type": "Chemise",
+          "Color": "Off-white",
+          "Style": "Simple",
+          "Fabric": "Linen",
+          "Size": "Medium",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Bodice",
+          "Color": "Brown",
+          "Style": "Laced",
+          "Fabric": "Wool",
+          "Size": "Medium",
+          "Fit": "Snug"
+        },
+        {
+          "Type": "Skirt",
+          "Color": "Dark Green",
+          "Style": "Gathered",
+          "Fabric": "Linen",
+          "Size": "Medium",
+          "Fit": "Full"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

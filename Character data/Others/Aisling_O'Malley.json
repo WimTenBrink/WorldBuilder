@@ -1,0 +1,212 @@
+{
+  "id": "char_1753355157233",
+  "Version": "1.0",
+  "Created": "2024-10-26T00:00",
+  "Age": 22,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Aisling",
+    "LastName": "O'Malley",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "She",
+    "Her"
+  ],
+  "Sexuality": "Straight",
+  "Size": {
+    "Height": 170,
+    "Weight": 60,
+    "BMI": 20.8
+  },
+  "Birth": {
+    "BirthDateTime": "1192-03-15",
+    "BornCity": "Dún na nGall",
+    "BornCountry": "Ireland",
+    "Nationality": [
+      "Irish"
+    ]
+  },
+  "IQ": 130,
+  "Naked": [
+    "Aisling possesses a lithe and athletic build, testament to years of physical training and magical practice. Her skin is fair, dusted with freckles that become more pronounced with sun exposure. Though initially shamed and vulnerable in forced nudity, a burning resolve fuels her acceptance of the exposure as a tool for survival, transforming it into a weapon against her captors.",
+    "Under the cold gaze of her captors, Aisling's body becomes a canvas of defiance. The vulnerable curve of her back, the swell of her breasts, the intimate shadows – all whisper silent threats of retribution. She refuses to break, meeting their leering eyes with a fiery glint of rebellion."
+  ],
+  "Story": [
+    "Aisling is a skilled sorceress from a small village on the coast of Ireland. Every year her village has to sacrifice a virgin to appease the sea gods.",
+    "She is captured by villagers and held captive to be defiled by every man who wants to be rich and successful from behind, as part of the village's traditions before the sacrifice.",
+    "Aisling possesses a magical ring that allows her to breathe underwater. She plans to use this ring to fake her death and escape her captors.",
+    "Once escaped, she vows to exact vengeance on every man in the village for their cruelty and depravity. She prays to the gods, asking to be gifted with the strength and skills to kill them all."
+  ],
+  "Residence": "Hy-Brasil",
+  "BodyMarks": [
+    {
+      "Name": "Freckles",
+      "Location": "Face and shoulders",
+      "Description": "A dusting of light brown freckles across her nose, cheeks, and shoulders, more prominent in the summer months.",
+      "Details": []
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "A vibrant emerald green, flecked with hints of gold around the irises.",
+            "Her gaze is piercing and intense, reflecting her unwavering determination."
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Almond-shaped and expressive, capable of conveying a wide range of emotions."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "A fiery red, like the embers of a dying fire or the blood of a vanquished foe.",
+            "Untamed and wild, reflecting her rebellious spirit."
+          ]
+        },
+        {
+          "Name": "Texture",
+          "Descriptions": [
+            "Thick and slightly wavy, often escaping from its bindings."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Details": [
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Heart-shaped with high cheekbones and a strong jawline."
+          ]
+        },
+        {
+          "Name": "Features",
+          "Descriptions": [
+            "Her lips are full and expressive, often set in a determined line.",
+            "A small, delicate nose adds to her overall beauty."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Captor",
+      "FirstName": "Kael",
+      "LastName": "MacLeod",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Male"
+    },
+    {
+      "Relation": "Fellow Sorceress",
+      "FirstName": "Bronwyn",
+      "LastName": "Níall",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Resourceful",
+    "Determined",
+    "Independent",
+    "Resilient",
+    "Vengeful",
+    "Intelligent"
+  ],
+  "Languages": [
+    "Gaelic",
+    "Common"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Wolf",
+    "FavoriteColor": "Green",
+    "FavoriteDrink": "Mead",
+    "FavoriteFood": "Stew",
+    "FavoritePlant": "Clover"
+  },
+  "Skills": [
+    "Water Breathing",
+    "Magic",
+    "Combat",
+    "Survival",
+    "Swordsmanship"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Sorceress",
+        "Avenger"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Ring",
+      "Description": [
+        "A magical ring that allows the wearer to breathe underwater.",
+        "Crafted from silver and enchanted with ancient sea magic."
+      ]
+    },
+    {
+      "ItemType": "Dagger",
+      "Description": [
+        "A small, sharp dagger concealed within her boot.",
+        "Useful for close-quarters combat and defense."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Captivity",
+        "Imprisonment"
+      ],
+      "Items": [
+        {
+          "Type": "Tattered Dress",
+          "Color": "Muddy Brown",
+          "Style": "Simple",
+          "Fabric": "Rough Linen",
+          "Size": "Small",
+          "Fit": "Loose and torn"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

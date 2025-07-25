@@ -1,0 +1,527 @@
+{
+  "id": "char_1753372731644",
+  "Version": "1.0",
+  "Created": "2024-07-30T12:00:00Z",
+  "Age": 21,
+  "Worlds": [
+    "Viking Age Scandinavia"
+  ],
+  "Name": {
+    "FirstName": "Astrid",
+    "LastName": "Svensdottir",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [
+      "Astrid"
+    ],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "she",
+    "her",
+    "hers"
+  ],
+  "Sexuality": "Homosexual",
+  "Size": {
+    "Height": 1.68,
+    "Weight": 65,
+    "BMI": 230300.5
+  },
+  "Birth": {
+    "BirthDateTime": "0803-08-01T00:00:00Z",
+    "BornCity": "Undisclosed Village",
+    "BornCountry": "Norway",
+    "Nationality": [
+      "Norse"
+    ]
+  },
+  "IQ": 115,
+  "Naked": [
+    "Strong, athletic build",
+    "Scar on left forearm",
+    "Minor calluses on hands from training and handling weapons."
+  ],
+  "Story": [
+    "Born and raised in a remote village nestled deep within the Norwegian fjords, Astrid learned to hunt and survive in the harsh wilderness from a young age. Her community was often isolated, requiring its members to be self-sufficient and capable of defense. She honed her combat skills, particularly with the spear, through constant practice and defending her home from occasional threats, including a memorable encounter with a rogue bear that left her with a distinctive scar.",
+    "Seeking greater adventure and a purpose beyond her isolated village, Astrid joined the crew of the 'Sea Serpent' after proving her unwavering bravery and prowess during a skirmish with a group of opportunistic raiders. She was drawn to the strength and camaraderie of the shieldmaidens, finding a place where her quiet determination and fierce loyalty were valued.",
+    "On the longship, Astrid quickly established herself as a reliable warrior and an exceptional scout and lookout. Her keen eyesight and observant nature make her invaluable during voyages and skirmishes, often spotting threats or opportunities long before others. While she prefers actions to words, her calm presence and dependable nature are a source of reassurance to her crewmates. She holds a position of trust, often being assigned tasks requiring stealth and precision."
+  ],
+  "Residence": "Viking Longship 'Sea Serpent'",
+  "BodyMarks": [
+    {
+      "Name": "Bear Claw Scar",
+      "Location": "Left Forearm",
+      "Description": "A thick, jagged scar running vertically.",
+      "Details": [
+        "Result of a skirmish with a rogue bear during her youth."
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Overall Appearance",
+      "Details": [
+        {
+          "Name": "Hair",
+          "Descriptions": [
+            "Long, dark brown hair, typically kept in a thick, practical braid."
+          ]
+        },
+        {
+          "Name": "Eyes",
+          "Descriptions": [
+            "Sharp, observant grey eyes that miss little."
+          ]
+        },
+        {
+          "Name": "Physique",
+          "Descriptions": [
+            "Sturdy and muscular build, indicating strength and endurance, developed from years of outdoor life."
+          ]
+        }
+      ]
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Flaxen blonde, a common hue among her people, catching the light like spun gold."
+          ],
+          "Name": "Color"
+        },
+        {
+          "Descriptions": [
+            "Long and thick, often meticulously braided or tied back to stay out of the way during combat or work on the ship, reaching past her shoulders.",
+            "A practical style that hints at her disciplined nature."
+          ],
+          "Name": "Style/Length"
+        },
+        {
+          "Descriptions": [
+            "Coarse and resilient, accustomed to the harsh winds and saltwater of the fjords and open sea."
+          ],
+          "Name": "Texture"
+        }
+      ],
+      "Name": "Hair"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "A strong, oval shape, with a pronounced, clean jawline that speaks of quiet determination."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Features high, somewhat prominent cheekbones, and slightly weathered skin from exposure to the elements.",
+            "A distinctive, jagged scar, a remnant of a bear encounter, traces a path from her left temple down to her jawline, a testament to her resilience and the harsh life she's led."
+          ],
+          "Name": "Features"
+        }
+      ],
+      "Name": "Head"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "A striking icy blue, often appearing greyish under certain lights, reflecting the vast, cold skies of her homeland."
+          ],
+          "Name": "Color"
+        },
+        {
+          "Descriptions": [
+            "Almond-shaped, set deep, with a slight narrowing at the outer corners, indicative of a keen observer."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Piercing and intelligent, they are calm and watchful, rarely missing a detail, a testament to her skills as a scout and lookout."
+          ],
+          "Name": "Expression"
+        }
+      ],
+      "Name": "Eyes"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "A straight bridge with a slightly aquiline curve, well-proportioned to her face."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Of medium size, neither too large nor too small, harmonizing with her strong facial features."
+          ],
+          "Name": "Size"
+        }
+      ],
+      "Name": "Nose"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Well-formed and fairly small, lying close to her head, minimizing interference during activity."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Unadorned, reflecting her practical and unostentatious nature."
+          ],
+          "Name": "Features"
+        }
+      ],
+      "Name": "Ears"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Her lips are thin and firm, rarely parting for idle chatter.",
+            "They are capable of a subtle, reassuring curve, but a broad smile is a rare sight."
+          ],
+          "Name": "Lips"
+        },
+        {
+          "Descriptions": [
+            "Her mouth is typically set in a stoic line, suggesting quiet determination and a preference for action over words."
+          ],
+          "Name": "Expression"
+        }
+      ],
+      "Name": "Mouth"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Strong and muscular, a pillar of strength supporting her head, hinting at her robust physique and resilience."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Held high and alert, always poised, reflecting her role as a vigilant scout and lookout."
+          ],
+          "Name": "Posture"
+        }
+      ],
+      "Name": "Neck"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Broad and powerful, reflecting years of physical labor, wielding a spear, and navigating the demanding environment of the fjords and a longship."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Square and firm, suggesting readiness and an unwavering stance in battle."
+          ],
+          "Name": "Posture"
+        }
+      ],
+      "Name": "Shoulders"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Lean and corded with visible muscle, sculpted by constant practice with her spear and the demanding physical tasks of ship life."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Tanned by sun and wind, bearing minor scars from skirmishes, training, and everyday life in the wilderness."
+          ],
+          "Name": "Features"
+        }
+      ],
+      "Name": "Arms"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Strong and capable, with visible callouses on the palms, evidence of gripping weapons, ropes, and tools.",
+            "They are capable of both brute force and delicate precision."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Her fingers are long and dexterous, skilled in handling a spear, tying knots, and performing intricate tasks as needed."
+          ],
+          "Name": "Fingers"
+        }
+      ],
+      "Name": "Hands"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Kept short and clean, practical for a warrior and seafarer who cannot afford long, fragile nails."
+          ],
+          "Name": "Condition"
+        },
+        {
+          "Descriptions": [
+            "Hardy and resilient, accustomed to physical work and exposure."
+          ],
+          "Name": "Strength"
+        }
+      ],
+      "Name": "Nails"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Well-developed and broad, indicating powerful lung capacity essential for long voyages and sustained combat."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Her ribcage is strong, providing robust protection and supporting her formidable strength."
+          ],
+          "Name": "Ribcage"
+        }
+      ],
+      "Name": "Chest"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Flat and incredibly muscular, a testament to her physical discipline, active lifestyle, and core strength necessary for combat and climbing."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Her abdomen is visibly toned, showing no excess and suggesting peak physical condition."
+          ],
+          "Name": "Condition"
+        }
+      ],
+      "Name": "Abdomen"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Her hips are slightly broader than her waist, providing a stable and powerful base for her strong physique, essential for balance and leverage in combat."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Allowing for agile movement and swift pivots, crucial for a warrior and scout."
+          ],
+          "Name": "Mobility"
+        }
+      ],
+      "Name": "Hip"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Powerful and defined, with strong calf and thigh muscles honed by years of hunting, climbing rugged terrain, and enduring long hours on a shifting ship deck."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Sturdy and enduring, able to withstand long treks, fast sprints, and stand firm against any foe."
+          ],
+          "Name": "Features"
+        }
+      ],
+      "Name": "Legs"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Sturdy and broad, with strong arches, adapted to walking barefoot in nature and maintaining balance on the unpredictable deck of a longship."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Her feet are calloused and well-adapted, showing the signs of a life lived actively outdoors and at sea."
+          ],
+          "Name": "Condition"
+        }
+      ],
+      "Name": "Feet"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Naturally formed and healthy, reflecting typical female anatomy."
+          ],
+          "Name": "Description"
+        },
+        {
+          "Descriptions": [
+            "A private aspect of her being, consistent with her stoic and reserved personality."
+          ],
+          "Name": "Privacy"
+        }
+      ],
+      "Name": "Genitals"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Of a moderate and practical size, well-proportioned to her athletic build, neither hindering her movement nor drawing undue attention."
+          ],
+          "Name": "Size"
+        },
+        {
+          "Descriptions": [
+            "Firm and naturally shaped, allowing for ease of movement and full range of motion during combat and rigorous physical activities."
+          ],
+          "Name": "Shape"
+        }
+      ],
+      "Name": "Breasts"
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Crewmate",
+      "FirstName": "Various",
+      "LastName": "Crewmates",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Quiet",
+    "Observant",
+    "Fiercely Loyal",
+    "Dependable",
+    "Stoic",
+    "Calm in battle"
+  ],
+  "Languages": [
+    "Old Norse"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Wolf",
+    "FavoriteColor": "Forest Green",
+    "FavoriteDrink": "Water",
+    "FavoriteFood": "Smoked Fish",
+    "FavoritePlant": "Pine Tree"
+  },
+  "Skills": [
+    "Expert Spear Combat",
+    "Tracking",
+    "Trapping",
+    "Wilderness Survival",
+    "Sailing (basic)",
+    "Navigation (basic)",
+    "Observation"
+  ],
+  "Talents": [
+    "Detailed Observation",
+    "Silent Movement",
+    "Precise Aim"
+  ],
+  "Advantages": [
+    "Stoic",
+    "Incredibly Resilient",
+    "Precise",
+    "Exceptional Lookout"
+  ],
+  "Disadvantages": [
+    "Overly Reserved",
+    "Slow to Trust"
+  ],
+  "Employer": [
+    {
+      "Company": "Viking Longship 'Sea Serpent' Crew",
+      "JobTitles": [
+        "Shieldmaiden",
+        "Scout",
+        "Lookout"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Personal Gear",
+      "Description": [
+        "A well-balanced spear, her preferred weapon, always kept sharp.",
+        "Small, sturdy hunting knife.",
+        "A leather-bound journal containing sketches of wildlife and landscape features.",
+        "A small pouch of medicinal herbs, for minor injuries and ailments."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Daily Wear",
+        "Combat"
+      ],
+      "Items": [
+        {
+          "Type": "Tunic",
+          "Color": "Dark Green",
+          "Style": "Practical",
+          "Fabric": "Leather",
+          "Size": "M",
+          "Fit": "Sturdy"
+        },
+        {
+          "Type": "Leggings",
+          "Color": "Brown",
+          "Style": "Functional",
+          "Fabric": "Wool",
+          "Size": "M",
+          "Fit": "Snug"
+        },
+        {
+          "Type": "Cloak",
+          "Color": "Dark Grey",
+          "Style": "Protective",
+          "Fabric": "Thick Wool",
+          "Size": "M",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Arm-ring",
+          "Color": "Iron",
+          "Style": "Traditional",
+          "Fabric": "Metal",
+          "Size": "M",
+          "Fit": "Regular"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Her quiet demeanor often masks a sharp tactical mind.",
+    "Values loyalty and dependability above all else."
+  ]
+}

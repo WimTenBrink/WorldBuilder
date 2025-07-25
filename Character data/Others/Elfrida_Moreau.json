@@ -1,0 +1,237 @@
+{
+  "id": "char_1753355157238",
+  "Version": "1.1",
+  "Created": "2024-10-26T15:38",
+  "Age": 38,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Elfrida",
+    "LastName": "Moreau",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "she",
+    "her",
+    "hers"
+  ],
+  "Sexuality": "Lesbian",
+  "Size": {
+    "Height": 172,
+    "Weight": 68,
+    "BMI": 23
+  },
+  "Birth": {
+    "BirthDateTime": "1936-04-15",
+    "BornCity": "Paris",
+    "BornCountry": "France",
+    "Nationality": [
+      "French"
+    ]
+  },
+  "IQ": 135,
+  "Naked": [
+    "Elfrida possesses a toned, athletic build, indicative of her dedication to physical fitness. She moves with a confident grace, suggesting she is comfortable in her own skin, even without clothing.",
+    "Her composure is unnerving as she stands naked, a stark contrast to the vulnerability of her patient.",
+    "She is comfortable in her own skin, but usually maintains professional distance. The current display is a sign of her descent into criminal behavior."
+  ],
+  "Story": [
+    "Elfrida Moreau is a respected doctor in Amsterdam, known for her expertise and dedication.",
+    "Driven by repressed desires and a need for control, she begins to exploit her position, drugging and sexually assaulting patients.",
+    "Her actions lead to a high-profile court case and the unraveling of her seemingly perfect life.",
+    "Her background includes a strict upbringing and a desire to break free from societal expectations.",
+    "She shows remorse during her trial, but her manipulative nature makes it difficult to assess the depth of her regret."
+  ],
+  "Residence": "Amsterdam, Netherlands",
+  "BodyMarks": [],
+  "BodyParts": [
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Deep green, holding a calculating gaze.",
+            "The intensity in her eyes can be unsettling, especially when she's planning."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Dark brown, almost black.",
+            "Kept in a neat, professional bun, though strands sometimes escape around her face."
+          ]
+        },
+        {
+          "Name": "Texture",
+          "Descriptions": [
+            "Fine, with a natural wave."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Details": [
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Angular and sharp, with high cheekbones.",
+            "Her features are striking, giving her an air of authority and control."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hands",
+      "Details": [
+        {
+          "Name": "Description",
+          "Descriptions": [
+            "Long and slender, with nimble fingers that speak to her surgical precision.",
+            "They betray no emotion, even when committing heinous acts."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Colleague",
+      "FirstName": "Renilde",
+      "LastName": "Dekker",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Acquaintance",
+      "FirstName": "Hendrika",
+      "LastName": "Swart",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Intelligent and articulate, with a commanding presence.",
+    "Repressed and driven by a need for control.",
+    "Manipulative and capable of great cruelty.",
+    "Secretly harbors lesbian desires that she keeps hidden from the public eye.",
+    "Appears composed and professional, masking her dark impulses."
+  ],
+  "Languages": [
+    "French",
+    "Dutch",
+    "English",
+    "German"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Siamese Cat",
+    "FavoriteColor": "Emerald Green",
+    "FavoriteDrink": "Dry Red Wine",
+    "FavoriteFood": "Coq au Vin",
+    "FavoritePlant": "Orchid"
+  },
+  "Skills": [
+    "Surgery",
+    "Diagnosis",
+    "Pharmacology",
+    "Manipulation",
+    "Deception"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Senior Physician",
+        "Head of Surgery"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Medical Bag",
+      "Description": [
+        "Contains essential medical instruments and drugs, including the substances she uses to sedate her victims."
+      ]
+    },
+    {
+      "ItemType": "Apartment",
+      "Description": [
+        "A meticulously maintained apartment in a respectable neighborhood in Amsterdam.",
+        "It reflects her desire for order and control."
+      ]
+    },
+    {
+      "ItemType": "Journal",
+      "Description": [
+        "A private journal where she records her thoughts and desires, revealing her hidden motivations."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Work"
+      ],
+      "Items": [
+        {
+          "Type": "Lab Coat",
+          "Color": "White",
+          "Style": "Professional",
+          "Fabric": "Cotton",
+          "Size": "Medium",
+          "Fit": "Tailored"
+        },
+        {
+          "Type": "Dress",
+          "Color": "Navy Blue",
+          "Style": "Modest",
+          "Fabric": "Wool",
+          "Size": "Medium",
+          "Fit": "Fitted"
+        }
+      ]
+    },
+    {
+      "Usage": [
+        "Evening",
+        "Formal"
+      ],
+      "Items": [
+        {
+          "Type": "Dress",
+          "Color": "Black",
+          "Style": "Elegant",
+          "Fabric": "Silk",
+          "Size": "Medium",
+          "Fit": "Figure-hugging"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

@@ -1,0 +1,3445 @@
+[
+  {
+    "id": "char_1753374673083",
+    "Version": "1.0",
+    "Created": "2024-07-30T12:00:00Z",
+    "Age": 21,
+    "Worlds": [
+      "Great Plains (16th Century)",
+      "Native American Lore"
+    ],
+    "Name": {
+      "FirstName": "Morning",
+      "LastName": "Star",
+      "Race": "Cheyenne",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "she",
+      "her"
+    ],
+    "Sexuality": "Heterosexual",
+    "Size": {
+      "Height": 1.65,
+      "Weight": 60,
+      "BMI": 220385.7
+    },
+    "Birth": {
+      "BirthDateTime": "1502-05-10T00:00:00Z",
+      "BornCity": "Great Plains",
+      "BornCountry": "North America",
+      "Nationality": [
+        "Cheyenne"
+      ]
+    },
+    "IQ": 105,
+    "Naked": [
+      "Athletic and toned build",
+      "Healthy skin",
+      "No significant scars visible"
+    ],
+    "Story": [
+      "Morning Star was born into a respected Cheyenne warrior family. From a young age, she showed remarkable prowess with a bow and a keen understanding of the plains. She is a formidable warrior, fiercely dedicated to her people and their traditions, often leading hunting parties and scouting missions. Her bravery is legendary among her kin."
+    ],
+    "Residence": "Nomadic Cheyenne camp",
+    "BodyMarks": [
+      {
+        "Name": "Tribal Tattoo",
+        "Location": "Left shoulder",
+        "Description": "A small, stylized eagle feather design",
+        "Details": [
+          "Symbol of courage and tribal affiliation"
+        ]
+      }
+    ],
+    "BodyParts": [
+      {
+        "Name": "Physical Features",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Long, dark, often braided",
+              "Adorned with bone beads and feathers"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Dark, expressive, and alert"
+            ]
+          },
+          {
+            "Name": "Body",
+            "Descriptions": [
+              "Lean and muscular",
+              "Agile and strong"
+            ]
+          }
+        ]
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Long, dark, and thick, often braided tightly or swept back, falling past her waist."
+            ],
+            "Name": "Length and Style"
+          },
+          {
+            "Descriptions": [
+              "The deep, lustrous black of a raven's wing, reflecting hints of blue in sunlight."
+            ],
+            "Name": "Color"
+          },
+          {
+            "Descriptions": [
+              "Coarse and strong, resilient against the elements, characteristic of her Cheyenne heritage."
+            ],
+            "Name": "Texture"
+          }
+        ],
+        "Name": "Hair"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Strong and oval, framed by high cheekbones that suggest a proud and determined spirit."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "A broad, intelligent forehead, often furrowed slightly in thought or concentration."
+            ],
+            "Name": "Forehead"
+          },
+          {
+            "Descriptions": [
+              "Well-defined and prominent, hinting at resilience and courage."
+            ],
+            "Name": "Jawline"
+          }
+        ],
+        "Name": "Head"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "A rich, deep mahogany brown, like polished wood, capable of holding intense focus."
+            ],
+            "Name": "Color"
+          },
+          {
+            "Descriptions": [
+              "Almond-shaped, set keenly within her face, reflecting her sharp observational skills and ancestral wisdom."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Piercing and unwavering, holding the vastness of the plains and the unyielding spirit of a warrior."
+            ],
+            "Name": "Gaze"
+          }
+        ],
+        "Name": "Eyes"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Straight and well-defined, with a slight arch at the bridge, befitting her strong features."
+            ],
+            "Name": "Bridge"
+          },
+          {
+            "Descriptions": [
+              "Moderately sized, with subtly flared nostrils, indicative of strong lungs for long runs and exertion."
+            ],
+            "Name": "Nostrils"
+          }
+        ],
+        "Name": "Nose"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Well-formed and close-set, seemingly attuned to the subtle sounds of the plains and hidden dangers."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Unadorned and free, suggesting a practicality that prioritizes hearing over ornamentation."
+            ],
+            "Name": "Adornments"
+          }
+        ],
+        "Name": "Ears"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Moderately full, often set in a firm line when focused, but capable of a rare, genuine smile that warms her entire face."
+            ],
+            "Name": "Lips"
+          },
+          {
+            "Descriptions": [
+              "A determined and resolute set, reflecting her fierce loyalty and protective nature."
+            ],
+            "Name": "Expression"
+          },
+          {
+            "Descriptions": [
+              "Straight and even, indicative of good health and a strong constitution."
+            ],
+            "Name": "Teeth"
+          }
+        ],
+        "Name": "Mouth"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Graceful yet strong, capable of supporting her head through hours of riding or tracking."
+            ],
+            "Name": "Length"
+          },
+          {
+            "Descriptions": [
+              "Slightly defined, showcasing the strength required for a warrior's movements and burdens."
+            ],
+            "Name": "Musculature"
+          }
+        ],
+        "Name": "Neck"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Broad and powerful, conveying her strength and the ability to bear a bow and quiver with ease."
+            ],
+            "Name": "Width"
+          },
+          {
+            "Descriptions": [
+              "Muscular and well-defined from years of archery, hunting, and carrying burdens."
+            ],
+            "Name": "Musculature"
+          }
+        ],
+        "Name": "Shoulders"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Lean and toned, showcasing powerful biceps and triceps from consistent bow practice and physical demands."
+            ],
+            "Name": "Musculature"
+          },
+          {
+            "Descriptions": [
+              "Bearing minor scars from training, hunting, and the occasional skirmish, testaments to her warrior life."
+            ],
+            "Name": "Scars"
+          }
+        ],
+        "Name": "Arms"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Strong and agile, with calloused palms and fingertips from handling bowstrings, tools, and reins."
+            ],
+            "Name": "Condition"
+          },
+          {
+            "Descriptions": [
+              "Long and slender yet powerful, capable of both precise movements and a firm, unwavering grip."
+            ],
+            "Name": "Fingers"
+          }
+        ],
+        "Name": "Hands"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Kept short and clean, for practicality in a warrior's life, showing no signs of artificial care."
+            ],
+            "Name": "Length"
+          },
+          {
+            "Descriptions": [
+              "Strong and natural, unpolished and well-maintained through necessity."
+            ],
+            "Name": "Condition"
+          }
+        ],
+        "Name": "Nails"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Strong and broad, indicating a well-developed lung capacity and resilient core for physical exertion."
+            ],
+            "Name": "Ribcage"
+          },
+          {
+            "Descriptions": [
+              "Held high and confident, reflecting her bravery and self-assured demeanor."
+            ],
+            "Name": "Posture"
+          }
+        ],
+        "Name": "Chest"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Flat and firm, a testament to her active lifestyle and rigorous training as a warrior."
+            ],
+            "Name": "Tone"
+          },
+          {
+            "Descriptions": [
+              "Lean and agile, allowing for swift movements and flexibility in combat and hunting."
+            ],
+            "Name": "Flexibility"
+          }
+        ],
+        "Name": "Abdomen"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Moderately wide, providing a stable base for running, riding, and combat maneuvers."
+            ],
+            "Name": "Width"
+          },
+          {
+            "Descriptions": [
+              "Well-muscled and strong, essential for her demanding physical life."
+            ],
+            "Name": "Musculature"
+          }
+        ],
+        "Name": "Hip"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Long and powerful, built for endurance and speed across the plains, showcasing defined calves and thighs."
+            ],
+            "Name": "Musculature"
+          },
+          {
+            "Descriptions": [
+              "Bearing small scars and nicks, evidence of navigating rough terrain and brush during scouting and hunting missions."
+            ],
+            "Name": "Scars"
+          }
+        ],
+        "Name": "Legs"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Strong and resilient, with well-developed arches from years of walking, running, and riding across varied terrain."
+            ],
+            "Name": "Arches"
+          },
+          {
+            "Descriptions": [
+              "Calloused soles, indicative of frequent bare-foot travel or minimal footwear, adapted to the land."
+            ],
+            "Name": "Soles"
+          }
+        ],
+        "Name": "Feet"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Natural and healthy, reflecting her age and physical maturity, consistent with a woman of her active lifestyle."
+            ],
+            "Name": "Appearance"
+          },
+          {
+            "Descriptions": [
+              "Clean and well-cared for, as expected for someone in her active role."
+            ],
+            "Name": "Hygiene"
+          }
+        ],
+        "Name": "Genitals"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Modest in size, proportionate to her athletic build (1.65m, 60kg), and well-supported by her strong pectoral muscles."
+            ],
+            "Name": "Size"
+          },
+          {
+            "Descriptions": [
+              "Firm and natural, showing the resilience and muscle tone consistent with a physically active young woman."
+            ],
+            "Name": "Firmness"
+          }
+        ],
+        "Name": "Breasts"
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Father",
+        "FirstName": "Brave",
+        "LastName": "Eagle",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Cheyenne",
+        "Gender": "Male"
+      },
+      {
+        "Relation": "Mother",
+        "FirstName": "Whispering",
+        "LastName": "Wind",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Cheyenne",
+        "Gender": "Female"
+      }
+    ],
+    "Personality": [
+      "Brave",
+      "Determined",
+      "Loyal",
+      "Fierce",
+      "Protective"
+    ],
+    "Languages": [
+      "Cheyenne"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Wolf",
+      "FavoriteColor": "Red",
+      "FavoriteDrink": "Water",
+      "FavoriteFood": "Buffalo jerky",
+      "FavoritePlant": "Sage"
+    },
+    "Skills": [
+      "Archery",
+      "Horsemanship",
+      "Tracking",
+      "Hunting",
+      "Survival in the plains"
+    ],
+    "Talents": [
+      "Exceptional marksmanship",
+      "Natural leadership",
+      "Skilled at reading animal tracks"
+    ],
+    "Advantages": [
+      "Exceptional Archery Skills",
+      "Keen Eyesight",
+      "Resilient"
+    ],
+    "Disadvantages": [
+      "Impatient",
+      "Quick to anger"
+    ],
+    "Employer": [],
+    "Possessions": [
+      {
+        "ItemType": "Weapons",
+        "Description": [
+          "Recurve bow crafted from osage orange wood",
+          "Quiver filled with flint-tipped arrows",
+          "Bone-handled flint knife"
+        ]
+      },
+      {
+        "ItemType": "Personal Items",
+        "Description": [
+          "Small, intricately beaded medicine bag",
+          "Personal wooden flute"
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Everyday wear",
+          "Hunting"
+        ],
+        "Items": [
+          {
+            "Type": "Buckskin dress",
+            "Color": "Tan",
+            "Style": "Traditional",
+            "Fabric": "Deerskin",
+            "Size": "M",
+            "Fit": "Loose but practical"
+          },
+          {
+            "Type": "Leggings",
+            "Color": "Tan",
+            "Style": "Traditional",
+            "Fabric": "Deerskin",
+            "Size": "M",
+            "Fit": "Snug"
+          },
+          {
+            "Type": "Moccasins",
+            "Color": "Brown",
+            "Style": "Soft-soled",
+            "Fabric": "Deerskin",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Necklace",
+            "Color": "Bone and turquoise",
+            "Style": "Beaded",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      },
+      {
+        "Usage": [
+          "Battle",
+          "Ceremony"
+        ],
+        "Items": [
+          {
+            "Type": "War Paint",
+            "Color": "Red and black",
+            "Style": "Geometric tribal patterns",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Buffalo horn headdress",
+            "Color": "Brown and black",
+            "Style": "Ceremonial, intimidating",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "Known for her exceptional skills with a bow and arrow.",
+      "Commands respect among her peers."
+    ]
+  },
+  {
+    "id": "char_1753374689191",
+    "Version": "1.0",
+    "Created": "2024-07-30T12:00:00Z",
+    "Age": 21,
+    "Worlds": [
+      "Great Plains (16th Century)",
+      "Native American Lore"
+    ],
+    "Name": {
+      "FirstName": "Silent",
+      "LastName": "Foot",
+      "Race": "Cheyenne",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "she",
+      "her"
+    ],
+    "Sexuality": "Heterosexual",
+    "Size": {
+      "Height": 1.6,
+      "Weight": 51.2,
+      "BMI": 200000
+    },
+    "Birth": {
+      "BirthDateTime": "1502-08-20T00:00:00Z",
+      "BornCity": "Great Plains",
+      "BornCountry": "North America",
+      "Nationality": [
+        "Cheyenne"
+      ]
+    },
+    "IQ": 110,
+    "Naked": [
+      "Lean and athletic physique",
+      "Agile and flexible",
+      "Small childhood scar on cheek"
+    ],
+    "Story": [
+      "Silent Foot earned her name from her unmatched ability to move through the plains without a sound. She is the tribe's primary scout and tracker, often venturing ahead of the group to gather intelligence. Though quiet, her actions speak volumes, and her cunning has saved her people from many dangers."
+    ],
+    "Residence": "Nomadic Cheyenne camp",
+    "BodyMarks": [
+      {
+        "Name": "Facial Scar",
+        "Location": "Left cheek",
+        "Description": "Thin scar across her left cheek from a childhood accident",
+        "Details": [
+          "Barely noticeable, adds character"
+        ]
+      }
+    ],
+    "BodyParts": [
+      {
+        "Name": "Physical Features",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Straight, black, usually in two braids"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Dark brown, sharp, constantly observing"
+            ]
+          },
+          {
+            "Name": "Body",
+            "Descriptions": [
+              "Slender but strong",
+              "Built for speed and endurance"
+            ]
+          }
+        ]
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Long, thick, and often braided, reaching her lower back."
+            ],
+            "Name": "Length"
+          },
+          {
+            "Descriptions": [
+              "Deep, lustrous black, like a raven's wing, reflecting her Cheyenne heritage."
+            ],
+            "Name": "Color"
+          },
+          {
+            "Descriptions": [
+              "Coarse and strong, resilient against the elements, often adorned with simple leather ties or a single eagle feather."
+            ],
+            "Name": "Texture and Style"
+          }
+        ],
+        "Name": "Hair"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Slightly elongated with prominent cheekbones and a strong, determined jawline."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Broad and smooth, often furrowed slightly in concentration when she is observing her surroundings."
+            ],
+            "Name": "Forehead"
+          }
+        ],
+        "Name": "Head"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Deep, intelligent brown, almost black, reflecting the vast plains and a keen, observant nature."
+            ],
+            "Name": "Color"
+          },
+          {
+            "Descriptions": [
+              "Almond-shaped, slightly narrowed from constant squinting against sun and wind."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Penetrating and steady, rarely missing a detail, yet always calm and composed."
+            ],
+            "Name": "Gaze"
+          }
+        ],
+        "Name": "Eyes"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Straight and narrow, with a slightly aquiline bridge, well-suited for keen scent detection."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Flared slightly, indicative of a hunter's heightened senses and constant awareness."
+            ],
+            "Name": "Nostrils"
+          }
+        ],
+        "Name": "Nose"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Set close to the head, with well-defined lobes."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Exceptionally keen, allowing her to detect the slightest rustle or distant sound, crucial for her role as a scout."
+            ],
+            "Name": "Sensitivity"
+          }
+        ],
+        "Name": "Ears"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Thin and firm, often pressed into a thoughtful line, rarely breaking into a wide, open smile."
+            ],
+            "Name": "Lips"
+          },
+          {
+            "Descriptions": [
+              "Subtle and controlled, reflecting her introverted and calm nature, conveying more through quiet observation."
+            ],
+            "Name": "Expression"
+          }
+        ],
+        "Name": "Mouth"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Lean and sinewy, suggesting strength and flexibility, allowing for quick, fluid head turns."
+            ],
+            "Name": "Build"
+          },
+          {
+            "Descriptions": [
+              "Holds her head high and steady, yet capable of almost imperceptible movements that enhance her stealth."
+            ],
+            "Name": "Posture"
+          }
+        ],
+        "Name": "Neck"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Moderately broad, providing a balanced frame for her slender, agile build."
+            ],
+            "Name": "Width"
+          },
+          {
+            "Descriptions": [
+              "Held back and relaxed, conveying an alert but unhurried readiness for any situation."
+            ],
+            "Name": "Posture"
+          }
+        ],
+        "Name": "Shoulders"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Proportionately long, aiding in silent movements and reaching for tools or natural handholds."
+            ],
+            "Name": "Length"
+          },
+          {
+            "Descriptions": [
+              "Lean and toned, showing underlying strength from extensive trekking, bow usage, and practical skills."
+            ],
+            "Name": "Musculature"
+          }
+        ],
+        "Name": "Arms"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Strong, dexterous, and noticeably calloused, betraying a life of practical skills and outdoor survival."
+            ],
+            "Name": "Build"
+          },
+          {
+            "Descriptions": [
+              "Long and nimble, adept at intricate tasks like tracking, crafting, and handling delicate tools."
+            ],
+            "Name": "Fingers"
+          }
+        ],
+        "Name": "Hands"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Kept short and practical, often slightly chipped or dirt-stained from constant handling of natural materials."
+            ],
+            "Name": "Condition"
+          },
+          {
+            "Descriptions": [
+              "Hardy and resilient, rarely breaking despite constant use in the wilderness."
+            ],
+            "Name": "Strength"
+          }
+        ],
+        "Name": "Nails"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Well-defined and deep, indicating good lung capacity for endurance and sustained physical effort."
+            ],
+            "Name": "Ribcage"
+          },
+          {
+            "Descriptions": [
+              "Slender yet robust, capable of deep, silent breaths essential for her stealth and stamina."
+            ],
+            "Name": "Overall Form"
+          }
+        ],
+        "Name": "Chest"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Flat and toned, a clear result of her disciplined diet and constant physical activity as a scout."
+            ],
+            "Name": "Build"
+          },
+          {
+            "Descriptions": [
+              "Visibly strong, supporting her agile movements, balance, and core stability on uneven terrain."
+            ],
+            "Name": "Core Strength"
+          }
+        ],
+        "Name": "Abdomen"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Moderately narrow, fitting her slender build and aiding in silent, stealthy passage through dense brush."
+            ],
+            "Name": "Width"
+          },
+          {
+            "Descriptions": [
+              "Flexible, allowing for wide strides and agile maneuvering across diverse landscapes."
+            ],
+            "Name": "Mobility"
+          }
+        ],
+        "Name": "Hip"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Long and powerful, built for endurance and swift, silent movement across varied terrain."
+            ],
+            "Name": "Length"
+          },
+          {
+            "Descriptions": [
+              "Developed calf and thigh muscles, lean and corded from constant walking, running, and climbing."
+            ],
+            "Name": "Musculature"
+          }
+        ],
+        "Name": "Legs"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "High-arched, contributing significantly to her silent footsteps and remarkable agility."
+            ],
+            "Name": "Arch"
+          },
+          {
+            "Descriptions": [
+              "Tough and resilient, accustomed to uneven ground and long journeys, earning her the name 'Silent Foot'."
+            ],
+            "Name": "Soles"
+          }
+        ],
+        "Name": "Feet"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Naturally formed, consistent with a female body, discreetly covered by her practical tribal attire."
+            ],
+            "Name": "Form"
+          },
+          {
+            "Descriptions": [
+              "Kept private and clean, reflecting a pragmatic approach to personal care within an outdoor-oriented lifestyle."
+            ],
+            "Name": "Presentation"
+          }
+        ],
+        "Name": "Genitals"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Modest in size, in proportion to her slender, athletic build and active lifestyle."
+            ],
+            "Name": "Size"
+          },
+          {
+            "Descriptions": [
+              "Firm and natural, supported by a strong chest, not hindering her swift movements or physical demands."
+            ],
+            "Name": "Shape"
+          }
+        ],
+        "Name": "Breasts"
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Grandfather (Tribal Elder)",
+        "FirstName": "Old",
+        "LastName": "Wolf",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Cheyenne",
+        "Gender": "Male"
+      }
+    ],
+    "Personality": [
+      "Observant",
+      "Calm",
+      "Resourceful",
+      "Introverted",
+      "Intelligent"
+    ],
+    "Languages": [
+      "Cheyenne"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Coyote",
+      "FavoriteColor": "Brown",
+      "FavoriteDrink": "Herbal tea",
+      "FavoriteFood": "Smoked fish",
+      "FavoritePlant": "Wild mint"
+    },
+    "Skills": [
+      "Stealth",
+      "Tracking",
+      "Wilderness survival",
+      "Herbalism",
+      "Ambushes"
+    ],
+    "Talents": [
+      "Exceptional hearing",
+      "Mimicry of animal sounds",
+      "Natural camouflage"
+    ],
+    "Advantages": [
+      "Stealthy",
+      "Highly Agile",
+      "Excellent Tracker"
+    ],
+    "Disadvantages": [
+      "Overly Cautious",
+      "Reserved"
+    ],
+    "Employer": [],
+    "Possessions": [
+      {
+        "ItemType": "Tools and Weapons",
+        "Description": [
+          "Small, easily concealable throwing axe",
+          "Collection of various herbal remedies"
+        ]
+      },
+      {
+        "ItemType": "Survival Gear",
+        "Description": [
+          "Woven basket for gathering plants",
+          "Flint and steel for fire starting"
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Stealth operations",
+          "Scouting"
+        ],
+        "Items": [
+          {
+            "Type": "Buckskin tunic",
+            "Color": "Light tan",
+            "Style": "Practical for movement",
+            "Fabric": "Deerskin",
+            "Size": "M",
+            "Fit": "Form-fitting"
+          },
+          {
+            "Type": "Leggings",
+            "Color": "Light tan",
+            "Style": "Decorated with quillwork",
+            "Fabric": "Deerskin",
+            "Size": "M",
+            "Fit": "Snug"
+          },
+          {
+            "Type": "Moccasins",
+            "Color": "Brown",
+            "Style": "Soft-soled, silent",
+            "Fabric": "Elkhide",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Armbands",
+            "Color": "Leather and beads",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "Known for her ability to move unseen and unheard.",
+      "Often takes on solo reconnaissance missions."
+    ]
+  },
+  {
+    "id": "char_1753374706934",
+    "Version": "1.0",
+    "Created": "2024-07-30T12:00:00Z",
+    "Age": 21,
+    "Worlds": [
+      "Great Plains (16th Century)",
+      "Native American Lore"
+    ],
+    "Name": {
+      "FirstName": "Iron",
+      "LastName": "Arm",
+      "Race": "Cheyenne",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "she",
+      "her"
+    ],
+    "Sexuality": "Heterosexual",
+    "Size": {
+      "Height": 1.7,
+      "Weight": 71,
+      "BMI": 245674.7
+    },
+    "Birth": {
+      "BirthDateTime": "1502-11-01T00:00:00Z",
+      "BornCity": "Great Plains",
+      "BornCountry": "North America",
+      "Nationality": [
+        "Cheyenne"
+      ]
+    },
+    "IQ": 95,
+    "Naked": [
+      "Powerful, muscular physique",
+      "Broad shoulders",
+      "Few battle scars"
+    ],
+    "Story": [
+      "Iron Arm earned her name through her incredible strength and unwavering resolve in battle. She is a frontline warrior, known for her powerful blows and her ability to stand firm against any foe. She acts as a shield for her people, inspiring courage in others with her presence."
+    ],
+    "Residence": "Nomadic Cheyenne camp",
+    "BodyMarks": [
+      {
+        "Name": "Ceremonial Paint",
+        "Location": "Chest",
+        "Description": "Symbolic buffalo skull painted on her chest during ceremonies",
+        "Details": [
+          "Applied only for war or significant events"
+        ]
+      }
+    ],
+    "BodyParts": [
+      {
+        "Name": "Physical Features",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Thick, lustrous, tied back in a single braid"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Amber, fierce, and unwavering"
+            ]
+          },
+          {
+            "Name": "Body",
+            "Descriptions": [
+              "Muscular and broad-shouldered",
+              "Powerful and imposing"
+            ]
+          }
+        ]
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "A deep, lustrous black, reminiscent of polished obsidian or a raven's wing."
+            ],
+            "Name": "Color"
+          },
+          {
+            "Descriptions": [
+              "Thick, coarse, and resilient, indicating a robust natural strength.",
+              "It likely withstands harsh conditions and strenuous activity."
+            ],
+            "Name": "Texture"
+          },
+          {
+            "Descriptions": [
+              "Often worn in a practical, single braid that reaches her lower back, adorned only with a simple leather tie.",
+              "Sometimes secured tightly to keep it out of the way during battle."
+            ],
+            "Name": "Style"
+          }
+        ],
+        "Name": "Hair"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "An oval shape with a strong, defined jawline and prominent cheekbones.",
+              "It conveys a sense of grounded strength."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Broad and unyielding, suggesting deep thought and firm resolve."
+            ],
+            "Name": "Forehead"
+          },
+          {
+            "Descriptions": [
+              "Typically stern and focused, reflecting her unwavering resolve and warrior's mindset.",
+              "A hint of weariness might appear after prolonged battles."
+            ],
+            "Name": "Expression"
+          }
+        ],
+        "Name": "Head"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Dark brown, almost black, with a depth that seems to absorb light.",
+              "They hold a stark intensity."
+            ],
+            "Name": "Color"
+          },
+          {
+            "Descriptions": [
+              "Almond-shaped and set deep, providing a commanding and watchful gaze."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Piercing and unwavering, capable of holding firm against any challenge.",
+              "They convey a deep sense of courage and a sharp observational skill."
+            ],
+            "Name": "Gaze"
+          }
+        ],
+        "Name": "Eyes"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Straight and prominent, with a strong bridge that complements her resolute facial structure."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Slightly broad at the tip, fitting the robust features of a warrior."
+            ],
+            "Name": "Tip"
+          }
+        ],
+        "Name": "Nose"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Well-formed and practical, set close to the head.",
+              "They show no signs of adornment, reflecting a warrior's pragmatic nature."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Unadorned and healthy, suited for active wear and the rigors of combat."
+            ],
+            "Name": "Lobe"
+          }
+        ],
+        "Name": "Ears"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Medium fullness, often pressed into a firm, determined line.",
+              "They rarely break into a smile, reflecting her stern personality."
+            ],
+            "Name": "Lips"
+          },
+          {
+            "Descriptions": [
+              "Set and unyielding, conveying her unwavering resolve.",
+              "Only in rare moments of comfort might a softer curve be seen."
+            ],
+            "Name": "Expression"
+          },
+          {
+            "Descriptions": [
+              "Strong and even, well-maintained and reflecting good health."
+            ],
+            "Name": "Teeth"
+          }
+        ],
+        "Name": "Mouth"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Thick and powerfully muscled, clearly defined from years of physical training and battle.",
+              "It appears capable of withstanding significant impact."
+            ],
+            "Name": "Musculature"
+          },
+          {
+            "Descriptions": [
+              "Always held erect and unyielding, contributing to her commanding presence."
+            ],
+            "Name": "Posture"
+          }
+        ],
+        "Name": "Neck"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Broad and powerful, hinting at the immense strength housed within.",
+              "They give her a formidable silhouette."
+            ],
+            "Name": "Width"
+          },
+          {
+            "Descriptions": [
+              "Heavily muscled, with visible deltoids and trapezius muscles.",
+              "They are built to absorb and deliver powerful blows."
+            ],
+            "Name": "Musculature"
+          }
+        ],
+        "Name": "Shoulders"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Exceptionally strong and corded with visible biceps and triceps.",
+              "They are the source of her formidable power."
+            ],
+            "Name": "Musculature"
+          },
+          {
+            "Descriptions": [
+              "Thick and powerful, hinting at her namesake 'Iron Arm' and her ability to deliver devastating strikes."
+            ],
+            "Name": "Forearms"
+          },
+          {
+            "Descriptions": [
+              "Her skin is toughened, with a scattering of old scars from past battles and training, testifying to her warrior life."
+            ],
+            "Name": "Skin"
+          }
+        ],
+        "Name": "Arms"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Large and strong, perfectly suited for gripping weapons and delivering powerful impacts."
+            ],
+            "Name": "Size"
+          },
+          {
+            "Descriptions": [
+              "Palms are heavily calloused and rough from years of combat and training.",
+              "Her knuckles are prominent, showing the marks of countless battles."
+            ],
+            "Name": "Skin"
+          },
+          {
+            "Descriptions": [
+              "Strong and capable, not slender or delicate, designed for strength and resilience."
+            ],
+            "Name": "Fingers"
+          }
+        ],
+        "Name": "Hands"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Kept short and meticulously clean, reflecting a warrior's practicality and hygiene.",
+              "They are trimmed to avoid interference in combat."
+            ],
+            "Name": "Length"
+          },
+          {
+            "Descriptions": [
+              "Strong and unpolished, showing no signs of cosmetic treatment, just raw strength and functionality."
+            ],
+            "Name": "Condition"
+          }
+        ],
+        "Name": "Nails"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Broad and deep, indicating robust lung capacity and providing a natural 'shield' for her vital organs.",
+              "It is a testament to her protective role."
+            ],
+            "Name": "Structure"
+          },
+          {
+            "Descriptions": [
+              "Strong pectoral muscles are evident, contributing to her powerful upper body and demonstrating her physical prowess."
+            ],
+            "Name": "Musculature"
+          }
+        ],
+        "Name": "Chest"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Taut and very strong, with clearly defined core muscles.",
+              "It is a core of power and stability."
+            ],
+            "Name": "Musculature"
+          },
+          {
+            "Descriptions": [
+              "Flat and firm, reflecting a strict regimen of physical conditioning and no excess body fat."
+            ],
+            "Name": "Appearance"
+          }
+        ],
+        "Name": "Abdomen"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Moderately broad, providing excellent stability and leverage for powerful movements in combat.",
+              "It is a strong base for her unwavering stance."
+            ],
+            "Name": "Width"
+          },
+          {
+            "Descriptions": [
+              "Strong and well-articulated, designed to support her powerful legs and core in battle."
+            ],
+            "Name": "Structure"
+          }
+        ],
+        "Name": "Hip"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Powerful and well-defined, particularly the thighs and calves, built for endurance, speed, and explosive force.",
+              "They allow her to stand firm against any foe."
+            ],
+            "Name": "Musculature"
+          },
+          {
+            "Descriptions": [
+              "Her legs are grounded and stable, providing an unshakeable foundation for her combat style."
+            ],
+            "Name": "Stance"
+          }
+        ],
+        "Name": "Legs"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Possess strong arches, indicating they are well-suited for long marches and maintaining balance on uneven terrain."
+            ],
+            "Name": "Arch"
+          },
+          {
+            "Descriptions": [
+              "Proportionate to her powerful build, sturdy and resilient, showing signs of toughness from constant use."
+            ],
+            "Name": "Size and Condition"
+          }
+        ],
+        "Name": "Feet"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Healthy and naturally formed, reflecting a body in peak physical condition.",
+              "Her focus is on function and preparedness."
+            ],
+            "Name": "Appearance"
+          },
+          {
+            "Descriptions": [
+              "Well-maintained and discreet, as expected for a warrior whose body is a tool for battle and protection."
+            ],
+            "Name": "Condition"
+          }
+        ],
+        "Name": "Genitals"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Of moderate size, practical for a warrior's active lifestyle, not impeding movement or combat.",
+              "They are supportive and athletic."
+            ],
+            "Name": "Size"
+          },
+          {
+            "Descriptions": [
+              "Firm and athletic, reflecting her strong musculature and overall physical conditioning."
+            ],
+            "Name": "Firmness"
+          }
+        ],
+        "Name": "Breasts"
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Uncle (Respected Warrior)",
+        "FirstName": "Strong",
+        "LastName": "Bear",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Cheyenne",
+        "Gender": "Male"
+      }
+    ],
+    "Personality": [
+      "Bold",
+      "Fearless",
+      "Protective",
+      "Unwavering",
+      "Stern"
+    ],
+    "Languages": [
+      "Cheyenne"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Buffalo",
+      "FavoriteColor": "Black",
+      "FavoriteDrink": "Strong herbal brew",
+      "FavoriteFood": "Buffalo stew",
+      "FavoritePlant": "Tobacco"
+    },
+    "Skills": [
+      "Hand-to-hand combat",
+      "Warfare strategy (basic)",
+      "Weapon crafting (basic)",
+      "Protecting others",
+      "Intimidation"
+    ],
+    "Talents": [
+      "Incredible physical strength",
+      "Resilience to pain",
+      "Inspiring fear in enemies"
+    ],
+    "Advantages": [
+      "Exceptional Strength",
+      "Intimidating Presence",
+      "Skilled Hand-to-Hand Combatant"
+    ],
+    "Disadvantages": [
+      "Hot-headed",
+      "Less agile than others"
+    ],
+    "Employer": [],
+    "Possessions": [
+      {
+        "ItemType": "Weapons and Armor",
+        "Description": [
+          "Heavy war club adorned with feathers and beads",
+          "Large, rawhide shield painted with tribal symbols"
+        ]
+      },
+      {
+        "ItemType": "Personal Items",
+        "Description": [
+          "Small pouch of sacred tobacco",
+          "Personal carved bone charm"
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Daily wear",
+          "Protection"
+        ],
+        "Items": [
+          {
+            "Type": "Heavy buckskin tunic",
+            "Color": "Dark brown",
+            "Style": "Robust, protective",
+            "Fabric": "Buffalo hide",
+            "Size": "M",
+            "Fit": "Loose"
+          },
+          {
+            "Type": "Leather leggings",
+            "Color": "Dark brown",
+            "Style": "Reinforced",
+            "Fabric": "Buffalo hide",
+            "Size": "M",
+            "Fit": "Loose"
+          },
+          {
+            "Type": "Heavy moccasins",
+            "Color": "Black",
+            "Style": "Durable",
+            "Fabric": "Buffalo hide",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      },
+      {
+        "Usage": [
+          "Battle"
+        ],
+        "Items": [
+          {
+            "Type": "War Paint",
+            "Color": "Black and white",
+            "Style": "Bold, aggressive lines",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "Renowned for her physical prowess and ability to wield heavy weapons.",
+      "Often leads the charge in skirmishes."
+    ]
+  },
+  {
+    "id": "char_1753374727620",
+    "Version": "1.0",
+    "Created": "2024-07-30T12:00:00Z",
+    "Age": 21,
+    "Worlds": [
+      "Great Plains (16th Century)",
+      "Native American Lore"
+    ],
+    "Name": {
+      "FirstName": "Whispering",
+      "LastName": "Reed",
+      "Race": "Cheyenne",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "she",
+      "her"
+    ],
+    "Sexuality": "Heterosexual",
+    "Size": {
+      "Height": 1.62,
+      "Weight": 51.5,
+      "BMI": 196235.3
+    },
+    "Birth": {
+      "BirthDateTime": "1502-03-15T00:00:00Z",
+      "BornCity": "Great Plains",
+      "BornCountry": "North America",
+      "Nationality": [
+        "Cheyenne"
+      ]
+    },
+    "IQ": 115,
+    "Naked": [
+      "Graceful and slender build",
+      "Soft skin",
+      "No visible scars"
+    ],
+    "Story": [
+      "Whispering Reed walks a path of healing and wisdom. Though not a frontline warrior, her knowledge of medicine and her calming presence are indispensable to the warband. She ensures the warriors are cared for, both physically and spiritually, and often mediates disputes within the group."
+    ],
+    "Residence": "Nomadic Cheyenne camp",
+    "BodyMarks": [],
+    "BodyParts": [
+      {
+        "Name": "Physical Features",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Soft, wavy, often decorated with wildflowers"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Warm, compassionate, observant"
+            ]
+          },
+          {
+            "Name": "Body",
+            "Descriptions": [
+              "Graceful and lithe",
+              "Gentle but capable hands"
+            ]
+          }
+        ]
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Deep black, like a raven's wing at dusk."
+            ],
+            "Name": "Color"
+          },
+          {
+            "Descriptions": [
+              "Thick and straight, with a slight natural wave when unbound."
+            ],
+            "Name": "Texture"
+          },
+          {
+            "Descriptions": [
+              "Reaches her waist, often braided meticulously."
+            ],
+            "Name": "Length"
+          },
+          {
+            "Descriptions": [
+              "Usually worn in two neat braids, sometimes adorned with small, polished bone beads or a single eagle feather, symbolizing wisdom and connection to the spirits."
+            ],
+            "Name": "Style"
+          }
+        ],
+        "Name": "Hair"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Oval, with a gentle curve to her forehead and a soft chin."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Smooth and unlined, reflecting her calm demeanor."
+            ],
+            "Name": "Forehead"
+          },
+          {
+            "Descriptions": [
+              "Subtly pronounced, giving her face a graceful contour."
+            ],
+            "Name": "Cheekbones"
+          },
+          {
+            "Descriptions": [
+              "Her head is held with a quiet dignity, reflecting her inner peace and wisdom."
+            ],
+            "Name": "Overall Impression"
+          }
+        ],
+        "Name": "Head"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Dark, rich brown, like fertile earth, holding depths of understanding."
+            ],
+            "Name": "Color"
+          },
+          {
+            "Descriptions": [
+              "Almond-shaped, with a slight upward tilt at the outer corners."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "They are remarkably calm and observant, often reflecting deep empathy and wisdom."
+            ],
+            "Name": "Expression"
+          },
+          {
+            "Descriptions": [
+              "Long and dark, framing her thoughtful gaze."
+            ],
+            "Name": "Lashes"
+          }
+        ],
+        "Name": "Eyes"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Straight and well-proportioned, with a gently rounded tip."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Slightly broad at the bridge, tapering gracefully."
+            ],
+            "Name": "Bridge"
+          },
+          {
+            "Descriptions": [
+              "Slightly flared, indicating her keen sense of smell, useful for identifying medicinal plants."
+            ],
+            "Name": "Nostrils"
+          }
+        ],
+        "Name": "Nose"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Well-formed and close-set, with delicate lobes."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Nestled neatly against her head."
+            ],
+            "Name": "Placement"
+          },
+          {
+            "Descriptions": [
+              "Unpierced, simple and natural."
+            ],
+            "Name": "Piercings"
+          }
+        ],
+        "Name": "Ears"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Medium-full, with a gentle cupid's bow in the upper lip."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Soft and naturally rose-tinted, often curved in a gentle, reassuring smile."
+            ],
+            "Name": "Lips"
+          },
+          {
+            "Descriptions": [
+              "Her mouth conveys a sense of compassion and quiet strength, rarely prone to harsh words."
+            ],
+            "Name": "Expression"
+          }
+        ],
+        "Name": "Mouth"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Graceful and of moderate length."
+            ],
+            "Name": "Length"
+          },
+          {
+            "Descriptions": [
+              "Held erect with serene poise, allowing her to carry herself with dignity."
+            ],
+            "Name": "Posture"
+          },
+          {
+            "Descriptions": [
+              "Smooth, with a faint, healthy glow."
+            ],
+            "Name": "Skin"
+          }
+        ],
+        "Name": "Neck"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Slightly broad for her frame, suggesting quiet strength despite her non-combative role."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Held back, yet relaxed, reflecting her calm and unburdened demeanor."
+            ],
+            "Name": "Carriage"
+          },
+          {
+            "Descriptions": [
+              "Lean but capable, indicative of her work gathering herbs and tending to others."
+            ],
+            "Name": "Musculature"
+          }
+        ],
+        "Name": "Shoulders"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Slender yet toned, with defined but not bulky musculature from her active life."
+            ],
+            "Name": "Build"
+          },
+          {
+            "Descriptions": [
+              "Smooth and tanned, bearing faint marks from her work with plants and remedies."
+            ],
+            "Name": "Skin"
+          },
+          {
+            "Descriptions": [
+              "Capable of precise and gentle movements, essential for her healing practices."
+            ],
+            "Name": "Flexibility"
+          }
+        ],
+        "Name": "Arms"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Dainty but strong, with long, sensitive fingers."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Palms slightly calloused from preparing medicines and tending to wounds, yet overall soft to the touch."
+            ],
+            "Name": "Texture"
+          },
+          {
+            "Descriptions": [
+              "Remarkably nimble and precise, perfect for weaving intricate braids or applying poultices."
+            ],
+            "Name": "Dexterity"
+          },
+          {
+            "Descriptions": [
+              "Her lifelines and heartlines are deep and clear, hinting at a life of profound connections and purpose."
+            ],
+            "Name": "Lines"
+          }
+        ],
+        "Name": "Hands"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Clean, short, and well-maintained, indicating practicality and hygiene."
+            ],
+            "Name": "Condition"
+          },
+          {
+            "Descriptions": [
+              "Natural, with a healthy, pale pink hue."
+            ],
+            "Name": "Color"
+          },
+          {
+            "Descriptions": [
+              "Strong and resilient, reflecting her healthy lifestyle."
+            ],
+            "Name": "Strength"
+          }
+        ],
+        "Name": "Nails"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Lean and graceful, with a gentle rise."
+            ],
+            "Name": "Form"
+          },
+          {
+            "Descriptions": [
+              "Subtly defined, hinting at good lung capacity for her quiet breathing and focused work."
+            ],
+            "Name": "Ribcage"
+          },
+          {
+            "Descriptions": [
+              "Held high, but not rigid, conveying a sense of openness and serenity."
+            ],
+            "Name": "Posture"
+          }
+        ],
+        "Name": "Chest"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Flat and toned, indicative of a healthy and active lifestyle."
+            ],
+            "Name": "Form"
+          },
+          {
+            "Descriptions": [
+              "Smooth and unblemished, blending seamlessly with her torso."
+            ],
+            "Name": "Skin"
+          },
+          {
+            "Descriptions": [
+              "Possesses core strength, contributing to her steady posture and endurance."
+            ],
+            "Name": "Strength"
+          }
+        ],
+        "Name": "Abdomen"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Gracefully curved, proportional to her frame, without being overly wide."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Allows for fluid and balanced movement, whether walking or kneeling to collect herbs."
+            ],
+            "Name": "Movement"
+          },
+          {
+            "Descriptions": [
+              "Smooth and rounded, contributing to her natural silhouette."
+            ],
+            "Name": "Definition"
+          }
+        ],
+        "Name": "Hip"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Long and slender, yet visibly strong, accustomed to long walks across varying terrain."
+            ],
+            "Name": "Build"
+          },
+          {
+            "Descriptions": [
+              "Lean and well-defined, particularly in the calves and thighs, showing endurance."
+            ],
+            "Name": "Musculature"
+          },
+          {
+            "Descriptions": [
+              "Tanned and resilient, with a natural smoothness."
+            ],
+            "Name": "Skin"
+          }
+        ],
+        "Name": "Legs"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Arched and sturdy, well-suited for long walks and connection to the earth."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Slightly toughened on the soles from walking, yet clean and cared for."
+            ],
+            "Name": "Skin"
+          },
+          {
+            "Descriptions": [
+              "Straight and well-aligned, allowing for good balance and grip."
+            ],
+            "Name": "Toes"
+          }
+        ],
+        "Name": "Feet"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Naturally formed and healthy, reflecting her age and vitality."
+            ],
+            "Name": "Form"
+          },
+          {
+            "Descriptions": [
+              "Modestly covered with fine, dark pubic hair."
+            ],
+            "Name": "Hair"
+          },
+          {
+            "Descriptions": [
+              "Clean and well-maintained, as with the rest of her body."
+            ],
+            "Name": "Condition"
+          }
+        ],
+        "Name": "Genitals"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Modest in size, in proportion to her slender build."
+            ],
+            "Name": "Size"
+          },
+          {
+            "Descriptions": [
+              "Naturally rounded, with a gentle, youthful lift."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Soft to the touch, with a healthy, natural firmness."
+            ],
+            "Name": "Texture"
+          },
+          {
+            "Descriptions": [
+              "Small and subtly pigmented."
+            ],
+            "Name": "Nipples"
+          }
+        ],
+        "Name": "Breasts"
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Grandmother (Shaman)",
+        "FirstName": "Crying",
+        "LastName": "Wind",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Cheyenne",
+        "Gender": "Female"
+      }
+    ],
+    "Personality": [
+      "Compassionate",
+      "Calm",
+      "Wise",
+      "Observant",
+      "Peaceful"
+    ],
+    "Languages": [
+      "Cheyenne"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Deer",
+      "FavoriteColor": "Green",
+      "FavoriteDrink": "Berry juice",
+      "FavoriteFood": "Wild berries and roots",
+      "FavoritePlant": "Echinacea"
+    },
+    "Skills": [
+      "Herbal medicine",
+      "First aid",
+      "Counselling",
+      "Plant identification",
+      "Spiritual healing"
+    ],
+    "Talents": [
+      "Exceptional empathy",
+      "Gifted at preparing healing remedies",
+      "Soothing presence"
+    ],
+    "Advantages": [
+      "Expert Healer",
+      "Knowledgeable of Nature",
+      "Diplomatic"
+    ],
+    "Disadvantages": [
+      "Physically weaker than others",
+      "Overly empathetic"
+    ],
+    "Employer": [],
+    "Possessions": [
+      {
+        "ItemType": "Healing Supplies",
+        "Description": [
+          "Large medicine pouch filled with dried herbs and remedies",
+          "Collection of healing stones"
+        ]
+      },
+      {
+        "ItemType": "Personal Items",
+        "Description": [
+          "Ceremonial rattle",
+          "Personal journal made of bark"
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Daily wear",
+          "Ceremonial"
+        ],
+        "Items": [
+          {
+            "Type": "Soft buckskin dress",
+            "Color": "Cream",
+            "Style": "Decorated with beadwork and fringe",
+            "Fabric": "Deerskin",
+            "Size": "M",
+            "Fit": "Loose and flowing"
+          },
+          {
+            "Type": "Light moccasins",
+            "Color": "Tan",
+            "Style": "Embroidered",
+            "Fabric": "Deerskin",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Shawl",
+            "Color": "Earth tones",
+            "Style": "Lightweight",
+            "Fabric": "Woven plant fibers",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "The primary healer and medicine woman for the warband.",
+      "Offers counsel and comfort."
+    ]
+  },
+  {
+    "id": "char_1753374748896",
+    "Version": "1.0",
+    "Created": "2024-07-30T12:00:00Z",
+    "Age": 21,
+    "Worlds": [
+      "Great Plains (16th Century)",
+      "Native American Lore"
+    ],
+    "Name": {
+      "FirstName": "Eagle",
+      "LastName": "Feather",
+      "Race": "Cheyenne",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "she",
+      "her"
+    ],
+    "Sexuality": "Heterosexual",
+    "Size": {
+      "Height": 1.68,
+      "Weight": 59.3,
+      "BMI": 210104.9
+    },
+    "Birth": {
+      "BirthDateTime": "1502-07-07T00:00:00Z",
+      "BornCity": "Great Plains",
+      "BornCountry": "North America",
+      "Nationality": [
+        "Cheyenne"
+      ]
+    },
+    "IQ": 120,
+    "Naked": [
+      "Strong, athletic build",
+      "Well-defined muscles",
+      "Bronze skin"
+    ],
+    "Story": [
+      "Eagle Feather is the daughter of the tribal chief and has grown up immersed in the ways of war and leadership. She is a natural commander, renowned for her prowess on horseback and her ability to devise clever strategies. Her courage and charisma inspire loyalty and bravery in her fellow warriors, making her a vital part of the warband."
+    ],
+    "Residence": "Nomadic Cheyenne camp",
+    "BodyMarks": [
+      {
+        "Name": "War Stripes",
+        "Location": "Right arm",
+        "Description": "Three parallel lines painted on her right arm for successful raids",
+        "Details": [
+          "Applied with red ochre before battle"
+        ]
+      }
+    ],
+    "BodyParts": [
+      {
+        "Name": "Physical Features",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Long, thick, often flowing freely or in a single braid"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Bright, piercing, confident"
+            ]
+          },
+          {
+            "Name": "Body",
+            "Descriptions": [
+              "Athletic and well-proportioned",
+              "Graceful in movement"
+            ]
+          }
+        ]
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Raven black, shimmering with deep indigo undertones under sunlight, reflecting the vast night sky."
+            ],
+            "Name": "Color"
+          },
+          {
+            "Descriptions": [
+              "Long, thick, and meticulously braided, often adorned with simple bone beads or a single eagle feather, reaching her waist for practicality in battle."
+            ],
+            "Name": "Style"
+          },
+          {
+            "Descriptions": [
+              "Coarse yet smooth, resilient against the elements, indicative of its natural strength and health."
+            ],
+            "Name": "Texture"
+          }
+        ],
+        "Name": "Hair"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Oval, with a high forehead and a strong, determined jawline, characteristic of intelligence and resolve."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Held high with a proud, upright carriage, often tilted slightly as if in deep thought or observing her surroundings with keen strategic insight."
+            ],
+            "Name": "Posture"
+          },
+          {
+            "Descriptions": [
+              "Carries an air of quiet confidence and unwavering focus, rarely betraying inner turmoil, embodying her leadership."
+            ],
+            "Name": "Expression"
+          }
+        ],
+        "Name": "Head"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Dark, piercing brown, like polished obsidian, reflecting the vast plains and a deep, ancient wisdom."
+            ],
+            "Name": "Color"
+          },
+          {
+            "Descriptions": [
+              "Almond-shaped, set deep within their sockets, giving her a keen, observant gaze that misses nothing."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Intense and intelligent, often narrowed in strategic contemplation or widened in focused alertness, revealing her sharp intellect and courageous spirit."
+            ],
+            "Name": "Expression"
+          }
+        ],
+        "Name": "Eyes"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Straight and well-defined, with a slightly aquiline bridge, reflecting her Cheyenne heritage and strength of character."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Proportionate to her face, neither overly large nor small, giving her profile a noble and classic appearance."
+            ],
+            "Name": "Size"
+          },
+          {
+            "Descriptions": [
+              "Strong and prominent, contributing to her dignified and commanding facial structure, unyielding in its form."
+            ],
+            "Name": "Profile"
+          }
+        ],
+        "Name": "Nose"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Close-set to her head, with well-formed lobes, practical for avoiding snagging during swift movements or battle."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Medium-sized, not overly prominent, allowing her to easily wear subtle adornments without distraction."
+            ],
+            "Name": "Size"
+          },
+          {
+            "Descriptions": [
+              "Slightly tucked beneath her long hair, a subtle feature that doesn't detract from her strong facial features but hints at her keen hearing."
+            ],
+            "Name": "Placement"
+          }
+        ],
+        "Name": "Ears"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Full and firm, often set in a determined line during serious moments, occasionally softening into a rare, confident smile."
+            ],
+            "Name": "Lips"
+          },
+          {
+            "Descriptions": [
+              "Capable of expressing fierce resolve, strategic thought, or the warmth of leadership, mirroring her dynamic personality."
+            ],
+            "Name": "Expression"
+          },
+          {
+            "Descriptions": [
+              "Even, strong, and pearly white, indicative of good health and a powerful bite when necessary."
+            ],
+            "Name": "Teeth"
+          }
+        ],
+        "Name": "Mouth"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Strong and gracefully arched, testament to her physical prowess and ability to ride for extended periods while maintaining her gaze."
+            ],
+            "Name": "Build"
+          },
+          {
+            "Descriptions": [
+              "Held high with an air of natural authority, reflecting her leadership and an unyielding spirit."
+            ],
+            "Name": "Posture"
+          },
+          {
+            "Descriptions": [
+              "Clearly defined musculature, suggesting strength and resilience, capable of quick, defensive movements."
+            ],
+            "Name": "Musculature"
+          }
+        ],
+        "Name": "Neck"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Broad and squared, indicative of a warrior's powerful build, capable of bearing heavy loads and responsibilities."
+            ],
+            "Name": "Width"
+          },
+          {
+            "Descriptions": [
+              "Well-defined and strong, developed from years of archery, spear-throwing, and extensive horseback riding."
+            ],
+            "Name": "Musculature"
+          },
+          {
+            "Descriptions": [
+              "Often held back with a confident posture, contributing to her commanding presence and balanced stance."
+            ],
+            "Name": "Stance"
+          }
+        ],
+        "Name": "Shoulders"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Lean and powerfully muscled, reflecting years of rigorous training with bows, lances, and other weaponry."
+            ],
+            "Name": "Build"
+          },
+          {
+            "Descriptions": [
+              "Capable of swift, powerful, and precise movements, essential for her strategic combat style and effective leadership."
+            ],
+            "Name": "Strength"
+          },
+          {
+            "Descriptions": [
+              "Forearms are particularly strong and toned, visibly defined beneath her clothing, a clear sign of her active warrior life."
+            ],
+            "Name": "Forearms"
+          }
+        ],
+        "Name": "Arms"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Proportionate to her build, strong and capable, yet possessing a certain dexterity for intricate tasks like weaving or beadwork."
+            ],
+            "Name": "Size"
+          },
+          {
+            "Descriptions": [
+              "Calloused from handling weapons, bows, and reins, but well-maintained and clean, reflecting her practical and disciplined nature."
+            ],
+            "Name": "Condition"
+          },
+          {
+            "Descriptions": [
+              "Long and agile, adept at stringing a bow, braiding hair, or gesturing clear commands in battle."
+            ],
+            "Name": "Fingers"
+          }
+        ],
+        "Name": "Hands"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Kept short and practical, essential for a warrior who needs unhindered hand movements and grip."
+            ],
+            "Name": "Length"
+          },
+          {
+            "Descriptions": [
+              "Clean, strong, and free from adornment, showing a disciplined and utilitarian approach to her personal appearance."
+            ],
+            "Name": "Condition"
+          },
+          {
+            "Descriptions": [
+              "Natural, healthy pink, reflecting good physical condition and attentive self-care."
+            ],
+            "Name": "Color"
+          }
+        ],
+        "Name": "Nails"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Broad and deep, allowing for powerful lung capacity, crucial for long rides, sustained effort, and projecting her voice in battle."
+            ],
+            "Name": "Build"
+          },
+          {
+            "Descriptions": [
+              "Toned and well-developed, indicating a strong core and upper body strength honed through physical training."
+            ],
+            "Name": "Musculature"
+          },
+          {
+            "Descriptions": [
+              "Held high, projecting confidence and a readiness for action, embodying her courageous and leadership spirit."
+            ],
+            "Name": "Posture"
+          }
+        ],
+        "Name": "Chest"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Flat and taut, a direct result of rigorous physical training, a lean warrior's diet, and constant movement."
+            ],
+            "Name": "Tone"
+          },
+          {
+            "Descriptions": [
+              "Defined but not overly bulky, showcasing functional strength and agility rather than mere mass."
+            ],
+            "Name": "Musculature"
+          },
+          {
+            "Descriptions": [
+              "Serves as a strong, stable core, providing power for horseback maneuvers, weapon handling, and sustained physical endurance."
+            ],
+            "Name": "Endurance"
+          }
+        ],
+        "Name": "Abdomen"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Moderate in width, providing a stable base for riding and dynamic movements, characteristic of an athletic and agile build."
+            ],
+            "Name": "Width"
+          },
+          {
+            "Descriptions": [
+              "Strong and flexible, essential for her exceptional equestrian prowess and quick changes in direction on the ground."
+            ],
+            "Name": "Musculature"
+          },
+          {
+            "Descriptions": [
+              "Allows for fluid and agile movements, whether on foot or mounted, contributing significantly to her strategic advantage in skirmishes."
+            ],
+            "Name": "Mobility"
+          }
+        ],
+        "Name": "Hip"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Long and powerfully built, exceptionally well-muscled from years of riding, running, and navigating varied terrains."
+            ],
+            "Name": "Build"
+          },
+          {
+            "Descriptions": [
+              "Capable of sustained effort and bursts of speed, vital for endurance on long journeys and rapid maneuvers in battle."
+            ],
+            "Name": "Strength"
+          },
+          {
+            "Descriptions": [
+              "Calves and thighs are visibly toned and defined, reflecting her active and demanding lifestyle as a warrior."
+            ],
+            "Name": "Definition"
+          }
+        ],
+        "Name": "Legs"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Arched and sturdy, accustomed to both moccasins and going barefoot, well-adapted to the natural, often challenging environment."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Tough and resilient, showing signs of frequent use and long treks, yet well-maintained from her disciplined personal routine."
+            ],
+            "Name": "Condition"
+          },
+          {
+            "Descriptions": [
+              "Provide a firm and stable foundation, essential for balance during combat, quick maneuvers, or riding at speed."
+            ],
+            "Name": "Stability"
+          }
+        ],
+        "Name": "Feet"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Naturally formed and healthy, discreetly covered by traditional clothing, reflecting her personal privacy and cultural modesty."
+            ],
+            "Name": "Form"
+          },
+          {
+            "Descriptions": [
+              "Maintained with care and respect, consistent with the overall cleanliness and practical nature of tribal life."
+            ],
+            "Name": "Hygiene"
+          },
+          {
+            "Descriptions": [
+              "A private aspect of her being, not for public display, embodying her strong sense of self and cultural norms."
+            ],
+            "Name": "Significance"
+          }
+        ],
+        "Name": "Genitals"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Moderate in size, proportionate to her athletic and lean frame, allowing for unhindered movement during combat and riding."
+            ],
+            "Name": "Size"
+          },
+          {
+            "Descriptions": [
+              "Firm and well-supported, showing the natural tone and resilience of a young, active woman, without being a hindrance to her activities."
+            ],
+            "Name": "Form"
+          },
+          {
+            "Descriptions": [
+              "Understated and practical, often concealed or minimized by her warrior attire, reflecting her focus on utility and leadership rather than display."
+            ],
+            "Name": "Presence"
+          }
+        ],
+        "Name": "Breasts"
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Father (Tribal Chief)",
+        "FirstName": "Chief",
+        "LastName": "Running Bear",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Cheyenne",
+        "Gender": "Male"
+      }
+    ],
+    "Personality": [
+      "Courageous",
+      "Charismatic",
+      "Confident",
+      "Strategic",
+      "Independent"
+    ],
+    "Languages": [
+      "Cheyenne"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Horse",
+      "FavoriteColor": "Turquoise",
+      "FavoriteDrink": "Water from a pure stream",
+      "FavoriteFood": "Cooked game meat",
+      "FavoritePlant": "Sunflowers"
+    },
+    "Skills": [
+      "Horsemanship (expert)",
+      "Combat (mounted and on foot)",
+      "Leadership",
+      "Tactics",
+      "Negotiation"
+    ],
+    "Talents": [
+      "Exceptional horsemanship",
+      "Strategic thinking",
+      "Inspiring speeches"
+    ],
+    "Advantages": [
+      "Master Horsemanship",
+      "Strategic Thinker",
+      "Inspiring Leader"
+    ],
+    "Disadvantages": [
+      "Overconfident",
+      "Can be reckless"
+    ],
+    "Employer": [],
+    "Possessions": [
+      {
+        "ItemType": "Weapons and Mount",
+        "Description": [
+          "Well-maintained horse, spirited and fast",
+          "Decorated lance with a flint tip",
+          "Personal bow and arrow set"
+        ]
+      },
+      {
+        "ItemType": "Leadership Items",
+        "Description": [
+          "Small, intricately carved peace pipe",
+          "Leather bound map of local territories"
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Riding",
+          "Leadership"
+        ],
+        "Items": [
+          {
+            "Type": "Decorated buckskin tunic",
+            "Color": "Tan with painted designs",
+            "Style": "Embellished with beads and porcupine quills",
+            "Fabric": "Deerskin",
+            "Size": "M",
+            "Fit": "Comfortable, allows movement"
+          },
+          {
+            "Type": "Buckskin trousers",
+            "Color": "Tan",
+            "Style": "Practical for riding",
+            "Fabric": "Deerskin",
+            "Size": "M",
+            "Fit": "Loose"
+          },
+          {
+            "Type": "Riding moccasins",
+            "Color": "Brown",
+            "Style": "Durable, with hard soles",
+            "Fabric": "Buffalo hide",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      },
+      {
+        "Usage": [
+          "Battle",
+          "Ceremony"
+        ],
+        "Items": [
+          {
+            "Type": "Feathered war bonnet",
+            "Color": "Various natural colors",
+            "Style": "Symbol of status and bravery",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "The informal leader of this warband.",
+      "Commands respect due to her skills and bravery."
+    ]
+  },
+  {
+    "id": "char_1753374772302",
+    "Version": "1.0",
+    "Created": "2024-07-30T12:00:00Z",
+    "Age": 21,
+    "Worlds": [
+      "Great Plains (16th Century)",
+      "Native American Lore"
+    ],
+    "Name": {
+      "FirstName": "Swift",
+      "LastName": "Arrow",
+      "Race": "Cheyenne",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "she",
+      "her"
+    ],
+    "Sexuality": "Heterosexual",
+    "Size": {
+      "Height": 1.58,
+      "Weight": 56,
+      "BMI": 224323
+    },
+    "Birth": {
+      "BirthDateTime": "1502-09-01T00:00:00Z",
+      "BornCity": "Great Plains",
+      "BornCountry": "North America",
+      "Nationality": [
+        "Cheyenne"
+      ]
+    },
+    "IQ": 100,
+    "Naked": [
+      "Compact, strong, and agile frame",
+      "Scar on left knee from a hunting accident"
+    ],
+    "Story": [
+      "Swift Arrow is the warband's primary hunter, responsible for bringing down game to feed the warriors. Her patience and precision are legendary, whether tracking prey or launching a projectile. She is a no-nonsense individual, focused on survival and the well-being of her group through practical means."
+    ],
+    "Residence": "Nomadic Cheyenne camp",
+    "BodyMarks": [
+      {
+        "Name": "Vision Dots",
+        "Location": "Around eyes",
+        "Description": "Small dot tattoos around her eyes to enhance vision",
+        "Details": [
+          "Traditional hunting marks"
+        ]
+      }
+    ],
+    "BodyParts": [
+      {
+        "Name": "Physical Features",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Short, practical, braided tightly"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Hazel, sharp, focused"
+            ]
+          },
+          {
+            "Name": "Body",
+            "Descriptions": [
+              "Compact and strong",
+              "Built for agility and quick movement"
+            ]
+          }
+        ]
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Deep raven black, with subtle blue undertones that catch the light."
+            ],
+            "Name": "Color"
+          },
+          {
+            "Descriptions": [
+              "Typically braided in a single, thick plait that runs down her back, secured with a leather thong, designed to stay out of her way during intense activity."
+            ],
+            "Name": "Style"
+          },
+          {
+            "Descriptions": [
+              "Thick, coarse, and resilient, well-suited to withstand the elements."
+            ],
+            "Name": "Texture"
+          }
+        ],
+        "Name": "Hair"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Oval, with a high forehead and a strong, defined jawline that speaks of determination."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Angular and well-proportioned, reflecting her focused and practical nature."
+            ],
+            "Name": "Features"
+          },
+          {
+            "Descriptions": [
+              "Warm, sun-kissed copper, testament to her many hours spent outdoors."
+            ],
+            "Name": "Skin Tone"
+          }
+        ],
+        "Name": "Head"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Dark, almost black, like polished obsidian, absorbing light rather than reflecting it."
+            ],
+            "Name": "Color"
+          },
+          {
+            "Descriptions": [
+              "Intense and piercing, constantly scanning her surroundings with the sharp focus of a predator."
+            ],
+            "Name": "Expression"
+          },
+          {
+            "Descriptions": [
+              "Almond-shaped, slightly deep-set, providing a natural shield against sun glare."
+            ],
+            "Name": "Shape"
+          }
+        ],
+        "Name": "Eyes"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Straight and slender, with a slightly aquiline bridge, a common feature among her people."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Medium, proportionate to her face, allowing for efficient breathing during strenuous activity."
+            ],
+            "Name": "Size"
+          }
+        ],
+        "Name": "Nose"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Neatly formed and close-set, without any excessive protrusions, hinting at their acute sensitivity."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "Slightly low-set, allowing them to blend seamlessly with the contours of her head, often partially obscured by her braids."
+            ],
+            "Name": "Placement"
+          },
+          {
+            "Descriptions": [
+              "Unusually keen, able to discern the subtlest rustle of leaves or the distant call of an animal."
+            ],
+            "Name": "Hearing"
+          }
+        ],
+        "Name": "Ears"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Thin and firm, typically held in a neutral line, hinting at her disciplined and direct nature."
+            ],
+            "Name": "Lips"
+          },
+          {
+            "Descriptions": [
+              "Rarely breaking into a wide smile, her mouth usually conveys a sense of quiet determination or pragmatic thought."
+            ],
+            "Name": "Expression"
+          },
+          {
+            "Descriptions": [
+              "Straight and strong, maintained through a practical diet."
+            ],
+            "Name": "Teeth"
+          }
+        ],
+        "Name": "Mouth"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Lean and sinewy, showing well-defined muscles that speak of strength and agility, crucial for quick movements and carrying burdens."
+            ],
+            "Name": "Build"
+          },
+          {
+            "Descriptions": [
+              "Always held erect, giving her an alert and commanding presence, allowing her to survey her surroundings with ease."
+            ],
+            "Name": "Posture"
+          }
+        ],
+        "Name": "Neck"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Moderately broad and square, indicative of a body built for carrying loads and enduring long treks."
+            ],
+            "Name": "Width"
+          },
+          {
+            "Descriptions": [
+              "Taut and well-defined, especially the deltoids, honed by countless hours of drawing a bow and carrying game."
+            ],
+            "Name": "Musculature"
+          }
+        ],
+        "Name": "Shoulders"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Lean yet powerful, with visible sinews and well-defined biceps and triceps, testament to her skill with a bow and spear."
+            ],
+            "Name": "Musculature"
+          },
+          {
+            "Descriptions": [
+              "Capable of both powerful strikes and incredibly delicate, precise movements, essential for setting traps or tracking faint trails."
+            ],
+            "Name": "Dexterity"
+          },
+          {
+            "Descriptions": [
+              "Tanned and slightly calloused, marked by minor scars from outdoor life and encounters with thorny brush."
+            ],
+            "Name": "Skin"
+          }
+        ],
+        "Name": "Arms"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Medium-sized, with long, agile fingers, perfectly suited for gripping weapons or manipulating small objects."
+            ],
+            "Name": "Size"
+          },
+          {
+            "Descriptions": [
+              "Strong and capable, with visible callouses on the palms and fingers from handling tools, ropes, and bows."
+            ],
+            "Name": "Condition"
+          },
+          {
+            "Descriptions": [
+              "Possesses a firm, unwavering grip, able to hold onto struggling prey or maintain control over a swiftly moving projectile."
+            ],
+            "Name": "Grip"
+          }
+        ],
+        "Name": "Hands"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Kept short and trimmed, for practicality and to avoid snagging on anything during her hunts."
+            ],
+            "Name": "Length"
+          },
+          {
+            "Descriptions": [
+              "Naturally strong and resilient, free from polish or adornment, reflecting her no-nonsense attitude."
+            ],
+            "Name": "Strength"
+          },
+          {
+            "Descriptions": [
+              "Immaculately clean beneath, despite her rough outdoor life, indicative of her self-reliant nature."
+            ],
+            "Name": "Cleanliness"
+          }
+        ],
+        "Name": "Nails"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Broad and deep, indicating excellent lung capacity, vital for long hunts and enduring physical exertion."
+            ],
+            "Name": "Build"
+          },
+          {
+            "Descriptions": [
+              "Clearly defined, showing the robust structure necessary to protect her vital organs during physical challenges."
+            ],
+            "Name": "Ribcage"
+          },
+          {
+            "Descriptions": [
+              "Smooth, sun-kissed, and largely unblemished, save for perhaps a faint hunting mark or two."
+            ],
+            "Name": "Skin"
+          }
+        ],
+        "Name": "Chest"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Flat and taut, with subtle, well-defined abdominal muscles, a result of her active lifestyle and practical diet."
+            ],
+            "Name": "Condition"
+          },
+          {
+            "Descriptions": [
+              "Highly flexible and strong, contributing to her agility and quick reflexes during chases or evasive maneuvers."
+            ],
+            "Name": "Flexibility"
+          }
+        ],
+        "Name": "Abdomen"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Moderately narrow yet strong, optimized for agile movement and long-distance travel across varied terrains."
+            ],
+            "Name": "Width"
+          },
+          {
+            "Descriptions": [
+              "Well-proportioned, providing a stable base for her upper body and allowing for efficient weight distribution."
+            ],
+            "Name": "Structure"
+          }
+        ],
+        "Name": "Hip"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Powerful and well-toned, with lean, defined thighs and calves, built for endurance running and navigating challenging landscapes."
+            ],
+            "Name": "Musculature"
+          },
+          {
+            "Descriptions": [
+              "Capable of both explosive bursts of speed and sustained, tireless movement over many miles."
+            ],
+            "Name": "Speed"
+          },
+          {
+            "Descriptions": [
+              "Her legs provide exceptional stability, allowing her to move silently and surely over uneven ground."
+            ],
+            "Name": "Stability"
+          }
+        ],
+        "Name": "Legs"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Strong and flexible, with well-developed arches, able to endure long treks over varied and often rugged terrain."
+            ],
+            "Name": "Strength"
+          },
+          {
+            "Descriptions": [
+              "Hardy and calloused, particularly on the soles, providing natural protection from the elements and sharp objects."
+            ],
+            "Name": "Condition"
+          },
+          {
+            "Descriptions": [
+              "Remarkably agile, allowing her to navigate silently and precisely, leaving minimal trace."
+            ],
+            "Name": "Mobility"
+          }
+        ],
+        "Name": "Feet"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Naturally formed, reflecting the typical anatomy of a female, without adornment or modification."
+            ],
+            "Name": "Appearance"
+          },
+          {
+            "Descriptions": [
+              "Primarily functional, associated with her biological role, maintained with practical hygiene."
+            ],
+            "Name": "Function"
+          },
+          {
+            "Descriptions": [
+              "A private part of her anatomy, rarely exposed or discussed, reflecting a pragmatic and reserved nature."
+            ],
+            "Name": "Privacy"
+          }
+        ],
+        "Name": "Genitals"
+      },
+      {
+        "Details": [
+          {
+            "Descriptions": [
+              "Modest in size, firm and well-supported, allowing for unhindered movement during her physically demanding activities."
+            ],
+            "Name": "Size"
+          },
+          {
+            "Descriptions": [
+              "Natural and rounded, sitting high on her chest, indicative of youth and physical fitness."
+            ],
+            "Name": "Shape"
+          },
+          {
+            "Descriptions": [
+              "They are functional and proportional to her lean build, not impeding her agility or ability to wear protective gear."
+            ],
+            "Name": "Practicality"
+          }
+        ],
+        "Name": "Breasts"
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Brother (Fellow Hunter)",
+        "FirstName": "Running",
+        "LastName": "Elk",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Cheyenne",
+        "Gender": "Male"
+      }
+    ],
+    "Personality": [
+      "Practical",
+      "Focused",
+      "Self-reliant",
+      "Direct",
+      "Loyal"
+    ],
+    "Languages": [
+      "Cheyenne"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Hawk",
+      "FavoriteColor": "Grey",
+      "FavoriteDrink": "Broth",
+      "FavoriteFood": "Lean game meat",
+      "FavoritePlant": "Cedar"
+    },
+    "Skills": [
+      "Hunting",
+      "Tracking (advanced)",
+      "Trap setting",
+      "Weapon throwing",
+      "Butchering"
+    ],
+    "Talents": [
+      "Pinpoint accuracy with thrown weapons",
+      "Exceptional patience in tracking",
+      "Mimicking animal calls"
+    ],
+    "Advantages": [
+      "Skilled Hunter",
+      "Exceptional Endurance",
+      "Resourceful"
+    ],
+    "Disadvantages": [
+      "Can be overly blunt",
+      "Lacks patience"
+    ],
+    "Employer": [],
+    "Possessions": [
+      {
+        "ItemType": "Hunting Weapons",
+        "Description": [
+          "Lightweight hunting bow",
+          "Quiver with specialty hunting arrows",
+          "Stone-headed throwing axe"
+        ]
+      },
+      {
+        "ItemType": "Hunting Gear",
+        "Description": [
+          "Animal traps",
+          "Tanned animal hides for warmth"
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Hunting",
+          "Scouting"
+        ],
+        "Items": [
+          {
+            "Type": "Simple buckskin tunic",
+            "Color": "Dark tan",
+            "Style": "Unadorned for silent movement",
+            "Fabric": "Deerskin",
+            "Size": "M",
+            "Fit": "Snug and practical"
+          },
+          {
+            "Type": "Leather leggings",
+            "Color": "Dark tan",
+            "Style": "Reinforced for protection",
+            "Fabric": "Deerskin",
+            "Size": "M",
+            "Fit": "Tight"
+          },
+          {
+            "Type": "Durable moccasins",
+            "Color": "Dark brown",
+            "Style": "Robust, good grip",
+            "Fabric": "Buffalo hide",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "Specializes in hunting large game and providing food for the warband.",
+      "Excellent with throwing weapons."
+    ]
+  }
+]

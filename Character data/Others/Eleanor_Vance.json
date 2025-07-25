@@ -1,0 +1,204 @@
+{
+  "id": "char_1753369021437",
+  "Version": "1.0",
+  "Created": "2024-07-15T12:00:00Z",
+  "Age": 40,
+  "Worlds": [
+    "Earth"
+  ],
+  "Name": {
+    "FirstName": "Eleanor",
+    "LastName": "Vance",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "she",
+    "her",
+    "hers"
+  ],
+  "Sexuality": "Heterosexual",
+  "Size": {
+    "Height": 1.65,
+    "Weight": 65,
+    "BMI": 238751.1
+  },
+  "Birth": {
+    "BirthDateTime": "1984-07-15T00:00:00Z",
+    "BornCity": "London",
+    "BornCountry": "United Kingdom",
+    "Nationality": [
+      "British"
+    ]
+  },
+  "IQ": 100,
+  "Naked": [
+    "No distinguishing marks"
+  ],
+  "Story": [
+    "Eleanor Vance is a quiet, unassuming librarian in her early forties. Despite her proficiency and dedication to maintaining the library's vast collection, she often dreams of a life beyond dusty shelves and hushed whispers. Her reluctance stems from a deep-seated desire for adventure, a stark contrast to her current reality. She finds solace in the stories within the books, living vicariously through the characters she curates."
+  ],
+  "Residence": "A cozy apartment above a bakery in London.",
+  "BodyMarks": [],
+  "BodyParts": [
+    {
+      "Name": "Head",
+      "Details": [
+        {
+          "Name": "Eyes",
+          "Descriptions": [
+            "Hazel",
+            "Often hidden behind round spectacles"
+          ]
+        },
+        {
+          "Name": "Hair",
+          "Descriptions": [
+            "Brown",
+            "Usually tied in a neat bun"
+          ]
+        },
+        {
+          "Name": "Skin",
+          "Descriptions": [
+            "Fair"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Body",
+      "Details": [
+        {
+          "Name": "Torso",
+          "Descriptions": [
+            "Average build"
+          ]
+        },
+        {
+          "Name": "Arms",
+          "Descriptions": [
+            "Slender"
+          ]
+        },
+        {
+          "Name": "Legs",
+          "Descriptions": [
+            "Slender"
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [],
+  "Personality": [
+    "Reluctant",
+    "Introverted",
+    "Observant",
+    "Orderly",
+    "Dreamy",
+    "Kind-hearted"
+  ],
+  "Languages": [
+    "English"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Owl",
+    "FavoriteColor": "Forest Green",
+    "FavoriteDrink": "Earl Grey Tea",
+    "FavoriteFood": "Mushroom Risotto",
+    "FavoritePlant": "Fern"
+  },
+  "Skills": [
+    "Archiving",
+    "Research",
+    "Cataloging",
+    "Storytelling",
+    "Information retrieval"
+  ],
+  "Talents": [
+    "Identifying rare books",
+    "Reciting poetry from memory",
+    "Finding obscure information"
+  ],
+  "Advantages": [
+    "Extensive knowledge of literature and history",
+    "Highly organized",
+    "Good memory"
+  ],
+  "Disadvantages": [
+    "Shy in social situations",
+    "Prone to daydreaming",
+    "Dislikes confrontation"
+  ],
+  "Employer": [
+    {
+      "Company": "Local Public Library",
+      "JobTitles": [
+        "Librarian",
+        "Archivist"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Books",
+      "Description": [
+        "A well-worn copy of 'Don Quixote'",
+        "Various ancient tomes"
+      ]
+    },
+    {
+      "ItemType": "Eyeglasses",
+      "Description": [
+        "Round, wire-rimmed spectacles"
+      ]
+    },
+    {
+      "ItemType": "Notebook",
+      "Description": [
+        "Leather-bound notebook filled with ideas and sketches"
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Everyday"
+      ],
+      "Items": [
+        {
+          "Type": "Cardigan",
+          "Color": "Muted Green",
+          "Style": "Classic",
+          "Fabric": "Wool",
+          "Size": "M",
+          "Fit": "Relaxed"
+        },
+        {
+          "Type": "Blouse",
+          "Color": "Cream",
+          "Style": "Simple",
+          "Fabric": "Cotton",
+          "Size": "M",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Skirt",
+          "Color": "Navy",
+          "Style": "Conservative",
+          "Fabric": "Tweed",
+          "Size": "M",
+          "Fit": "A-line"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Has a passion for old maps and forgotten languages.",
+    "Prefers tea over coffee.",
+    "Secretly writes fantasy novels in her spare time."
+  ]
+}
