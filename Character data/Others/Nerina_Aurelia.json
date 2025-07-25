@@ -1,0 +1,284 @@
+{
+  "id": "char_1753355376972",
+  "Version": "1.2",
+  "Created": "2024-10-27T18:35",
+  "Age": 28,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Nerina",
+    "LastName": "Aurelia",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [
+      "Echo"
+    ],
+    "MaidenName": ""
+  },
+  "Pronouns": [
+    "she",
+    "her"
+  ],
+  "Sexuality": "Bisexual",
+  "Size": {
+    "Height": 170,
+    "Weight": 62,
+    "BMI": 21.5
+  },
+  "Birth": {
+    "BirthDateTime": "0096-07-15",
+    "BornCity": "Roma",
+    "BornCountry": "Roman Empire",
+    "Nationality": [
+      "Roman"
+    ]
+  },
+  "IQ": 135,
+  "Naked": [
+    "Nerina's body is a testament to survival and resilience. Though a former slave, she carries herself with an unyielding grace. Her skin is a warm ivory, marked only by the faintest lines of past hardships. She is comfortable in her own skin, viewing her body as a symbol of strength and freedom. The only thing that matters to her is keeping her sisters safe. And if that means that they all must walk around naked, then so be it."
+  ],
+  "Story": [
+    "Nerina, known as the Daughter of Echoes, possesses the ability to hear whispers from the past and foresee glimpses of the future. Born in Ancient Rome, she was sold into slavery at a young age. She was saved and inducted into the sisterhood. Her mastery over languages and her uncanny intuition made her a valuable asset to the sisterhood, particularly in deciphering ancient prophecies and unraveling conspiracies that threatened Old Town. Her past as a slave fuels her determination to protect the innocent and fight against oppression, and she sees a reflection of her former self in every vulnerable soul.",
+    "Nerina struggles with the burden of her visions, often feeling overwhelmed by the weight of history and the uncertainty of the future. She finds solace in the camaraderie of her sisters, especially Lysandra, whose unwavering optimism serves as a counterbalance to Nerina's sometimes bleak outlook. When she and Lysandra meet, they kiss each other passionately."
+  ],
+  "Residence": "Old Town, within the ancient catacombs beneath the city.",
+  "BodyMarks": [
+    {
+      "Name": "Scar",
+      "Location": "Left Shoulder",
+      "Description": "A thin, pale scar running across her left shoulder, a remnant of her days as a slave.",
+      "Details": [
+        "Barely visible, but serves as a constant reminder of her past."
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Deep, captivating violet."
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Almond-shaped, expressive."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Raven black."
+          ]
+        },
+        {
+          "Name": "Texture",
+          "Descriptions": [
+            "Long, wavy, and often damp from the rain."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Details": [
+        {
+          "Name": "Features",
+          "Descriptions": [
+            "High cheekbones, a strong jawline, and a thoughtful expression."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Breasts",
+      "Details": [
+        {
+          "Name": "Size",
+          "Descriptions": [
+            "Full and round, about a C cup."
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Firm and high, with nipples that are a rosy-brown and sensitive to the touch."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Genitals",
+      "Details": [
+        {
+          "Name": "Vulva",
+          "Descriptions": [
+            "Her vulva is neatly trimmed with dark hair framing her sensitive skin. The labia minora are a delicate pink, slightly darker than the surrounding skin, and fold together protectively, while the labia majora are full and soft. The clitoris is small but prominent, exquisitely sensitive, especially when she anticipates intimacy with Lysandra. She is completely natural."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Sister",
+      "FirstName": "Lysandra",
+      "LastName": "Valeria",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Sister",
+      "FirstName": "Ismara",
+      "LastName": "Cornelia",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Sister",
+      "FirstName": "Caellina",
+      "LastName": "Fabia",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Sister",
+      "FirstName": "Elorianna",
+      "LastName": "Claudia",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Friend",
+      "FirstName": "Morvandis",
+      "LastName": "Julia",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Sister",
+      "FirstName": "Anyael",
+      "LastName": "Octavia",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Mentor",
+      "FirstName": "Aurelius",
+      "LastName": "Severus",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Male"
+    }
+  ],
+  "Personality": [
+    "Introspective",
+    "Reserved",
+    "Empathetic",
+    "Wise",
+    "Haunted by the past, but determined to shape a better future."
+  ],
+  "Languages": [
+    "Latin",
+    "Common Tongue",
+    "Ancient Dialects"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Owl",
+    "FavoriteColor": "Deep Indigo",
+    "FavoriteDrink": "Herbal Tea",
+    "FavoriteFood": "Figs and Honey",
+    "FavoritePlant": "Laurel"
+  },
+  "Skills": [
+    "Prophecy",
+    "Linguistics",
+    "Ancient Lore",
+    "Investigation",
+    "Ritual Magic"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Protector",
+        "Seer",
+        "Historian"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Ancient Scroll",
+      "Description": [
+        "A weathered scroll containing prophecies and historical records of Old Town."
+      ]
+    },
+    {
+      "ItemType": "Amulet",
+      "Description": [
+        "A silver amulet etched with ancient Roman symbols, believed to enhance her prophetic abilities."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Ritual",
+        "Ceremonial"
+      ],
+      "Items": [
+        {
+          "Type": "Robe",
+          "Color": "Deep Purple",
+          "Style": "Flowing",
+          "Fabric": "Silk",
+          "Size": "One Size",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Sandals",
+          "Color": "Brown",
+          "Style": "Leather",
+          "Fabric": "Leather",
+          "Size": "7",
+          "Fit": "Comfortable"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "char_1753355022766",
+  "Version": "1.1",
+  "Created": "2024-05-22T19:15",
+  "Age": 27,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Miki",
+    "LastName": "Kurokawa",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": ""
+  },
+  "Pronouns": [
+    "She/Her"
+  ],
+  "Sexuality": "Bisexual",
+  "Size": {
+    "Height": 165,
+    "Weight": 58,
+    "BMI": 21.3
+  },
+  "Birth": {
+    "BirthDateTime": "1997-04-12",
+    "BornCity": "West Berlin",
+    "BornCountry": "Germany",
+    "Nationality": [
+      "German",
+      "Japanese"
+    ]
+  },
+  "IQ": 135,
+  "Naked": [
+    "Miki's body is a tapestry of hard-earned discipline and violent encounters, showcasing a lean, athletic build with defined muscles in her back, shoulders, and legs.",
+    "Her skin is pale and smooth, marred by a few thin, silvery scars that she wears with indifference—a long, puckered mark on her left thigh from a knife fight, and a small, round scar near her collarbone.",
+    "She is pragmatic about nudity, viewing her body as a tool and a vessel, and is neither shy nor boastful in its exposure, comfortable in her own skin whether clothed or not."
+  ],
+  "Story": [
+    "Miki is a field operative for 'The Archive,' a clandestine intelligence agency born from the ashes of a forgotten Cold War department that dealt with paranormal and extra-dimensional threats.",
+    "Her current assignment is to surveil Seraphina, a seemingly ordinary young woman whose latent magical abilities have begun to manifest. These abilities stem from a High Fantasy bloodline, one that The Archive and its rivals have sought to control for decades.",
+    "While observing Seraphina at 'The Gilded Stool Bar,' Miki finds herself genuinely drawn to her target's vibrant spirit and uninhibited joy, a stark contrast to her own life of shadows and deceit. This burgeoning attraction complicates her mission, forcing her to question her loyalties.",
+    "The situation is intensified by the presence of Kenji, a rival agent from a ruthless Russian successor to the KGB's occult division. Kenji also wants Seraphina, but his methods are far more brutal, and he represents a direct threat to both Seraphina's freedom and her life.",
+    "Miki's core conflict is between her duty to her agency and her growing desire to protect Seraphina, potentially betraying The Archive to save the woman she's falling for from becoming a living weapon."
+  ],
+  "Residence": "A sterile, temporary safe-house apartment in the city's warehouse district, chosen for its anonymity and defensible position.",
+  "BodyMarks": [
+    {
+      "Name": "Scar",
+      "Location": "Upper back, left shoulder blade",
+      "Description": "A ragged, 4-inch scar from a bullet graze, a permanent reminder of a mission in Istanbul that went sideways.",
+      "Details": [
+        "The skin is slightly discolored and puckered.",
+        "It occasionally aches in cold weather."
+      ]
+    },
+    {
+      "Name": "Tattoo",
+      "Location": "Inner left wrist",
+      "Description": "A small, minimalist tattoo of an open book with a keyhole in the center, the sigil of her agency, 'The Archive'.",
+      "Details": [
+        "Usually concealed by her watch.",
+        "The ink is a deep black, done with precision."
+      ]
+    },
+    {
+      "Name": "Birthmark",
+      "Location": "Right hip",
+      "Description": "A faint, star-shaped cluster of pigmentation, almost unnoticeable. It's a 'resonant mark,' a tell-tale sign of her own minute sensitivity to arcane energies, which is why she was assigned to this case.",
+      "Details": [
+        "Tingles slightly when in close proximity to powerful magic, like Seraphina's."
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Jet black"
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Shoulder-length",
+            "Sleek and straight",
+            "Often worn down in casual settings or tied in a practical knot during operations."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Dark, almond-brown"
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Almond-shaped",
+            "Perceptive and intense, constantly scanning her surroundings."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Physique",
+      "Details": [
+        {
+          "Name": "Build",
+          "Descriptions": [
+            "Lithe and athletic",
+            "Wiry strength"
+          ]
+        },
+        {
+          "Name": "Features",
+          "Descriptions": [
+            "Toned arms and legs",
+            "Defined back muscles"
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Target/Romantic Interest",
+      "FirstName": "Seraphina",
+      "LastName": "Lavoie",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human (Scion)",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Antagonist/Rival Agent",
+      "FirstName": "Kenji",
+      "LastName": "Volkov",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Male"
+    },
+    {
+      "Relation": "Handler",
+      "FirstName": "Eva",
+      "LastName": "Rostova",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Hyper-observant",
+    "Pragmatic and resourceful",
+    "Social chameleon, capable of blending into any environment.",
+    "Cynical and emotionally guarded due to her profession.",
+    "Possesses a dry, subtle wit.",
+    "Deeply loyal to the very few she allows herself to trust.",
+    "Struggles with moral fatigue and the weight of her actions."
+  ],
+  "Languages": [
+    "Japanese (Native)",
+    "German (Native)",
+    "English (Fluent)",
+    "Russian (Fluent)"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Owl",
+    "FavoriteColor": "Charcoal Grey",
+    "FavoriteDrink": "Japanese Whiskey, neat",
+    "FavoriteFood": "Tonkotsu Ramen",
+    "FavoritePlant": "Bonsai Tree"
+  },
+  "Skills": [
+    "Covert Operations",
+    "Hand-to-Hand Combat (Krav Maga, Aikido)",
+    "Firearms Proficiency (Pistols & Rifles)",
+    "Infiltration and Exfiltration",
+    "Psychological Manipulation",
+    "Seduction and Asset Handling",
+    "Cryptography",
+    "Basic Arcane Threat Assessment"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Field Operative",
+        "Asset Acquisition Specialist"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Weapon",
+      "Description": [
+        "SIG Sauer P365 with a custom-milled slide, kept in a concealed IWB holster."
+      ]
+    },
+    {
+      "ItemType": "Gadget",
+      "Description": [
+        "A watch that functions as a dead drop locator and emergency beacon.",
+        "A set of micro lockpicks disguised as hairpins."
+      ]
+    },
+    {
+      "ItemType": "Personal",
+      "Description": [
+        "A worn, leather-bound copy of 'The Book of Five Rings' by Miyamoto Musashi."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Undercover",
+        "Nightlife",
+        "Casual"
+      ],
+      "Items": [
+        {
+          "Type": "Top",
+          "Color": "Crimson Red",
+          "Style": "Backless Halter Top",
+          "Fabric": "Silk Blend",
+          "Size": "M",
+          "Fit": "Regular"
+        },
+        {
+          "Type": "Shorts",
+          "Color": "Faded Blue",
+          "Style": "Denim Cutoffs",
+          "Fabric": "Denim",
+          "Size": "M",
+          "Fit": "Regular"
+        },
+        {
+          "Type": "Footwear",
+          "Color": "Black",
+          "Style": "Low-profile Ankle Boots",
+          "Fabric": "Leather",
+          "Size": "M",
+          "Fit": "Regular"
+        },
+        {
+          "Type": "Accessory",
+          "Color": "Steel",
+          "Style": "Minimalist Digital Watch",
+          "Fabric": "Metal",
+          "Size": "M",
+          "Fit": "Regular"
+        }
+      ]
+    },
+    {
+      "Usage": [
+        "Field Operation",
+        "Tactical"
+      ],
+      "Items": [
+        {
+          "Type": "Full Body Suit",
+          "Color": "Matte Black",
+          "Style": "Form-fitting Tactical Suit",
+          "Fabric": "Kevlar-weave Polymer",
+          "Size": "M",
+          "Fit": "Regular"
+        },
+        {
+          "Type": "Footwear",
+          "Color": "Black",
+          "Style": "Soft-soled Combat Boots",
+          "Fabric": "Reinforced Ballistic Nylon",
+          "Size": "M",
+          "Fit": "Regular"
+        },
+        {
+          "Type": "Harness",
+          "Color": "Black",
+          "Style": "Thigh Rig Holster and Utility Belt",
+          "Fabric": "Nylon Webbing",
+          "Size": "M",
+          "Fit": "Regular"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

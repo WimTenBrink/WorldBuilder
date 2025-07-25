@@ -1,0 +1,262 @@
+{
+  "id": "char_1753355022810",
+  "Version": "1.0",
+  "Created": "2024-05-23T18:00",
+  "Age": 38,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Kenji",
+    "LastName": "Takahashi",
+    "Race": "Human",
+    "Gender": "Male",
+    "Names": [
+      "Kestrel"
+    ],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "He/Him"
+  ],
+  "Sexuality": "Asexual",
+  "Size": {
+    "Height": 180,
+    "Weight": 78,
+    "BMI": 24.1
+  },
+  "Birth": {
+    "BirthDateTime": "1986-05-11",
+    "BornCity": "Kyoto",
+    "BornCountry": "Japan",
+    "Nationality": [
+      "Japanese"
+    ]
+  },
+  "IQ": 135,
+  "Naked": [
+    "Kenji possesses a lean, wiry physique honed by years of intense training, with well-defined muscles that speak to function over form.",
+    "His body is a roadmap of his dangerous profession, marked by several thin, pale scars on his torso and arms.",
+    "He views his body as a tool and is completely detached from it, maintaining a professional and private demeanor, showing no comfort with nudity outside of purely functional contexts."
+  ],
+  "Story": [
+    "Publicly, Kenji is a talent scout for 'Kestrel Talent & Acquisitions'. In reality, this is a cover for his true role as a 'Handler' for a clandestine intelligence organization known only as The Directorate.",
+    "The Directorate operates in the shadows of a world where high fantasy elements are real but hidden from the general populace. He is a key player in a modern 'Cold War' between powerful factions vying for control over magical resources and artifacts.",
+    "His current assignment is to monitor 'The Gilded Stool,' a known neutral zone and nexus of supernatural energies. He is there to identify individuals with latent magical abilities who could be recruited or neutralized.",
+    "He observes Seraphina's dance not as a performance, but as a massive, uncontrolled discharge of raw magical energy. Her 'star quality' is a burgeoning aura powerful enough to be felt across the room. She has become his highest priority target for assessment.",
+    "His affable smile is a well-practiced mask, a disarming tool used to hide his constant analysis and calculation as he navigates a world of deception and imminent threat."
+  ],
+  "Residence": "A sterile, high-security apartment in the city's financial district, registered under a cover identity.",
+  "BodyMarks": [
+    {
+      "Name": "Tattoo",
+      "Location": "Inner left wrist",
+      "Description": "A small, minimalist tattoo of a kestrel in flight, rendered in a single line of black ink. It's usually concealed by his watch.",
+      "Details": [
+        "This is not merely ink, but a magical sigil that serves as a communication relay to The Directorate and provides a minor ward against mental intrusion."
+      ]
+    },
+    {
+      "Name": "Scar",
+      "Location": "Right forearm",
+      "Description": "A thin, 4-inch-long scar that is slightly paler than the surrounding skin.",
+      "Details": [
+        "Received from a deflected dagger during an extraction mission in Istanbul."
+      ]
+    },
+    {
+      "Name": "Scar",
+      "Location": "Left shoulder blade",
+      "Description": "A cluster of small, puckered scars.",
+      "Details": [
+        "Shrapnel wounds from an arcane explosive device."
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Black"
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Short",
+            "Neatly styled",
+            "Professional"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Dark brown"
+          ]
+        },
+        {
+          "Name": "Look",
+          "Descriptions": [
+            "Sharp",
+            "Observant",
+            "Analytical"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Details": [
+        {
+          "Name": "Expression",
+          "Descriptions": [
+            "Often seen with a slight, friendly smile that rarely reaches his eyes."
+          ]
+        },
+        {
+          "Name": "Features",
+          "Descriptions": [
+            "Clean-shaven",
+            "Defined jawline"
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Person of Interest / Potential Asset",
+      "FirstName": "Seraphina",
+      "LastName": "Unknown",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human (Latent Mage)",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Field Asset / Informant",
+      "FirstName": "Miki",
+      "LastName": "Sato",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Calm",
+    "Calculating",
+    "Patient",
+    "Highly observant",
+    "Pragmatic",
+    "Maintains a friendly but emotionally distant facade",
+    "Ruthless when the mission requires it"
+  ],
+  "Languages": [
+    "Japanese (Native)",
+    "English (Fluent)",
+    "Russian (Fluent)",
+    "Sylvan (Conversational)"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Kestrel",
+    "FavoriteColor": "Charcoal Gray",
+    "FavoriteDrink": "Black coffee",
+    "FavoriteFood": "Onigiri",
+    "FavoritePlant": "Bonsai Tree"
+  },
+  "Skills": [
+    "Psychological analysis",
+    "Infiltration and exfiltration",
+    "Hand-to-hand combat (Krav Maga)",
+    "Firearms proficiency",
+    "Disguise and impersonation",
+    "Aura sensing",
+    "Arcane Sigil recognition"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Handler",
+        "Field Analyst",
+        "Talent Scout"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Personal Device",
+      "Description": [
+        "A classic-looking wristwatch that functions as a secure communication device and biometric scanner."
+      ]
+    },
+    {
+      "ItemType": "Weaponry",
+      "Description": [
+        "A fountain pen containing a single dose of a potent, fast-acting neurotoxin."
+      ]
+    },
+    {
+      "ItemType": "Documents",
+      "Description": [
+        "A wallet containing multiple, layered cover identities with corresponding credit cards and IDs."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Casual",
+        "Undercover",
+        "Observation"
+      ],
+      "Items": [
+        {
+          "Type": "Shirt",
+          "Color": "White",
+          "Style": "Dress shirt",
+          "Fabric": "Cotton",
+          "Size": "M",
+          "Fit": "Tailored"
+        },
+        {
+          "Type": "Shorts",
+          "Color": "Dark Gray",
+          "Style": "Chino shorts",
+          "Fabric": "Twill",
+          "Size": "M",
+          "Fit": "Regular"
+        },
+        {
+          "Type": "Footwear",
+          "Color": "Brown",
+          "Style": "Leather loafers",
+          "Fabric": "Leather",
+          "Size": "M",
+          "Fit": "Regular"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

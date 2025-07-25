@@ -1,0 +1,201 @@
+{
+  "id": "char_1753364498767",
+  "Version": "1.0",
+  "Created": "2024-05-15T12:00:00Z",
+  "Age": 28,
+  "Worlds": [
+    "Viking Age Scandinavia"
+  ],
+  "Name": {
+    "FirstName": "Freya",
+    "LastName": "Bloodaxe",
+    "Race": "Norse",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "she/her"
+  ],
+  "Sexuality": "Homosexual",
+  "Size": {
+    "Height": 1.7,
+    "Weight": 70,
+    "BMI": 242214.5
+  },
+  "Birth": {
+    "BirthDateTime": "0980-05-15T00:00:00Z",
+    "BornCity": "Fjordskaal",
+    "BornCountry": "Norway",
+    "Nationality": [
+      "Norse"
+    ]
+  },
+  "IQ": 115,
+  "Naked": [
+    "Strong, muscular build",
+    "Several battle scars",
+    "No visible tattoos",
+    "No piercings"
+  ],
+  "Story": [
+    "Freya Bloodaxe, the eldest of three formidable shieldmaiden sisters, was born and raised in the rugged Viking village of Fjordskaal. From a young age, she was trained in the ways of combat and survival, her natural leadership quickly emerging. She witnessed firsthand the devastating impact of Christian raids on her people and developed an unwavering hatred for their encroaching faith. This animosity fuels her fierce dedication to protecting her family and upholding the old ways. Freya is deeply devoted to her sisters, Astrid and Helga, and together they form an unbreakable warrior unit, fighting for their village and their shared ideals."
+  ],
+  "Residence": "A shared longhouse in the village of Fjordskaal, Norway",
+  "BodyMarks": [
+    {
+      "Name": "Battle Scars",
+      "Location": "Arms and Torso",
+      "Description": "Several long, faded scars from sword and axe blows.",
+      "Details": []
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "General Appearance",
+      "Details": [
+        {
+          "Name": "Hair",
+          "Descriptions": [
+            "Long, thick, braided red hair.",
+            "Often adorned with simple leather ties."
+          ]
+        },
+        {
+          "Name": "Eyes",
+          "Descriptions": [
+            "Piercing blue eyes, reflecting her fierce spirit."
+          ]
+        },
+        {
+          "Name": "Physique",
+          "Descriptions": [
+            "Strong, muscular build, indicative of a life of physical labor and combat."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Sister",
+      "FirstName": "Astrid",
+      "LastName": "Bloodaxe",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Norse",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Sister",
+      "FirstName": "Helga",
+      "LastName": "Bloodaxe",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Norse",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Fierce",
+    "Protective",
+    "Strategic",
+    "Loyal",
+    "Independent",
+    "Disciplined"
+  ],
+  "Languages": [
+    "Old Norse"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Wolf",
+    "FavoriteColor": "Blood Red",
+    "FavoriteDrink": "Mead",
+    "FavoriteFood": "Smoked Salmon",
+    "FavoritePlant": "Oak Tree"
+  },
+  "Skills": [
+    "Axe mastery",
+    "Shield wall tactics",
+    "Sailing",
+    "Leadership",
+    "Survival"
+  ],
+  "Talents": [
+    "Berserker rage",
+    "Exceptional endurance",
+    "Strategic planning"
+  ],
+  "Advantages": [
+    "Exceptional combat prowess",
+    "Tactical leader",
+    "Unwavering loyalty to kin"
+  ],
+  "Disadvantages": [
+    "Intense prejudice against Christians",
+    "Stubborn and uncompromising",
+    "Slow to trust outsiders"
+  ],
+  "Employer": [
+    {
+      "Company": "Fjordskaal Village Warband",
+      "JobTitles": [
+        "Shieldmaiden",
+        "Warrior"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Weapon (Dane Axe)",
+      "Description": [
+        "A heavy Dane axe, well-maintained and sharpened.",
+        "Decorated with simple runic carvings."
+      ]
+    },
+    {
+      "ItemType": "Shield",
+      "Description": [
+        "A sturdy round shield, painted with a wolf head design."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Daily Wear",
+        "Battle Attire"
+      ],
+      "Items": [
+        {
+          "Type": "Leather Tunic",
+          "Color": "Brown",
+          "Style": "Viking",
+          "Fabric": "Leather",
+          "Size": "Medium",
+          "Fit": "Form-fitting"
+        },
+        {
+          "Type": "Wool Trousers",
+          "Color": "Dark Grey",
+          "Style": "Viking",
+          "Fabric": "Wool",
+          "Size": "Medium",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Fur-Lined Cloak",
+          "Color": "Various Browns",
+          "Style": "Viking",
+          "Fabric": "Fur and Wool",
+          "Size": "One Size",
+          "Fit": "Loose"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Eldest of the Bloodaxe sisters, takes her role as a protector seriously.",
+    "Known for her strategic thinking in battle."
+  ]
+}

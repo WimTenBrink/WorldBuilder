@@ -1,0 +1,269 @@
+{
+  "id": "char_1753355157191",
+  "Version": "1.0",
+  "Created": "2024-11-04T18:23",
+  "Age": 28,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Kael",
+    "LastName": "O'Malley",
+    "Race": "Human",
+    "Gender": "Male",
+    "Names": [],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "he",
+    "him",
+    "his"
+  ],
+  "Sexuality": "Heterosexual",
+  "Size": {
+    "Height": 183,
+    "Weight": 88,
+    "BMI": 26.3
+  },
+  "Birth": {
+    "BirthDateTime": "1196-05-15",
+    "BornCity": "Dunree",
+    "BornCountry": "Hy-Brasil",
+    "Nationality": [
+      "Hy-Brasil"
+    ]
+  },
+  "IQ": 105,
+  "Naked": [
+    "Kael possesses a muscular physique, honed from years of tribal warfare and survival on Hy-Brasil. He carries himself with a primal confidence, unashamed of his body and its capabilities. Nudity is not uncommon within his tribe, often embraced during rituals and training exercises, reinforcing their connection to nature and their physical prowess."
+  ],
+  "Story": [
+    "Kael is a respected warrior within the Hy-Brasil tribe, known for his strength, courage, and unwavering loyalty.",
+    "He has witnessed the yearly sacrifices, and while he feels conflicted about the practice, he also believes in the prosperity it brings to the village.",
+    "When Aisling, a woman he secretly admires for her spirit, is chosen for the sacrifice, Kael grapples with his conscience and the traditions of his people.",
+    "The internal conflict intensifies as the men of the village prepare to defile Aisling, and Kael must decide whether to uphold tradition or risk everything to save her."
+  ],
+  "Residence": "Dunree, Hy-Brasil",
+  "BodyMarks": [
+    {
+      "Name": "Tribal Tattoo",
+      "Location": "Upper Arm",
+      "Description": "A swirling pattern of dark ink, representing his lineage and accomplishments within the Hy-Brasil tribe.",
+      "Details": [
+        "Depicts a stylized serpent entwined with a blooming thistle.",
+        "The serpent symbolizes cunning and resilience, while the thistle represents the rugged beauty of Hy-Brasil."
+      ]
+    },
+    {
+      "Name": "Scar",
+      "Location": "Across Back",
+      "Description": "A long, jagged scar from a battle with rival tribe from the island.",
+      "Details": [
+        "A permanent reminder of his first taste of battle.",
+        "It serves as a mark of courage and his survival in combat."
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Deep ocean blue, reflecting the turbulent seas surrounding Hy-Brasil."
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Intense, often narrowed in focus, as if constantly assessing his surroundings."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Thick, dark brown, often streaked with hints of sun-bleached gold from long days spent in the island's rugged terrain."
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Long, often braided with leather and bone beads, a sign of his tribal affiliation and warrior status."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Physique",
+      "Details": [
+        {
+          "Name": "Build",
+          "Descriptions": [
+            "Muscular and powerful, honed from years of rigorous training and combat.",
+            "His body is a testament to his strength and resilience."
+          ]
+        },
+        {
+          "Name": "Skin",
+          "Descriptions": [
+            "Tanned and weathered, bearing the marks and scars of a life lived under the harsh sun and unforgiving conditions of Hy-Brasil."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Friend",
+      "FirstName": "Ronan",
+      "LastName": "MacTaggart",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Male"
+    },
+    {
+      "Relation": "Admired",
+      "FirstName": "Aisling",
+      "LastName": "O'Shea",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Loyal",
+    "Courageous",
+    "Stoic",
+    "Introspective",
+    "Conflicted"
+  ],
+  "Languages": [
+    "Gaelic",
+    "Common Tongue"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Wolfhound",
+    "FavoriteColor": "Forest Green",
+    "FavoriteDrink": "Mead",
+    "FavoriteFood": "Roasted Boar",
+    "FavoritePlant": "Thistle"
+  },
+  "Skills": [
+    "Swordsmanship",
+    "Spear Combat",
+    "Tracking",
+    "Hunting",
+    "Survival",
+    "Boating"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Warrior",
+        "Hunter"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Weapon",
+      "Description": [
+        "A longsword, crafted from the finest steel found on Hy-Brasil.",
+        "Honed and sharpened to a razor's edge."
+      ]
+    },
+    {
+      "ItemType": "Armor",
+      "Description": [
+        "A breastplate of leather, reinforced with bronze plates.",
+        "Provides moderate protection without sacrificing mobility."
+      ]
+    },
+    {
+      "ItemType": "Totem",
+      "Description": [
+        "A small bone carving of a wolf, worn around his neck.",
+        "A symbol of courage and protection."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Combat",
+        "Hunting"
+      ],
+      "Items": [
+        {
+          "Type": "Tunic",
+          "Color": "Brown",
+          "Style": "Simple",
+          "Fabric": "Linen",
+          "Size": "M",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Breeches",
+          "Color": "Dark Green",
+          "Style": "Close-fitting",
+          "Fabric": "Leather",
+          "Size": "M",
+          "Fit": "Snug"
+        },
+        {
+          "Type": "Boots",
+          "Color": "Brown",
+          "Style": "High",
+          "Fabric": "Leather",
+          "Size": "10",
+          "Fit": "Comfortable"
+        }
+      ]
+    },
+    {
+      "Usage": [
+        "Ceremonial",
+        "Tribal Gatherings"
+      ],
+      "Items": [
+        {
+          "Type": "Cloak",
+          "Color": "Dark Blue",
+          "Style": "Embroidered",
+          "Fabric": "Wool",
+          "Size": "L",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Torc",
+          "Color": "Bronze",
+          "Style": "Ornate",
+          "Fabric": "Metal",
+          "Size": "One Size",
+          "Fit": "Adjustable"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

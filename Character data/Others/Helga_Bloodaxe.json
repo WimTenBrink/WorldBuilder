@@ -1,0 +1,199 @@
+{
+  "id": "char_1753364498770",
+  "Version": "1.0",
+  "Created": "2024-05-15T12:00:00Z",
+  "Age": 22,
+  "Worlds": [
+    "Viking Age Scandinavia"
+  ],
+  "Name": {
+    "FirstName": "Helga",
+    "LastName": "Bloodaxe",
+    "Race": "Norse",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "she/her"
+  ],
+  "Sexuality": "Homosexual",
+  "Size": {
+    "Height": 1.7,
+    "Weight": 70,
+    "BMI": 242214.5
+  },
+  "Birth": {
+    "BirthDateTime": "0986-05-15T00:00:00Z",
+    "BornCity": "Fjordskaal",
+    "BornCountry": "Norway",
+    "Nationality": [
+      "Norse"
+    ]
+  },
+  "IQ": 105,
+  "Naked": [
+    "Very muscular and broad-shouldered",
+    "Boar scar on right shoulder",
+    "No visible tattoos",
+    "No piercings"
+  ],
+  "Story": [
+    "Helga Bloodaxe, the youngest but arguably strongest of the sisters, is a pillar of quiet strength. She has always followed in her older sisters' footsteps, honing her formidable physical power into a weapon against their enemies. Like Freya and Astrid, she harbors a deep-seated contempt for Christians, viewing them as a threat to their heritage and freedom. Helga is the defensive anchor of the Bloodaxe sisters, unwavering in her commitment to protecting her kin and their traditions. Though she speaks little, her loyalty and resolve are absolute."
+  ],
+  "Residence": "A shared longhouse in the village of Fjordskaal, Norway",
+  "BodyMarks": [
+    {
+      "Name": "Boar Scar",
+      "Location": "Right Shoulder",
+      "Description": "A thick, jagged scar on her right shoulder from a boar hunt.",
+      "Details": []
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "General Appearance",
+      "Details": [
+        {
+          "Name": "Hair",
+          "Descriptions": [
+            "Long, straight blonde hair, often tied back in a single, thick braid."
+          ]
+        },
+        {
+          "Name": "Eyes",
+          "Descriptions": [
+            "Calm, observant grey eyes that rarely betray emotion."
+          ]
+        },
+        {
+          "Name": "Physique",
+          "Descriptions": [
+            "Broad shoulders and a heavily muscled physique, built for brute force."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Sister",
+      "FirstName": "Freya",
+      "LastName": "Bloodaxe",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Norse",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Sister",
+      "FirstName": "Astrid",
+      "LastName": "Bloodaxe",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Norse",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Stoic",
+    "Observant",
+    "Strong-willed",
+    "Protective",
+    "Resilient",
+    "Quiet"
+  ],
+  "Languages": [
+    "Old Norse"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Bear",
+    "FavoriteColor": "Deep Blue",
+    "FavoriteDrink": "Strong Mead",
+    "FavoriteFood": "Roasted Boar",
+    "FavoritePlant": "Pine Tree"
+  },
+  "Skills": [
+    "Sword fighting",
+    "Heavy armor combat",
+    "Shield wall defense",
+    "Strength feats",
+    "Resource gathering"
+  ],
+  "Talents": [
+    "Sheer brute strength",
+    "High pain tolerance",
+    "Exceptional blacksmithing (amateur)"
+  ],
+  "Advantages": [
+    "Incredible strength",
+    "Unyielding resolve",
+    "Master of defensive combat"
+  ],
+  "Disadvantages": [
+    "Slow to anger but terrifying when enraged",
+    "Not highly articulate",
+    "Can be overly direct"
+  ],
+  "Employer": [
+    {
+      "Company": "Fjordskaal Village Warband",
+      "JobTitles": [
+        "Shieldmaiden",
+        "Guardian"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Weapon (Longsword)",
+      "Description": [
+        "A heavy, well-balanced longsword, kept meticulously sharp."
+      ]
+    },
+    {
+      "ItemType": "Shield (Kite Shield)",
+      "Description": [
+        "A large, robust kite shield, used to form a strong defensive line."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Daily Wear",
+        "Battle Attire"
+      ],
+      "Items": [
+        {
+          "Type": "Chainmail Vest",
+          "Color": "Steel Grey",
+          "Style": "Viking",
+          "Fabric": "Metal",
+          "Size": "Large",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Heavy Wool Tunic",
+          "Color": "Dark Blue",
+          "Style": "Viking",
+          "Fabric": "Wool",
+          "Size": "Large",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Thick Leather Trousers",
+          "Color": "Black",
+          "Style": "Viking",
+          "Fabric": "Leather",
+          "Size": "Large",
+          "Fit": "Loose"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Youngest sister, surprisingly strong and stoic.",
+    "Prefers the longsword and large shield for defensive combat."
+  ]
+}

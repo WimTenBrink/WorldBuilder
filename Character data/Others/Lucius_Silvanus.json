@@ -1,0 +1,247 @@
+{
+  "id": "char_1753368839828",
+  "Version": "1.0",
+  "Created": "2024-07-30T10:00:00Z",
+  "Age": 50,
+  "Worlds": [
+    "Ancient Rome",
+    "Fantasy Realm"
+  ],
+  "Name": {
+    "FirstName": "Lucius",
+    "LastName": "Silvanus",
+    "Race": "Elf",
+    "Gender": "Male",
+    "Names": [],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "he/him"
+  ],
+  "Sexuality": "Heterosexual",
+  "Size": {
+    "Height": 1.85,
+    "Weight": 80,
+    "BMI": 233747.3
+  },
+  "Birth": {
+    "BirthDateTime": "circa 300 BCE",
+    "BornCity": "Aethelgard",
+    "BornCountry": "Elven Realm",
+    "Nationality": [
+      "Elven"
+    ]
+  },
+  "IQ": 130,
+  "Naked": [
+    "Tall",
+    "lean",
+    "muscular build",
+    "pointed ears",
+    "graceful features",
+    "light skin",
+    "dark hair"
+  ],
+  "Story": [
+    "An elven commander from a mystical realm, Lucius was accidentally transported to Ancient Rome through a magical gate. He quickly adapted, using his strategic mind to rise through the ranks of the Roman army, eventually becoming a respected commander. He found love with a human noblewoman, Julia, and together they built a family in this new world."
+  ],
+  "Residence": "A grand villa in Rome, Roman Republic",
+  "BodyMarks": [],
+  "BodyParts": [
+    {
+      "Name": "Ears",
+      "Details": [
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Pointed and elegant, typical of an elf"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Dark, almost black"
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Worn long, often tied back"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Piercing emerald green"
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Wife",
+      "FirstName": "Julia",
+      "LastName": "Valeria",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Daughter",
+      "FirstName": "Aurelia",
+      "LastName": "Silvanus",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Half-Elf",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Daughter",
+      "FirstName": "Valeria",
+      "LastName": "Silvanus",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Half-Elf",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Daughter",
+      "FirstName": "Livia",
+      "LastName": "Silvanus",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Half-Elf",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Strategic",
+    "wise",
+    "protective",
+    "stern but fair",
+    "adaptable",
+    "disciplined"
+  ],
+  "Languages": [
+    "Elvish",
+    "Latin",
+    "Common Tongue (from his original realm)"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Hawk",
+    "FavoriteColor": "Forest Green",
+    "FavoriteDrink": "Wine",
+    "FavoriteFood": "Roasted Wild Boar",
+    "FavoritePlant": "Oak Tree"
+  },
+  "Skills": [
+    "Swordsmanship",
+    "Leadership",
+    "Tactics",
+    "Basic Elemental Magic",
+    "Hunting"
+  ],
+  "Talents": [
+    "Archery",
+    "Oratory",
+    "Map Reading",
+    "Survival"
+  ],
+  "Advantages": [
+    "Exceptional strategist",
+    "Arcane knowledge",
+    "Elven longevity",
+    "Natural leadership"
+  ],
+  "Disadvantages": [
+    "Alienated from his original world",
+    "Difficulty fully understanding nuanced human emotions/customs",
+    "Haunted by the magic gate mishap"
+  ],
+  "Employer": [
+    {
+      "Company": "Roman Army",
+      "JobTitles": [
+        "Commander",
+        "Legate"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Armor",
+      "Description": [
+        "High-quality Roman plate armor, custom fitted"
+      ]
+    },
+    {
+      "ItemType": "Weapon",
+      "Description": [
+        "An exquisitely crafted elven longsword",
+        "Roman gladius"
+      ]
+    },
+    {
+      "ItemType": "Artifact",
+      "Description": [
+        "A small, glowing crystal shard, a remnant of the magical gate"
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Military",
+        "Formal"
+      ],
+      "Items": [
+        {
+          "Type": "Roman military tunic",
+          "Color": "Crimson",
+          "Style": "Simple",
+          "Fabric": "Wool",
+          "Size": "M",
+          "Fit": "Tailored"
+        },
+        {
+          "Type": "Lorica Segmentata",
+          "Color": "Bronze",
+          "Style": "Simple",
+          "Fabric": "Metal",
+          "Size": "M",
+          "Fit": "Armored"
+        }
+      ]
+    },
+    {
+      "Usage": [
+        "Casual"
+      ],
+      "Items": [
+        {
+          "Type": "Toga",
+          "Color": "White",
+          "Style": "Simple",
+          "Fabric": "Linen",
+          "Size": "M",
+          "Fit": "Loose"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Known for his strategic brilliance and a hidden depth of arcane knowledge. He misses his home realm but deeply cherishes his Roman family."
+  ]
+}

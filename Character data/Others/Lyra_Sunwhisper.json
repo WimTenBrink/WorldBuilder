@@ -1,0 +1,216 @@
+{
+  "id": "char_1753355157234",
+  "Version": "1.0",
+  "Created": "2024-02-29T14:30",
+  "Age": 22,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Lyra",
+    "LastName": "Sunwhisper",
+    "Race": "Elf",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": ""
+  },
+  "Pronouns": [
+    "She/Her"
+  ],
+  "Sexuality": "Bisexual",
+  "Size": {
+    "Height": 170,
+    "Weight": 58,
+    "BMI": 20.1
+  },
+  "Birth": {
+    "BirthDateTime": "0072-05-10T10:00",
+    "BornCity": "Silverwood",
+    "BornCountry": "Eldoria",
+    "Nationality": [
+      "Eldorian"
+    ]
+  },
+  "IQ": 130,
+  "Naked": [
+    "Lyra moves with a natural grace, her lithe form a study in elegant curves. She holds no shame in her nudity, her confidence a stark contrast to the island's hidden dangers.",
+    "Her slender frame is tanned by the sun, muscles toned from years of archery and elven agility."
+  ],
+  "Story": [
+    "Lyra, a skilled archer from the elven city of Silverwood, was shipwrecked on the forbidden Isle of Aethel. She washes ashore, the sole survivor of her ship.",
+    "Her initial joy at survival is quickly replaced by the harsh reality of her surroundings, a tropical paradise concealing deadly secrets.",
+    "She must learn to survive, but her journey of survival is about to become more complicated, as the beauty of the island itself awakens desires she never knew she possessed.",
+    "She encounters other survivors, and together they must contend with dangers and discover the mysteries of this island."
+  ],
+  "Residence": "Aethel Island",
+  "BodyMarks": [
+    {
+      "Name": "Scar",
+      "Location": "Left thigh",
+      "Description": "A thin, silvery scar bisecting her thigh, a reminder of a close call with a Shadow Panther during a hunt back in Silverwood.",
+      "Details": []
+    },
+    {
+      "Name": "Tattoo",
+      "Location": "Lower back",
+      "Description": "A delicate Fleur-de-lis tattoo, inked in a deep indigo, symbolizing her elven heritage and connection to nature, and it also marks her as a target for those who would take advantage of her.",
+      "Details": []
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Silvery-blonde"
+          ]
+        },
+        {
+          "Name": "Length",
+          "Descriptions": [
+            "Long",
+            "Flowing"
+          ]
+        },
+        {
+          "Name": "Texture",
+          "Descriptions": [
+            "Silky"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Emerald Green"
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Almond-shaped"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Ears",
+      "Details": [
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Pointed",
+            "Elven"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Breasts",
+      "Details": [
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Perky",
+            "Round"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Buttocks",
+      "Details": [
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Rounded",
+            "Firm"
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Friend",
+      "FirstName": "Kiyomi",
+      "LastName": "Shadowmoon",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Enemy",
+      "FirstName": "Briella",
+      "LastName": "Stormborn",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Independent",
+    "Resilient",
+    "Curious",
+    "Caring"
+  ],
+  "Languages": [
+    "Elvish",
+    "Common"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Deer",
+    "FavoriteColor": "Silver",
+    "FavoriteDrink": "Elven Wine",
+    "FavoriteFood": "Grilled Fish",
+    "FavoritePlant": "Moonpetal Flower"
+  },
+  "Skills": [
+    "Archery",
+    "Tracking",
+    "Survival",
+    "Swordsmanship"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [],
+  "Possessions": [
+    {
+      "ItemType": "Bow and Arrows",
+      "Description": [
+        "Elven made bow and arrows, retrieved from the wreckage."
+      ]
+    },
+    {
+      "ItemType": "Cloak",
+      "Description": [
+        "A dark green cloak, that offers camouflage, but is torn and tattered from her ordeal."
+      ]
+    },
+    {
+      "ItemType": "Dagger",
+      "Description": [
+        "A small, slender dagger with a silver handle, suitable for close-quarters defense and utility."
+      ]
+    }
+  ],
+  "Dresses": [],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

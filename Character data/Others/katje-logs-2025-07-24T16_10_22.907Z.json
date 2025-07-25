@@ -1,0 +1,365 @@
+[
+  {
+    "level": "DEBUG",
+    "source": "AI",
+    "message": "Sending Imagen API request for character image.",
+    "details": {
+      "model": "imagen-3.0-generate-002",
+      "prompt": "A cartoon style portrait from the abdomen up of Astrid Bjornsdottir, a 21-year-old Norse Female. \n          Physical details: Color A practical shade of sun-bleached blonde, often appearing lighter at the ends due to prolonged exposure to sun and sea salt, with darker, earthy roots, hinting at its true, unexposed color., Texture Thick, coarse, and resilient, capable of withstanding harsh weather and the rigors of battle. It possesses a natural wave that, when unbound, suggests a wild, untamed spirit., Style Typically braided tightly into a single, sturdy plait down her back or secured in a practical bun at the nape of her neck, ensuring it stays out of the way during battle. Loose strands around her face suggest a practical, no-nonsense approach to grooming., Color A striking, clear sky-blue, piercing and intense, reflecting her observant and strategic mind. They often hold a quiet depth, betraying little emotion but much thought., Shape Set deep beneath a strong brow, almond-shaped and framed by long, pale lashes. They narrow slightly when she focuses or is deep in thought., Gaze Keen and unwavering, constantly scanning her surroundings with a quiet intensity. They convey a deep understanding of strategy and an unwavering courage., Norse. \n          They are wearing Armored tunic, Woolen trousers, Leather boots.",
+      "config": {
+        "numberOfImages": 1,
+        "outputMimeType": "image/png",
+        "aspectRatio": "3:4"
+      }
+    },
+    "id": "1753373124824-0.3434050921182026",
+    "timestamp": "2025-07-24T16:05:24.824Z"
+  },
+  {
+    "level": "ERROR",
+    "source": "AI",
+    "message": "Character image generation failed: API Key is not valid or is missing. Please go to the Settings dialog to enter a valid key.",
+    "details": "ApiError: {\"error\":{\"code\":400,\"message\":\"API key not valid. Please pass a valid API key.\",\"status\":\"INVALID_ARGUMENT\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.ErrorInfo\",\"reason\":\"API_KEY_INVALID\",\"domain\":\"googleapis.com\",\"metadata\":{\"service\":\"generativelanguage.googleapis.com\"}},{\"@type\":\"type.googleapis.com/google.rpc.LocalizedMessage\",\"locale\":\"en-US\",\"message\":\"API key not valid. Please pass a valid API key.\"}]}}",
+    "id": "1753373124855-0.33082977378794765",
+    "timestamp": "2025-07-24T16:05:24.855Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "AI",
+    "message": "Sending Imagen API request for character image.",
+    "details": {
+      "model": "imagen-3.0-generate-002",
+      "prompt": "A cartoon style portrait from the abdomen up of Astrid Bjornsdottir, a 21-year-old Norse Female. \n          Physical details: Color A practical shade of sun-bleached blonde, often appearing lighter at the ends due to prolonged exposure to sun and sea salt, with darker, earthy roots, hinting at its true, unexposed color., Texture Thick, coarse, and resilient, capable of withstanding harsh weather and the rigors of battle. It possesses a natural wave that, when unbound, suggests a wild, untamed spirit., Style Typically braided tightly into a single, sturdy plait down her back or secured in a practical bun at the nape of her neck, ensuring it stays out of the way during battle. Loose strands around her face suggest a practical, no-nonsense approach to grooming., Color A striking, clear sky-blue, piercing and intense, reflecting her observant and strategic mind. They often hold a quiet depth, betraying little emotion but much thought., Shape Set deep beneath a strong brow, almond-shaped and framed by long, pale lashes. They narrow slightly when she focuses or is deep in thought., Gaze Keen and unwavering, constantly scanning her surroundings with a quiet intensity. They convey a deep understanding of strategy and an unwavering courage., Norse. \n          They are wearing Armored tunic, Woolen trousers, Leather boots.",
+      "config": {
+        "numberOfImages": 1,
+        "outputMimeType": "image/png",
+        "aspectRatio": "3:4"
+      }
+    },
+    "id": "1753373125121-0.9486776522911645",
+    "timestamp": "2025-07-24T16:05:25.121Z"
+  },
+  {
+    "level": "ERROR",
+    "source": "AI",
+    "message": "Character image generation failed: API Key is not valid or is missing. Please go to the Settings dialog to enter a valid key.",
+    "details": "ApiError: {\"error\":{\"code\":400,\"message\":\"API key not valid. Please pass a valid API key.\",\"status\":\"INVALID_ARGUMENT\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.ErrorInfo\",\"reason\":\"API_KEY_INVALID\",\"domain\":\"googleapis.com\",\"metadata\":{\"service\":\"generativelanguage.googleapis.com\"}},{\"@type\":\"type.googleapis.com/google.rpc.LocalizedMessage\",\"locale\":\"en-US\",\"message\":\"API key not valid. Please pass a valid API key.\"}]}}",
+    "id": "1753373125153-0.16361362466532647",
+    "timestamp": "2025-07-24T16:05:25.153Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "AI",
+    "message": "Sending Imagen API request for character image.",
+    "details": {
+      "model": "imagen-4.0-ultra-generate-preview-06-06",
+      "prompt": "A cartoon style portrait from the abdomen up of Astrid Bjornsdottir, a 21-year-old Norse Female. \n          Physical details: Color A practical shade of sun-bleached blonde, often appearing lighter at the ends due to prolonged exposure to sun and sea salt, with darker, earthy roots, hinting at its true, unexposed color., Texture Thick, coarse, and resilient, capable of withstanding harsh weather and the rigors of battle. It possesses a natural wave that, when unbound, suggests a wild, untamed spirit., Style Typically braided tightly into a single, sturdy plait down her back or secured in a practical bun at the nape of her neck, ensuring it stays out of the way during battle. Loose strands around her face suggest a practical, no-nonsense approach to grooming., Color A striking, clear sky-blue, piercing and intense, reflecting her observant and strategic mind. They often hold a quiet depth, betraying little emotion but much thought., Shape Set deep beneath a strong brow, almond-shaped and framed by long, pale lashes. They narrow slightly when she focuses or is deep in thought., Gaze Keen and unwavering, constantly scanning her surroundings with a quiet intensity. They convey a deep understanding of strategy and an unwavering courage., Norse. \n          They are wearing Armored tunic, Woolen trousers, Leather boots.",
+      "config": {
+        "numberOfImages": 1,
+        "outputMimeType": "image/png",
+        "aspectRatio": "3:4"
+      }
+    },
+    "id": "1753373141688-0.9033837561671324",
+    "timestamp": "2025-07-24T16:05:41.688Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "AI",
+    "message": "Received Imagen API response for character image.",
+    "details": {
+      "generatedImages": [
+        {
+          "image": {
+            "imageBytes": "iVBORw0KGgoAAAANSUhEUgAAA4AAAAUACAIAAACZNqviAAAgAElEQVR4nOx967akPI6l5Dg97/8aXfWInYHmh7HY3pKNIYiTX/WMVq6TBBhZknXzFf3Xv/6lqiJiZiKiqqZiZmpS74vIJiYiamJmUlRV92vZRESkmJkXdrB6Y9sfqWqtAuvy+47Bizkl9RW1A/P+ClRY... (truncated, original length: 1233644)",
+            "mimeType": "image/png"
+          },
+          "safetyAttributes": {}
+        }
+      ]
+    },
+    "id": "1753373151736-0.11810495849929803",
+    "timestamp": "2025-07-24T16:05:51.736Z"
+  },
+  {
+    "level": "INFO",
+    "source": "AI",
+    "message": "Character image generated successfully.",
+    "details": {
+      "id": "char_1753372073775"
+    },
+    "id": "1753373151737-0.5136259170331545",
+    "timestamp": "2025-07-24T16:05:51.737Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "AI",
+    "message": "Sending Imagen API request for character image.",
+    "details": {
+      "model": "imagen-4.0-ultra-generate-preview-06-06",
+      "prompt": "A cartoon style portrait from the abdomen up of Astrid Bjornsdottir, a 21-year-old Norse Female. \n          Physical details: Color Sun-bleached blonde, almost white at the tips from exposure to sea and sun., Style Thick, often braided tightly or kept short for practicality in combat, sometimes a few strands escape framing her stern face., Texture Coarse and strong, resilient like a horse's mane., Color Piercing ice-blue, reflecting the cold northern seas and her unwavering resolve., Shape Slightly narrowed, giving her a perpetually watchful and serious gaze, well-suited for scanning horizons or battlefields., Expression Often stoic and focused, rarely betraying inner turmoil, but capable of conveying fierce determination., Norse. \n          They are wearing Leather Tunic, Woolen Trousers, Boots, Round Shield, Battle Axe.",
+      "config": {
+        "numberOfImages": 1,
+        "outputMimeType": "image/png",
+        "aspectRatio": "3:4"
+      }
+    },
+    "id": "1753373186809-0.4519347492944873",
+    "timestamp": "2025-07-24T16:06:26.809Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "AI",
+    "message": "Received Imagen API response for character image.",
+    "details": {
+      "generatedImages": [
+        {
+          "image": {
+            "imageBytes": "iVBORw0KGgoAAAANSUhEUgAAA4AAAAUACAIAAACZNqviAAAgAElEQVR4nOy9668tSZYf9Fsrcp9zb92qulU11T3TM8LAJ8ugEcjGlhnN2EIDBgRjLIz5gPh3+GI+YCMYCyOZh0ACJCQQ2LLFgLBAYwGWPfYwPdN2Y/X0o6ofVV2PW1X3nnMy1uLDWhG5MjL3Pvs8d+59... (truncated, original length: 1539784)",
+            "mimeType": "image/png"
+          },
+          "safetyAttributes": {}
+        }
+      ]
+    },
+    "id": "1753373195822-0.7492276710608605",
+    "timestamp": "2025-07-24T16:06:35.822Z"
+  },
+  {
+    "level": "INFO",
+    "source": "AI",
+    "message": "Character image generated successfully.",
+    "details": {
+      "id": "char_1753372335607"
+    },
+    "id": "1753373195822-0.36786884922251517",
+    "timestamp": "2025-07-24T16:06:35.822Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "AI",
+    "message": "Sending Imagen API request for character image.",
+    "details": {
+      "model": "imagen-4.0-ultra-generate-preview-06-06",
+      "prompt": "A cartoon style portrait from the abdomen up of Astrid Bjornsdottir, a 21-year-old Norse Female. \n          Physical details: Length Long, thick, and cascading down her back, Color The color of spun gold, streaked with lighter highlights from sun exposure, Style Often braided meticulously, sometimes with small leather thongs or metal beads woven in, but capable of being wild when unbound, Color Piercing and clear, the color of a stormy sea on a winter's day, Shape Almond-shaped, set deep under well-defined brows, Expression Usually calm and observant, but can harden to steel in battle or soften with warmth for her crew, Norse. \n          They are wearing Woolen Tunic, Leather Trousers, Leather Boots, Thick Woolen Cloak.",
+      "config": {
+        "numberOfImages": 1,
+        "outputMimeType": "image/png",
+        "aspectRatio": "3:4"
+      }
+    },
+    "id": "1753373296153-0.3654620332806555",
+    "timestamp": "2025-07-24T16:08:16.153Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "AI",
+    "message": "Received Imagen API response for character image.",
+    "details": {
+      "generatedImages": [
+        {
+          "image": {
+            "imageBytes": "iVBORw0KGgoAAAANSUhEUgAAA4AAAAUACAIAAACZNqviAAAgAElEQVR4nOy9eZQkyX0e9v1+kVV9zEzP7Ozu7M5eWOxiD2AXF5cESUEgAIsryKQFQSIoyTos2eKjbR3Pfs/W87MuS/KTqOvZtGxREiWeMmVZsniApEgQJEiBAEiAIM7dOfqce/qYvu+ujPj5j4jMisrM... (truncated, original length: 1194140)",
+            "mimeType": "image/png"
+          },
+          "safetyAttributes": {}
+        }
+      ]
+    },
+    "id": "1753373305814-0.5519746015424439",
+    "timestamp": "2025-07-24T16:08:25.814Z"
+  },
+  {
+    "level": "INFO",
+    "source": "AI",
+    "message": "Character image generated successfully.",
+    "details": {
+      "id": "char_1753372266430"
+    },
+    "id": "1753373305814-0.443807557861713",
+    "timestamp": "2025-07-24T16:08:25.814Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "AI",
+    "message": "Sending Imagen API request for character image.",
+    "details": {
+      "model": "imagen-4.0-ultra-generate-preview-06-06",
+      "prompt": "A cartoon style portrait from the abdomen up of Freya Bjornsdottir, a 21-year-old Norse Female. \n          Physical details: Color and Texture A striking blend of flaxen blonde and light brown, often appearing sun-kissed., Thick and lustrous, maintained through practical braiding, often adorned with simple leather bands., Style Typically styled in intricate, tight braids that keep it neatly out of the way during combat, reflecting discipline and readiness., It can also be seen in a robust, functional ponytail when time for braiding is scarce., Color Piercing arctic blue, capable of conveying intense focus or steely resolve., They hold a glint of the northern seas and a deep, observant quality., Shape Almond-shaped, slightly hooded, contributing to her watchful and assessing gaze., The corners show faint lines from squinting against sun and wind., Expression A sharp, unwavering expression, indicative of her bravery and disciplined nature., They soften only when among trusted companions, revealing a fierce loyalty., Norse. \n          They are wearing Tunic, Trousers, Boots.",
+      "config": {
+        "numberOfImages": 1,
+        "outputMimeType": "image/png",
+        "aspectRatio": "3:4"
+      }
+    },
+    "id": "1753373319953-0.7415907685862113",
+    "timestamp": "2025-07-24T16:08:39.953Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "HTTP",
+    "message": "Requesting employee data from /employees.md",
+    "id": "1753373327382-0.8939826470434996",
+    "timestamp": "2025-07-24T16:08:47.382Z"
+  },
+  {
+    "level": "ERROR",
+    "source": "HTTP",
+    "message": "Failed to fetch employee data.",
+    "details": {
+      "status": 404,
+      "statusText": "Not Found"
+    },
+    "id": "1753373327529-0.15411875967972766",
+    "timestamp": "2025-07-24T16:08:47.530Z"
+  },
+  {
+    "level": "ERROR",
+    "source": "HTTP",
+    "message": "Failed to load employee data.",
+    "details": "Error: HTTP error! status: 404",
+    "id": "1753373327530-0.4841124477096812",
+    "timestamp": "2025-07-24T16:08:47.530Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "AI",
+    "message": "Received Imagen API response for character image.",
+    "details": {
+      "generatedImages": [
+        {
+          "image": {
+            "imageBytes": "iVBORw0KGgoAAAANSUhEUgAAA4AAAAUACAIAAACZNqviAAAgAElEQVR4nOx9d5xcR5XuOafu7TA9UZpRloMcZNmWLGdwwDhgHPAabJwNGOMHC49l2YUFE94uLLD72N2HzRK8YMDGBGNwxjljW07IlmRLlq08CiNpNHmm071V57w/6nar1T1RmtA9ut8f8+vpuVPpVvjq... (truncated, original length: 1147248)",
+            "mimeType": "image/png"
+          },
+          "safetyAttributes": {}
+        }
+      ]
+    },
+    "id": "1753373328666-0.13460039263183932",
+    "timestamp": "2025-07-24T16:08:48.666Z"
+  },
+  {
+    "level": "INFO",
+    "source": "AI",
+    "message": "Character image generated successfully.",
+    "details": {
+      "id": "char_1753372190585"
+    },
+    "id": "1753373328666-0.23426075481441289",
+    "timestamp": "2025-07-24T16:08:48.666Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "HTTP",
+    "message": "Requesting employee data from /employees.md",
+    "id": "1753373336530-0.14399790273074742",
+    "timestamp": "2025-07-24T16:08:56.530Z"
+  },
+  {
+    "level": "ERROR",
+    "source": "HTTP",
+    "message": "Failed to fetch employee data.",
+    "details": {
+      "status": 404,
+      "statusText": "Not Found"
+    },
+    "id": "1753373336565-0.5703435187370358",
+    "timestamp": "2025-07-24T16:08:56.565Z"
+  },
+  {
+    "level": "ERROR",
+    "source": "HTTP",
+    "message": "Failed to load employee data.",
+    "details": "Error: HTTP error! status: 404",
+    "id": "1753373336565-0.02240509450972994",
+    "timestamp": "2025-07-24T16:08:56.565Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "AI",
+    "message": "Sending Imagen API request for character image.",
+    "details": {
+      "model": "imagen-4.0-ultra-generate-preview-06-06",
+      "prompt": "A cartoon style portrait from the abdomen up of Freya Bjornsdottir, a 21-year-old Norse Female. \n          Physical details: Color and Texture A striking blend of flaxen blonde and light brown, often appearing sun-kissed., Thick and lustrous, maintained through practical braiding, often adorned with simple leather bands., Style Typically styled in intricate, tight braids that keep it neatly out of the way during combat, reflecting discipline and readiness., It can also be seen in a robust, functional ponytail when time for braiding is scarce., Color Piercing arctic blue, capable of conveying intense focus or steely resolve., They hold a glint of the northern seas and a deep, observant quality., Shape Almond-shaped, slightly hooded, contributing to her watchful and assessing gaze., The corners show faint lines from squinting against sun and wind., Expression A sharp, unwavering expression, indicative of her bravery and disciplined nature., They soften only when among trusted companions, revealing a fierce loyalty., Norse. \n          They are wearing Tunic, Trousers, Boots.",
+      "config": {
+        "numberOfImages": 1,
+        "outputMimeType": "image/png",
+        "aspectRatio": "3:4"
+      }
+    },
+    "id": "1753373338592-0.3373964735683981",
+    "timestamp": "2025-07-24T16:08:58.592Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "AI",
+    "message": "Received Imagen API response for character image.",
+    "details": {
+      "generatedImages": [
+        {
+          "image": {
+            "imageBytes": "iVBORw0KGgoAAAANSUhEUgAAA4AAAAUACAIAAACZNqviAAAgAElEQVR4nOy9ebxlVXUu+o0x196nqY6iqmgLDEgpvXTSiYgEEBBRVESxIzaJilejJsaYvDTm5t0kxpubxJsXH75oNMSo18QOjQqoERUQRYGSRnqqo6iqU6c/Z+81x3h/zLXmnnut3Z1+73PW9+NXrLP2... (truncated, original length: 1069284)",
+            "mimeType": "image/png"
+          },
+          "safetyAttributes": {}
+        }
+      ]
+    },
+    "id": "1753373347584-0.9296295153700258",
+    "timestamp": "2025-07-24T16:09:07.584Z"
+  },
+  {
+    "level": "INFO",
+    "source": "AI",
+    "message": "Character image generated successfully.",
+    "details": {
+      "id": "char_1753372190585"
+    },
+    "id": "1753373347584-0.6809270207524992",
+    "timestamp": "2025-07-24T16:09:07.584Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "HTTP",
+    "message": "Requesting employee data from /employees.md",
+    "id": "1753373355590-0.46152637758185744",
+    "timestamp": "2025-07-24T16:09:15.590Z"
+  },
+  {
+    "level": "ERROR",
+    "source": "HTTP",
+    "message": "Failed to fetch employee data.",
+    "details": {
+      "status": 404,
+      "statusText": "Not Found"
+    },
+    "id": "1753373355675-0.8246494224843651",
+    "timestamp": "2025-07-24T16:09:15.675Z"
+  },
+  {
+    "level": "ERROR",
+    "source": "HTTP",
+    "message": "Failed to load employee data.",
+    "details": "Error: HTTP error! status: 404",
+    "id": "1753373355675-0.8309672208747885",
+    "timestamp": "2025-07-24T16:09:15.675Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "HTTP",
+    "message": "Requesting employee data from /employees.md",
+    "id": "1753373414873-0.11137221794717467",
+    "timestamp": "2025-07-24T16:10:14.873Z"
+  },
+  {
+    "level": "DEBUG",
+    "source": "HTTP",
+    "message": "Received employee data.",
+    "details": {
+      "length": 18657
+    },
+    "id": "1753373414923-0.600437044223273",
+    "timestamp": "2025-07-24T16:10:14.923Z"
+  }
+]

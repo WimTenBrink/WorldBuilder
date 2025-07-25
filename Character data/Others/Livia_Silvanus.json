@@ -1,0 +1,200 @@
+{
+  "id": "char_1753368839831",
+  "Version": "1.0",
+  "Created": "2024-07-30T10:00:00Z",
+  "Age": 17,
+  "Worlds": [
+    "Ancient Rome"
+  ],
+  "Name": {
+    "FirstName": "Livia",
+    "LastName": "Silvanus",
+    "Race": "Half-Elf",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "she/her"
+  ],
+  "Sexuality": "Undetermined",
+  "Size": {
+    "Height": 1.63,
+    "Weight": 50,
+    "BMI": 188189.2
+  },
+  "Birth": {
+    "BirthDateTime": "circa 283 BCE",
+    "BornCity": "Rome",
+    "BornCountry": "Roman Republic",
+    "Nationality": [
+      "Roman",
+      "Half-Elven"
+    ]
+  },
+  "IQ": 110,
+  "Naked": [
+    "Youthful",
+    "slender build",
+    "still growing into her features",
+    "fair skin",
+    "light brown hair"
+  ],
+  "Story": [
+    "The youngest daughter, Livia is a sensitive and artistically inclined soul. She observes the world with a keen eye for beauty, often sketching the landscapes and people of Rome. She seems to possess a subtle, innate connection to the magical world, a trait she shares with her elven father."
+  ],
+  "Residence": "A grand villa in Rome, Roman Republic",
+  "BodyMarks": [],
+  "BodyParts": [
+    {
+      "Name": "Ears",
+      "Details": [
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Slightly pointed, more subtle than her father's"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Light brown, almost auburn"
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Often loose or decorated with flowers"
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Father",
+      "FirstName": "Lucius",
+      "LastName": "Silvanus",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Elf",
+      "Gender": "Male"
+    },
+    {
+      "Relation": "Mother",
+      "FirstName": "Julia",
+      "LastName": "Valeria",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Sister",
+      "FirstName": "Aurelia",
+      "LastName": "Silvanus",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Half-Elf",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Sister",
+      "FirstName": "Valeria",
+      "LastName": "Silvanus",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Half-Elf",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Creative",
+    "empathetic",
+    "gentle",
+    "dreamy",
+    "observant",
+    "sensitive"
+  ],
+  "Languages": [
+    "Latin (fluent)",
+    "Elvish (basic, picking up more)"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Dolphin",
+    "FavoriteColor": "Lavender",
+    "FavoriteDrink": "Sweetened Milk",
+    "FavoriteFood": "Honey Cakes",
+    "FavoritePlant": "Sunflower"
+  },
+  "Skills": [
+    "Drawing",
+    "Painting",
+    "Singing",
+    "Playing a simple flute",
+    "Observation"
+  ],
+  "Talents": [
+    "Artistic expression",
+    "Melody composition",
+    "Sketching portraits"
+  ],
+  "Advantages": [
+    "Highly creative",
+    "Empathetic",
+    "Intuitive connection to nature/magic"
+  ],
+  "Disadvantages": [
+    "Easily overwhelmed by conflict or negativity",
+    "Can be naive"
+  ],
+  "Employer": [],
+  "Possessions": [
+    {
+      "ItemType": "Art Supplies",
+      "Description": [
+        "A well-worn sketchbook and various charcoal sticks and pigments"
+      ]
+    },
+    {
+      "ItemType": "Musical Instrument",
+      "Description": [
+        "A small, wooden flute"
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Daily",
+        "Artistic pursuits"
+      ],
+      "Items": [
+        {
+          "Type": "Flowing Tunic",
+          "Color": "Soft pastels",
+          "Style": "Simple",
+          "Fabric": "Light linen",
+          "Size": "M",
+          "Fit": "Loose and comfortable"
+        },
+        {
+          "Type": "Shawl",
+          "Color": "Colorful, patterned",
+          "Style": "Simple",
+          "Fabric": "Light wool",
+          "Size": "M",
+          "Fit": "Draped"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Aspiring artist, easily moved by beauty and emotion. She has a gentle disposition but can be surprisingly insightful."
+  ]
+}

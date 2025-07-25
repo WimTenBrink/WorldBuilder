@@ -1,0 +1,688 @@
+{
+  "id": "char_1753372588755",
+  "Version": "1.0",
+  "Created": "2024-07-30T10:30:00Z",
+  "Age": 21,
+  "Worlds": [
+    "Viking Age Scandinavia",
+    "Norse Mythology (elements)"
+  ],
+  "Name": {
+    "FirstName": "Ingrid",
+    "LastName": "Karlsson",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [
+      "Ingrid 'The Ironheart' Karlsson"
+    ],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "she",
+    "her"
+  ],
+  "Sexuality": "Homosexual",
+  "Size": {
+    "Height": 1.73,
+    "Weight": 68.3,
+    "BMI": 228206.8
+  },
+  "Birth": {
+    "BirthDateTime": "1001-07-15T00:00:00Z",
+    "BornCity": "Stavanger",
+    "BornCountry": "Norway",
+    "Nationality": [
+      "Norse"
+    ]
+  },
+  "IQ": 130,
+  "Naked": [
+    "Muscular",
+    "Scarred from training and battles",
+    "No significant body hair"
+  ],
+  "Story": [
+    "Ingrid grew up in a coastal village, hearing tales of shieldmaidens from a young age. Driven by a desire for purpose and adventure, she trained relentlessly, honing her combat skills and developing a keen mind for tactics. She joined the 'Seawolf' crew after proving her mettle in several skirmishes, quickly earning respect for her steady hand and sharp intellect. She is known for her calm demeanor in the chaos of battle, often taking charge of defensive formations or planning ambushes. Her bond with her shield-sister, Freya, is a cornerstone of her life, providing both companionship and unwavering support on their voyages."
+  ],
+  "Residence": "The longship 'Seawolf'",
+  "BodyMarks": [
+    {
+      "Name": "Knotwork Tattoo",
+      "Location": "Left forearm",
+      "Description": "An intricate knotwork design, symbolizing strength and interconnectedness.",
+      "Details": [
+        "Black ink",
+        "Covers a significant portion of the forearm"
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Body",
+      "Details": [
+        {
+          "Name": "Physique",
+          "Descriptions": [
+            "Strong and muscular, showing years of rigorous training.",
+            "Well-defined, powerful legs."
+          ]
+        },
+        {
+          "Name": "Hands",
+          "Descriptions": [
+            "Calloused and strong, perfect for wielding an axe or shield."
+          ]
+        },
+        {
+          "Name": "Eyes",
+          "Descriptions": [
+            "Intense, piercing blue eyes that convey determination and strategic thought."
+          ]
+        }
+      ]
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Ash blonde",
+            "Sun-streaked from outdoor life"
+          ],
+          "Name": "Color"
+        },
+        {
+          "Descriptions": [
+            "Thick",
+            "Braided for practicality in combat"
+          ],
+          "Name": "Style"
+        },
+        {
+          "Descriptions": [
+            "Slightly coarse",
+            "Resilient from sea air exposure"
+          ],
+          "Name": "Texture"
+        }
+      ],
+      "Name": "Hair"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Oval",
+            "Strong jawline indicating resolve"
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Unmarred",
+            "Broad and intelligent"
+          ],
+          "Name": "Forehead"
+        },
+        {
+          "Descriptions": [
+            "Composed",
+            "Often thoughtful and alert"
+          ],
+          "Name": "Expression"
+        }
+      ],
+      "Name": "Head"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Piercing blue",
+            "Like deep Nordic fjords"
+          ],
+          "Name": "Color"
+        },
+        {
+          "Descriptions": [
+            "Almond-shaped",
+            "Slightly hooded, giving an intense look"
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Observant",
+            "Calm and focused, even in chaos"
+          ],
+          "Name": "Gaze"
+        }
+      ],
+      "Name": "Eyes"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Straight",
+            "Slightly aquiline"
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Defined",
+            "Reflecting strength of character"
+          ],
+          "Name": "Bridge"
+        },
+        {
+          "Descriptions": [
+            "Narrow",
+            "Balanced with the rest of her features"
+          ],
+          "Name": "Tip"
+        }
+      ],
+      "Name": "Nose"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Medium",
+            "Close-set to the head"
+          ],
+          "Name": "Size"
+        },
+        {
+          "Descriptions": [
+            "Attached",
+            "Unadorned for practicality"
+          ],
+          "Name": "Lobe"
+        },
+        {
+          "Descriptions": [
+            "None",
+            "Suitable for a combat-oriented life"
+          ],
+          "Name": "Piercings"
+        }
+      ],
+      "Name": "Ears"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Medium fullness",
+            "Natural pink hue"
+          ],
+          "Name": "Lips"
+        },
+        {
+          "Descriptions": [
+            "Well-defined",
+            "Often set in a firm line of determination"
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Rare",
+            "Warm and genuine when it appears"
+          ],
+          "Name": "Smile"
+        }
+      ],
+      "Name": "Mouth"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Strong",
+            "Muscular and well-defined"
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Average",
+            "Proportional to her height and build"
+          ],
+          "Name": "Length"
+        },
+        {
+          "Descriptions": [
+            "Taut",
+            "Shows definition from combat training"
+          ],
+          "Name": "Features"
+        }
+      ],
+      "Name": "Neck"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Broad",
+            "Powerful, indicative of a shieldmaiden"
+          ],
+          "Name": "Width"
+        },
+        {
+          "Descriptions": [
+            "Well-defined",
+            "Developed from sword and shield use"
+          ],
+          "Name": "Musculature"
+        },
+        {
+          "Descriptions": [
+            "Squared",
+            "Reflecting discipline and readiness"
+          ],
+          "Name": "Posture"
+        }
+      ],
+      "Name": "Shoulders"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Toned",
+            "Lean muscle, not bulky"
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Visible power",
+            "Capable of wielding heavy weapons with ease"
+          ],
+          "Name": "Strength"
+        },
+        {
+          "Descriptions": [
+            "Weathered",
+            "Lightly tanned from outdoor and seafaring life"
+          ],
+          "Name": "Skin"
+        }
+      ],
+      "Name": "Arms"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Practical",
+            "Strong and capable"
+          ],
+          "Name": "Size"
+        },
+        {
+          "Descriptions": [
+            "Calloused",
+            "Evidence of rigorous training and labor"
+          ],
+          "Name": "Palms"
+        },
+        {
+          "Descriptions": [
+            "Long",
+            "Dexterous, capable of both fine tasks and a firm grip"
+          ],
+          "Name": "Fingers"
+        }
+      ],
+      "Name": "Hands"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Short",
+            "Cleanly trimmed"
+          ],
+          "Name": "Condition"
+        },
+        {
+          "Descriptions": [
+            "Strong",
+            "Unpainted and unadorned"
+          ],
+          "Name": "Strength"
+        },
+        {
+          "Descriptions": [
+            "Well-maintained",
+            "For practicality rather than adornment"
+          ],
+          "Name": "Care"
+        }
+      ],
+      "Name": "Nails"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Broad",
+            "Muscular, providing a solid core"
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Strong",
+            "Provides ample lung capacity for sustained effort"
+          ],
+          "Name": "Ribcage"
+        },
+        {
+          "Descriptions": [
+            "Resilient",
+            "Shows signs of protective armor wear"
+          ],
+          "Name": "Protection"
+        }
+      ],
+      "Name": "Chest"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Flat",
+            "Highly toned and firm"
+          ],
+          "Name": "Tone"
+        },
+        {
+          "Descriptions": [
+            "Subtle muscle definition",
+            "Indicative of strong core strength"
+          ],
+          "Name": "Definition"
+        },
+        {
+          "Descriptions": [
+            "Unblemished",
+            "Reflecting good health and care"
+          ],
+          "Name": "Scars"
+        }
+      ],
+      "Name": "Abdomen"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Moderate",
+            "Strong but not overly wide for her frame"
+          ],
+          "Name": "Width"
+        },
+        {
+          "Descriptions": [
+            "Solid",
+            "Provides a stable base for movement and combat"
+          ],
+          "Name": "Structure"
+        },
+        {
+          "Descriptions": [
+            "Good range of motion",
+            "Crucial for agility in battle"
+          ],
+          "Name": "Flexibility"
+        }
+      ],
+      "Name": "Hip"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Powerful",
+            "Athletic and well-muscled"
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Well-defined calves and thighs",
+            "From running and extensive training"
+          ],
+          "Name": "Musculature"
+        },
+        {
+          "Descriptions": [
+            "Exceptional",
+            "Built for endurance during long marches and skirmishes"
+          ],
+          "Name": "Stamina"
+        }
+      ],
+      "Name": "Legs"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Proportional",
+            "Sturdy and well-formed"
+          ],
+          "Name": "Size"
+        },
+        {
+          "Descriptions": [
+            "Well-formed",
+            "Indicative of good balance and stability"
+          ],
+          "Name": "Arches"
+        },
+        {
+          "Descriptions": [
+            "Hardened",
+            "Used to rugged terrain and long voyages"
+          ],
+          "Name": "Skin"
+        }
+      ],
+      "Name": "Feet"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Female",
+            "Healthy and natural"
+          ],
+          "Name": "Form"
+        },
+        {
+          "Descriptions": [
+            "Natural",
+            "Unadorned and well-maintained"
+          ],
+          "Name": "Appearance"
+        },
+        {
+          "Descriptions": [
+            "Well-maintained",
+            "Emphasizing practicality and personal care"
+          ],
+          "Name": "Hygiene"
+        }
+      ],
+      "Name": "Genitals"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Moderate",
+            "Proportional to her athletic build"
+          ],
+          "Name": "Size"
+        },
+        {
+          "Descriptions": [
+            "Firm",
+            "Supported by strong pectoral muscles from training"
+          ],
+          "Name": "Firmness"
+        },
+        {
+          "Descriptions": [
+            "Natural",
+            "Unhindered by excessive padding or binding due to active lifestyle"
+          ],
+          "Name": "Shape"
+        }
+      ],
+      "Name": "Breasts"
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Shield-sister and Partner",
+      "FirstName": "Freya",
+      "LastName": "Bjornsdottir",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Comrades",
+      "FirstName": "All",
+      "LastName": "Shieldmaidens",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Resolute",
+    "Tactical",
+    "Calm under pressure",
+    "Deeply loyal",
+    "Observant",
+    "Disciplined"
+  ],
+  "Languages": [
+    "Old Norse"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Wolf",
+    "FavoriteColor": "Forest Green",
+    "FavoriteDrink": "Mead",
+    "FavoriteFood": "Smoked Fish",
+    "FavoritePlant": "Oak Tree"
+  },
+  "Skills": [
+    "Strategic Planning",
+    "Axe Combat (Master)",
+    "Shieldmanship (Expert)",
+    "Navigation basics",
+    "Leadership (Tactical)"
+  ],
+  "Talents": [
+    "Exceptional battlefield awareness",
+    "Adept at predicting enemy movements",
+    "Strong sense of direction"
+  ],
+  "Advantages": [
+    "Keen tactical mind",
+    "Exceptional endurance",
+    "Natural leadership"
+  ],
+  "Disadvantages": [
+    "Can be overly critical of others' plans",
+    "Sometimes struggles to delegate"
+  ],
+  "Employer": [
+    {
+      "Company": "Longship Crew 'Seawolf'",
+      "JobTitles": [
+        "Shieldmaiden",
+        "Secondary Tactician"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Battle Axe",
+      "Description": [
+        "Well-maintained, double-bladed battle axe, her primary weapon."
+      ]
+    },
+    {
+      "ItemType": "Shield",
+      "Description": [
+        "Round shield, reinforced with iron, bearing a wolf's head emblem."
+      ]
+    },
+    {
+      "ItemType": "Wooden Token",
+      "Description": [
+        "A small, intricately carved wooden raven token, a gift from a fallen comrade."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Battle",
+        "Daily Wear"
+      ],
+      "Items": [
+        {
+          "Type": "Tunic",
+          "Color": "Dark Green",
+          "Style": "Viking",
+          "Fabric": "Leather",
+          "Size": "M",
+          "Fit": "Fitted"
+        },
+        {
+          "Type": "Trousers",
+          "Color": "Brown",
+          "Style": "Practical",
+          "Fabric": "Wool",
+          "Size": "M",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Cloak",
+          "Color": "Grey",
+          "Style": "Travel",
+          "Fabric": "Wool",
+          "Size": "M",
+          "Fit": "Draped"
+        },
+        {
+          "Type": "Boots",
+          "Color": "Brown",
+          "Style": "Practical",
+          "Fabric": "Leather",
+          "Size": "M",
+          "Fit": "Snug"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Known for her unwavering resolve in combat.",
+    "Holds a position of tactical responsibility within the shieldmaiden ranks.",
+    "Values loyalty and strategic thinking above all else."
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "Version": "1.0",
+  "Created": "2024-05-18T11:20",
+  "Age": 22,
+  "Topics": [
+    "Dystopian",
+    "High Fantasy",
+    "Post-Apocalyptic"
+  ],
+  "Name": {
+    "FirstName": "Kaelen",
+    "Names": [
+      "The Ghost Blade"
+    ],
+    "LastName": "Vex",
+    "Race": "Human",
+    "Gender": "Female"
+  },
+  "Pronouns": [
+    "She/Her"
+  ],
+  "Sexuality": "Lesbian",
+  "Size": {
+    "Height": 170,
+    "Weight": 59,
+    "BMI": 20.4
+  },
+  "Birth": {
+    "BirthDateTime": "2464-07-11",
+    "BornCity": "Aethelgard Remnant",
+    "BornCountry": "The Shattered Kingdoms",
+    "Nationality": [
+      "Aethelgardian"
+    ]
+  },
+  "IQ": 125,
+  "Naked": [
+    "Kaelen has a lean, athletic build, a tapestry of wiry muscle honed by constant struggle. Her pale skin is currently a canvas of violence, crisscrossed with fresh cuts, deep purple bruises, and weeping gashes from her recent battle.",
+    "She views her body as a tool and a record of her survival, carrying no inherent shame in nudity. However, this state of total exposure, stripped of armor and dignity in the cold stone cloister, feels like a profound and unnerving failure."
+  ],
+  "Story": [
+    "Born after the Sundering, a magical cataclysm that shattered civilizations, Kaelen is a warrior of the Aethelgard Remnant, a resistance group fighting to preserve their culture against the Chimeric Dominion.",
+    "The Dominion, a technocratic magocracy, hunts those with latent magical abilities to fuel their twisted experiments. Kaelen's own bloodline carries a faint echo of this power, making her a priority target.",
+    "Her primary motivation is protecting Lyra, a gifted medic and her lover, who represents the last shred of hope and warmth in Kaelen's brutal existence. The fear of losing Lyra drives Kaelen to take ever-greater risks.",
+    "This scene finds Kaelen in the aftermath of a desperate battle at the Ruined Cloister. She successfully defended a vital escape route for other Remnant members but was overwhelmed and left for dead, her ancestral sword, Whisperwind, lying just out of reach."
+  ],
+  "Residence": "Nomadic, currently taking refuge in the Ruined Cloister of the Silent Sisters.",
+  "BodyMarks": [
+    {
+      "Name": "Scar",
+      "Location": "Left eyebrow",
+      "Description": "A thin, silvery scar that splits the arch of her eyebrow. A permanent reminder of a training accident with her first mentor.",
+      "Details": [
+        "Causes a slight, almost imperceptible twitch when she's stressed."
+      ]
+    },
+    {
+      "Name": "Tattoo",
+      "Location": "Right shoulder blade",
+      "Description": "The crest of Aethelgard: a stylized silver lily with seven petals, inked in muted grey and white.",
+      "Details": [
+        "A symbol of allegiance to the Remnant and a memorial for her lost home."
+      ]
+    },
+    {
+      "Name": "Wounds",
+      "Location": "Torso, arms, and legs",
+      "Description": "A fresh collection of deep cuts, puncture wounds, and severe bruising. The most significant is a deep gash along her ribs that bleeds sluggishly.",
+      "Details": [
+        "Acquired during her last stand against Dominion Enforcers.",
+        "Painfully attest to the ferocity of the fight she just survived."
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Pale Purple",
+            "Lilac"
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Shoulder-length",
+            "Often tied back but currently loose and matted with blood and dirt."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Piercing silver"
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Almond-shaped, intense, and watchful."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Body",
+      "Details": [
+        {
+          "Name": "Build",
+          "Descriptions": [
+            "Slender",
+            "Wiry",
+            "Athletic"
+          ]
+        },
+        {
+          "Name": "Skin Tone",
+          "Descriptions": [
+            "Pale",
+            "Fair"
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Lover",
+      "FirstName": "Lyra",
+      "LastName": "Solstice",
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Antagonist",
+      "FirstName": "Valerius",
+      "LastName": "Kane",
+      "Race": "Human (Cybernetically Enhanced)",
+      "Gender": "Male"
+    }
+  ],
+  "Personality": [
+    "Stoic and reserved, slow to trust.",
+    "Fiercely loyal to those she loves.",
+    "Haunted by past failures and the loss of her home.",
+    "Possesses a dry, sardonic wit that surfaces around Lyra.",
+    "Incredibly resilient, but prone to bouts of deep melancholy.",
+    "Pragmatic to a fault, often seen as cold by strangers."
+  ],
+  "Languages": [
+    "Common Tongue (Shattered Kingdoms dialect)",
+    "Old Aethelgardian (High Speech)"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Glimmerwing Moth (thought extinct)",
+    "FavoriteColor": "The deep purple of twilight",
+    "FavoriteDrink": "Moon-radish whiskey",
+    "FavoriteFood": "Smoked Scrabbler-lizard jerky",
+    "FavoritePlant": "Gravebloom"
+  },
+  "Skills": [
+    "Master Swordsmanship (Longsword)",
+    "Stealth and Infiltration",
+    "Wilderness Survival",
+    "Tracking",
+    "Pain Tolerance"
+  ],
+  "Employer": [
+    {
+      "Company": [
+        "The Aethelgard Remnant"
+      ],
+      "JobTitles": [
+        "Blade of the Remnant",
+        "Scout"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Weapon",
+      "Description": [
+        "Whisperwind: An ancestral Aethelgardian longsword. It is unnaturally light, forged from an unknown meteoric alloy, and hums faintly when drawn. The hilt is wrapped in worn, dark leather."
+      ]
+    },
+    {
+      "ItemType": "Amulet",
+      "Description": [
+        "A small, tarnished silver locket on a leather cord, gifted by Lyra. It contains a single, pressed Gravebloom petal."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Combat",
+        "Patrol"
+      ],
+      "Items": [
+        {
+          "Type": "Cuirass",
+          "Color": "Blackened Brown",
+          "Style": "Fitted",
+          "Fabric": "Hardened Leather"
+        },
+        {
+          "Type": "Gambeson",
+          "Color": "Muted Grey",
+          "Style": "Padded, patchwork",
+          "Fabric": "Canvas and layered cloth"
+        },
+        {
+          "Type": "Pants",
+          "Color": "Dark Green",
+          "Style": "Cargo",
+          "Fabric": "Durable Canvas"
+        },
+        {
+          "Type": "Boots",
+          "Color": "Dark Brown",
+          "Style": "Combat Boots",
+          "Fabric": "Scuffed Leather"
+        }
+      ]
+    }
+  ]
+}
