@@ -1,0 +1,330 @@
+{
+  "id": "char_1753355193587",
+  "Version": "1.0",
+  "Created": "2024-05-22T19:15",
+  "Age": 19,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Rhys",
+    "LastName": "Thorne",
+    "Race": "Human",
+    "Gender": "Male",
+    "Names": [
+      "Alaric"
+    ],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "he/him"
+  ],
+  "Sexuality": "Gay",
+  "Size": {
+    "Height": 180,
+    "Weight": 72,
+    "BMI": 22.2
+  },
+  "Birth": {
+    "BirthDateTime": "2005-04-11",
+    "BornCity": "Obsidian Shore",
+    "BornCountry": "Unspecified coastal nation",
+    "Nationality": [
+      "Obsidian Shore native"
+    ]
+  },
+  "IQ": 125,
+  "Naked": [
+    "Rhys has a lean, wiry build, more swimmer than weightlifter, with long limbs and defined but not bulky muscles.",
+    "His skin is fair and prone to light freckling across his shoulders and back from years spent near the sea, though he often tries to stay covered.",
+    "A fine dusting of blond hair covers his chest, thinning into a faint line down his stomach.",
+    "He is generally shy about his body, a product of his family's constant critiques, and is not comfortable with casual nudity."
+  ],
+  "Story": [
+    "Born and raised in the misty town of Obsidian Shore, Rhys is the younger son of a pragmatic family of merchants who view his passion for music and local folklore as a frivolous distraction.",
+    "He joined the Obsidian Shore Choir as an act of quiet rebellion, finding a sense of belonging and purpose he lacks at home. He sings tenor, his voice clear and resonant.",
+    "Rhys has become the choir's unofficial historian, delving into the town's archives to uncover the origins of a collection of strange, beautiful songs unique to the region. He suspects these songs are more than just music and are connected to the town's periodic, unexplained phenomena.",
+    "He is deeply loyal to his friends Corina and Seraphine, seeing them as the true heart of the choir. He worries about the powerful, almost magical effect their voices seem to have when they sing together, and is determined to understand and protect them from whatever it might attract.",
+    "His primary conflict is his coming-of-age struggle: balancing his family's demands for a 'respectable' career against his own burgeoning identity and his role in a deepening magical mystery."
+  ],
+  "Residence": "The Thorne family house, a large but austere home on the bluffs overlooking the town of Obsidian Shore.",
+  "BodyMarks": [
+    {
+      "Name": "Scar",
+      "Location": "Left knee",
+      "Description": "A thin, silvery-white scar, about two inches long, just below his left kneecap.",
+      "Details": [
+        "Acquired during a childhood accident when he slipped on wet rocks while exploring the coves near the shore."
+      ]
+    },
+    {
+      "Name": "Birthmark",
+      "Location": "Right shoulder blade",
+      "Description": "A small, pale brown birthmark shaped vaguely like a musical eighth note.",
+      "Details": [
+        "He considers it a secret sign that he was always meant for music."
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Face",
+      "Details": [
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Oval with a softly defined jawline and high cheekbones."
+          ]
+        },
+        {
+          "Name": "Eyes",
+          "Descriptions": [
+            "Large, expressive eyes the color of sea-glass, a mixture of pale green and grey.",
+            "Framed by thick, light-blond lashes."
+          ]
+        },
+        {
+          "Name": "Nose",
+          "Descriptions": [
+            "Straight and narrow, with a slight upturn at the tip."
+          ]
+        },
+        {
+          "Name": "Mouth",
+          "Descriptions": [
+            "Thin upper lip and a fuller lower lip, often held in a thoughtful or slightly worried expression."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Bright, natural blond, like sun-bleached driftwood."
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Cut relatively short but perpetually tousled by the sea breeze, with longer bangs that often fall into his eyes."
+          ]
+        },
+        {
+          "Name": "Texture",
+          "Descriptions": [
+            "Fine and soft."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Torso",
+      "Details": [
+        {
+          "Name": "Chest",
+          "Descriptions": [
+            "Slender and lightly muscled, with a defined clavicle.",
+            "Nipples are small, pale pink areolas with sensitive tips."
+          ]
+        },
+        {
+          "Name": "Stomach",
+          "Descriptions": [
+            "Flat and toned, with faint definition of his abdominal muscles.",
+            "Navel is a small, neat innie."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Genitals",
+      "Details": [
+        {
+          "Name": "Pubic Hair",
+          "Descriptions": [
+            "A tidy patch of blond hair, slightly darker than the hair on his head, covers his mons pubis."
+          ]
+        },
+        {
+          "Name": "Penis",
+          "Descriptions": [
+            "Circumcised, with a smooth shaft and a well-defined coronal ridge.",
+            "Flaccid, it is of average length and girth.",
+            "The glans is a uniform pink color, with the urethral opening appearing as a small, vertical slit."
+          ]
+        },
+        {
+          "Name": "Scrotum",
+          "Descriptions": [
+            "A tight, wrinkled sac that holds two symmetrical testicles.",
+            "The skin is a slightly darker shade than the rest of his body and covered with sparse, fine hairs."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Friend",
+      "FirstName": "Corina",
+      "LastName": "Voss",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Friend",
+      "FirstName": "Seraphine",
+      "LastName": "Lefevre",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Antagonist (Brother)",
+      "FirstName": "Darian",
+      "LastName": "Thorne",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Male"
+    }
+  ],
+  "Personality": [
+    "Observant and thoughtful, often noticing small details others miss.",
+    "Fundamentally kind and loyal to those he cares about.",
+    "Prone to anxiety, especially concerning his family and his future.",
+    "Intellectually curious and studious.",
+    "Possesses a quiet determination that often surprises people who mistake his shyness for weakness."
+  ],
+  "Languages": [
+    "English (fluent)",
+    "Old Brythonic (rudimentary, for research)"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Sandpiper",
+    "FavoriteColor": "Sea Green",
+    "FavoriteDrink": "Hot tea with honey",
+    "FavoriteFood": "Clam chowder",
+    "FavoritePlant": "Sea thrift"
+  },
+  "Skills": [
+    "Vocal Music (Tenor)",
+    "Historical Research",
+    "Music Theory",
+    "Sight-reading music",
+    "Knowledge of Local Folklore"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Tenor Vocalist"
+      ]
+    },
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Student (Musicology & History)"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Personal",
+      "Description": [
+        "A silver-plated tuning fork (A440) given to him by his late grandmother.",
+        "A worn leather satchel filled with books on local history and mythology."
+      ]
+    },
+    {
+      "ItemType": "Musical",
+      "Description": [
+        "Stacks of sheet music, some of which are his own transcriptions of local folk melodies."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Choir Rehearsal",
+        "Casual"
+      ],
+      "Items": [
+        {
+          "Type": "T-Shirt",
+          "Color": "White",
+          "Style": "Crew-neck",
+          "Fabric": "Cotton",
+          "Size": "M",
+          "Fit": "Regular"
+        },
+        {
+          "Type": "Vest",
+          "Color": "Black",
+          "Style": "Button-front",
+          "Fabric": "Cotton twill",
+          "Size": "M",
+          "Fit": "Regular"
+        },
+        {
+          "Type": "Pants",
+          "Color": "Dark Denim",
+          "Style": "Straight-leg jeans",
+          "Fabric": "Denim",
+          "Size": "M",
+          "Fit": "Regular"
+        },
+        {
+          "Type": "Footwear",
+          "Color": "Brown",
+          "Style": "Canvas sneakers",
+          "Fabric": "Canvas and rubber",
+          "Size": "M",
+          "Fit": "Regular"
+        }
+      ]
+    },
+    {
+      "Usage": [
+        "Studying",
+        "Home"
+      ],
+      "Items": [
+        {
+          "Type": "Sweater",
+          "Color": "Heather Grey",
+          "Style": "Pullover hoodie",
+          "Fabric": "Fleece",
+          "Size": "M",
+          "Fit": "Regular"
+        },
+        {
+          "Type": "Pants",
+          "Color": "Khaki",
+          "Style": "Chinos",
+          "Fabric": "Cotton",
+          "Size": "M",
+          "Fit": "Regular"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

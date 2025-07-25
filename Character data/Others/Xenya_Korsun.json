@@ -1,0 +1,296 @@
+{
+  "id": "char_1753355376970",
+  "Version": "1.0",
+  "Created": "2024-05-21T18:30",
+  "Age": 27,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Xenya",
+    "LastName": "Korsun",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [
+      "Anatolyevna"
+    ],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "She/Her"
+  ],
+  "Sexuality": "Bisexual",
+  "Size": {
+    "Height": 168,
+    "Weight": 57,
+    "BMI": 20.2
+  },
+  "Birth": {
+    "BirthDateTime": "2258-07-19",
+    "BornCity": "Gagarin Orbital Habitat",
+    "BornCountry": "Pan-Eurasian Federation",
+    "Nationality": [
+      "Pan-Eurasian"
+    ]
+  },
+  "IQ": 145,
+  "Naked": [
+    "Xenya's naked form is slender and athletic, a testament to the rigorous zero-gravity exercise regimen required for long-haul missions.",
+    "Her body is pale and smooth, unblemished by the sun. It has a wiry strength, with defined muscles along her abdomen, back, and limbs.",
+    "She has small, pert breasts that are teardrop-shaped, crowned with pale pink areolas and highly sensitive nipples that often pucker in the cool, recycled air of the ship.",
+    "Her hips are narrow and her stomach is flat and toned, with a faint, downy trail of dark hair descending from her navel.",
+    "Her vulva is neat and subtle, with a small patch of dark, closely-trimmed pubic hair. Her outer labia are soft and smooth, parting to reveal delicate, pink inner lips that enclose the sensitive nub of her clitoris and the wet opening to her vagina.",
+    "Due to her profound isolation, Xenya has developed a complete lack of inhibition regarding her own nudity, seeing her body as a biological machine to be maintained and, at times, explored with scientific detachment that often blurs into sensual indulgence."
+  ],
+  "Story": [
+    "Selected for the prestigious 'Odyssey' mission, Xenya is tasked with a solitary five-year journey to study stellar nurseries in the Perseus Arm. Now two years in, the profound isolation weighs heavily on her.",
+    "She is a brilliant astrobotanist and self-taught engineer, keeping the ship's advanced systems and hydroponic gardens in perfect order, but struggles with the absence of human contact.",
+    "To combat loneliness and explore the boundaries of self, she uses a set of experimental bio-feedback devices that interface with her neural implant, translating her biometric signals into waves of pleasure.",
+    "Her past is marked by a pirate attack on a remote research outpost she served on, an event which killed several colleagues and instilled in her a deep-seated fear of the lawless void, a fear that conflicts with her current vulnerability.",
+    "During one of her intimate sessions with the bio-feedback device, its frequency begins to resonate with the 'Odyssey's' energy core, initiating a strange and unprecedented communion between her consciousness and the ship's AI, 'Helios', blurring the line between woman and machine."
+  ],
+  "Residence": "Deep Space Vessel 'Odyssey'",
+  "BodyMarks": [
+    {
+      "Name": "Neural Interface Port",
+      "Location": "Base of the skull, at the C1 vertebra",
+      "Description": "A small, circular metallic port, flush with the skin, allowing for direct data connection to her central nervous system.",
+      "Details": [
+        "Typically covered by her short hair.",
+        "Glows with a soft blue light when active."
+      ]
+    },
+    {
+      "Name": "Scar",
+      "Location": "Left Hip",
+      "Description": "A thin, three-inch silvery scar, a permanent reminder of a shrapnel wound sustained during a pirate raid on the Kepler-186f research station.",
+      "Details": [
+        "The skin is slightly puckered and smooth to the touch."
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Rich brunette",
+            "Chestnut brown"
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Short pixie cut, practical for zero-gravity",
+            "Slightly longer at the front, often tucked behind her ear"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Deep brown, almost black in low light"
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Almond-shaped",
+            "Framed by thick, dark lashes"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Details": [
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Oval",
+            "High cheekbones and a delicate jawline"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Breasts",
+      "Details": [
+        {
+          "Name": "Size",
+          "Descriptions": [
+            "Small",
+            "A-cup"
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Pert",
+            "Teardrop shape",
+            "Firm"
+          ]
+        },
+        {
+          "Name": "Nipples",
+          "Descriptions": [
+            "Pale pink areolas",
+            "Delicate, highly sensitive nipples that are often erect"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Genitals",
+      "Details": [
+        {
+          "Name": "Pubic Hair",
+          "Descriptions": [
+            "A neat, closely-trimmed patch of dark brown hair"
+          ]
+        },
+        {
+          "Name": "Vulva",
+          "Descriptions": [
+            "Compact and symmetrical.",
+            "Fleshy, smooth outer labia.",
+            "Delicate, rose-pink inner labia that are visible.",
+            "A sensitive, pearl-like clitoral glans protected by a small hood."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Antagonist",
+      "FirstName": "Kaelen",
+      "LastName": "Voss",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human (Augmented)",
+      "Gender": "Male"
+    },
+    {
+      "Relation": "AI Companion",
+      "FirstName": "Helios",
+      "LastName": "Doe",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Artificial Intelligence",
+      "Gender": "Agender (presents as masculine voice)"
+    }
+  ],
+  "Personality": [
+    "Highly intelligent and meticulous",
+    "Introverted and introspective",
+    "Scientifically curious to the point of self-experimentation",
+    "Prone to bouts of deep melancholy and loneliness",
+    "Resilient and resourceful under pressure",
+    "Possesses a quiet, sensual nature that she explores in private"
+  ],
+  "Languages": [
+    "Pan-Eurasian Standard",
+    "English",
+    "Ship-System Technicant"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Tardigrade",
+    "FavoriteColor": "The cyan glow of Cherenkov radiation",
+    "FavoriteDrink": "Strong, synthesized coffee",
+    "FavoriteFood": "Hydroponic tomatoes with synthesized mozzarella",
+    "FavoritePlant": "Her genetically modified Lunar Orchids"
+  },
+  "Skills": [
+    "Astrobotany",
+    "Starship Engineering (Fusion Core Maintenance)",
+    "Neural Interface Programming",
+    "Zero-G EVA Piloting",
+    "Advanced First Aid",
+    "Defensive Systems Operation"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Mission Specialist",
+        "Astrobotanist"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Specialized Equipment",
+      "Description": [
+        "A custom set of neural-linked bio-feedback devices for sensory stimulation and psychological stability.",
+        "Advanced astrobotany toolkit with gene-splicing capabilities."
+      ]
+    },
+    {
+      "ItemType": "Personal Items",
+      "Description": [
+        "A small, worn plush tardigrade given to her by her younger brother.",
+        "A datapad containing the complete works of Dostoevsky and Pushkin."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "On-Duty"
+      ],
+      "Items": [
+        {
+          "Type": "Jumpsuit",
+          "Color": "Utility Grey",
+          "Style": "Form-fitting, with multiple pockets and reinforced knees",
+          "Fabric": "Self-repairing smart fabric",
+          "Size": "M",
+          "Fit": "Regular"
+        }
+      ]
+    },
+    {
+      "Usage": [
+        "Off-Duty",
+        "Exercise"
+      ],
+      "Items": [
+        {
+          "Type": "Tank Top",
+          "Color": "Black",
+          "Style": "Racerback",
+          "Fabric": "Soft, moisture-wicking synthetic",
+          "Size": "M",
+          "Fit": "Regular"
+        },
+        {
+          "Type": "Shorts",
+          "Color": "Dark Grey",
+          "Style": "Brief-cut athletic shorts",
+          "Fabric": "Stretch-knit",
+          "Size": "M",
+          "Fit": "Regular"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

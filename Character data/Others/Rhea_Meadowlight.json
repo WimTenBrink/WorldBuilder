@@ -1,0 +1,252 @@
+{
+  "id": "char_1753355157236",
+  "Version": "1.0",
+  "Created": "2024-07-27T18:22",
+  "Age": 22,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Rhea",
+    "LastName": "Meadowlight",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": "Meadowlight"
+  },
+  "Pronouns": [
+    "She",
+    "Her",
+    "Hers"
+  ],
+  "Sexuality": "Straight",
+  "Size": {
+    "Height": 173,
+    "Weight": 62,
+    "BMI": 20.7
+  },
+  "Birth": {
+    "BirthDateTime": "1399-04-21",
+    "BornCity": "Tarantia",
+    "BornCountry": "Aquilonia",
+    "Nationality": [
+      "Aquilonian"
+    ]
+  },
+  "IQ": 110,
+  "Naked": [
+    "Rhea possesses a lithe and athletic build, honed by her time as a handmaiden and now a huntress.",
+    "Though initially modest, the trauma she endured has hardened her. Now, she sees her body as a tool for survival and retribution, neither ashamed nor flaunting, but accepting its strength and vulnerability."
+  ],
+  "Story": [
+    "Born in the heart of Aquilonia, Rhea served as a handmaiden in the royal court.",
+    "A brutal ambush shattered her life when bandits assaulted her traveling party, leaving her the sole survivor of unspeakable horrors.",
+    "The Grim Reaper, witnessing her torment, offered her a pact: vengeance in exchange for her service after death.",
+    "Now, Rhea roams the wilderness, a huntress fueled by rage, dispensing cruel justice upon those who prey on the weak, while internally plotting and planning how to kill her tormentors."
+  ],
+  "Residence": "The Aquilonian Wilderness",
+  "BodyMarks": [
+    {
+      "Name": "Scar",
+      "Location": "Back",
+      "Description": "A network of raised scars across her lower back, a constant reminder of the bandits' cruelty.",
+      "Details": [
+        "Each scar tells a silent story of pain and violation.",
+        "They serve as a map of her suffering and a symbol of her resolve."
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Icy blue, reflecting both her noble heritage and the cold fury within."
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Sharp and piercing, capable of both captivating allure and chilling threat."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Long, dark brown hair, often braided to keep it out of her face while hunting."
+          ]
+        },
+        {
+          "Name": "Texture",
+          "Descriptions": [
+            "Wavy and thick, a stark contrast to the rough attire she now wears."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Details": [
+        {
+          "Name": "Features",
+          "Descriptions": [
+            "High cheekbones and a strong jawline, framing a face that once radiated innocence, now etched with determination and grief."
+          ]
+        },
+        {
+          "Name": "Expression",
+          "Descriptions": [
+            "Often set in a grim line, a constant reminder of the vengeance that consumes her."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Enemy",
+      "FirstName": "Vask",
+      "LastName": "Ironfang",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Male"
+    },
+    {
+      "Relation": "Bound By Oath",
+      "FirstName": "Azrael",
+      "LastName": "Nightshade",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Undead",
+      "Gender": "Male"
+    }
+  ],
+  "Personality": [
+    "Vengeful",
+    "Resilient",
+    "Haunted",
+    "Determined",
+    "Resourceful",
+    "Distrustful"
+  ],
+  "Languages": [
+    "Aquilonian (Native)",
+    "Pictish (Basic)"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Wolf",
+    "FavoriteColor": "Deep Blue",
+    "FavoriteDrink": "Spring Water",
+    "FavoriteFood": "Rabbit Stew",
+    "FavoritePlant": "Nightshade"
+  },
+  "Skills": [
+    "Archery",
+    "Tracking",
+    "Survival",
+    "Swordsmanship",
+    "Stealth",
+    "Herbalism",
+    "Endurance"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Agent of Vengeance"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Weapon",
+      "Description": [
+        "A finely crafted Aquilonian longbow, taken from one of the bandits.",
+        "Imbued with a faint ethereal energy from her pact with the Grim Reaper."
+      ]
+    },
+    {
+      "ItemType": "Clothing",
+      "Description": [
+        "Sturdy leather armor, reinforced with scavenged metal plates.",
+        "Practical for survival, offering protection without hindering movement."
+      ]
+    },
+    {
+      "ItemType": "Tool",
+      "Description": [
+        "A hunting knife, constantly sharpened and used for skinning game and self-defense.",
+        "Her only reminder of her former life."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Hunting",
+        "Survival"
+      ],
+      "Items": [
+        {
+          "Type": "Tunic",
+          "Color": "Dark Brown",
+          "Style": "Simple, practical",
+          "Fabric": "Linen",
+          "Size": "Medium",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Leather Armor",
+          "Color": "Dark Brown",
+          "Style": "Reinforced",
+          "Fabric": "Tanned Leather",
+          "Size": "Medium",
+          "Fit": "Form-fitting"
+        },
+        {
+          "Type": "Boots",
+          "Color": "Black",
+          "Style": "High",
+          "Fabric": "Leather",
+          "Size": "8",
+          "Fit": "Snug"
+        }
+      ]
+    },
+    {
+      "Usage": [
+        "Former Life"
+      ],
+      "Items": [
+        {
+          "Type": "Dress",
+          "Color": "Light Blue",
+          "Style": "Elegant",
+          "Fabric": "Silk",
+          "Size": "Small",
+          "Fit": "Form-fitting"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

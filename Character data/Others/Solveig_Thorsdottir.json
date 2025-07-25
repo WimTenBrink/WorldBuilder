@@ -1,0 +1,597 @@
+{
+  "id": "char_1753372767665",
+  "Version": "1.0",
+  "Created": "2024-07-30T12:00:00Z",
+  "Age": 21,
+  "Worlds": [
+    "Viking Age Scandinavia"
+  ],
+  "Name": {
+    "FirstName": "Solveig",
+    "LastName": "Thorsdottir",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": "Thorsdottir"
+  },
+  "Pronouns": [
+    "she",
+    "her"
+  ],
+  "Sexuality": "Homosexual",
+  "Size": {
+    "Height": 1.7,
+    "Weight": 70,
+    "BMI": 242214.5
+  },
+  "Birth": {
+    "BirthDateTime": "0980-03-15T00:00:00Z",
+    "BornCity": "Svolvær",
+    "BornCountry": "Norway",
+    "Nationality": [
+      "Norse"
+    ]
+  },
+  "IQ": 115,
+  "Naked": [
+    "Her body is strong and toned, showing clear muscle definition from years of training and physical exertion.",
+    "She has no modesty issues regarding her body, seeing it as a tool for battle and survival.",
+    "Her skin is lightly tanned from exposure to the sun and sea air."
+  ],
+  "Story": [
+    "Solveig Thorsdottir grew up in a rugged coastal village in Norway, learning to wield an axe and shield from a young age.",
+    "She quickly distinguished herself as a formidable warrior, earning her place among the shieldmaidens of the Sea Serpent longship.",
+    "Her devotion to her crew and her unyielding spirit make her a reliable and respected member of the raiding party.",
+    "She has participated in numerous successful voyages, her experience growing with each raid and skirmish.",
+    "Solveig finds camaraderie and purpose among her fellow shieldmaidens, valuing their bond above all else."
+  ],
+  "Residence": "Onboard the longship 'Sea Serpent' (formerly coastal village in Norway)",
+  "BodyMarks": [
+    {
+      "Name": "Training Scar",
+      "Location": "Left forearm",
+      "Description": "A small, faded scar on her left forearm from a training accident.",
+      "Details": []
+    },
+    {
+      "Name": "Runic Tattoo",
+      "Location": "Inner right wrist",
+      "Description": "A small, intricate runic tattoo depicting strength and protection.",
+      "Details": [
+        "Elder Futhark runes"
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "General Appearance",
+      "Details": [
+        {
+          "Name": "Hair",
+          "Descriptions": [
+            "Long, thick, braided fiery red hair that often falls over her shoulders or is tied back in a practical warrior's knot.",
+            "Often adorned with simple leather ties or beads."
+          ]
+        },
+        {
+          "Name": "Eyes",
+          "Descriptions": [
+            "Sharp, piercing blue eyes that are always alert and observant.",
+            "Reflects her focused and serious nature."
+          ]
+        },
+        {
+          "Name": "Physique",
+          "Descriptions": [
+            "Muscular and athletic build, honed by years of training and hard work.",
+            "Broad shoulders and strong limbs, built for combat and physical labor."
+          ]
+        }
+      ]
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "A thick, lustrous mane of dirty blonde, almost ash-colored hair.",
+            "Sun-bleached strands lighten towards the tips, suggesting time spent outdoors under the northern sun."
+          ],
+          "Name": "Color and Texture"
+        },
+        {
+          "Descriptions": [
+            "Often worn in a practical, tightly woven braid that extends down her back, sometimes coiled at the nape of her neck.",
+            "Loose strands might frame her face, but never impede her vision in combat."
+          ],
+          "Name": "Style"
+        },
+        {
+          "Descriptions": [
+            "Despite its rugged appearance, it feels surprisingly soft, a testament to its natural health and strength."
+          ],
+          "Name": "Condition"
+        }
+      ],
+      "Name": "Hair"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Strong and angular, with a broad forehead and a determined jawline that speaks of resilience.",
+            "Her brow is often furrowed in thought or concentration, giving her a perpetually serious demeanor."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "A faint, jagged scar traces across her left temple, a memento from a past skirmish, subtly softened by time."
+          ],
+          "Name": "Features"
+        }
+      ],
+      "Name": "Head"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Piercing grey-blue, like the stormy North Sea on a winter day, capable of both a cold, assessing gaze and a rare, genuine warmth."
+          ],
+          "Name": "Color"
+        },
+        {
+          "Descriptions": [
+            "Almond-shaped and deep-set, framed by thick, light-colored lashes that are often dusted with sea spray or dust from the road.",
+            "They hold a steady, unwavering focus that betrays her disciplined nature."
+          ],
+          "Name": "Shape and Expression"
+        }
+      ],
+      "Name": "Eyes"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Straight and moderately sized, with a slightly broad bridge, fitting her strong facial features.",
+            "It shows no signs of being broken, a testament to her defensive prowess in combat."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "The nostrils are well-defined, flaring slightly when she is exerting herself or sensing danger."
+          ],
+          "Name": "Structure"
+        }
+      ],
+      "Name": "Nose"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Set close to her head, practical and unassuming, allowing for easy wear of helmets or hoods.",
+            "Their shape is simple and unadorned, reflecting her pragmatic approach to life."
+          ],
+          "Name": "Shape and Position"
+        },
+        {
+          "Descriptions": [
+            "The lobes are unpierced, bearing no jewelry, consistent with a warrior who prioritizes functionality over adornment."
+          ],
+          "Name": "Adornment"
+        }
+      ],
+      "Name": "Ears"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Her lips are firm and medium-thin, often pressed into a stoic line, revealing little emotion.",
+            "When she does smile, it's a genuine, fleeting upturn of the corners, transforming her otherwise serious expression."
+          ],
+          "Name": "Lips and Expression"
+        },
+        {
+          "Descriptions": [
+            "Her teeth are even and strong, showing signs of wear typical of a lifetime of rugged living, but clean and well-maintained."
+          ],
+          "Name": "Teeth"
+        }
+      ],
+      "Name": "Mouth"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thick and muscular, providing a robust pillar for her head and indicating immense strength, crucial for absorbing helmet impacts and carrying heavy loads.",
+            "It shows distinct, sinewy definition from years of training and combat."
+          ],
+          "Name": "Musculature"
+        },
+        {
+          "Descriptions": [
+            "It's of average length, proportionate to her sturdy build, ensuring stability and resilience."
+          ],
+          "Name": "Length"
+        }
+      ],
+      "Name": "Neck"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Broad and powerful, extending outwards in a formidable line, clearly designed for wielding heavy axes and bearing the weight of a shield.",
+            "They give her a commanding and imposing silhouette."
+          ],
+          "Name": "Width and Shape"
+        },
+        {
+          "Descriptions": [
+            "Underneath her clothing, the deltoid muscles are well-developed and defined, a testament to her constant physical exertion and strength training."
+          ],
+          "Name": "Musculature"
+        }
+      ],
+      "Name": "Shoulders"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Long and powerfully muscled, particularly in the biceps and triceps, honed by years of swinging heavy weapons and rowing longships.",
+            "Veins are visible beneath the skin, especially after exertion, testament to her active lifestyle."
+          ],
+          "Name": "Musculature"
+        },
+        {
+          "Descriptions": [
+            "Her forearms are thick and corded with muscle, often displaying faint, healed nicks and scratches, small marks of countless skirmishes and hard labor."
+          ],
+          "Name": "Forearms and Scars"
+        }
+      ],
+      "Name": "Arms"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Large and strong, with prominent knuckles and a wide palm, perfectly suited for gripping axe handles and shields.",
+            "They are calloused and toughened, especially along the palms and fingers, from years of rigorous training and combat."
+          ],
+          "Name": "Size and Calluses"
+        },
+        {
+          "Descriptions": [
+            "Her fingers are long and capable, exhibiting a practical dexterity that belies their rugged appearance, adept at tying knots or maintaining equipment."
+          ],
+          "Name": "Fingers"
+        }
+      ],
+      "Name": "Hands"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Kept short and neatly trimmed, showing no signs of polish or decoration, indicative of a warrior's practical hygiene.",
+            "They are strong and unchipped, suggesting good health and consistent care despite her demanding life."
+          ],
+          "Name": "Length and Condition"
+        },
+        {
+          "Descriptions": [
+            "Their natural color is a healthy, pale pink, free from dirt or grime, even after long days of raiding."
+          ],
+          "Name": "Color"
+        }
+      ],
+      "Name": "Nails"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Broad and deep, indicative of strong lungs and a powerful core, essential for sustained exertion in battle or at sea.",
+            "Her rib cage is visibly defined under the skin, especially when she breathes deeply."
+          ],
+          "Name": "Structure"
+        },
+        {
+          "Descriptions": [
+            "The pectoral muscles are firm and well-developed, adding to her formidable upper body strength."
+          ],
+          "Name": "Musculature"
+        }
+      ],
+      "Name": "Chest"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Flat and taut, with lean, defined musculature rather than prominent abs, suggesting a strong, functional core built for stability and power during combat.",
+            "It's free from excess fat, reflecting her active and demanding lifestyle."
+          ],
+          "Name": "Musculature and Condition"
+        },
+        {
+          "Descriptions": [
+            "A faint, pale scar might run diagonally across her lower abdomen, a testament to a close call in battle, now just a faded memory on her skin."
+          ],
+          "Name": "Scars"
+        }
+      ],
+      "Name": "Abdomen"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Strong and athletic, providing a stable base for her powerful legs and torso, crucial for maintaining balance in skirmishes or on a rolling longship.",
+            "They are lean, not overly wide, emphasizing her functional strength."
+          ],
+          "Name": "Shape and Strength"
+        },
+        {
+          "Descriptions": [
+            "The musculature around her hips is tight and toned, reflecting years of agile movement and heavy lifting."
+          ],
+          "Name": "Musculature"
+        }
+      ],
+      "Name": "Hip"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Powerful and well-defined, especially in the thighs and calves, built for explosive charges, sustained running, and holding her ground.",
+            "They are lean and sinewy, showcasing years of physical exertion."
+          ],
+          "Name": "Musculature"
+        },
+        {
+          "Descriptions": [
+            "Her shins and knees might bear faint, faded scars from impacts with shields or training accidents, minor testaments to a life of combat."
+          ],
+          "Name": "Condition and Scars"
+        }
+      ],
+      "Name": "Legs"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Sturdy and broad, providing a solid foundation for her frame, accustomed to long marches and standing firm in battle.",
+            "The arches are well-developed, indicating strong support and resilience."
+          ],
+          "Name": "Size and Arch"
+        },
+        {
+          "Descriptions": [
+            "The soles are visibly calloused, particularly on the heels and balls of her feet, from extensive walking barefoot or in simple leather footwear."
+          ],
+          "Name": "Condition"
+        }
+      ],
+      "Name": "Feet"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Her vulva is naturally formed and well-maintained, reflecting a healthy, active woman.",
+            "It is unadorned and clean, consistent with her pragmatic and disciplined nature."
+          ],
+          "Name": "Appearance and Condition"
+        },
+        {
+          "Descriptions": [
+            "The labia are proportionate and show no signs of alteration, appearing as they naturally would for a woman of her age and build."
+          ],
+          "Name": "Form"
+        }
+      ],
+      "Name": "Genitals"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Moderate in size, allowing for full range of motion during combat without hindrance, perfectly proportionate to her athletic frame.",
+            "They are firm and naturally shaped, testament to underlying muscle tone and youth."
+          ],
+          "Name": "Size and Shape"
+        },
+        {
+          "Descriptions": [
+            "Her breasts are held high and show no signs of sagging, indicating strong pectoral muscles beneath, honed by her warrior's life."
+          ],
+          "Name": "Condition"
+        }
+      ],
+      "Name": "Breasts"
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Father",
+      "FirstName": "Ragnar",
+      "LastName": "Thorsson",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Male"
+    },
+    {
+      "Relation": "Mother",
+      "FirstName": "Astrid",
+      "LastName": "Sveinsdottir",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Fiercely Loyal",
+    "Brave",
+    "Pragmatic",
+    "Disciplined",
+    "Stoic",
+    "Protective",
+    "Competitive"
+  ],
+  "Languages": [
+    "Old Norse"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Wolf",
+    "FavoriteColor": "Forest Green",
+    "FavoriteDrink": "Mead",
+    "FavoriteFood": "Smoked Fish",
+    "FavoritePlant": "Oak Tree"
+  },
+  "Skills": [
+    "Axe Combat",
+    "Shield Combat",
+    "Hand-to-Hand Combat",
+    "Basic Navigation",
+    "Sailing",
+    "Survival Skills"
+  ],
+  "Talents": [
+    "Exceptional Reflexes",
+    "Strategic Thinking in Combat",
+    "Natural Leader"
+  ],
+  "Advantages": [
+    "Exceptional Endurance",
+    "Axe Mastery",
+    "Shield Wall Expert",
+    "Unwavering Loyalty"
+  ],
+  "Disadvantages": [
+    "Stubborn",
+    "Quick to Anger",
+    "Prefers Action over Diplomacy"
+  ],
+  "Employer": [
+    {
+      "Company": "Longship Crew of the Sea Serpent",
+      "JobTitles": [
+        "Shieldmaiden",
+        "Warrior"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Battle Axe",
+      "Description": [
+        "A well-balanced, double-bladed battle axe, meticulously cared for and always sharp.",
+        "The handle is wrapped in worn leather, perfectly fitted to her grip."
+      ]
+    },
+    {
+      "ItemType": "Round Shield",
+      "Description": [
+        "A sturdy round shield made of layered wood and bound with iron.",
+        "Painted with a simple, practical design, often bearing a bear or wolf motif."
+      ]
+    },
+    {
+      "ItemType": "Bone Comb",
+      "Description": [
+        "A small, intricately carved bone comb.",
+        "A gift from her mother."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Daily Wear",
+        "Travel"
+      ],
+      "Items": [
+        {
+          "Type": "Woolen Tunic",
+          "Color": "Dark Green",
+          "Style": "Viking",
+          "Fabric": "Wool",
+          "Size": "M",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Linen Undershirt",
+          "Color": "Natural",
+          "Style": "Simple",
+          "Fabric": "Linen",
+          "Size": "M",
+          "Fit": "Fitted"
+        },
+        {
+          "Type": "Woolen Trousers",
+          "Color": "Brown",
+          "Style": "Viking",
+          "Fabric": "Wool",
+          "Size": "M",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Leather Boots",
+          "Color": "Dark Brown",
+          "Style": "Practical",
+          "Fabric": "Leather",
+          "Size": "M",
+          "Fit": "Snug"
+        }
+      ]
+    },
+    {
+      "Usage": [
+        "Combat",
+        "Training"
+      ],
+      "Items": [
+        {
+          "Type": "Leather Lamellar Armor",
+          "Color": "Dark Brown",
+          "Style": "Viking Warrior",
+          "Fabric": "Hardened Leather",
+          "Size": "M",
+          "Fit": "Fitted"
+        },
+        {
+          "Type": "Arm Guards",
+          "Color": "Brown",
+          "Style": "Simple",
+          "Fabric": "Leather",
+          "Size": "M",
+          "Fit": "Snug"
+        },
+        {
+          "Type": "Greaves",
+          "Color": "Brown",
+          "Style": "Simple",
+          "Fabric": "Leather",
+          "Size": "M",
+          "Fit": "Snug"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Has a deep, resonant laugh that can surprise people given her stern demeanor.",
+    "Spends her free time sharpening her axe or carving small wooden figures."
+  ]
+}

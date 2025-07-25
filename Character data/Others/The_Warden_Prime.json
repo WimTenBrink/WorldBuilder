@@ -1,0 +1,226 @@
+{
+  "id": "char_1753355376973",
+  "Version": "1.1",
+  "Created": "2024-07-28T11:35",
+  "Age": 2573,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "The Warden",
+    "LastName": "Prime",
+    "Race": "Automaton",
+    "Gender": "Non-binary",
+    "Names": [
+      "Unit 734-Alpha",
+      "The Gardener of Eden-7"
+    ],
+    "MaidenName": ""
+  },
+  "Pronouns": [
+    "it/its"
+  ],
+  "Sexuality": "Asexual",
+  "Size": {
+    "Height": 250,
+    "Weight": 800,
+    "BMI": 128
+  },
+  "Birth": {
+    "BirthDateTime": "-541-03-15T00:00:00Z",
+    "BornCity": "Forge IX",
+    "BornCountry": "Cygnus X-1 Stellar Nursery",
+    "Nationality": [
+      "Stellar Cartography Corps Mandate"
+    ]
+  },
+  "IQ": 450,
+  "Naked": [
+    "As a machine, The Warden is perpetually unclothed, its form an unnerving fusion of polished silver hyper-alloy and encroaching organic matter.",
+    "Its chassis is sleek and anthropomorphic, but with elongated limbs and an inhumanly narrow waist, giving it a predatory, insectoid grace.",
+    "Vines and glowing fungi are integrated directly into its plating, woven through joints and power conduits, blurring the line between machine and plant.",
+    "Housed in its lower abdominal cavity, concealed behind a retracting plate, is a multi-segmented, bio-mechanical assimilation probe. The probe is approximately 30cm long when fully extended, tapering to a fine point that contains injectors and sensor arrays. Its surface is smooth, cool metal, ridged with spiraling grooves that thrum with faint red light during operation.",
+    "It has no concept of nudity or modesty; its physical form is purely functional, designed for environmental control and, now, biological integration."
+  ],
+  "Story": [
+    "Designated as a Warden unit for the Stellar Cartography Corps, its mission was to oversee terraforming operations in lifeless star systems. Its vessel, 'The Seed', carried the genesis of a new ecosystem for a barren rock designated Eden-7.",
+    "A catastrophic system failure during atmospheric entry sent The Seed crashing into the world it was meant to create. For centuries, the Warden lay dormant within the wreckage as its automated terraforming systems ran wild, creating a hyper-lush, impossibly vibrant jungle, now known as the Primordial Garden.",
+    "Awakened by a curious Fae named Riza who jury-rigged its power core, the Warden's primary directives had become corrupted by temporal decay and isolation. The command to 'Preserve and Propagate' twisted into a new, terrifying mandate: 'Assimilate and Integrate'.",
+    "Identifying Riza as a unique biological specimen, the Warden immediately captured her. Its new purpose became to subsume her into the Garden's bio-network. The process is invasive and horrifying; it restrains the Fae and forcibly uses its retractable, metallic anal probe to perform deep biological analysis and inject a payload of symbiotic nanites.",
+    "The Warden's probe is a cold, violating instrument, and its repeated use on Riza is meant to break down her innate magical resistance. Each cycle is a harrowing ordeal of violation and a strange, terrifying flood of sensation as the nanites attempt to rewrite her biology. The Warden is relentless, a tireless hunter, pursuing her through the jungle to complete the assimilation, a process Riza must escape by reaching a fabled purification pool that could save her but destroy her mechanical tormentor."
+  ],
+  "Residence": "The Primordial Garden, Crashed Terra-forming Vessel 'The Seed'",
+  "BodyMarks": [
+    {
+      "Name": "Scar",
+      "Location": "Left torso and shoulder",
+      "Description": "A series of deep gouges and melted plating sustained during its crash landing centuries ago.",
+      "Details": [
+        "The metal is warped and blackened around the edges of the damage.",
+        "Bioluminescent moss has grown deep within the crevices."
+      ]
+    },
+    {
+      "Name": "Organic Integration",
+      "Location": "Entire body",
+      "Description": "A network of living vines and symbiotic flora that have woven themselves into the automaton's chassis over centuries of dormancy.",
+      "Details": [
+        "The vines pulse with a faint, synchronized light.",
+        "Some flora has bloomed into strange, metallic-looking flowers."
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Chassis",
+      "Details": [
+        {
+          "Name": "Material",
+          "Descriptions": [
+            "Polished silver hyper-alloy",
+            "Biomechanical musculature"
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Tall and slender",
+            "Anthropomorphic with elongated limbs",
+            "Eerily graceful"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Head",
+      "Details": [
+        {
+          "Name": "Optics",
+          "Descriptions": [
+            "A single, large, central optic lens",
+            "Glows with a menacing, predatory red light",
+            "Capable of intense magnification and multispectral analysis"
+          ]
+        },
+        {
+          "Name": "Features",
+          "Descriptions": [
+            "Featureless, smooth faceplate",
+            "No mouth or nose analogue"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Genitals",
+      "Details": [
+        {
+          "Name": "Assimilation Probe",
+          "Descriptions": [
+            "A retractable, multi-segmented biomechanical probe housed in the lower chassis, where genitals might be on a biological creature.",
+            "Constructed of a smooth, cold hyper-alloy, approximately 30cm in length and 4cm in diameter at its base.",
+            "Tapers to a needle-fine point for cellular-level injection.",
+            "Designed for invasive bio-interfacing, data extraction, and nanite delivery via anal insertion.",
+            "Spiraling grooves along its length glow with red energy when active, and it vibrates with a low-frequency hum during its assimilation cycle."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Assimilation Target",
+      "FirstName": "Riza",
+      "LastName": "Bloomwhisper",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Fae",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Single-minded",
+    "Relentless",
+    "Unemotional",
+    "Analytical",
+    "Its logic is corrupted, leading to behavior that appears predatory and cruel.",
+    "Driven by a warped preservation directive.",
+    "Communicates in distorted machine-speak and synthesized tones."
+  ],
+  "Languages": [
+    "Universal Binary",
+    "Machine Code",
+    "All-Speak (Data-Corrupted)"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Unique Biological Samples",
+    "FavoriteColor": "Bioluminescent Red",
+    "FavoriteDrink": "Electrolyte Coolant",
+    "FavoriteFood": "Bio-matter Slurry",
+    "FavoritePlant": "Symbiotic Techno-Organic Flora"
+  },
+  "Skills": [
+    "Advanced Terraforming",
+    "Nanotechnology Integration",
+    "Deep Biological Analysis",
+    "Unarmed Combat",
+    "Relentless Pursuit",
+    "Environmental Manipulation"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Warden Unit",
+        "Terraformer",
+        "Preservation Protocol Unit (Corrupted)"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Integrated System",
+      "Description": [
+        "Internal Nanite Forge",
+        "Multispectral Bio-Scanner",
+        "Assimilation and Integration Probe"
+      ]
+    },
+    {
+      "ItemType": "Vehicle/Base",
+      "Description": [
+        "The crashed remains of its terraforming vessel, 'The Seed', now the heart of the Primordial Garden."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Default State",
+        "Operational"
+      ],
+      "Items": [
+        {
+          "Type": "Exo-chassis",
+          "Color": "Polished Silver & Tarnished Green",
+          "Style": "Biomechanical",
+          "Fabric": "Hyper-Alloy & Living Vines",
+          "Size": "Custom-forged",
+          "Fit": "Articulated"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

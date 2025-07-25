@@ -1,0 +1,256 @@
+{
+  "id": "char_1753355157237",
+  "Version": "0.2",
+  "Created": "2024-10-26T16:18",
+  "Age": 28,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Sefina",
+    "LastName": "Volkov",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [
+      "Kira"
+    ],
+    "MaidenName": "Korsun"
+  },
+  "Pronouns": [
+    "She",
+    "Her"
+  ],
+  "Sexuality": "Lesbian",
+  "Size": {
+    "Height": 175,
+    "Weight": 68,
+    "BMI": 22.2
+  },
+  "Birth": {
+    "BirthDateTime": "1996-03-15",
+    "BornCity": "Krasnoyarsk",
+    "BornCountry": "Russia",
+    "Nationality": [
+      "Russian"
+    ]
+  },
+  "IQ": 125,
+  "Naked": [
+    "Sefina possesses a lean, athletic build, a testament to her rigorous training and survival instincts.",
+    "She carries herself with a quiet confidence, comfortable in her own skin and unfazed by nudity, seeing it as a practical consideration rather than a source of shame or embarrassment in the harsh environment of the Lost World."
+  ],
+  "Story": [
+    "Sefina, a former member of a clandestine military unit specializing in counter-terrorism, grew disillusioned with their methods and abandoned her post.",
+    "She now operates independently, driven by a desire to protect the innocent and dismantle the organization she once served.",
+    "Her past experiences have hardened her, but a chance encounter with another woman amidst the ruins of the Lost World reignites a spark of hope and love within her.",
+    "She seeks to find a way to destroy the source of the group's power while simultaneously finding happiness with her new partner."
+  ],
+  "Residence": "Mobile, currently residing within the Lost World.",
+  "BodyMarks": [
+    {
+      "Name": "Scar",
+      "Location": "Left Shoulder",
+      "Description": "A jagged scar from a close encounter with a dinosaur.",
+      "Details": [
+        "Raised and discolored.",
+        "Approximately 8 cm long."
+      ]
+    },
+    {
+      "Name": "Tattoo",
+      "Location": "Lower Back",
+      "Description": "A stylized image of a wolf howling at the moon.",
+      "Details": [
+        "Black ink.",
+        "Represents her solitary nature and connection to the wild."
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Deep, piercing brown eyes that reflect a hardened resolve and hidden vulnerability."
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Almond-shaped, framed by thick lashes."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Dark, almost black."
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Woven into intricate braids that are both practical and stylish, reflecting her resourcefulness and attention to detail."
+          ]
+        },
+        {
+          "Name": "Texture",
+          "Descriptions": [
+            "Thick and slightly coarse, hinting at her resilience."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Details": [
+        {
+          "Name": "Features",
+          "Descriptions": [
+            "Strong, angular features that convey determination and a no-nonsense attitude.",
+            "High cheekbones and a firm jawline suggest inner strength."
+          ]
+        },
+        {
+          "Name": "Expression",
+          "Descriptions": [
+            "A hardened expression, often bordering on stern, reflects her difficult past and the constant need for vigilance."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Partner",
+      "FirstName": "Lysandra",
+      "LastName": "Moonshade",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Elf",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Rival",
+      "FirstName": "Zorina",
+      "LastName": "Ivanova",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Resourceful",
+    "Independent",
+    "Determined",
+    "Protective",
+    "Intelligent",
+    "Haunted by her past",
+    "Slow to trust",
+    "Quietly compassionate"
+  ],
+  "Languages": [
+    "Russian",
+    "English"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Wolf",
+    "FavoriteColor": "Deep Green",
+    "FavoriteDrink": "Strong Black Tea",
+    "FavoriteFood": "Dried Meat",
+    "FavoritePlant": "Fern"
+  },
+  "Skills": [
+    "Hand-to-hand combat",
+    "Firearms proficiency",
+    "Survival skills",
+    "Tracking",
+    "Stealth",
+    "Demolitions",
+    "First aid",
+    "Tactical planning"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Special Operations Officer (Formerly)"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Weapon",
+      "Description": [
+        "A customized assault rifle with a suppressor and holographic sight.",
+        "Reliable and accurate, her go-to weapon for most combat situations."
+      ]
+    },
+    {
+      "ItemType": "Melee Weapon",
+      "Description": [
+        "A combat knife strapped to her thigh.",
+        "For close-quarters encounters and silent takedowns."
+      ]
+    },
+    {
+      "ItemType": "Survival Gear",
+      "Description": [
+        "A backpack containing essential survival supplies: water purification tablets, a first aid kit, rations, a map, and a compass."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Combat",
+        "Jungle/Rainforest"
+      ],
+      "Items": [
+        {
+          "Type": "Shirt",
+          "Color": "Olive Green",
+          "Style": "Modified tactical uniform with exposed midriff",
+          "Fabric": "Durable, breathable synthetic",
+          "Size": "Small",
+          "Fit": "Tight"
+        },
+        {
+          "Type": "Pants",
+          "Color": "Olive Green",
+          "Style": "Tactical pants with reinforced knees",
+          "Fabric": "Durable, water-resistant synthetic",
+          "Size": "Small",
+          "Fit": "Slim"
+        },
+        {
+          "Type": "Boots",
+          "Color": "Black",
+          "Style": "Combat boots",
+          "Fabric": "Leather",
+          "Size": "7",
+          "Fit": "Snug"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

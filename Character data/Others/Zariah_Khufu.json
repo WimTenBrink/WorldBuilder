@@ -1,0 +1,258 @@
+{
+  "id": "char_1753355157235",
+  "Version": "1.0",
+  "Created": "2024-10-27T10:00",
+  "Age": 22,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Zariah",
+    "LastName": "Khufu",
+    "Race": "Human",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": ""
+  },
+  "Pronouns": [
+    "She",
+    "Her"
+  ],
+  "Sexuality": "Lesbian",
+  "Size": {
+    "Height": 168,
+    "Weight": 60,
+    "BMI": 21.3
+  },
+  "Birth": {
+    "BirthDateTime": "1385-08-12",
+    "BornCity": "Thebes",
+    "BornCountry": "Egypt",
+    "Nationality": [
+      "Egyptian"
+    ]
+  },
+  "IQ": 115,
+  "Naked": [
+    "Zariah's physique is lean, honed by years of desert travel and ritualistic training. She is comfortable in her own skin, even in the harsh glare of the sun, the lines of her body a testament to her strength and resilience. Her body bears the marks of both pleasure and pain, etched onto her flesh as reminders of her past.",
+    "She is proud of her body. She sees it as a tool and a canvas."
+  ],
+  "Story": [
+    "Zariah, a priestess of a forgotten cult in Ancient Egypt, was seduced and initiated into dark rituals. Forced to serve the will of a corrupt oracle, she underwent a series of trials that stripped her of her innocence and twisted her purpose. Betrayed and used, Zariah now seeks revenge against those who defiled her and perverted her faith.",
+    "Her path crosses with Kora's, another young woman who was once her friend, now a rival, both on quests of their own",
+    "Driven by a thirst for vengeance, she ventures into the scorching desert, embarking on a quest to find and destroy the source of the cult's power. Facing sandstorms, treacherous cultists, and the ghosts of her past, Zariah must fight to survive and reclaim her stolen destiny.",
+    "She discovers a hidden chamber beneath the ruins, where the oracle whispers vile secrets. The initiation of new members to the cult requires dark rituals.",
+    "Zariah's journey is a desperate fight for survival, a quest to break free from the cult's control and heal the wounds inflicted upon her. Her path is fraught with danger as she must confront her inner demons and the external threats that seek to consume her."
+  ],
+  "Residence": "Secret temple ruins, near the Nile River",
+  "BodyMarks": [
+    {
+      "Name": "Tattoo",
+      "Location": "Lower back",
+      "Description": "A stylized ankh, entwined with serpents. The ankh's loop has been modified with a piercing. The serpents appear to be in coitus.",
+      "Details": [
+        "Dark indigo ink",
+        "Sacred geometry pattern"
+      ]
+    },
+    {
+      "Name": "Scar",
+      "Location": "Left shoulder",
+      "Description": "A thin, jagged scar, a mark of a ritual scarification. It is a visual representation of her initiation.",
+      "Details": [
+        "Raised",
+        "Whitish hue"
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Raven black"
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Braided and adorned with beads"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Dark brown",
+            "Intense gaze"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Lips",
+      "Details": [
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Full",
+            "Sensual"
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Rival",
+      "FirstName": "Kora",
+      "LastName": "Ahmose",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Victim",
+      "FirstName": "Nefertiti",
+      "LastName": "Ra",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Ruthless",
+    "Determined",
+    "Cunning",
+    "Haunted",
+    "Seductive"
+  ],
+  "Languages": [
+    "Ancient Egyptian",
+    "Akkadian",
+    "Hieroglyphics"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Serpent",
+    "FavoriteColor": "Crimson",
+    "FavoriteDrink": "Wine",
+    "FavoriteFood": "Dates",
+    "FavoritePlant": "Myrrh"
+  },
+  "Skills": [
+    "Ritual magic",
+    "Stealth",
+    "Swordsmanship",
+    "Deception",
+    "Survival in the desert"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Priestess",
+        "Initiate"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Weapon",
+      "Description": [
+        "Curved khopesh sword",
+        "Adorned with obsidian inlay"
+      ]
+    },
+    {
+      "ItemType": "Clothing",
+      "Description": [
+        "Leather bracers",
+        "Ankh pendant"
+      ]
+    },
+    {
+      "ItemType": "Ritual items",
+      "Description": [
+        "Incense burner",
+        "Ceremonial dagger"
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Ritual"
+      ],
+      "Items": [
+        {
+          "Type": "Robe",
+          "Color": "Black",
+          "Style": "Flowing",
+          "Fabric": "Linen",
+          "Size": "Medium",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Headdress",
+          "Color": "Gold",
+          "Style": "Serpentine",
+          "Fabric": "Metal",
+          "Size": "One size fits all",
+          "Fit": "Tight"
+        }
+      ]
+    },
+    {
+      "Usage": [
+        "Travel",
+        "Desert"
+      ],
+      "Items": [
+        {
+          "Type": "Tunic",
+          "Color": "Tan",
+          "Style": "Simple",
+          "Fabric": "Cotton",
+          "Size": "Medium",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Leggings",
+          "Color": "Black",
+          "Style": "Close-fitting",
+          "Fabric": "Leather",
+          "Size": "Medium",
+          "Fit": "Tight"
+        },
+        {
+          "Type": "Boots",
+          "Color": "Brown",
+          "Style": "Ankle-high",
+          "Fabric": "Leather",
+          "Size": "8",
+          "Fit": "Snug"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

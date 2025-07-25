@@ -1,0 +1,621 @@
+{
+  "id": "char_1753374727620",
+  "Version": "1.0",
+  "Created": "2024-07-30T12:00:00Z",
+  "Age": 21,
+  "Worlds": [
+    "Great Plains (16th Century)",
+    "Native American Lore"
+  ],
+  "Name": {
+    "FirstName": "Whispering",
+    "LastName": "Reed",
+    "Race": "Cheyenne",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "she",
+    "her"
+  ],
+  "Sexuality": "Heterosexual",
+  "Size": {
+    "Height": 1.62,
+    "Weight": 51.5,
+    "BMI": 196235.3
+  },
+  "Birth": {
+    "BirthDateTime": "1502-03-15T00:00:00Z",
+    "BornCity": "Great Plains",
+    "BornCountry": "North America",
+    "Nationality": [
+      "Cheyenne"
+    ]
+  },
+  "IQ": 115,
+  "Naked": [
+    "Graceful and slender build",
+    "Soft skin",
+    "No visible scars"
+  ],
+  "Story": [
+    "Whispering Reed walks a path of healing and wisdom. Though not a frontline warrior, her knowledge of medicine and her calming presence are indispensable to the warband. She ensures the warriors are cared for, both physically and spiritually, and often mediates disputes within the group."
+  ],
+  "Residence": "Nomadic Cheyenne camp",
+  "BodyMarks": [],
+  "BodyParts": [
+    {
+      "Name": "Physical Features",
+      "Details": [
+        {
+          "Name": "Hair",
+          "Descriptions": [
+            "Soft, wavy, often decorated with wildflowers"
+          ]
+        },
+        {
+          "Name": "Eyes",
+          "Descriptions": [
+            "Warm, compassionate, observant"
+          ]
+        },
+        {
+          "Name": "Body",
+          "Descriptions": [
+            "Graceful and lithe",
+            "Gentle but capable hands"
+          ]
+        }
+      ]
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Deep black, like a raven's wing at dusk."
+          ],
+          "Name": "Color"
+        },
+        {
+          "Descriptions": [
+            "Thick and straight, with a slight natural wave when unbound."
+          ],
+          "Name": "Texture"
+        },
+        {
+          "Descriptions": [
+            "Reaches her waist, often braided meticulously."
+          ],
+          "Name": "Length"
+        },
+        {
+          "Descriptions": [
+            "Usually worn in two neat braids, sometimes adorned with small, polished bone beads or a single eagle feather, symbolizing wisdom and connection to the spirits."
+          ],
+          "Name": "Style"
+        }
+      ],
+      "Name": "Hair"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Oval, with a gentle curve to her forehead and a soft chin."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Smooth and unlined, reflecting her calm demeanor."
+          ],
+          "Name": "Forehead"
+        },
+        {
+          "Descriptions": [
+            "Subtly pronounced, giving her face a graceful contour."
+          ],
+          "Name": "Cheekbones"
+        },
+        {
+          "Descriptions": [
+            "Her head is held with a quiet dignity, reflecting her inner peace and wisdom."
+          ],
+          "Name": "Overall Impression"
+        }
+      ],
+      "Name": "Head"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Dark, rich brown, like fertile earth, holding depths of understanding."
+          ],
+          "Name": "Color"
+        },
+        {
+          "Descriptions": [
+            "Almond-shaped, with a slight upward tilt at the outer corners."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "They are remarkably calm and observant, often reflecting deep empathy and wisdom."
+          ],
+          "Name": "Expression"
+        },
+        {
+          "Descriptions": [
+            "Long and dark, framing her thoughtful gaze."
+          ],
+          "Name": "Lashes"
+        }
+      ],
+      "Name": "Eyes"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Straight and well-proportioned, with a gently rounded tip."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Slightly broad at the bridge, tapering gracefully."
+          ],
+          "Name": "Bridge"
+        },
+        {
+          "Descriptions": [
+            "Slightly flared, indicating her keen sense of smell, useful for identifying medicinal plants."
+          ],
+          "Name": "Nostrils"
+        }
+      ],
+      "Name": "Nose"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Well-formed and close-set, with delicate lobes."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Nestled neatly against her head."
+          ],
+          "Name": "Placement"
+        },
+        {
+          "Descriptions": [
+            "Unpierced, simple and natural."
+          ],
+          "Name": "Piercings"
+        }
+      ],
+      "Name": "Ears"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Medium-full, with a gentle cupid's bow in the upper lip."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Soft and naturally rose-tinted, often curved in a gentle, reassuring smile."
+          ],
+          "Name": "Lips"
+        },
+        {
+          "Descriptions": [
+            "Her mouth conveys a sense of compassion and quiet strength, rarely prone to harsh words."
+          ],
+          "Name": "Expression"
+        }
+      ],
+      "Name": "Mouth"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Graceful and of moderate length."
+          ],
+          "Name": "Length"
+        },
+        {
+          "Descriptions": [
+            "Held erect with serene poise, allowing her to carry herself with dignity."
+          ],
+          "Name": "Posture"
+        },
+        {
+          "Descriptions": [
+            "Smooth, with a faint, healthy glow."
+          ],
+          "Name": "Skin"
+        }
+      ],
+      "Name": "Neck"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Slightly broad for her frame, suggesting quiet strength despite her non-combative role."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Held back, yet relaxed, reflecting her calm and unburdened demeanor."
+          ],
+          "Name": "Carriage"
+        },
+        {
+          "Descriptions": [
+            "Lean but capable, indicative of her work gathering herbs and tending to others."
+          ],
+          "Name": "Musculature"
+        }
+      ],
+      "Name": "Shoulders"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Slender yet toned, with defined but not bulky musculature from her active life."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Smooth and tanned, bearing faint marks from her work with plants and remedies."
+          ],
+          "Name": "Skin"
+        },
+        {
+          "Descriptions": [
+            "Capable of precise and gentle movements, essential for her healing practices."
+          ],
+          "Name": "Flexibility"
+        }
+      ],
+      "Name": "Arms"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Dainty but strong, with long, sensitive fingers."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Palms slightly calloused from preparing medicines and tending to wounds, yet overall soft to the touch."
+          ],
+          "Name": "Texture"
+        },
+        {
+          "Descriptions": [
+            "Remarkably nimble and precise, perfect for weaving intricate braids or applying poultices."
+          ],
+          "Name": "Dexterity"
+        },
+        {
+          "Descriptions": [
+            "Her lifelines and heartlines are deep and clear, hinting at a life of profound connections and purpose."
+          ],
+          "Name": "Lines"
+        }
+      ],
+      "Name": "Hands"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Clean, short, and well-maintained, indicating practicality and hygiene."
+          ],
+          "Name": "Condition"
+        },
+        {
+          "Descriptions": [
+            "Natural, with a healthy, pale pink hue."
+          ],
+          "Name": "Color"
+        },
+        {
+          "Descriptions": [
+            "Strong and resilient, reflecting her healthy lifestyle."
+          ],
+          "Name": "Strength"
+        }
+      ],
+      "Name": "Nails"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Lean and graceful, with a gentle rise."
+          ],
+          "Name": "Form"
+        },
+        {
+          "Descriptions": [
+            "Subtly defined, hinting at good lung capacity for her quiet breathing and focused work."
+          ],
+          "Name": "Ribcage"
+        },
+        {
+          "Descriptions": [
+            "Held high, but not rigid, conveying a sense of openness and serenity."
+          ],
+          "Name": "Posture"
+        }
+      ],
+      "Name": "Chest"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Flat and toned, indicative of a healthy and active lifestyle."
+          ],
+          "Name": "Form"
+        },
+        {
+          "Descriptions": [
+            "Smooth and unblemished, blending seamlessly with her torso."
+          ],
+          "Name": "Skin"
+        },
+        {
+          "Descriptions": [
+            "Possesses core strength, contributing to her steady posture and endurance."
+          ],
+          "Name": "Strength"
+        }
+      ],
+      "Name": "Abdomen"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Gracefully curved, proportional to her frame, without being overly wide."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Allows for fluid and balanced movement, whether walking or kneeling to collect herbs."
+          ],
+          "Name": "Movement"
+        },
+        {
+          "Descriptions": [
+            "Smooth and rounded, contributing to her natural silhouette."
+          ],
+          "Name": "Definition"
+        }
+      ],
+      "Name": "Hip"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Long and slender, yet visibly strong, accustomed to long walks across varying terrain."
+          ],
+          "Name": "Build"
+        },
+        {
+          "Descriptions": [
+            "Lean and well-defined, particularly in the calves and thighs, showing endurance."
+          ],
+          "Name": "Musculature"
+        },
+        {
+          "Descriptions": [
+            "Tanned and resilient, with a natural smoothness."
+          ],
+          "Name": "Skin"
+        }
+      ],
+      "Name": "Legs"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Arched and sturdy, well-suited for long walks and connection to the earth."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Slightly toughened on the soles from walking, yet clean and cared for."
+          ],
+          "Name": "Skin"
+        },
+        {
+          "Descriptions": [
+            "Straight and well-aligned, allowing for good balance and grip."
+          ],
+          "Name": "Toes"
+        }
+      ],
+      "Name": "Feet"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Naturally formed and healthy, reflecting her age and vitality."
+          ],
+          "Name": "Form"
+        },
+        {
+          "Descriptions": [
+            "Modestly covered with fine, dark pubic hair."
+          ],
+          "Name": "Hair"
+        },
+        {
+          "Descriptions": [
+            "Clean and well-maintained, as with the rest of her body."
+          ],
+          "Name": "Condition"
+        }
+      ],
+      "Name": "Genitals"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Modest in size, in proportion to her slender build."
+          ],
+          "Name": "Size"
+        },
+        {
+          "Descriptions": [
+            "Naturally rounded, with a gentle, youthful lift."
+          ],
+          "Name": "Shape"
+        },
+        {
+          "Descriptions": [
+            "Soft to the touch, with a healthy, natural firmness."
+          ],
+          "Name": "Texture"
+        },
+        {
+          "Descriptions": [
+            "Small and subtly pigmented."
+          ],
+          "Name": "Nipples"
+        }
+      ],
+      "Name": "Breasts"
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Grandmother (Shaman)",
+      "FirstName": "Crying",
+      "LastName": "Wind",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Cheyenne",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Compassionate",
+    "Calm",
+    "Wise",
+    "Observant",
+    "Peaceful"
+  ],
+  "Languages": [
+    "Cheyenne"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Deer",
+    "FavoriteColor": "Green",
+    "FavoriteDrink": "Berry juice",
+    "FavoriteFood": "Wild berries and roots",
+    "FavoritePlant": "Echinacea"
+  },
+  "Skills": [
+    "Herbal medicine",
+    "First aid",
+    "Counselling",
+    "Plant identification",
+    "Spiritual healing"
+  ],
+  "Talents": [
+    "Exceptional empathy",
+    "Gifted at preparing healing remedies",
+    "Soothing presence"
+  ],
+  "Advantages": [
+    "Expert Healer",
+    "Knowledgeable of Nature",
+    "Diplomatic"
+  ],
+  "Disadvantages": [
+    "Physically weaker than others",
+    "Overly empathetic"
+  ],
+  "Employer": [],
+  "Possessions": [
+    {
+      "ItemType": "Healing Supplies",
+      "Description": [
+        "Large medicine pouch filled with dried herbs and remedies",
+        "Collection of healing stones"
+      ]
+    },
+    {
+      "ItemType": "Personal Items",
+      "Description": [
+        "Ceremonial rattle",
+        "Personal journal made of bark"
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Daily wear",
+        "Ceremonial"
+      ],
+      "Items": [
+        {
+          "Type": "Soft buckskin dress",
+          "Color": "Cream",
+          "Style": "Decorated with beadwork and fringe",
+          "Fabric": "Deerskin",
+          "Size": "M",
+          "Fit": "Loose and flowing"
+        },
+        {
+          "Type": "Light moccasins",
+          "Color": "Tan",
+          "Style": "Embroidered",
+          "Fabric": "Deerskin",
+          "Size": "M",
+          "Fit": "Regular"
+        },
+        {
+          "Type": "Shawl",
+          "Color": "Earth tones",
+          "Style": "Lightweight",
+          "Fabric": "Woven plant fibers",
+          "Size": "M",
+          "Fit": "Regular"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "The primary healer and medicine woman for the warband.",
+    "Offers counsel and comfort."
+  ]
+}

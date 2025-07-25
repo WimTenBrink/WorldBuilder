@@ -1,0 +1,465 @@
+{
+  "id": "char_1753372556266",
+  "Version": "1.0",
+  "Created": "2024-07-30T10:00:00Z",
+  "Age": 21,
+  "Worlds": [
+    "Viking Age Scandinavia"
+  ],
+  "Name": {
+    "FirstName": "Thyra",
+    "LastName": "Sigurdsdottir",
+    "Race": "Norse",
+    "Gender": "Female",
+    "Names": [],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "she",
+    "her"
+  ],
+  "Sexuality": "Homosexual",
+  "Size": {
+    "Height": 1.7,
+    "Weight": 68,
+    "BMI": 235294.1
+  },
+  "Birth": {
+    "BirthDateTime": "1003-05-15T00:00:00Z",
+    "BornCity": "Bergen",
+    "BornCountry": "Norway",
+    "Nationality": [
+      "Norse"
+    ]
+  },
+  "IQ": 120,
+  "Naked": [
+    "Thyra has a strong, athletic build, toned from years of training and battle.",
+    "Her skin is fair, with a few small scars on her arms and shoulders from past skirmishes."
+  ],
+  "Story": [
+    "Thyra Sigurdsdottir grew up in a coastal village, learning to wield a spear and shield from a young age. Her natural aptitude for combat and her unwavering courage quickly set her apart. She joined the longship crew at a young age, proving her worth in countless raids and skirmishes across the seas. She has a reputation for being calm under pressure and meticulously planning her attacks.",
+    "Her experience extends beyond direct combat; she is skilled in navigation and understands the currents and winds of the northern seas. Thyra is deeply loyal to her comrades and the longship, viewing them as her true family. Her personal life is private, but her affections lie with other shieldmaidens."
+  ],
+  "Residence": "Aboard the longship 'Serpent's Kiss' (or relevant longship name)",
+  "BodyMarks": [
+    {
+      "Name": "Runic Tattoo",
+      "Location": "Left Forearm",
+      "Description": "An intricate runic symbol, subtly inked, representing strength and protection.",
+      "Details": [
+        "Faded dark blue ink"
+      ]
+    },
+    {
+      "Name": "Blade Scar",
+      "Location": "Right Shoulder",
+      "Description": "A thin, jagged scar from a deflected sword blow.",
+      "Details": []
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Dark brown, almost black"
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Braided, often kept practical for battle, reaching to her mid-back."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Sharp, deep blue eyes, often assessing."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Build",
+      "Details": [
+        {
+          "Name": "Overall",
+          "Descriptions": [
+            "Muscular and agile, built for endurance and combat."
+          ]
+        }
+      ]
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's head is shaped like an oval, framed by a strong, determined jawline and high, prominent cheekbones, reflecting her Norse heritage.",
+            "Her hair is a practical, long braid, often slightly sun-bleached from countless hours spent under the open sky on the longship, indicating a life of seafaring and action.",
+            "Her forehead is smooth and unblemished, revealing a calm and thoughtful demeanor even amidst chaos, typical of her strategic mind."
+          ],
+          "Name": "Thyra's Head"
+        }
+      ],
+      "Name": "Head"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's nose is straight and defined, with a slight, strong curve at the bridge, lending an air of resilience to her profile.",
+            "The bridge of her nose is solid and well-formed, a feature common in her Norse lineage, suggesting sturdiness and strength.",
+            "Her nostrils are narrow and efficient, finely tuned to sense subtle changes in wind direction or the distant scent of land, crucial for a skilled navigator."
+          ],
+          "Name": "Thyra's Nose"
+        }
+      ],
+      "Name": "Nose"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's ears are well-proportioned and sit close to her head, practical and unobtrusive for someone constantly active and often wearing a helmet.",
+            "Her earlobes are unadorned, free of piercings or other jewelry, emphasizing her focus on functionality over ornamentation.",
+            "Her hearing is acutely developed, allowing her to discern the subtle creaks of a ship, the shifting of currents, or distant calls, vital for her role on the longship."
+          ],
+          "Name": "Thyra's Ears"
+        }
+      ],
+      "Name": "Ears"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's lips are thin and firm, often set in a resolute line, betraying little emotion and underscoring her stoic and disciplined nature.",
+            "Her mouth typically holds a neutral, thoughtful expression, revealing a mind that is constantly observing and strategizing, rather than overtly reacting.",
+            "Her teeth are even and strong, indicative of a healthy and practical lifestyle, well-suited for enduring long voyages and demanding physical activity."
+          ],
+          "Name": "Thyra's Mouth"
+        }
+      ],
+      "Name": "Mouth"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's neck is strong and corded with muscle, a testament to years of training with heavy weapons and the demands of combat.",
+            "She carries her head with an upright and confident posture, reflecting her unwavering discipline and leadership qualities.",
+            "A faint, subtle scar might be visible along her neck, a testament to a close call in a skirmish, a mark earned rather than sought."
+          ],
+          "Name": "Thyra's Neck"
+        }
+      ],
+      "Name": "Neck"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's shoulders are broad and powerful, perfectly built for wielding a spear, hoisting a shield, and enduring the weight of armor in battle.",
+            "Her shoulder muscles are defined and solid, showcasing the immense strength and endurance cultivated through constant training and naval life.",
+            "Her shoulders exhibit highly flexible mobility, crucial for swift and effective combat maneuvers and adapting to the unpredictable movements of a longship."
+          ],
+          "Name": "Thyra's Shoulders"
+        }
+      ],
+      "Name": "Shoulders"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's arms are lean and corded with muscle, a direct result of relentless rowing and the dynamic movements required in combat.",
+            "Her forearms are particularly strong and robust, capable of absorbing powerful blows and delivering crushing strikes with her weapons.",
+            "The skin on her arms is tanned and weathered, bearing the marks of prolonged exposure to the sun and sea spray during countless voyages."
+          ],
+          "Name": "Thyra's Arms"
+        }
+      ],
+      "Name": "Arms"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's palms are calloused and rugged, bearing clear witness to the firm grip she maintains on her weapons, oars, and ship ropes.",
+            "Her fingers are long and strong, capable of both the precise manipulation required for navigation and the powerful grip needed for combat.",
+            "Her knuckles are prominent and often bear small scrapes or healed scars, telling tales of close-quarters skirmishes and hard work."
+          ],
+          "Name": "Thyra's Hands"
+        }
+      ],
+      "Name": "Hands"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's nails are kept short and meticulously trimmed, reflecting her practical nature and ensuring they do not interfere with her duties.",
+            "Her nails are thick and remarkably durable, resilient against breakage, a testament to their strength and constant use.",
+            "Despite being maintained, her nails often show slight signs of dirt or grime underneath, betraying her hands-on work with ropes and the grittiness of ship life."
+          ],
+          "Name": "Thyra's Nails"
+        }
+      ],
+      "Name": "Nails"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's ribcage is broad and deep, indicating exceptional lung capacity, vital for enduring long voyages and bellowing commands over the din of battle.",
+            "Her pectoral muscles are well-developed and firm, contributing significantly to the powerful thrusts and parries she executes in combat.",
+            "Subtle, faint scars might be present on her chest, minor marks from deflecting blows, usually hidden by her armor and serving as silent reminders of past engagements."
+          ],
+          "Name": "Thyra's Chest"
+        }
+      ],
+      "Name": "Chest"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's abdomen is taut and muscular, forming a solid core of strength and resilience essential for her rigorous lifestyle.",
+            "While her abdomen is generally unblemished by deep scars, perhaps a small, faint mark from a minor injury or old training mishap can be discerned.",
+            "The flexibility of her abdomen is remarkable, allowing for quick dodges, shifts in stance, and efficient movement during combat."
+          ],
+          "Name": "Thyra's Abdomen"
+        }
+      ],
+      "Name": "Abdomen"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's hips are strong and stable, providing a robust base for her combat stance and agile movements on a ship's deck.",
+            "She possesses an excellent range of motion in her hips, crucial for fluid maneuvers in close quarters and maintaining balance on a pitching longship.",
+            "The musculature around her hips is firm and well-developed, significantly aiding in powerful leg movements and overall stability."
+          ],
+          "Name": "Thyra's Hip"
+        }
+      ],
+      "Name": "Hip"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's legs are powerful and distinctly defined, built for enduring long marches, rapid charges, and bracing against the sway of a longship.",
+            "Her calves are robust and well-formed, showcasing the immense strength derived from constant movement and vigorous physical activity.",
+            "She often adopts a firmly planted stance, conveying her unwavering resolve and solid foundation, both physically and mentally."
+          ],
+          "Name": "Thyra's Legs"
+        }
+      ],
+      "Name": "Legs"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's feet possess a strong and well-defined arch, providing exceptional support and balance crucial for traversing varied terrain and unstable ship decks.",
+            "The skin on her feet is tough and resilient, accustomed to rough surfaces and varying environmental conditions, reflecting a life spent outdoors.",
+            "Her toes are straight and sturdy, offering excellent grip and stability, vital for maintaining footing during skirmishes or treacherous weather at sea."
+          ],
+          "Name": "Thyra's Feet"
+        }
+      ],
+      "Name": "Feet"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's genitals are natural and unadorned, reflecting her practical and unembellished lifestyle, free from any artificial enhancements.",
+            "They appear healthy and functional, emphasizing their natural purpose without any particular focus on aesthetic embellishment, consistent with her pragmatic character.",
+            "This intimate part of her body is kept private, aligning with her stoic and reserved personality, emphasizing a personal boundary that is rarely crossed."
+          ],
+          "Name": "Thyra's Genitals"
+        }
+      ],
+      "Name": "Genitals"
+    },
+    {
+      "Details": [
+        {
+          "Descriptions": [
+            "Thyra's breasts are of a modest and firm size, perfectly practical for an active combatant and shieldmaiden, ensuring they do not impede movement.",
+            "Their shape is athletic and compact, designed not to hinder her agility or the effective wear of armor, reflecting her dedication to combat readiness.",
+            "They are naturally well-supported by her strong pectoral muscles, contributing to her overall powerful physique and ease of movement during battle."
+          ],
+          "Name": "Thyra's Breasts"
+        }
+      ],
+      "Name": "Breasts"
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Crewmate",
+      "FirstName": "Freya",
+      "LastName": "Bjornsdottir",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Norse",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Stoic",
+    "Loyal",
+    "Disciplined",
+    "Strategic",
+    "Observant",
+    "Protective of her crew"
+  ],
+  "Languages": [
+    "Old Norse"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Wolf",
+    "FavoriteColor": "Deep Forest Green",
+    "FavoriteDrink": "Mead",
+    "FavoriteFood": "Smoked Salmon",
+    "FavoritePlant": "Oak Tree"
+  },
+  "Skills": [
+    "Spear combat",
+    "Shield wall formation",
+    "Hand-to-hand combat",
+    "Navigation",
+    "Sailing",
+    "Tactical planning",
+    "Tracking"
+  ],
+  "Talents": [
+    "Remarkable accuracy with thrown weapons",
+    "Leadership during skirmishes"
+  ],
+  "Advantages": [
+    "Exceptional Spear Proficiency",
+    "Adept Navigator",
+    "High Stamina",
+    "Fearless in Battle"
+  ],
+  "Disadvantages": [
+    "Somewhat reserved in social settings",
+    "Stubborn once her mind is made up"
+  ],
+  "Employer": [
+    {
+      "Company": "The Longship Crew of 'Serpent's Kiss'",
+      "JobTitles": [
+        "Shieldmaiden",
+        "Spear-Sister",
+        "Navigator (secondary)"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Weapon",
+      "Description": [
+        "A well-balanced throwing spear with an iron tip",
+        "A battle-axe with a worn wooden handle"
+      ]
+    },
+    {
+      "ItemType": "Armor",
+      "Description": [
+        "A sturdy round shield adorned with a simple raven design",
+        "Leather tunic and breeches, reinforced with iron plates"
+      ]
+    },
+    {
+      "ItemType": "Personal Item",
+      "Description": [
+        "A small, carved wooden raven fetish, a good luck charm."
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Daily",
+        "Travel"
+      ],
+      "Items": [
+        {
+          "Type": "Tunic",
+          "Color": "Dark Grey",
+          "Style": "Practical",
+          "Fabric": "Wool",
+          "Size": "M",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Breeches",
+          "Color": "Brown",
+          "Style": "Practical",
+          "Fabric": "Linen",
+          "Size": "M",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Boots",
+          "Color": "Brown",
+          "Style": "Practical",
+          "Fabric": "Leather",
+          "Size": "M",
+          "Fit": "Snug"
+        }
+      ]
+    },
+    {
+      "Usage": [
+        "Combat",
+        "Formal"
+      ],
+      "Items": [
+        {
+          "Type": "Armour Tunic",
+          "Color": "Dark Green",
+          "Style": "Reinforced",
+          "Fabric": "Thick Leather",
+          "Size": "M",
+          "Fit": "Snug"
+        },
+        {
+          "Type": "Shield",
+          "Color": "Brown with Black Raven",
+          "Style": "Round Shield",
+          "Fabric": "Wood and Iron",
+          "Size": "M",
+          "Fit": "N/A"
+        },
+        {
+          "Type": "Helmet",
+          "Color": "Steel",
+          "Style": "Simple conical",
+          "Fabric": "Metal",
+          "Size": "M",
+          "Fit": "Snug"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Known for her precise spear throws.",
+    "A quiet but observant member of the crew.",
+    "Has a small, intricate runic tattoo on her left forearm, signifying strength and protection."
+  ]
+}

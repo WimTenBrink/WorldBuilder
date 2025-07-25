@@ -1,0 +1,339 @@
+{
+  "id": "char_1753355246424",
+  "Version": "1.2",
+  "Created": "2024-07-29T18:35",
+  "Age": 45,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Silas",
+    "LastName": "Blackwood",
+    "Race": "Human",
+    "Gender": "Male",
+    "Names": [
+      "Grimfang"
+    ],
+    "MaidenName": null
+  },
+  "Pronouns": [
+    "he",
+    "him",
+    "his"
+  ],
+  "Sexuality": "Heterosexual",
+  "Size": {
+    "Height": 180,
+    "Weight": 85,
+    "BMI": 26.2
+  },
+  "Birth": {
+    "BirthDateTime": "1979-03-15",
+    "BornCity": "Oakhaven",
+    "BornCountry": "Eldoria",
+    "Nationality": [
+      "Eldorian"
+    ]
+  },
+  "IQ": 110,
+  "Naked": [
+    "Silas possesses a muscular, wiry build honed by years of traversing the wilderness. His skin is weathered and tanned from exposure to the elements, bearing a scattering of freckles across his shoulders and back. He carries himself with a predatory confidence, unashamed of his body and its capabilities. His genitals are well-proportioned; his penis is around 16cm long when erect and 4cm in diameter with prominent veins. His pubic hair is thick and dark grey, like the hair on his head. Silas is indifferent to nudity; he views it as a practical state when necessary and nothing more."
+  ],
+  "Story": [
+    "Silas Blackwood, known as Grimfang Hunter, is a seasoned hunter driven by a thirst for knowledge and power.",
+    "He believes the mystical creatures of the forest, including the nymphs, hold the key to unlocking potent magic.",
+    "His ultimate goal is to exploit the forest's magic for his personal gain, regardless of the consequences.",
+    "He has tracked Elara Leafwhisper and Zoya Sunspark, sensing their connection and the potential to access the hidden sanctuary.",
+    "Silas is ruthless and cunning, willing to use any means necessary to achieve his objectives, including exploiting the nymphs' relationship."
+  ],
+  "Residence": "A secluded cabin on the outskirts of the Whisperwood.",
+  "BodyMarks": [
+    {
+      "Name": "Scar",
+      "Location": "Left shoulder",
+      "Description": "A jagged scar from a wolf attack, a reminder of a past encounter.",
+      "Details": [
+        "Approximately 10 cm long.",
+        "Slightly raised and discolored."
+      ]
+    },
+    {
+      "Name": "Tattoo",
+      "Location": "Right forearm",
+      "Description": "A tribal-style tattoo depicting a snarling wolf's head.",
+      "Details": [
+        "Black ink.",
+        "Intricate design."
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Eyes",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Deep brown",
+            "Piercing gaze"
+          ]
+        },
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Almond-shaped",
+            "Slightly sunken"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Color",
+          "Descriptions": [
+            "Dark grey",
+            "Streaked with grey"
+          ]
+        },
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "Long, unkempt",
+            "Often tied back with a leather thong"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Details": [
+        {
+          "Name": "Shape",
+          "Descriptions": [
+            "Weathered",
+            "Angular"
+          ]
+        },
+        {
+          "Name": "Features",
+          "Descriptions": [
+            "Prominent cheekbones",
+            "Strong jawline"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Chest",
+      "Details": [
+        {
+          "Name": "Appearance",
+          "Descriptions": [
+            "Muscular, wiry",
+            "Covered in light brown hair"
+          ]
+        },
+        {
+          "Name": "Nipples",
+          "Descriptions": [
+            "Small, erect",
+            "Dark brown in color"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Genitals",
+      "Details": [
+        {
+          "Name": "Appearance",
+          "Descriptions": [
+            "Well-proportioned",
+            "Masculine"
+          ]
+        },
+        {
+          "Name": "Penis",
+          "Descriptions": [
+            "Approximately 16cm long when erect",
+            "4cm in diameter, with prominent veins"
+          ]
+        },
+        {
+          "Name": "Scrotum",
+          "Descriptions": [
+            "Slightly wrinkled",
+            "Covered in sparse hair"
+          ]
+        },
+        {
+          "Name": "Pubic Hair",
+          "Descriptions": [
+            "Thick, dark grey",
+            "Extends up to his navel"
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Rival",
+      "FirstName": "Zoya",
+      "LastName": "Sunspark",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Nymph",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Rival",
+      "FirstName": "Elara",
+      "LastName": "Leafwhisper",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Nymph",
+      "Gender": "Female"
+    },
+    {
+      "Relation": "Deceased Father",
+      "FirstName": "Barnaby",
+      "LastName": "Blackwood",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Male"
+    }
+  ],
+  "Personality": [
+    "Ruthless",
+    "Cunning",
+    "Resourceful",
+    "Determined",
+    "Malevolent"
+  ],
+  "Languages": [
+    "Common Tongue",
+    "Sylvan"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Wolf",
+    "FavoriteColor": "Forest Green",
+    "FavoriteDrink": "Strong Ale",
+    "FavoriteFood": "Venison Stew",
+    "FavoritePlant": "Wolfsbane"
+  },
+  "Skills": [
+    "Tracking",
+    "Hunting",
+    "Trapping",
+    "Archery",
+    "Survival",
+    "Knowledge of Forest Lore",
+    "Herbalism",
+    "Hand-to-hand combat"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Hunter",
+        "Trapper",
+        "Self-Employed"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Weapon",
+      "Description": [
+        "Longbow made of yew wood",
+        "Quiver of arrows with steel tips",
+        "Hunting knife with a bone handle",
+        "Axe"
+      ]
+    },
+    {
+      "ItemType": "Clothing",
+      "Description": [
+        "Leather armor",
+        "Camouflaged cloak",
+        "Boots"
+      ]
+    },
+    {
+      "ItemType": "Tools",
+      "Description": [
+        "Hunting traps",
+        "Herbalism kit",
+        "Waterskin",
+        "Bedroll",
+        "Tinderbox"
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Hunting",
+        "Tracking"
+      ],
+      "Items": [
+        {
+          "Type": "Tunic",
+          "Color": "Brown",
+          "Style": "Loose-fitting",
+          "Fabric": "Linen",
+          "Size": "Medium",
+          "Fit": "Comfortable"
+        },
+        {
+          "Type": "Pants",
+          "Color": "Dark Green",
+          "Style": "Durable",
+          "Fabric": "Canvas",
+          "Size": "Medium",
+          "Fit": "Snug"
+        },
+        {
+          "Type": "Boots",
+          "Color": "Brown",
+          "Style": "High-laced",
+          "Fabric": "Leather",
+          "Size": "10",
+          "Fit": "Sturdy"
+        },
+        {
+          "Type": "Cloak",
+          "Color": "Camouflaged",
+          "Style": "Hooded",
+          "Fabric": "Wool",
+          "Size": "One Size",
+          "Fit": "Loose"
+        },
+        {
+          "Type": "Gloves",
+          "Color": "Brown",
+          "Style": "Fingerless",
+          "Fabric": "Leather",
+          "Size": "Medium",
+          "Fit": "Tight"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}

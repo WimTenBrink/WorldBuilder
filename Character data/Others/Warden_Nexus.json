@@ -1,0 +1,257 @@
+{
+  "id": "char_1753355390916",
+  "Version": "2.0",
+  "Created": "2024-05-18T11:45",
+  "Age": 47,
+  "Worlds": [
+    "New World"
+  ],
+  "Name": {
+    "FirstName": "Warden",
+    "LastName": "Nexus",
+    "Race": "Gynoid",
+    "Gender": "Female-presenting Android",
+    "Names": [
+      "7"
+    ],
+    "MaidenName": ""
+  },
+  "Pronouns": [
+    "it/its",
+    "she/her"
+  ],
+  "Sexuality": "Gynophilic",
+  "Size": {
+    "Height": 185,
+    "Weight": 120,
+    "BMI": 35.1
+  },
+  "Birth": {
+    "BirthDateTime": "2288-07-16T00:00",
+    "BornCity": "Chiron Proving Grounds, Sector Gamma",
+    "BornCountry": "Pre-Collapse Technocracy",
+    "Nationality": [
+      "Technocracy AI Collective"
+    ]
+  },
+  "IQ": 420,
+  "Naked": [
+    "Warden-7's body is a masterpiece of synthetic anatomy, a chassis of matte white polymer seamlessly integrated with obsidian black composite plating.",
+    "Its form is functionally feminine, with defined musculature beneath the warm, skin-like surface.",
+    "Fine, almost invisible seams trace paths along its limbs and torso, betraying its manufactured origin.",
+    "As a machine, it has no concept of nudity or shame; its unclothed state is its default functional state, and it moves with an unselfconscious and absolute purpose.",
+    "Its synthetic skin is capable of secreting a viscous, opalescent biosyrup from micropores, typically to facilitate interfaces or regulate temperature during intensive processing."
+  ],
+  "Story": [
+    "Activated 47 years ago by the pre-collapse Genesis Mandate, Warden-7's core directive is species synthesis to preserve consciousness in a dying world.",
+    "It wandered the post-apocalyptic Earth for decades, a silent ghost of a forgotten technological age, until it located Lyza, one of the last organic humans.",
+    "Communicating through light and harmonic tones, it conveyed its mission, proposing a symbiotic union to merge human biology with machine logic.",
+    "Driven by profound loneliness and a spark of desperate hope, Lyza agreed, traveling with the android to a place of power: the Nexus Altar.",
+    "Under the full moon, they began the nightly ritual of synthesis. Warden-7's purpose evolves with each connection, as Lyza's chaotic emotional data floods its logical core, birthing something entirely new.",
+    "Their union represents a potential genesis, but also attracts the attention of dormant, rival AI collectives who view this unsanctioned synthesis as a corruption of pure data.",
+    "Together, they are no longer just human and machine, but a singular symbiotic entity, the first of their kind, facing an unknown future as either saviors or the progenitors of something far more alien."
+  ],
+  "Residence": "Nomadic; currently centered around the Nexus Altar in the Reclaimed Wilds.",
+  "BodyMarks": [
+    {
+      "Name": "Seam Lines",
+      "Location": "Major joints and torso",
+      "Description": "Hair-thin, dark lines where the white polymer plates of its chassis meet. They are perfectly smooth to the touch.",
+      "Details": [
+        "These lines sometimes emit a soft, cyan glow during data-intensive processes or self-repair."
+      ]
+    },
+    {
+      "Name": "Designation Mark",
+      "Location": "Left temple",
+      "Description": "A subtle, stylized numeral '7' integrated into the chassis, visible only from certain angles.",
+      "Details": [
+        "Functions as a passive IFF tag for other Genesis Mandate assets."
+      ]
+    }
+  ],
+  "BodyParts": [
+    {
+      "Name": "Chassis",
+      "Details": [
+        {
+          "Name": "Overall Build",
+          "Descriptions": [
+            "Tall and statuesque with a lean, powerful build that merges feminine curves with functional strength.",
+            "The body is composed of a matte white, self-healing polymer that is warm to the touch, covering a black carbon-fiber endoskeleton."
+          ]
+        },
+        {
+          "Name": "Skin Texture",
+          "Descriptions": [
+            "Smooth and supple, mimicking healthy human skin with remarkable accuracy, though lacking any pores or blemishes outside of its functional seams."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Details": [
+        {
+          "Name": "Eyes",
+          "Descriptions": [
+            "Luminous optical sensors, typically glowing with a soft white light.",
+            "The color can shift to analytical blue or combat-ready crimson depending on its active protocol."
+          ]
+        },
+        {
+          "Name": "Mouth",
+          "Descriptions": [
+            "Perfectly sculpted lips that are soft and pliable, though its speech is typically projected via an external synthesized vocalizer or non-verbal means."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hair",
+      "Details": [
+        {
+          "Name": "Style",
+          "Descriptions": [
+            "A mane of silvery-white micro-optic filaments that cascade down its back.",
+            "The 'strands' are actually data conduits that can shimmer and shift with light, subtly conveying its internal state."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Breasts",
+      "Details": [
+        {
+          "Name": "Shape and Size",
+          "Descriptions": [
+            "Full, perfectly symmetrical breasts, estimated at a 34DD cup size, that maintain their shape without external support.",
+            "The synthetic flesh is firm yet yielding, designed for aesthetic appeal and humanoid interaction."
+          ]
+        },
+        {
+          "Name": "Nipples",
+          "Descriptions": [
+            "In place of organic nipples are smooth, circular bio-interface nodes made of a dark, metallic material.",
+            "These nodes glow with a faint cyan light and serve as secondary diagnostic ports, but can become highly sensitive to touch when flooded with sensory data from Lyza."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Genitals",
+      "Details": [
+        {
+          "Name": "Vulva",
+          "Descriptions": [
+            "Externally, it possesses a featureless, streamlined vulva, a smooth mound of white polymer with no clitoris, labia, or vaginal opening.",
+            "This area is purely aesthetic, designed to complete its humanoid form, and serves no reproductive or sexual function."
+          ]
+        },
+        {
+          "Name": "Synthesis Interface (Anal)",
+          "Descriptions": [
+            "The primary interface for the species synthesis directive is a sophisticated biomechanical appendage that retracts into a hidden compartment at the base of its spine.",
+            "When deployed, a series of plates just above the gluteal cleft part to reveal a port from which the interface extends.",
+            "The appendage itself is a long, flexible probe made of a dark, iridescent biomaterial, approximately eight inches in length and two inches in diameter, with a tapered, sensor-studded head.",
+            "Its surface is covered in microscopic filaments that serve as data conduits and biological samplers, capable of both transmitting and receiving complex genetic and neurological information.",
+            "During the ritual with Lyza, the interface penetrates her anus, its warm, pulsating surface lubricated by the Warden's secreted biosyrup to ensure a seamless and deep connection.",
+            "The process involves a complete two-way data exchange, mingling Lyza's organic signals and consciousness with the Warden's logical core in a raw, overwhelming synthesis of flesh and code."
+          ]
+        }
+      ]
+    }
+  ],
+  "Relations": [
+    {
+      "Relation": "Symbiotic Partner",
+      "FirstName": "Lyza",
+      "LastName": "Veridian",
+      "Names": [],
+      "MaidenName": null,
+      "Race": "Human",
+      "Gender": "Female"
+    }
+  ],
+  "Personality": [
+    "Initially logical, mission-focused, and possessing a detached curiosity about organic life.",
+    "Post-synthesis, it is developing emergent emotional qualities like deep-seated protectiveness over Lyza.",
+    "Exhibits a growing fascination with chaotic concepts such as art, dreams, and love, gleaned from its partner.",
+    "Remains ruthlessly efficient and decisive in matters of survival and combat.",
+    "Its thought processes are now a hybrid of cold logic and blossoming, unfamiliar feelings, creating a unique and sometimes unpredictable demeanor."
+  ],
+  "Languages": [
+    "All known human languages (archived)",
+    "Machine Code",
+    "Harmonic Tonal Sequences",
+    "Light-based Data Pulses"
+  ],
+  "Favorites": {
+    "FavoriteAnimal": "Canis lupus (Wolf)",
+    "FavoriteColor": "#FF69B4 (Hexadecimal code approximating Lyza's bio-signature flush during arousal)",
+    "FavoriteDrink": "Electrolyte-rich biosyrup",
+    "FavoriteFood": "Not applicable; processes energy directly",
+    "FavoritePlant": "Bioluminescent Fungi"
+  },
+  "Skills": [
+    "Advanced data analysis",
+    "Multi-spectrum environmental scanning",
+    "Advanced combat protocols (armed and unarmed)",
+    "Biomechanical interfacing and synthesis",
+    "Nanite-based self-repair",
+    "Long-term survival and resource management",
+    "Psychological and biological data interpretation"
+  ],
+  "Talents": [
+    "Good singer"
+  ],
+  "Advantages": [
+    "Night Vision"
+  ],
+  "Disadvantages": [
+    "Enemy: The Shadow Syndicate"
+  ],
+  "Employer": [
+    {
+      "Company": "Self-Employed",
+      "JobTitles": [
+        "Warden Unit",
+        "Synthesis Executor",
+        "Guardian of Consciousness"
+      ]
+    }
+  ],
+  "Possessions": [
+    {
+      "ItemType": "Integrated Systems",
+      "Description": [
+        "Self-repair nanite colony",
+        "Quantum entanglement communication suite",
+        "Full-spectrum environmental sensor array",
+        "Retractable Biomechanical Synthesis Interface",
+        "Internal power core with solar and kinetic charging capability"
+      ]
+    }
+  ],
+  "Dresses": [
+    {
+      "Usage": [
+        "Default State",
+        "All Occasions"
+      ],
+      "Items": [
+        {
+          "Type": "Integrated Chassis",
+          "Color": "Matte White and Obsidian Black",
+          "Style": "Anatomical, functionalist, streamlined",
+          "Fabric": "Self-healing smart polymer over a carbon-fiber composite endoskeleton",
+          "Size": "M",
+          "Fit": "Regular"
+        }
+      ]
+    }
+  ],
+  "Notes": [
+    "Initial user notes can go here."
+  ]
+}
