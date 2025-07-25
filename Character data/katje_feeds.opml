@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Katje Feeds</title>
+  </head>
+  <body>
+    <outline text="Nu.nl" title="Nu.nl">
+      <outline type="rss" text="NU - Gezondheid" title="NU - Gezondheid" xmlUrl="http://www.nu.nl/feeds/rss/gezondheid.rss" htmlUrl="https://www.nu.nl/gezondheid"/>
+      <outline type="rss" text="NU - Opmerkelijk" title="NU - Opmerkelijk" xmlUrl="http://www.nu.nl/feeds/rss/opmerkelijk.rss" htmlUrl="https://www.nu.nl/opmerkelijk"/>
+      <outline type="rss" text="NU - Binnenland" title="NU - Binnenland" xmlUrl="http://www.nu.nl/feeds/rss/binnenland.rss" htmlUrl="https://www.nu.nl/binnenland"/>
+      <outline type="rss" text="NU - Wetenschap" title="NU - Wetenschap" xmlUrl="http://www.nu.nl/feeds/rss/wetenschap.rss" htmlUrl="https://www.nu.nl/wetenschap"/>
+      <outline type="rss" text="NU - Buitenland" title="NU - Buitenland" xmlUrl="http://www.nu.nl/feeds/rss/buitenland.rss" htmlUrl="https://www.nu.nl/buitenland"/>
+    </outline>
+    <outline text="Politiek" title="Politiek">
+      <outline type="rss" text="Law and Chaos" title="Law and Chaos" xmlUrl="https://www.lawandchaospod.com/feed" htmlUrl="https://www.lawandchaospod.com"/>
+    </outline>
+    <outline text="Security" title="Security">
+      <outline type="rss" text="Malwarebytes" title="Malwarebytes" xmlUrl="http://blog.malwarebytes.org/feed/" htmlUrl="https://www.malwarebytes.com/"/>
+      <outline type="rss" text="Auth0 Blog" title="Auth0 Blog" xmlUrl="http://feeds.feedburner.com/auth0" htmlUrl="https://auth0.com/blog/"/>
+      <outline type="rss" text="The Register" title="The Register" xmlUrl="http://www.theregister.co.uk/excerpts.rss" htmlUrl="https://www.theregister.com/"/>
+    </outline>
+    <outline text="Arduino" title="Arduino">
+      <outline type="rss" text="Last Minute Engineers" title="Last Minute Engineers" xmlUrl="https://lastminuteengineers.com/feed/" htmlUrl="https://lastminuteengineers.com"/>
+      <outline type="rss" text="Arduino Blog" title="Arduino Blog" xmlUrl="http://www.arduino.cc/blog/?feed=rss2" htmlUrl="https://blog.arduino.cc/"/>
+    </outline>
+    <outline text="Fun" title="Fun">
+      <outline type="rss" text="Crazy Facts" title="Crazy Facts" xmlUrl="http://crazyfacts.com/feed" htmlUrl="https://crazyfacts.com"/>
+      <outline type="rss" text="Sad and Useless Humor" title="Sad and Useless Humor" xmlUrl="http://www.sadanduseless.com/feed/" htmlUrl="https://www.sadanduseless.com"/>
+      <outline type="rss" text="The Daily WTF" title="The Daily WTF" xmlUrl="http://thedailywtf.com/rss.aspx" htmlUrl="http://thedailywtf.com/"/>
+      <outline type="rss" text="Pastor Adam Ericksen" title="Pastor Adam Ericksen" xmlUrl="https://adamericksen.org/feed/" htmlUrl="https://adamericksen.org/"/>
+      <outline type="rss" text="Steam News RSS Feed" title="Steam News RSS Feed" xmlUrl="http://steamcommunity.com/games/593110/rss/" htmlUrl="https://steamcommunity.com/games/593110"/>
+      <outline type="rss" text="Futility Closet" title="Futility Closet" xmlUrl="http://feeds.feedburner.com/FutilityCloset" htmlUrl="https://www.futilitycloset.com/"/>
+      <outline type="rss" text="Escher Girls" title="Escher Girls" xmlUrl="http://eschergirls.tumblr.com/rss" htmlUrl="https://eschergirls.tumblr.com/"/>
+      <outline type="rss" text="Miraculous: Tales of Ladybug & Cat Noir" title="Miraculous: Tales of Ladybug & Cat Noir" xmlUrl="https://officialmiraculousladybug.tumblr.com/rss" htmlUrl="https://officialmiraculousladybug.tumblr.com/"/>
+      <outline type="rss" text="Evil Mad Scientist Laboratories | Making the world a better place, one Evil Mad Scientist at a time." title="Evil Mad Scientist Laboratories | Making the world a better place, one Evil Mad Scientist at a time." xmlUrl="http://www.evilmadscientist.com/feed/" htmlUrl="https://www.evilmadscientist.com"/>
+      <outline type="rss" text="What If?" title="What If?" xmlUrl="http://what-if.xkcd.com/feed.atom" htmlUrl="https://what-if.xkcd.com/145/"/>
+      <outline type="rss" text="TalkOrigins Archive" title="TalkOrigins Archive" xmlUrl="http://www.talkorigins.org/rss/talkorigins.xml" htmlUrl="http://www.talkorigins.org/"/>
+      <outline type="rss" text="The Oatmeal " title="The Oatmeal " xmlUrl="http://theoatmeal.com/feed/rss" htmlUrl="http://theoatmeal.com/"/>
+    </outline>
+    <outline text="3d printing" title="3d printing">
+      <outline type="rss" text="Shapeways Blog" title="Shapeways Blog" xmlUrl="http://www.shapeways.com/blog/feed" htmlUrl="https://prodshapeblog.wpenginepowered.com/"/>
+    </outline>
+    <outline text="Interesting" title="Interesting">
+      <outline type="rss" text="Nieuws & Blogs" title="Nieuws & Blogs" xmlUrl="http://ictrecht.nl/feed/" htmlUrl="https://www.ictrecht.nl/blog"/>
+      <outline type="rss" text="nakedpastor - News" title="nakedpastor - News" xmlUrl="https://nakedpastor.com/blogs/news.atom" htmlUrl="https://nakedpastor.com/blogs/news"/>
+      <outline type="rss" text="The Moscow Times - Independent News From Russia" title="The Moscow Times - Independent News From Russia" xmlUrl="https://www.themoscowtimes.com/rss/news" htmlUrl="https://www.themoscowtimes.com/news"/>
+      <outline type="rss" text="Boevennieuws.pro" title="Boevennieuws.pro" xmlUrl="http://www.boevennieuws.nl/feed/" htmlUrl="https://www.boevennieuws.pro/"/>
+    </outline>
+    <outline text="Technical" title="Technical">
+      <outline type="rss" text="Lewis & Quark" title="Lewis & Quark" xmlUrl="http://lewisandquark.tumblr.com/rss" htmlUrl="https://lewisandquark.tumblr.com/"/>
+      <outline type="rss" text="Netcraft" title="Netcraft" xmlUrl="http://news.netcraft.com/feed/" htmlUrl="https://www.netcraft.com/"/>
+      <outline type="rss" text="Gunnar Peipman – Programming Blog" title="Gunnar Peipman – Programming Blog" xmlUrl="http://feeds.feedburner.com/gunnarpeipman" htmlUrl="https://gunnarpeipman.com/"/>
+      <outline type="rss" text="CraftyBin" title="CraftyBin" xmlUrl="https://craftybin.blogspot.com/feeds/posts/default" htmlUrl="https://craftybin.blogspot.com/"/>
+      <outline type="rss" text="Scott Hanselman's Blog" title="Scott Hanselman's Blog" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl="https://www.hanselman.com/blog/"/>
+      <outline type="rss" text="blogs.cninnovation.com" title="blogs.cninnovation.com" xmlUrl="https://csharp.christiannagel.com/feed/" htmlUrl="https://csharp.christiannagel.com"/>
+    </outline>
+    <outline text="Wetenschap" title="Wetenschap">
+      <outline type="rss" text="The TensorFlow Blog" title="The TensorFlow Blog" xmlUrl="https://blog.tensorflow.org/feeds/posts/default" htmlUrl="https://blog.tensorflow.org/"/>
+      <outline type="rss" text="DeepMind " title="DeepMind " xmlUrl="https://deepmind.com/blog/feed/basic/" htmlUrl="https://deepmind.google/discover/blog/"/>
+      <outline type="rss" text="OpenAI Blog" title="OpenAI Blog" xmlUrl="https://openai.com/blog/rss/" htmlUrl="https://openai.com/blog"/>
+    </outline>
+    <outline text="_Wim Personal" title="_Wim Personal">
+      <outline type="rss" text="New Features" title="New Features" xmlUrl="https://blog.feedly.com/category/features-tutorials/feed/" htmlUrl="https://blog.feedly.com"/>
+      <outline type="rss" text="Piratenpartij - Voor een vrije informatiesamenleving." title="Piratenpartij - Voor een vrije informatiesamenleving." xmlUrl="http://www.piratenpartij.nl/rss.xml" htmlUrl="https://piratenpartij.nl/"/>
+      <outline type="rss" text="Comments for Wim ten Brink" title="Comments for Wim ten Brink" xmlUrl="http://blog.wimtenbrink.nl/comments/feed/" htmlUrl="https://blog.wimtenbrink.nl"/>
+      <outline type="rss" text="Project Zero" title="Project Zero" xmlUrl="https://www.blogger.com/feeds/4838136820032157985/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/"/>
+      <outline type="rss" text="Apps Status Dashboard" title="Apps Status Dashboard" xmlUrl="http://www.google.com/appsstatus/rss/en" htmlUrl="https://www.google.com/appsstatus/dashboard/"/>
+      <outline type="rss" text="User Wim ten Brink - Stack Overflow" title="User Wim ten Brink - Stack Overflow" xmlUrl="http://stackoverflow.com/feeds/user/115305" htmlUrl="https://stackoverflow.com/users/115305"/>
+      <outline type="rss" text="Wim ten Brink" title="Wim ten Brink" xmlUrl="http://blog.wimtenbrink.nl/feed/" htmlUrl="https://blog.wimtenbrink.nl"/>
+    </outline>
+    <outline text="Chess" title="Chess">
+      <outline type="rss" text="Lichess's Blog" title="Lichess's Blog" xmlUrl="https://lichess.org/blog.atom" htmlUrl="https://lichess.org/@/Lichess/blog"/>
+    </outline>
+    <outline text="Nieuws" title="Nieuws">
+      <outline type="rss" text="Tsunami Information Statement Number 1" title="Tsunami Information Statement Number 1" xmlUrl="http://www.tsunami.gov/events/xml/PAAQAtom.xml" htmlUrl="http://www.tsunami.gov/events/xml/PAAQAtom.xml"/>
+      <outline type="rss" text="FOK!frontpage Nieuws" title="FOK!frontpage Nieuws" xmlUrl="http://rss.fok.nl/feeds/nieuws" htmlUrl="http://fok.nl"/>
+      <outline type="rss" text="WNL" title="WNL" xmlUrl="https://wnl.tv/feed/" htmlUrl="https://wnl.tv/"/>
+      <outline type="rss" text="Bits of Freedom" title="Bits of Freedom" xmlUrl="https://www.bof.nl/feed/" htmlUrl="https://www.bitsoffreedom.nl"/>
+      <outline type="rss" text="The Criminal Times" title="The Criminal Times" xmlUrl="https://thecriminaltimes.fhj.nl/feed/" htmlUrl="https://thecriminaltimes.fhj.nl/"/>
+      <outline type="rss" text="Government.nl - News items" title="Government.nl - News items" xmlUrl="http://feeds.government.nl/news.rss" htmlUrl="https://www.government.nl/"/>
+      <outline type="rss" text="Tweakers.net Mixed RSS Feed" title="Tweakers.net Mixed RSS Feed" xmlUrl="http://tweakers.net/feeds/mixed.xml" htmlUrl="https://tweakers.net/"/>
+      <outline type="rss" text="The Moscow Times - Independent News From Russia" title="The Moscow Times - Independent News From Russia" xmlUrl="https://www.themoscowtimes.com/rss/news" htmlUrl="https://www.themoscowtimes.com/news"/>
+      <outline type="rss" text="HCC - Home" title="HCC - Home" xmlUrl="http://www.hccmagazine.nl/RSS" htmlUrl="https://hcc.nl/kennis/kennis/reviews"/>
+      <outline type="rss" text="DutchNews.nl" title="DutchNews.nl" xmlUrl="http://www.dutchnews.nl/feed/" htmlUrl="https://www.dutchnews.nl/"/>
+      <outline type="rss" text="Tokyo Kinky Sex, Erotic and Adult Japan" title="Tokyo Kinky Sex, Erotic and Adult Japan" xmlUrl="http://feeds2.feedburner.com/KanojoToys" htmlUrl="https://www.tokyokinky.com"/>
+      <outline type="rss" text="NVWA - Nieuwsberichten" title="NVWA - Nieuwsberichten" xmlUrl="https://feeds.nvwa.nl/nieuws.rss" htmlUrl="https://www.nvwa.nl/"/>
+      <outline type="rss" text="Nieuwscheckers" title="Nieuwscheckers" xmlUrl="http://nieuwscheckers.nl/nieuwscheckers/feed/" htmlUrl="https://nieuwscheckers.nl"/>
+      <outline type="rss" text="Algemene informatie van crisis.nl" title="Algemene informatie van crisis.nl" xmlUrl="https://crisis.nl/algemene-informatie-van-crisisnl/" htmlUrl="http://productie-crs-gdi-we.cloudapp.net"/>
+      <outline type="rss" text="AT5: Laatste nieuws" title="AT5: Laatste nieuws" xmlUrl="http://www.at5.nl/feed" htmlUrl="https://rss.at5.nl/rss"/>
+      <outline type="rss" text="NOS Nieuws" title="NOS Nieuws" xmlUrl="http://www.nos.nl/nos/rss/nieuws.xml" htmlUrl="https://nos.nl"/>
+      <outline type="rss" text="USGS Significant Earthquakes, Past Hour" title="USGS Significant Earthquakes, Past Hour" xmlUrl="http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_hour.atom" htmlUrl="http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_hour.atom"/>
+      <outline type="rss" text="Netherlands | The Guardian" title="Netherlands | The Guardian" xmlUrl="http://www.guardian.co.uk/world/netherlands/rss" htmlUrl="https://www.theguardian.com/world/netherlands"/>
+    </outline>
+    <outline text="Gossip" title="Gossip">
+      <outline type="rss" text="bellingcat" title="bellingcat" xmlUrl="https://bellingcat.com/feed/" htmlUrl="https://www.bellingcat.com/"/>
+      <outline type="rss" text="Snopes.com" title="Snopes.com" xmlUrl="http://www.snopes.com/feed/" htmlUrl="https://www.snopes.com"/>
+    </outline>
+    <outline text="Comics" title="Comics">
+      <outline type="rss" text="Dork Tower" title="Dork Tower" xmlUrl="http://www.dorktower.com/feed/" htmlUrl="https://www.dorktower.com"/>
+      <outline type="rss" text="Mimi and Eunice" title="Mimi and Eunice" xmlUrl="http://mimiandeunice.com/feed/" htmlUrl="https://mimiandeunice.com"/>
+      <outline type="rss" text="Buttersafe" title="Buttersafe" xmlUrl="http://buttersafe.com/feed/" htmlUrl="http://www.buttersafe.com"/>
+      <outline type="rss" text="Waffles & Pancakes" title="Waffles & Pancakes" xmlUrl="http://www.webtoons.com/en/slice-of-life/waffles-and-pancakes/rss?title_no=1310" htmlUrl="https://www.webtoons.com/en/slice-of-life/waffles-and-pancakes/list?title_no=1310"/>
+      <outline type="rss" text="Elf & Warrior" title="Elf & Warrior" xmlUrl="http://www.webtoons.com/en/fantasy/elf-and-warrior/rss?title_no=908" htmlUrl="https://www.webtoons.com/en/fantasy/elf-and-warrior/list?title_no=908"/>
+      <outline type="rss" text="Comics I Don't Understand" title="Comics I Don't Understand" xmlUrl="https://godaddyandthesquirrelmustbothdie.wordpress.com/feed/" htmlUrl="https://cidu.info"/>
+      <outline type="rss" text="PHD Comics" title="PHD Comics" xmlUrl="http://www.phdcomics.com/gradfeed.php" htmlUrl="http://www.phdcomics.com"/>
+      <outline type="rss" text="Spinnerette" title="Spinnerette" xmlUrl="http://www.spinnyverse.com/feed/" htmlUrl="https://www.spinnyverse.com/"/>
+      <outline type="rss" text="Dirkjan" title="Dirkjan" xmlUrl="http://dirkjan.nl/feed/" htmlUrl="https://dirkjan.nl"/>
+      <outline type="rss" text="Yaoi 911 Webcomics" title="Yaoi 911 Webcomics" xmlUrl="http://webcomics.yaoi911.com/feed/" htmlUrl="https://youngprotectors.com/"/>
+      <outline type="rss" text="Dangerously Chloe" title="Dangerously Chloe" xmlUrl="http://www.dangerouslychloe.com/comic.rss" htmlUrl="http://www.dangerouslychloe.com/"/>
+      <outline type="rss" text="Goblins" title="Goblins" xmlUrl="http://www.goblinscomic.org/feed/" htmlUrl="https://www.goblinscomic.com/"/>
+      <outline type="rss" text="Sticky Dilly Buns" title="Sticky Dilly Buns" xmlUrl="http://www.stickydillybuns.com/comic.rss" htmlUrl="http://www.stickydillybuns.com/"/>
+      <outline type="rss" text="So... You're a cartoonist..." title="So... You're a cartoonist..." xmlUrl="http://feeds.feedburner.com/syac" htmlUrl="http://www.syacartoonist.com"/>
+      <outline type="rss" text="Dilbert Daily Strip" title="Dilbert Daily Strip" xmlUrl="http://feed.dilbert.com/dilbert/daily_strip" htmlUrl="http://dilbert.com"/>
+      <outline type="rss" text="Girls With Slingshots" title="Girls With Slingshots" xmlUrl="http://feeds.feedburner.com/Girls_With_Slingshots" htmlUrl="https://www.girlswithslingshots.com/"/>
+      <outline type="rss" text="Fowl Language" title="Fowl Language" xmlUrl="https://www.comicsrss.com/rss/fowl-language.rss" htmlUrl="https://www.gocomics.com/fowl-language"/>
+      <outline type="rss" text="Optipess" title="Optipess" xmlUrl="http://www.optipess.com/feed/" htmlUrl="https://www.optipess.com"/>
+      <outline type="rss" text="garfield minus garfield" title="garfield minus garfield" xmlUrl="http://garfieldminusgarfield.net/rss" htmlUrl="https://garfieldminusgarfield.net/"/>
+      <outline type="rss" text="CommitStrip" title="CommitStrip" xmlUrl="http://www.commitstrip.com/en/feed/" htmlUrl="https://www.commitstrip.com"/>
+      <outline type="rss" text="The Adventures of Gyno-St..." title="The Adventures of Gyno-St..." xmlUrl="http://www.gynostar.com/feed" htmlUrl="https://www.gynostar.com"/>
+      <outline type="rss" text="Pet Foolery" title="Pet Foolery" xmlUrl="https://www.webtoons.com/en/challenge/pet-foolery/rss?title_no=691801" htmlUrl="https://www.webtoons.com/en/canvas/pet-foolery/list?title_no=691801"/>
+      <outline type="rss" text="Weregeek" title="Weregeek" xmlUrl="http://www.weregeek.com/feed/" htmlUrl="http://www.weregeek.com"/>
+      <outline type="rss" text="Questionable Content" title="Questionable Content" xmlUrl="http://www.questionablecontent.net/QCRSS.xml" htmlUrl="http://www.questionablecontent.net"/>
+      <outline type="rss" text="Sandra and Woo" title="Sandra and Woo" xmlUrl="http://www.sandraandwoo.com/feed/" htmlUrl="https://www.sandraandwoo.com"/>
+      <outline type="rss" text="Elven" title="Elven" xmlUrl="http://www.elven.co.nz/?feed=rss2" htmlUrl="https://elven.co.nz"/>
+      <outline type="rss" text="I AM ARG!" title="I AM ARG!" xmlUrl="http://iamarg.com/feed/" htmlUrl="http://iamarg.com"/>
+      <outline type="rss" text="Calvin and Hobbes" title="Calvin and Hobbes" xmlUrl="http://galliver.cx/feeds/comics/calvinandhobbes/" htmlUrl="http://www.gocomics.com/calvinandhobbes/"/>
+      <outline type="rss" text="Nuklear Power" title="Nuklear Power" xmlUrl="http://www.nuklearpower.com/feed/" htmlUrl="http://www.nuklearpower.com"/>
+      <outline type="rss" text="Explosm.net" title="Explosm.net" xmlUrl="https://explosm.net/rss.xml" htmlUrl="https://explosm.net"/>
+      <outline type="rss" text="Cleopatra in Space" title="Cleopatra in Space" xmlUrl="http://operationspacecat.com/cleopatra/feed/" htmlUrl="http://operationspacecat.com/cleopatra"/>
+      <outline type="rss" text="Adventures of God" title="Adventures of God" xmlUrl="http://www.webtoons.com/en/comedy/adventures-of-god/rss?title_no=853" htmlUrl="https://www.webtoons.com/en/comedy/adventures-of-god/list?title_no=853"/>
+      <outline type="rss" text="Awaken" title="Awaken" xmlUrl="http://www.awakencomic.com/rss.php" htmlUrl="https://www.awakencomic.com/"/>
+      <outline type="rss" text="Pearls Before Swine" title="Pearls Before Swine" xmlUrl="http://www.comicsrss.com/rss/pearlsbeforeswine.rss" htmlUrl="https://www.gocomics.com/pearlsbeforeswine"/>
+      <outline type="rss" text="Oglaf! -- Comics. Often dirty." title="Oglaf! -- Comics. Often dirty." xmlUrl="http://oglaf.com/feeds/rss/" htmlUrl="https://www.oglaf.com/latest/"/>
+      <outline type="rss" text="Eerie Cuties" title="Eerie Cuties" xmlUrl="https://pixietrixcomix.com/eerie-cuties/rss" htmlUrl="https://pixietrixcomix.com/"/>
+      <outline type="rss" text="Least I Could Do" title="Least I Could Do" xmlUrl="http://feeds.feedburner.com/LICD?format=xml" htmlUrl="https://leasticoulddo.com/"/>
+      <outline type="rss" text="Basic Instructions" title="Basic Instructions" xmlUrl="http://basicinstructions.net/basic-instructions/rss.xml" htmlUrl="https://www.basicinstructions.net/"/>
+      <outline type="rss" text="Channelate" title="Channelate" xmlUrl="http://channelate.com/feed/" htmlUrl="https://www.channelate.com"/>
+      <outline type="rss" text="d20monkey" title="d20monkey" xmlUrl="http://www.d20monkey.com/feed/" htmlUrl="https://d20monkey.com"/>
+      <outline type="rss" text="Miss Melee" title="Miss Melee" xmlUrl="http://miss-melee.com/feed/" htmlUrl="https://miss-melee.com"/>
+      <outline type="rss" text="Ninja and Pirate" title="Ninja and Pirate" xmlUrl="http://www.ninjaandpirate.com/feed/" htmlUrl="https://ninjaandpirate.com"/>
+      <outline type="rss" text="The Androssian Prophecy" title="The Androssian Prophecy" xmlUrl="http://androssianprophecy.thecomicseries.com/rss/" htmlUrl="https://androssianprophecy.thecomicseries.com"/>
+      <outline type="rss" text="MARRY ME" title="MARRY ME" xmlUrl="http://marryme.keenspot.com/main/feed/" htmlUrl="http://marryme.keenspot.com"/>
+      <outline type="rss" text="Barts Comics » Feed" title="Barts Comics » Feed" xmlUrl="https://bartscomics.com/feed/" htmlUrl="https://bartscomics.com"/>
+      <outline type="rss" text="Pixie and Brutus" title="Pixie and Brutus" xmlUrl="https://www.webtoons.com/en/challenge/pixie-and-brutus/rss?title_no=452175" htmlUrl="https://www.webtoons.com/en/canvas/pixie-and-brutus/list?title_no=452175"/>
+      <outline type="rss" text="Headless Bliss" title="Headless Bliss" xmlUrl="http://www.headlessbliss.com/rss.php" htmlUrl="https://www.headlessbliss.com/"/>
+      <outline type="rss" text="Sandra On the Rocks" title="Sandra On the Rocks" xmlUrl="http://www.sandraontherocks.com/comic.rss" htmlUrl="http://www.sandraontherocks.com/"/>
+      <outline type="rss" text="9 to 5" title="9 to 5" xmlUrl="http://www.comicsrss.com/rss/9to5.rss" htmlUrl="https://www.gocomics.com/9to5"/>
+      <outline type="rss" text="xkcd.com" title="xkcd.com" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"/>
+      <outline type="rss" text="Wrong Quest" title="Wrong Quest" xmlUrl="https://www.webtoons.com/en/fantasy/wrong-quest/rss?title_no=6282" htmlUrl="https://www.webtoons.com/en/fantasy/wrong-quest/list?title_no=6282"/>
+      <outline type="rss" text="Messycow" title="Messycow" xmlUrl="https://wengchen.wordpress.com/feed/" htmlUrl="https://messycow.com"/>
+      <outline type="rss" text="Possibly Drunk" title="Possibly Drunk" xmlUrl="http://drunkennovice.tumblr.com/rss" htmlUrl="https://drunkennovice.tumblr.com/"/>
+      <outline type="rss" text="Faraday the Blob" title="Faraday the Blob" xmlUrl="http://www.faradaytheblob.com/?feed=rss2" htmlUrl="http://www.faradaytheblob.com"/>
+      <outline type="rss" text="League Of Super Redundant Heroes" title="League Of Super Redundant Heroes" xmlUrl="http://superredundant.com/?feed=rss2" htmlUrl="https://superredundant.com"/>
+      <outline type="rss" text="Fowl Language Comics" title="Fowl Language Comics" xmlUrl="http://www.fowllanguagecomics.com/feed/" htmlUrl="https://www.fowllanguagecomics.com"/>
+      <outline type="rss" text="Part Time Dragons" title="Part Time Dragons" xmlUrl="https://parttimedragons.com/comics/feed/" htmlUrl="https://parttimedragons.com/comics/"/>
+      <outline type="rss" text="Goat To Self" title="Goat To Self" xmlUrl="https://www.webtoons.com/en/challenge/goat-to-self/rss?title_no=96982" htmlUrl="https://www.webtoons.com/en/canvas/goat-to-self/list?title_no=96982"/>
+      <outline type="rss" text="Menage a 3" title="Menage a 3" xmlUrl="http://www.ma3comic.com/comic.rss" htmlUrl="http://www.ma3comic.com/"/>
+      <outline type="rss" text="Go Get a Roomie!" title="Go Get a Roomie!" xmlUrl="http://www.gogetaroomie.com/rss.php" htmlUrl="https://www.gogetaroomie.com/"/>
+      <outline type="rss" text="Looking For Group" title="Looking For Group" xmlUrl="https://feeds.feedburner.com/LookingForGroup" htmlUrl="https://www.lfg.co/"/>
+      <outline type="rss" text="Elven" title="Elven" xmlUrl="https://www.webtoons.com/en/challenge/elven/rss?title_no=526866" htmlUrl="https://www.webtoons.com/en/canvas/elven/list?title_no=526866"/>
+      <outline type="rss" text="Sister Claire" title="Sister Claire" xmlUrl="https://www.sisterclaire.com/comic/rss" htmlUrl="https://www.sisterclaire.com/"/>
+      <outline type="rss" text="Behind the GIFs" title="Behind the GIFs" xmlUrl="http://www.webtoons.com/en/comedy/behind-the-gifs/rss?title_no=658" htmlUrl="https://www.webtoons.com/en/comedy/behind-the-gifs/list?title_no=658"/>
+      <outline type="rss" text="Buni" title="Buni" xmlUrl="http://www.bunicomic.com/feed/" htmlUrl="https://www.bunicomic.com"/>
+      <outline type="rss" text="Comics – Elven" title="Comics – Elven" xmlUrl="https://elven.co.nz/comic/feed/" htmlUrl="https://elven.co.nz"/>
+      <outline type="rss" text="Gaia" title="Gaia" xmlUrl="http://feeds.feedburner.com/gaiacomic" htmlUrl="https://www.sandraandwoo.com/gaia"/>
+      <outline type="rss" text="Pixie Trix Comix" title="Pixie Trix Comix" xmlUrl="https://pixietrixcomix.com/pixie-trix-comix/rss" htmlUrl="https://pixietrixcomix.com/"/>
+      <outline type="rss" text="Comics Kingdom - Today's Comic - Comic Strips, Editorial Cartoons, Sunday Funnies, Jokes" title="Comics Kingdom - Today's Comic - Comic Strips, Editorial Cartoons, Sunday Funnies, Jokes" xmlUrl="http://comicskingdom.com/todays_comic/rss" htmlUrl="http://comicskingdom.com/"/>
+      <outline type="rss" text="Untitled Feed" title="Untitled Feed" xmlUrl="https://katswenski.com/comics.xml" htmlUrl="https://katswenski.com/"/>
+    </outline>
+    <outline text="Programming" title="Programming">
+      <outline type="rss" text="Apple Security updates" title="Apple Security updates" xmlUrl="https://advisories.feedly.com/apple/feed.json" htmlUrl="https://support.apple.com/en-us/HT201222"/>
+      <outline type="rss" text="Intel Product Security Advisories" title="Intel Product Security Advisories" xmlUrl="https://advisories.feedly.com/intel/feed.json" htmlUrl="https://www.intel.com/content/www/us/en/security-center/default.html"/>
+      <outline type="rss" text="Microsoft Security Advisories - MSRC" title="Microsoft Security Advisories - MSRC" xmlUrl="https://advisories.feedly.com/microsoft/feed.json" htmlUrl="https://msrc.microsoft.com/update-guide/"/>
+      <outline type="rss" text="Google - 0-Day IN THE WILD" title="Google - 0-Day IN THE WILD" xmlUrl="https://advisories.feedly.com/google/0day/feed.json" htmlUrl="https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view#gid=0"/>
+      <outline type="rss" text="CISA - Known exploited vulnerabilities catalog" title="CISA - Known exploited vulnerabilities catalog" xmlUrl="https://advisories.feedly.com/cisa/exploitedCve/feed.json" htmlUrl="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"/>
+      <outline type="rss" text=".NET Foundation Forums - Latest topics" title=".NET Foundation Forums - Latest topics" xmlUrl="http://forums.dotnetfoundation.org/latest.rss" htmlUrl="https://forums.dotnetfoundation.org/latest"/>
+      <outline type="rss" text="Google Chrome Security Bulletins" title="Google Chrome Security Bulletins" xmlUrl="https://advisories.feedly.com/google/chrome/feed.json" htmlUrl="https://chromereleases.googleblog.com/"/>
+    </outline>
+    <outline text="Legal" title="Legal">
+      <outline type="rss" text="Lowering the Bar" title="Lowering the Bar" xmlUrl="http://www.loweringthebar.net/rss.xml" htmlUrl="https://www.loweringthebar.net"/>
+      <outline type="rss" text="ITenRecht.nl" title="ITenRecht.nl" xmlUrl="http://www.itenrecht.nl/rss/" htmlUrl="https://www.itenrecht.nl/"/>
+      <outline type="rss" text="Security.NL" title="Security.NL" xmlUrl="http://www.security.nl/headlines.xml" htmlUrl="https://www.security.nl"/>
+      <outline type="rss" text="noyb.eu - My Privacy is None of Your Business" title="noyb.eu - My Privacy is None of Your Business" xmlUrl="https://noyb.eu/en/rss" htmlUrl="https://noyb.eu/en"/>
+      <outline type="rss" text="European Digital Rights (EDRi)" title="European Digital Rights (EDRi)" xmlUrl="http://edri.org/feed/" htmlUrl="https://edri.org/"/>
+      <outline type="rss" text="Techdirt" title="Techdirt" xmlUrl="http://www.techdirt.com/techdirt_rss.xml" htmlUrl="https://www.techdirt.com"/>
+      <outline type="rss" text="Popehat" title="Popehat" xmlUrl="http://www.popehat.com/feed/" htmlUrl="https://www.popehat.com"/>
+      <outline type="rss" text="Internetrecht door Arnoud Engelfriet" title="Internetrecht door Arnoud Engelfriet" xmlUrl="http://blog.iusmentis.com/feed/" htmlUrl="https://blog.iusmentis.com"/>
+      <outline type="rss" text="Blog RSS feed" title="Blog RSS feed" xmlUrl="https://blog.tidelift.com/rss.xml" htmlUrl="https://www.sonarsource.com"/>
+      <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
+    </outline>
+    <outline text="Stout" title="Stout">
+      <outline type="rss" text="Sankaku Complex" title="Sankaku Complex" xmlUrl="http://www.sankakucomplex.com/feed/" htmlUrl="https://news.sankakucomplex.com"/>
+    </outline>
+  </body>
+</opml>
