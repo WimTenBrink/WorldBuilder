@@ -1,0 +1,2992 @@
+[
+  {
+    "id": "char_1753413823206",
+    "Version": "1.0",
+    "Created": "2024-05-23T10:00:00Z",
+    "Age": 14000000000,
+    "Worlds": [
+      "World of Pearl"
+    ],
+    "Name": {
+      "FirstName": "Pearl",
+      "LastName": "Goddess",
+      "Race": "Mystic Being",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "She/Her"
+    ],
+    "Sexuality": "Asexual",
+    "Size": {
+      "Height": 175,
+      "Weight": 65,
+      "BMI": 21.2
+    },
+    "Birth": {
+      "BirthDateTime": "0001-01-01T00:00:00Z",
+      "BornCity": "World of Pearl",
+      "BornCountry": "World of Pearl",
+      "Nationality": [
+        "World of Pearl"
+      ]
+    },
+    "IQ": 150,
+    "Naked": [
+      "Pubic hair: None",
+      "Labia shape: Normal",
+      "Clitoris shape: Normal",
+      "Vagina shape: Normal"
+    ],
+    "Story": [
+      "Born at the dawn of time, Pearl is an ancient and wise being from the World of Pearl. A powerful mystic and a beacon of peace, she has dedicated her long life to the study of ancient lore, the practice of magic, and the protection of the natural world. Despite her immense power, she is a pacifist at heart, using her skills in diplomacy and leadership to guide others towards enlightenment. She is a serene and compassionate figure, deeply connected to the life force of her world."
+    ],
+    "Residence": "World of Pearl",
+    "BodyMarks": [
+      {
+        "Name": "Piercing",
+        "Location": "None",
+        "Description": "No piercings.",
+        "Details": []
+      },
+      {
+        "Name": "Tattoo",
+        "Location": "None",
+        "Description": "No tattoos.",
+        "Details": []
+      },
+      {
+        "Name": "Scar",
+        "Location": "None",
+        "Description": "No scars.",
+        "Details": []
+      }
+    ],
+    "BodyParts": [
+      {
+        "Name": "Body",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Curvaceous",
+              "Slender"
+            ]
+          },
+          {
+            "Name": "Skin Tone",
+            "Descriptions": [
+              "Pale"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Head",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Platinum Blonde",
+              "Long",
+              "Flowing Waves"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Sapphire Blue",
+              "Almond-shaped",
+              "Piercing"
+            ]
+          },
+          {
+            "Name": "Mouth",
+            "Descriptions": [
+              "Pink",
+              "Full lips"
+            ]
+          },
+          {
+            "Name": "Nose",
+            "Descriptions": [
+              "Straight",
+              "Slightly upturned"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Chest",
+        "Details": [
+          {
+            "Name": "Breasts",
+            "Descriptions": [
+              "Cup Size A",
+              "Small",
+              "Small Pink Nipples",
+              "Small Pink Areolas"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hair",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "Luminous white with an iridescent sheen, shifting through soft pastel colors like pink, lavender, and seafoam green in the light."
+            ]
+          },
+          {
+            "Name": "Texture",
+            "Descriptions": [
+              "As fine as spun moonlight, it flows like liquid silver, never tangling and always appearing weightless."
+            ]
+          },
+          {
+            "Name": "Length & Style",
+            "Descriptions": [
+              "Cascades down past her hips, often adorned with tiny, naturally-formed pearls that seem to have grown from the strands themselves."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Eyes",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "The irises are a deep, cosmic violet, swirling with nebulae of silver and gold light, resembling galaxies suspended in twilight."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Gracefully upswept at the corners, giving her a perpetually serene and knowing expression."
+            ]
+          },
+          {
+            "Name": "Pupils",
+            "Descriptions": [
+              "Her pupils are not black voids, but points of concentrated, soft white light, pulsing gently with a comforting rhythm."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nose",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "A straight, slender bridge that slopes gently to a delicately rounded tip, exuding an air of classical grace and nobility."
+            ]
+          },
+          {
+            "Name": "Detailing",
+            "Descriptions": [
+              "The skin over her nose seems almost translucent, catching the light in a way that suggests it is carved from a single, flawless piece of alabaster."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Ears",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Delicately shaped with a gentle, leaf-like point at the helix, indicating a deep connection to nature and a keenness for listening to the whispers of the world."
+            ]
+          },
+          {
+            "Name": "Adornment",
+            "Descriptions": [
+              "The lobes are unpierced, yet tiny, dewdrop-like pearls naturally cling to the curved edges, glowing faintly."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mouth",
+        "Details": [
+          {
+            "Name": "Lips",
+            "Descriptions": [
+              "Soft, full lips with a naturally gentle upward curve at the corners, as if perpetually on the verge of a compassionate smile."
+            ]
+          },
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "The color of a pale pink pearl, with a subtle, healthy luminescence that deepens when she speaks words of power or comfort."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Neck",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "A long, elegant column that supports her head with poise, suggesting both strength and serenity."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "The skin is smooth and unblemished, with a faint, opalescent glow that pulses in time with her heartbeat, visible as a soft thrum of light."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Shoulders",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Broad and gently sloped, suggesting a capacity to bear great burdens with grace and without complaint."
+            ]
+          },
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "Defined by a soft, lean musculature that speaks of enduring strength rather than brute force."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Arms",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Long, slender arms that move with a fluid, deliberate grace, like the branches of a willow tree in a gentle breeze."
+            ]
+          },
+          {
+            "Name": "Markings",
+            "Descriptions": [
+              "Her skin is marked with faint, swirling patterns of silver light, like constellations mapped onto her flesh, which glow brighter when she channels magic."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hands",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Long, tapering fingers and slender palms, her hands are expressive instruments of her will, capable of both delicate gestures and powerful spellcasting."
+            ]
+          },
+          {
+            "Name": "Touch",
+            "Descriptions": [
+              "Her touch is warm and calming, capable of mending wounds and soothing troubled minds, leaving a faint scent of rain and starlight on the skin."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nails",
+        "Details": [
+          {
+            "Name": "Appearance",
+            "Descriptions": [
+              "Perfectly formed ovals that look as if they are carved from mother-of-pearl, naturally strong and glossy."
+            ]
+          },
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "They catch the light and shimmer with the same soft, pastel iridescence as her hair."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abdomen",
+        "Details": [
+          {
+            "Name": "Tone",
+            "Descriptions": [
+              "A flat, softly toned midsection that suggests core strength and perfect health, maintained over millennia."
+            ]
+          },
+          {
+            "Name": "Navel",
+            "Descriptions": [
+              "Her navel is not an indentation but a small, smooth, pearl-like node from which faint lines of light radiate outwards across her stomach, a focal point of her life energy."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hip",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Gracefully curved hips that flow smoothly from her waist, giving her a nurturing, feminine silhouette that speaks of life-giving potential."
+            ]
+          },
+          {
+            "Name": "Movement",
+            "Descriptions": [
+              "They move with a hypnotic, serene grace, whether she is walking or standing still, grounding her powerful presence."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Legs",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Long, well-proportioned legs that are both elegant and powerful, suggesting they have carried her across countless worlds and ages."
+            ]
+          },
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "Defined by lithe, dancer-like muscles, indicating immense stamina and agility without bulk."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Feet",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Slender feet with high, graceful arches, usually bare to maintain her connection with the living ground beneath her."
+            ]
+          },
+          {
+            "Name": "Soles",
+            "Descriptions": [
+              "The soles are smooth and uncalloused, seemingly untouched by her long journeys, as if she floats a hair's breadth above the ground."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Genitals",
+        "Details": [
+          {
+            "Name": "Appearance",
+            "Descriptions": [
+              "Externally, the area is a seamless expanse of opalescent skin, devoid of conventional human features. It is a source of immense life-giving energy, glowing with a soft, internal light when her power is focused."
+            ]
+          },
+          {
+            "Name": "Function",
+            "Descriptions": [
+              "Represents the nexus of creation and life force in her being, a concept beyond physical reproduction, embodying the nurturing and generative power of the universe itself."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Breasts",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Full, perfectly round breasts that sit high on her chest, embodying her nurturing and maternal nature."
+            ]
+          },
+          {
+            "Name": "Nipples",
+            "Descriptions": [
+              "The areolas are pale and pearlescent, and the nipples are not flesh but smooth, pearl-like nubs that emanate a soft, calming warmth."
+            ]
+          }
+        ]
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Mother",
+        "FirstName": "Fontana",
+        "LastName": "Elvenkin",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Elvenkin",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Father",
+        "FirstName": "Rogo",
+        "LastName": "Unknown",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Unknown",
+        "Gender": "Male"
+      },
+      {
+        "Relation": "Daughter",
+        "FirstName": "Ruby",
+        "LastName": "Unknown",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Mystic Being",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Daughter",
+        "FirstName": "Sapphire",
+        "LastName": "Unknown",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Mystic Being",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Daughter",
+        "FirstName": "Emerald",
+        "LastName": "Unknown",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Mystic Being",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Amber",
+        "LastName": "Unknown",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Unknown",
+        "Gender": "Female"
+      }
+    ],
+    "Personality": [
+      "Compassionate",
+      "Hopeful",
+      "Kind",
+      "Nurturing",
+      "Wise"
+    ],
+    "Languages": [
+      "Ancient Tongue",
+      "Elven",
+      "World of Pearl Common"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Dove",
+      "FavoriteColor": "White",
+      "FavoriteDrink": "Fresh Spring Water",
+      "FavoriteFood": "Wild Berries",
+      "FavoritePlant": "Ancient Tree"
+    },
+    "Skills": [
+      "Charm",
+      "Diplomacy",
+      "Etiquette",
+      "First Aid",
+      "History",
+      "Leadership",
+      "Lore (Magic)",
+      "Meditation",
+      "Philosophy",
+      "Spellcasting (Primal)",
+      "Tactics"
+    ],
+    "Talents": [
+      "Innate magical ability",
+      "Natural leader",
+      "Profound empathy"
+    ],
+    "Advantages": [
+      "Highly intelligent",
+      "Wise beyond her years",
+      "Naturally charismatic",
+      "Deeply connected to nature"
+    ],
+    "Disadvantages": [
+      "Pacifist",
+      "Reluctant to engage in conflict",
+      "Can be seen as detached from mortal concerns"
+    ],
+    "Employer": [
+      {
+        "Company": "None",
+        "JobTitles": [
+          "Unemployed"
+        ]
+      }
+    ],
+    "Possessions": [
+      {
+        "ItemType": "Staff",
+        "Description": [
+          "Carved from an ancient tree",
+          "Imbued with magical energy"
+        ]
+      },
+      {
+        "ItemType": "Crystal orb",
+        "Description": [
+          "Used for divination and meditation"
+        ]
+      },
+      {
+        "ItemType": "Books",
+        "Description": [
+          "Ancient texts on magic, philosophy, and history"
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Casual Wear"
+        ],
+        "Items": [
+          {
+            "Type": "Tunic",
+            "Color": "White",
+            "Style": "Flowing sleeves",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Skirt",
+            "Color": "White",
+            "Style": "Gathered",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Sandals",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      },
+      {
+        "Usage": [
+          "Formal Wear"
+        ],
+        "Items": [
+          {
+            "Type": "Gown",
+            "Color": "White",
+            "Style": "Intricate embroidery",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Headpiece",
+            "Color": "Green",
+            "Style": "Jeweled",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      },
+      {
+        "Usage": [
+          "Work"
+        ],
+        "Items": [
+          {
+            "Type": "N/A",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "Pearl is a wise and compassionate being, deeply connected to the natural world.",
+      "She is a powerful mystic with a strong code of honor and a deep sense of duty.",
+      "Her pacifistic nature guides her actions, and she is always seeking wisdom and knowledge.",
+      "Meditates regularly, spends time in nature, enjoys studying ancient texts.",
+      "Pearl is asexual and comfortable with her body. She is likely to be modest but not ashamed of her body.",
+      "Her serene beauty and ancient wisdom make her an intriguing and powerful presence.",
+      "She is a protector of nature and a guide for those seeking enlightenment."
+    ]
+  },
+  {
+    "id": "char_1753413831551",
+    "Version": "1.0",
+    "Created": "2023-10-27T12:00:00Z",
+    "Age": 14000000000,
+    "Worlds": [
+      "World of Pearl"
+    ],
+    "Name": {
+      "FirstName": "Emerald",
+      "LastName": "Pearldottir",
+      "Race": "World of Pearlian",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "she/her"
+    ],
+    "Sexuality": "Asexual",
+    "Size": {
+      "Height": 180,
+      "Weight": 72,
+      "BMI": 22.2
+    },
+    "Birth": {
+      "BirthDateTime": "14 Billion Years Ago",
+      "BornCity": "Genesis",
+      "BornCountry": "World of Pearl",
+      "Nationality": [
+        "World of Pearl"
+      ]
+    },
+    "IQ": 150,
+    "Naked": [
+      "Sleeps nude"
+    ],
+    "Story": [
+      "Emerald is a graceful, powerful, and compassionate individual with a calming presence. She is dedicated to her faith and uses her abilities to help others. Her gentle nature and wisdom make her a trusted friend and mentor. She is a beacon of hope and healing in a world that often feels dark and uncertain.",
+      "Emerald is a powerful cleric with a deep connection to nature and a strong sense of spirituality. She uses her magical abilities to heal the sick and injured and to protect those who are in need."
+    ],
+    "Residence": "World of Pearl",
+    "BodyMarks": [
+      {
+        "Name": "Tattoo",
+        "Location": "Abdomen",
+        "Description": "Large, heart-shaped tattoo",
+        "Details": []
+      },
+      {
+        "Name": "Tattoo",
+        "Location": "Right Shoulder",
+        "Description": "Small, vine-like tattoo",
+        "Details": []
+      },
+      {
+        "Name": "Tattoo",
+        "Location": "Left Wrist",
+        "Description": "Small, flower tattoo",
+        "Details": []
+      },
+      {
+        "Name": "Tattoo",
+        "Location": "Right Ankle",
+        "Description": "Small, bird tattoo",
+        "Details": []
+      },
+      {
+        "Name": "Scar",
+        "Location": "Right Hand",
+        "Description": "Scar from a burn",
+        "Details": []
+      },
+      {
+        "Name": "Scar",
+        "Location": "Left Leg",
+        "Description": "Scar from a bite",
+        "Details": []
+      }
+    ],
+    "BodyParts": [
+      {
+        "Name": "Overall Body",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Curvaceous",
+              "Athletic"
+            ]
+          },
+          {
+            "Name": "Skin Tone",
+            "Descriptions": [
+              "Tanned"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Head",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Long, flowing waves of green hair"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Mesmerizing almond-shaped green eyes"
+            ]
+          },
+          {
+            "Name": "Mouth",
+            "Descriptions": [
+              "Full, slightly pouty lips, colored pink"
+            ]
+          },
+          {
+            "Name": "Nose",
+            "Descriptions": [
+              "Straight, defined, slightly upturned nose"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Torso",
+        "Details": [
+          {
+            "Name": "Breasts",
+            "Descriptions": [
+              "Large, D cup",
+              "Small, pink nipples",
+              "Small, dark pink areolas"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Genitals",
+        "Details": [
+          {
+            "Name": "Pubic Hair",
+            "Descriptions": [
+              "None"
+            ]
+          },
+          {
+            "Name": "Labia",
+            "Descriptions": [
+              "Normal shape"
+            ]
+          },
+          {
+            "Name": "Clitoris",
+            "Descriptions": [
+              "Normal shape"
+            ]
+          },
+          {
+            "Name": "Vagina",
+            "Descriptions": [
+              "Normal shape"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hair",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "A cascade of deep, forest green interwoven with strands of shimmering gold that catch the light like sunbeams filtering through a canopy.",
+              "The color shifts subtly with her mood, from a vibrant spring green when joyful to a darker, mossy green in moments of deep contemplation."
+            ]
+          },
+          {
+            "Name": "Texture and Style",
+            "Descriptions": [
+              "Thick and flowing down to her waist, with a texture like spun silk, often styled in intricate braids adorned with living flowers and bioluminescent fungi.",
+              "It seems to have a life of its own, gently swaying even in the absence of a breeze, emitting a faint, calming scent of fresh rain and ancient woods."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Eyes",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "The irises are the color of a flawless, deep emerald, with flecks of gold that seem to pulse with a gentle, inner light.",
+              "They appear to hold the wisdom of ancient forests and the depth of tranquil seas."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Large and almond-shaped, framed by long, dark lashes that cast soft shadows on her high cheekbones.",
+              "They radiate a profound sense of peace and empathy, capable of calming even the most troubled souls with a single glance."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nose",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "A straight, elegant nose with a refined bridge and a delicately sculpted tip.",
+              "It is perfectly proportioned to her face, adding to her air of serene nobility."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Ears",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Delicately pointed with a soft, rounded curve, tapering to a graceful point that peeks through her verdant hair.",
+              "The lobes are often adorned with small, dew-kissed pearls that form naturally on her."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mouth",
+        "Details": [
+          {
+            "Name": "Lips",
+            "Descriptions": [
+              "Full and well-defined lips with a natural, soft rose-petal hue.",
+              "They are almost always curved in a gentle, reassuring smile that seems to emanate warmth and genuine kindness."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Neck",
+        "Details": [
+          {
+            "Name": "Appearance",
+            "Descriptions": [
+              "Long and graceful, like the stem of a rare flower, displaying smooth, unblemished skin with a subtle pearlescent sheen.",
+              "Faint, luminous patterns, like the veins of a leaf, occasionally become visible on her skin when she is channeling powerful healing magic."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Shoulders",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Broad but gracefully sloped, conveying both strength and femininity.",
+              "They are set with a posture that is both relaxed and poised, ready to bear the burdens of others without faltering."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Arms",
+        "Details": [
+          {
+            "Name": "Tone and Skin",
+            "Descriptions": [
+              "Toned and slender, with defined but gentle musculature that speaks of latent power and endurance, not brute force.",
+              "Her skin is smooth and carries a pearlescent quality, glowing faintly in low light with a soft, green-gold luminescence."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hands",
+        "Details": [
+          {
+            "Name": "Appearance",
+            "Descriptions": [
+              "Long, elegant fingers that are both delicate and strong.",
+              "Her palms often glow with a soft, warm light when she is preparing a healing spell."
+            ]
+          },
+          {
+            "Name": "Touch",
+            "Descriptions": [
+              "Her touch is said to be incredibly soothing, capable of easing pain and instilling a deep sense of peace and security."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nails",
+        "Details": [
+          {
+            "Name": "Appearance",
+            "Descriptions": [
+              "Impeccably clean and shaped, with the appearance of polished, translucent jade.",
+              "They have a natural, healthy sheen, stronger and more resilient than mortal nails."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Chest",
+        "Details": [
+          {
+            "Name": "Structure and Aura",
+            "Descriptions": [
+              "Well-defined and strong, with a prominent but graceful collarbone.",
+              "The center of her chest, over her heart, often emanates a soft, warm green glow, most visible when she feels deep compassion or channels her faith."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abdomen",
+        "Details": [
+          {
+            "Name": "Tone",
+            "Descriptions": [
+              "Flat and subtly toned, with gentle curves that flow into her hips.",
+              "It shows a core strength that is born of discipline and spiritual balance rather than physical exertion."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hip",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Gracefully curved and well-proportioned, giving her a classic hourglass silhouette that is both powerful and feminine.",
+              "Her movements are fluid and grounded, originating from a strong center."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Legs",
+        "Details": [
+          {
+            "Name": "Appearance",
+            "Descriptions": [
+              "Long, strong, and shapely, with the lean musculature of a being who walks with purpose and grace through ancient forests and across vast landscapes.",
+              "They provide a stable, powerful foundation for her healing stance."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Feet",
+        "Details": [
+          {
+            "Name": "Shape and Effect",
+            "Descriptions": [
+              "Slender and elegantly arched, with smooth soles that seem to barely touch the ground as she walks.",
+              "Where she steps, small, ephemeral flowers or patches of vibrant moss have been known to briefly sprout, leaving a faint trail of life in her wake."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Breasts",
+        "Details": [
+          {
+            "Name": "Shape and Size",
+            "Descriptions": [
+              "Full and rounded, proportionate to her frame, embodying nurturing and compassionate femininity.",
+              "They are held high on her chest, contributing to her poised and noble posture."
+            ]
+          }
+        ]
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Mother",
+        "FirstName": "Amber",
+        "LastName": "Gemstone",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "World of Pearlian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Mother",
+        "FirstName": "Pearl",
+        "LastName": "Gemstone",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "World of Pearlian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Sister",
+        "FirstName": "Ruby",
+        "LastName": "Gemstone",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "World of Pearlian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Sister",
+        "FirstName": "Sapphire",
+        "LastName": "Gemstone",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "World of Pearlian",
+        "Gender": "Female"
+      }
+    ],
+    "Personality": [
+      "Compassionate",
+      "Peaceful",
+      "Wise",
+      "Faithful",
+      "Gentle"
+    ],
+    "Languages": [
+      "Ancient Tongue",
+      "World of Pearl Common"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Dove",
+      "FavoriteColor": "Green",
+      "FavoriteDrink": "Herbal Tea",
+      "FavoriteFood": "Fresh Berries",
+      "FavoritePlant": "Willow Tree"
+    },
+    "Skills": [
+      "Charm",
+      "Diplomacy",
+      "First Aid",
+      "Lore (Magic)",
+      "Meditation",
+      "Nature",
+      "Spellcasting (Clerical)",
+      "Survival"
+    ],
+    "Talents": [
+      "Healing Magic",
+      "Protective Magic",
+      "Nature Attunement",
+      "Deep Spiritual Connection"
+    ],
+    "Advantages": [
+      "Wise",
+      "Compassionate",
+      "Calm Presence",
+      "Powerful Healer"
+    ],
+    "Disadvantages": [
+      "Overly trusting",
+      "Can be naive"
+    ],
+    "Employer": [
+      {
+        "Company": "Devotee of Faith (Self)",
+        "JobTitles": [
+          "Cleric"
+        ]
+      }
+    ],
+    "Possessions": [
+      {
+        "ItemType": "Magical Staff",
+        "Description": [
+          "A staff of polished wood adorned with emerald gemstones."
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Casual"
+        ],
+        "Items": [
+          {
+            "Type": "Tank Top",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Bikini Bottom",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Pants",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Tight"
+          },
+          {
+            "Type": "Sandals",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      },
+      {
+        "Usage": [
+          "Formal"
+        ],
+        "Items": [
+          {
+            "Type": "Robe",
+            "Color": "Shades of green",
+            "Style": "Long flowing, with delicate embroidery and embellishments",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      },
+      {
+        "Usage": [
+          "Work"
+        ],
+        "Items": [
+          {
+            "Type": "Robe",
+            "Color": "Shades of green or brown",
+            "Style": "Simple, flowing",
+            "Fabric": "Natural fibers",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "Emerald is a kind and compassionate soul dedicated to helping others.",
+      "She possesses a deep understanding of magic and a strong sense of spirituality.",
+      "She enjoys spending time in nature and meditating.",
+      "She is a devout follower of her faith.",
+      "Spends time in prayer.",
+      "Helps those in need.",
+      "Practices healing magic."
+    ]
+  },
+  {
+    "id": "char_1753413825178",
+    "Version": "1.0",
+    "Created": "2024-05-21T12:00:00Z",
+    "Age": 14000000000,
+    "Worlds": [
+      "World of Pearl"
+    ],
+    "Name": {
+      "FirstName": "Ruby",
+      "LastName": "Pearldottir",
+      "Race": "Human",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "She/Her"
+    ],
+    "Sexuality": "Lesbian",
+    "Size": {
+      "Height": 178,
+      "Weight": 70,
+      "BMI": 22.1
+    },
+    "Birth": {
+      "BirthDateTime": "14 Billion Years Ago",
+      "BornCity": "Capital City",
+      "BornCountry": "World of Pearl",
+      "Nationality": [
+        "World of Pearl"
+      ]
+    },
+    "IQ": 150,
+    "Naked": [
+      "Sleeps nude",
+      "Enjoys bathing nude"
+    ],
+    "Story": [
+      "Ruby is a powerful and enigmatic sorceress with a fierce spirit and a deep connection to the magical world.",
+      "She is a captivating figure with a powerful presence.",
+      "She is a skilled warrior and a powerful spellcaster, and her fierce determination makes her a force to be reckoned with.",
+      "Her beauty is both physical and internal, and her confidence is undeniable."
+    ],
+    "Residence": "World of Pearl",
+    "BodyMarks": [
+      {
+        "Name": "Scar",
+        "Location": "Chest",
+        "Description": "Claw marks on the left breast",
+        "Details": []
+      },
+      {
+        "Name": "Scar",
+        "Location": "Right Arm",
+        "Description": "Burn mark on the right arm",
+        "Details": []
+      },
+      {
+        "Name": "Scar",
+        "Location": "Left Leg",
+        "Description": "Sword wound on the left leg",
+        "Details": []
+      }
+    ],
+    "BodyParts": [
+      {
+        "Name": "Head",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Vibrant Red",
+              "Shoulder-length",
+              "Wavy"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Emerald Green",
+              "Almond-shaped",
+              "Intense"
+            ]
+          },
+          {
+            "Name": "Mouth",
+            "Descriptions": [
+              "Pink",
+              "Full lips",
+              "Slightly pouty"
+            ]
+          },
+          {
+            "Name": "Nose",
+            "Descriptions": [
+              "Straight",
+              "Defined",
+              "Slightly upturned"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Torso",
+        "Details": [
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Tanned"
+            ]
+          },
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Curvaceous",
+              "Athletic"
+            ]
+          },
+          {
+            "Name": "Breasts",
+            "Descriptions": [
+              "Cup Size: C",
+              "Average size",
+              "Small Pink Nipples",
+              "Small Dark Pink Areolas"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Private Parts",
+        "Details": [
+          {
+            "Name": "Pubic Hair",
+            "Descriptions": [
+              "None"
+            ]
+          },
+          {
+            "Name": "Labia",
+            "Descriptions": [
+              "Normal shape"
+            ]
+          },
+          {
+            "Name": "Clitoris",
+            "Descriptions": [
+              "Normal shape"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hair",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "A cascade of deep crimson, like molten rubies, that seems to absorb and refract light, occasionally swirling with faint, golden magical sigils."
+            ]
+          },
+          {
+            "Name": "Texture",
+            "Descriptions": [
+              "Silky and impossibly smooth to the touch, yet each strand possesses an unnerving tensile strength, like spun metal."
+            ]
+          },
+          {
+            "Name": "Length",
+            "Descriptions": [
+              "Extends past her waist in a thick, flowing river, often styled in intricate braids woven with enchanted charms."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Eyes",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "Iridescent like mother-of-pearl, shifting through hues of violet, silver, and gold depending on the ambient magic. At their center, the pupils are star-like points of brilliant white light."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Almond-shaped and sharp, with a slight, knowing upturn at the corners, framed by thick, dark lashes that cast long shadows."
+            ]
+          },
+          {
+            "Name": "Gaze",
+            "Descriptions": [
+              "Her gaze is ancient and piercing, capable of seeing through illusions and into the very soul of a person, holding the weight of forgotten eons."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nose",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "A straight, aquiline nose with a high bridge, giving her profile an air of regal authority and aristocratic grace."
+            ]
+          },
+          {
+            "Name": "Detail",
+            "Descriptions": [
+              "The nostrils flare slightly when she is angered or concentrating her power, a subtle tell of her immense inner turmoil."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Ears",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Delicately shaped, with a subtle, graceful point at the upper helix, hinting at a connection to ancient, fey-like magic."
+            ]
+          },
+          {
+            "Name": "Adornments",
+            "Descriptions": [
+              "The lobes and cartilage are pierced with small, shimmering pearls and obsidian studs that seem to hover in place without physical backings."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mouth",
+        "Details": [
+          {
+            "Name": "Lips",
+            "Descriptions": [
+              "Full and well-defined, naturally colored a deep berry red. Her upper lip has a sharp, pronounced Cupid's bow, lending her a perpetually confident and slightly challenging expression."
+            ]
+          },
+          {
+            "Name": "Smile",
+            "Descriptions": [
+              "Her smile can be both disarmingly charming and dangerously sharp, revealing teeth that are perfectly white and subtly pointed, like those of a predator."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Neck",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "A long, slender, and elegant column, showcasing smooth, unblemished skin and the graceful lines of underlying muscle."
+            ]
+          },
+          {
+            "Name": "Detail",
+            "Descriptions": [
+              "Faint, silvery lines like star charts occasionally become visible on her skin when she channels significant magical power, tracing constellations across her throat."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Shoulders",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Broad and well-defined, yet maintaining a feminine grace. They speak of both physical strength and the ability to bear immense burdens."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "The skin across her shoulders is smooth and flawless, save for a single, intricate tattoo of a coiled serpent devouring a star on her left shoulder blade."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Arms",
+        "Details": [
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "Lean and powerfully toned, with the defined biceps and triceps of a seasoned warrior who wields both spells and steel with equal ease."
+            ]
+          },
+          {
+            "Name": "Markings",
+            "Descriptions": [
+              "Her forearms are adorned with ancient runes etched in a shimmering, pearlescent ink that glow faintly in the dark or in the presence of strong magic."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hands",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Slender and elegant with long fingers, but the palms are calloused from wielding weapons and gripping ancient tomes. They are a study in contrasts: both deadly and delicate."
+            ]
+          },
+          {
+            "Name": "Aura",
+            "Descriptions": [
+              "A faint, warm energy perpetually radiates from her palms, a constant hum of latent magical power ready to be unleashed."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nails",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Almond-shaped and immaculately kept, filed to a subtle, claw-like point."
+            ]
+          },
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "They possess a natural, pearlescent sheen, like polished obsidian with an inner fire, appearing black at first glance but flashing with deep red and violet undertones in the light."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Chest",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "A broad and strong chest, with a well-defined clavicle and a posture that exudes unwavering confidence."
+            ]
+          },
+          {
+            "Name": "Detail",
+            "Descriptions": [
+              "A faint, warm light seems to emanate from her sternum, the physical manifestation of her powerful spirit and magical core."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abdomen",
+        "Details": [
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "A flat, hard plane of muscle, with visible obliques and a defined linea alba, evidence of rigorous physical training and discipline."
+            ]
+          },
+          {
+            "Name": "Scarring",
+            "Descriptions": [
+              "A thin, silvery scar curves from her navel towards her hip, the remnant of an ancient, magically-inflicted wound that never fully faded."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hip",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Moderately wide and well-rounded, providing a powerful and stable base for her warrior's stance while creating a classic hourglass silhouette."
+            ]
+          },
+          {
+            "Name": "Poise",
+            "Descriptions": [
+              "She carries herself with a fluid grace, her hips swaying with a confident and almost hypnotic rhythm as she walks."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Legs",
+        "Details": [
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "Long, powerful, and sculpted with the defined muscles of a runner and fighter, from her strong quadriceps to her taut calves."
+            ]
+          },
+          {
+            "Name": "Stance",
+            "Descriptions": [
+              "Her natural stance is wide and grounded, always ready to move, attack, or defend at a moment's notice."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Feet",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Arched and elegant, yet strong and practical, with calluses on the soles that speak of countless miles traveled, both in this world and others."
+            ]
+          },
+          {
+            "Name": "Detail",
+            "Descriptions": [
+              "Her toenails share the same polished obsidian quality as her fingernails, perfectly maintained despite her rugged lifestyle."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Genitals",
+        "Details": [
+          {
+            "Name": "Appearance",
+            "Descriptions": [
+              "Concealed by a triangle of thick, crimson hair, matching that on her head. The external anatomy is perfectly formed, radiating a subtle, private warmth."
+            ]
+          },
+          {
+            "Name": "Aura",
+            "Descriptions": [
+              "This area is a nexus of primal life-force and creative magical energy, a private wellspring of power that underpins her formidable abilities."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Breasts",
+        "Details": [
+          {
+            "Name": "Size and Shape",
+            "Descriptions": [
+              "Full and firm, well-proportioned for her athletic frame, possessing a natural, gravity-defying lift that speaks to her timeless nature."
+            ]
+          },
+          {
+            "Name": "Areolas",
+            "Descriptions": [
+              "The areolas are a deep rose color, wide and distinct, with sensitive, responsive nipples that harden at shifts in temperature or magical currents."
+            ]
+          }
+        ]
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Mother",
+        "FirstName": "Amber",
+        "LastName": "Pearl",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Human",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Mother",
+        "FirstName": "Pearl",
+        "LastName": "Pearl",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Human",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Sister",
+        "FirstName": "Sapphire",
+        "LastName": "Pearl",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Human",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Sister",
+        "FirstName": "Emerald",
+        "LastName": "Pearl",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Human",
+        "Gender": "Female"
+      }
+    ],
+    "Personality": [
+      "Bold",
+      "Charismatic",
+      "Fierce",
+      "Passionate",
+      "Determined",
+      "Studies ancient magical texts",
+      "Practices spellcasting",
+      "Enjoys a good fight"
+    ],
+    "Languages": [
+      "Ancient Tongue",
+      "World of Pearl Common"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Dragon",
+      "FavoriteColor": "Red",
+      "FavoriteDrink": "Spicy Wine",
+      "FavoriteFood": "Spicy Stew",
+      "FavoritePlant": "Fire Lily"
+    },
+    "Skills": [
+      "Charm",
+      "Intimidation",
+      "Lore (Magic)",
+      "Spellcasting (Sorcery)",
+      "Swordsmanship",
+      "Tactics"
+    ],
+    "Talents": [
+      "Sorcery",
+      "Swordsmanship",
+      "Charisma"
+    ],
+    "Advantages": [
+      "Charismatic",
+      "Powerful sorceress",
+      "Skilled warrior",
+      "Independent",
+      "Self-sufficient"
+    ],
+    "Disadvantages": [
+      "Fierce temper",
+      "Overly independent",
+      "Prone to seeking fights"
+    ],
+    "Employer": [
+      {
+        "Company": "Self-Employed",
+        "JobTitles": [
+          "Sorcerer"
+        ]
+      }
+    ],
+    "Possessions": [
+      {
+        "ItemType": "Magical Staff",
+        "Description": [
+          "Staff of dark wood with a ruby-red gemstone at its tip."
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Casual Wear"
+        ],
+        "Items": [
+          {
+            "Type": "Tank top",
+            "Color": "Red",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Pants",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Tight"
+          },
+          {
+            "Type": "Bikini bottom",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Sandals",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      },
+      {
+        "Usage": [
+          "Formal Wear"
+        ],
+        "Items": [
+          {
+            "Type": "Gown",
+            "Color": "Red",
+            "Style": "Long, flowing, with intricate embroidery",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      },
+      {
+        "Usage": [
+          "Work clothes"
+        ],
+        "Items": [
+          {
+            "Type": "Robe",
+            "Color": "Dark red",
+            "Style": "With intricate embroidery",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "She is a powerful sorceress with a strong sense of justice.",
+      "She is also very independent and self-sufficient.",
+      "Her staff is her most prized possession.",
+      "Ruby’s clothing should be rich and luxurious, reflecting her powerful and confident personality.",
+      "Her scars should be visible, as they are part of her history and character."
+    ]
+  },
+  {
+    "id": "char_1753413839372",
+    "Version": "1.0",
+    "Created": "2024-05-16T18:00:00Z",
+    "Age": 14000000000,
+    "Worlds": [
+      "World of Pearl"
+    ],
+    "Name": {
+      "FirstName": "Sapphire",
+      "LastName": "Pearldottir",
+      "Race": "Psion",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "She/Her"
+    ],
+    "Sexuality": "Lesbian",
+    "Size": {
+      "Height": 176,
+      "Weight": 68,
+      "BMI": 22
+    },
+    "Birth": {
+      "BirthDateTime": "14 Billion Years Ago",
+      "BornCity": "World of Pearl",
+      "BornCountry": "World of Pearl",
+      "Nationality": [
+        "World of Pearl"
+      ]
+    },
+    "IQ": 150,
+    "Naked": [
+      "Sleeps nude"
+    ],
+    "Story": [
+      "Sapphire is a powerful and enigmatic woman with a mysterious past. She is a force to be reckoned with, and her piercing blue eyes and strategic mind make her a formidable opponent. Her manipulative nature can make her appear aloof and untrustworthy, but she is fiercely loyal to those she deems worthy."
+    ],
+    "Residence": "World of Pearl",
+    "BodyMarks": [
+      {
+        "Name": "Piercing",
+        "Location": "Clitoris",
+        "Description": "Small ring piercing",
+        "Details": []
+      },
+      {
+        "Name": "Piercing",
+        "Location": "Labia",
+        "Description": "Small stud piercing",
+        "Details": []
+      },
+      {
+        "Name": "Tattoo",
+        "Location": "Above Vagina",
+        "Description": "Three ellipses joining with one point in the center",
+        "Details": []
+      },
+      {
+        "Name": "Scar",
+        "Location": "Left arm",
+        "Description": "Small scar from a burn",
+        "Details": []
+      },
+      {
+        "Name": "Scar",
+        "Location": "Right leg",
+        "Description": "Small scar from a cut",
+        "Details": []
+      }
+    ],
+    "BodyParts": [
+      {
+        "Name": "Overall Body",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Curvaceous",
+              "Athletic"
+            ]
+          },
+          {
+            "Name": "Skin Tone",
+            "Descriptions": [
+              "Tanned"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Head",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Blue",
+              "Short",
+              "Pixie cut"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Blue",
+              "Almond-shaped",
+              "Piercing"
+            ]
+          },
+          {
+            "Name": "Mouth",
+            "Descriptions": [
+              "Pink",
+              "Full lips",
+              "Slightly pouty"
+            ]
+          },
+          {
+            "Name": "Nose",
+            "Descriptions": [
+              "Straight",
+              "Defined",
+              "Slightly upturned"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Torso",
+        "Details": [
+          {
+            "Name": "Breasts",
+            "Descriptions": [
+              "Cup Size C",
+              "Average",
+              "Small pink nipples",
+              "Small dark pink areolas"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Genitals",
+        "Details": [
+          {
+            "Name": "Pubic Hair",
+            "Descriptions": [
+              "None"
+            ]
+          },
+          {
+            "Name": "Labia",
+            "Descriptions": [
+              "Normal shape"
+            ]
+          },
+          {
+            "Name": "Clitoris",
+            "Descriptions": [
+              "Normal shape"
+            ]
+          },
+          {
+            "Name": "Vagina",
+            "Descriptions": [
+              "Normal shape"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hair",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "Deep, void-black that seems to absorb light, yet shimmers with a subtle, nebulae-like iridescence when it moves, hinting at her cosmic origins."
+            ]
+          },
+          {
+            "Name": "Style",
+            "Descriptions": [
+              "Perfectly straight and unnaturally smooth, often worn in a long, intricate braid or a severe bun that speaks to her strategic, orderly mind."
+            ]
+          },
+          {
+            "Name": "Texture",
+            "Descriptions": [
+              "Silky and cool to the touch, like polished obsidian."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Eyes",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "A brilliant, piercing sapphire blue that seems to possess a faint, internal luminescence, as if containing distant starlight."
+            ]
+          },
+          {
+            "Name": "Shape and Gaze",
+            "Descriptions": [
+              "Almond-shaped and framed by long, dark lashes. They possess an intense, analytical quality, giving the impression she can perceive thoughts and hidden truths."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nose",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "A straight, aquiline nose with a high bridge, lending her profile a patrician and somewhat severe elegance."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Ears",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Delicately shaped with a subtle, almost imperceptible point at the helix, a quiet indicator of her ancient, non-human lineage."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mouth",
+        "Details": [
+          {
+            "Name": "Lips",
+            "Descriptions": [
+              "Well-defined, but thin lips that are naturally a pale, dusky rose color. They are often set in a neutral, unreadable line or a faint, knowing smirk."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Neck",
+        "Details": [
+          {
+            "Name": "Length",
+            "Descriptions": [
+              "Long and graceful, supporting her head with a poised elegance that enhances her aloof demeanor."
+            ]
+          },
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "Slender, yet displays subtle, corded strength when she turns her head, a testament to disciplined control."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Shoulders",
+        "Details": [
+          {
+            "Name": "Shape and Posture",
+            "Descriptions": [
+              "Broad but gracefully sloped, creating a silhouette of quiet authority without appearing overtly muscular. Always held back, reflecting her confidence."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Arms",
+        "Details": [
+          {
+            "Name": "Tone",
+            "Descriptions": [
+              "Lean and toned not from physical labor, but from the constant, focused channeling of psionic energies."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "The skin is flawless and cool, with an almost luminous quality."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hands",
+        "Details": [
+          {
+            "Name": "Shape and Movement",
+            "Descriptions": [
+              "Long, slender fingers and elegant palms. They move with deliberation and precision, often used to weave psionic energies with intricate gestures."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nails",
+        "Details": [
+          {
+            "Name": "Appearance",
+            "Descriptions": [
+              "Perfectly manicured and almond-shaped. They have a natural, healthy sheen that is almost pearlescent, catching the light with opalescent flickers."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Chest",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Well-defined and poised, indicative of a posture honed by countless hours of deep, meditative breathing."
+            ]
+          },
+          {
+            "Name": "Psionic Aura",
+            "Descriptions": [
+              "The area around her sternum occasionally radiates a faint, blue psionic aura when she is in deep concentration."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abdomen",
+        "Details": [
+          {
+            "Name": "Tone",
+            "Descriptions": [
+              "Flat and firm, with the defined musculature of a core strengthened through mental discipline and control rather than physical exercise."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hip",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Moderately curved, providing a balanced and powerful base for her confident, grounded stance."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Legs",
+        "Details": [
+          {
+            "Name": "Length and Gait",
+            "Descriptions": [
+              "Long, sleek, and well-proportioned, giving her a graceful, sweeping stride that seems to flow rather than walk."
+            ]
+          },
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "Muscles are defined with the sleekness of a runner, suggesting agility and endurance."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Feet",
+        "Details": [
+          {
+            "Name": "Shape and Stance",
+            "Descriptions": [
+              "Slender with high arches, always impeccably cared for. She stands with a grounded, balanced posture learned from millennia of meditation."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Breasts",
+        "Details": [
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Moderate in size and firm, perfectly proportional to her lean, athletic frame."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Naturally high-set and rounded, contributing to her overall silhouette of regal confidence."
+            ]
+          }
+        ]
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Mother",
+        "FirstName": "Amber",
+        "LastName": "of Pearl",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Psion",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Mother",
+        "FirstName": "Pearl",
+        "LastName": "of Pearl",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Psion",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Sister",
+        "FirstName": "Ruby",
+        "LastName": "of Pearl",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Psion",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Sister",
+        "FirstName": "Emerald",
+        "LastName": "of Pearl",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Psion",
+        "Gender": "Female"
+      }
+    ],
+    "Personality": [
+      "Intelligent",
+      "Strategic",
+      "Manipulative",
+      "Aloof",
+      "Loyal",
+      "Meditates regularly",
+      "Practices psionic magic",
+      "Enjoys reading about strategy"
+    ],
+    "Languages": [
+      "Ancient Tongue",
+      "World of Pearl Common"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Wolf",
+      "FavoriteColor": "Blue",
+      "FavoriteDrink": "Clear Water",
+      "FavoriteFood": "Stew",
+      "FavoritePlant": "Oak Tree"
+    },
+    "Skills": [
+      "Charm",
+      "Deception",
+      "Etiquette",
+      "Lore (Magic)",
+      "Meditation",
+      "Spellcasting (Psionic)",
+      "Stealth",
+      "Tactics"
+    ],
+    "Talents": [
+      "Psionics",
+      "Strategic planning"
+    ],
+    "Advantages": [
+      "Powerful Psion",
+      "Strategic Mind",
+      "Charming",
+      "Deceptive"
+    ],
+    "Disadvantages": [
+      "Manipulative",
+      "Aloof",
+      "Keeps secrets",
+      "Appears untrustworthy"
+    ],
+    "Employer": [
+      {
+        "Company": "Self-Employed",
+        "JobTitles": [
+          "Psion"
+        ]
+      }
+    ],
+    "Possessions": [
+      {
+        "ItemType": "Crystal",
+        "Description": [
+          "A polished obsidian crystal used for focusing psionic energy."
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Casual"
+        ],
+        "Items": [
+          {
+            "Type": "Bikini bottom",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Tank top",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Pants",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Tight"
+          },
+          {
+            "Type": "Sandals",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "Sapphire is a powerful psion with a strategic mind and a manipulative nature. She is aloof and often keeps her secrets close to her heart. She is a skilled manipulator and uses her psionic abilities to achieve her goals. She prefers to work alone and is fiercely loyal to those she trusts."
+    ]
+  },
+  {
+    "id": "char_1753413831434",
+    "Version": "1.0",
+    "Created": "2023-10-27T12:00:00Z",
+    "Age": 14000000000,
+    "Worlds": [
+      "World of Pearl"
+    ],
+    "Name": {
+      "FirstName": "Amber",
+      "LastName": "Goddess",
+      "Race": "Human",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "She/Her"
+    ],
+    "Sexuality": "Bisexual",
+    "Size": {
+      "Height": 1.7,
+      "Weight": 60,
+      "BMI": 207612.5
+    },
+    "Birth": {
+      "BirthDateTime": "-14000000000-01-01T00:00:00Z",
+      "BornCity": "Unknown",
+      "BornCountry": "World of Pearl",
+      "Nationality": [
+        "World of Pearl"
+      ]
+    },
+    "IQ": 150,
+    "Naked": [
+      "Sleeps nude",
+      "Comfortable being nude",
+      "Enjoys the feeling of water on her skin"
+    ],
+    "Story": [
+      "Amber is a powerful and seductive witch from the World of Pearl, born approximately 14 billion years ago. Her life's purpose is a relentless quest to enhance her magical abilities and uncover forbidden knowledge. She expertly uses her charms and manipulative talents to achieve her ambitious goals, all while shrouding her true intentions in secrecy. Shaped by a dark past, she has emerged as an independent and formidable woman, unafraid of taking significant risks to elevate her status. She is the mother of three daughters, Ruby, Sapphire, and Emerald, and is partnered with a woman named Pearl."
+    ],
+    "Residence": "World of Pearl",
+    "BodyMarks": [
+      {
+        "Name": "No Distinguishing Marks",
+        "Location": "Entire Body",
+        "Description": "Character has no tattoos, piercings, or scars.",
+        "Details": []
+      }
+    ],
+    "BodyParts": [
+      {
+        "Name": "Head",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Raven Black",
+              "Long",
+              "Thick Waves"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Obsidian Black",
+              "Almond-shaped",
+              "Intense"
+            ]
+          },
+          {
+            "Name": "Mouth",
+            "Descriptions": [
+              "Dark Pink",
+              "Full lips",
+              "Slightly pouty"
+            ]
+          },
+          {
+            "Name": "Nose",
+            "Descriptions": [
+              "Straight",
+              "Defined",
+              "Slightly aquiline"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Torso",
+        "Details": [
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Dark Brown"
+            ]
+          },
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Curvaceous",
+              "Athletic"
+            ]
+          },
+          {
+            "Name": "Breasts",
+            "Descriptions": [
+              "Cup Size A",
+              "Below Average",
+              "Small, Dark Pink Nipples",
+              "Small, Dark Pink Areolas"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Genitals",
+        "Details": [
+          {
+            "Name": "Pubic Hair",
+            "Descriptions": [
+              "None"
+            ]
+          },
+          {
+            "Name": "Labia",
+            "Descriptions": [
+              "Full"
+            ]
+          },
+          {
+            "Name": "Clitoris",
+            "Descriptions": [
+              "Prominent"
+            ]
+          },
+          {
+            "Name": "Vagina",
+            "Descriptions": [
+              "Deep"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hair",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "The color of spun obsidian, interwoven with shimmering streaks of molten gold that shift and swirl like captive nebulae.",
+              "When she channels magic, her hair glimmers with the faint, cold light of distant stars."
+            ]
+          },
+          {
+            "Name": "Length and Movement",
+            "Descriptions": [
+              "An impossibly long cascade falling past her hips, it moves with a preternatural grace, as if alive, even in the absence of wind."
+            ]
+          },
+          {
+            "Name": "Texture",
+            "Descriptions": [
+              "Feels like cool, heavy silk to the touch, yet is impossibly dense and never tangles."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Eyes",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "The irises are the color of ancient, hardened amber, containing swirling flecks of gold that mimic trapped galaxies.",
+              "They seem to hold an impossible depth, promising both forbidden knowledge and untold peril."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Sharply almond-shaped with a pronounced, upward tilt at the outer corners, lending her a perpetually knowing and predatory gaze."
+            ]
+          },
+          {
+            "Name": "Pupils",
+            "Descriptions": [
+              "Her pupils are not round but faint, vertical slits, like a cat's, which dilate not just with light but with the ebb and flow of magical energies."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nose",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "A straight, aquiline nose with a high bridge that gives her profile an air of aristocratic authority and slight disdain."
+            ]
+          },
+          {
+            "Name": "Adornment",
+            "Descriptions": [
+              "She bears a single, delicate piercing in her right nostril, holding a tiny, polished black gem that seems to absorb all light, creating a miniature void."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Ears",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Delicately formed, with a subtle, almost imperceptible point at the tip of the helix, hinting at a lineage far older and stranger than human."
+            ]
+          },
+          {
+            "Name": "Adornments",
+            "Descriptions": [
+              "Her lobes and cartilage are adorned with cuffs of silver forged from starlight, which cling to her ears without any visible piercings and feature dangling pearls that whisper forgotten secrets."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mouth",
+        "Details": [
+          {
+            "Name": "Lips",
+            "Descriptions": [
+              "Full and perfectly defined with a sharp Cupid's bow, often colored in a deep, vampiric shade of crimson or dark plum."
+            ]
+          },
+          {
+            "Name": "Expression",
+            "Descriptions": [
+              "Her default expression is a subtle, enigmatic smile that can be interpreted as either an alluring invitation or a dangerous warning."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Neck",
+        "Details": [
+          {
+            "Name": "Form",
+            "Descriptions": [
+              "Long and graceful, a slender column that supports her head with regal poise, accentuating her confident and commanding posture."
+            ]
+          },
+          {
+            "Name": "Markings",
+            "Descriptions": [
+              "Under certain light, faint, silvery lines like cracked porcelain or lightning branches are visible on the sides of her neck, glowing faintly when she channels immense power."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Shoulders",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Broad yet feminine, with a sharp, defined line that speaks of underlying strength and an unwavering, confident posture."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Her skin here is smooth and pale like alabaster, but carries a faint pearlescent shimmer, a magical gift from her partner, Pearl."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Arms",
+        "Details": [
+          {
+            "Name": "Tone",
+            "Descriptions": [
+              "Slender and toned with the wiry strength of a predator rather than the bulk of a warrior, every movement is fluid, deliberate, and mesmerizing."
+            ]
+          },
+          {
+            "Name": "Tattoos",
+            "Descriptions": [
+              "Her forearms are canvases for intricate, ever-shifting tattoos of arcane symbols and constellations, inked in a dark, shimmering indigo that appears woven from shadow and starlight."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hands",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Elegant hands with long, tapering fingers that appear both delicate and immensely capable, moving with hypnotic precision during spellcasting."
+            ]
+          },
+          {
+            "Name": "Palms",
+            "Descriptions": [
+              "The lines on her palms form a complex star chart of an unknown cosmic quadrant instead of traditional lifelines, glowing with a soft, amber light when she reads them."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nails",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Manicured into long, sharp stiletto points, appearing both sophisticated and weapon-like."
+            ]
+          },
+          {
+            "Name": "Composition and Color",
+            "Descriptions": [
+              "Naturally the color of polished obsidian and as hard as diamond, she often lacquers them with enchantments that leave shimmering, spectral trails in the air."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Chest",
+        "Details": [
+          {
+            "Name": "Structure",
+            "Descriptions": [
+              "A well-defined chest with elegant, prominent collarbones that frame the base of her throat."
+            ]
+          },
+          {
+            "Name": "Focal Mark",
+            "Descriptions": [
+              "Directly over her sternum lies a faint, circular brand resembling a spiraling galaxy. The mark is perpetually warm to the touch and pulses with a soft light in sync with her heart."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abdomen",
+        "Details": [
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "Her stomach is flat and firm, with the faint definition of lean muscle that speaks to a life of immense discipline and physical control."
+            ]
+          },
+          {
+            "Name": "Scarring",
+            "Descriptions": [
+              "A single, thin, silver scar runs diagonally from her navel toward her left hip, a beautiful yet menacing trophy from a battle with a cosmic entity eons ago."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hip",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Gracefully curved and pronounced, creating a classic hourglass figure that she uses to her advantage, her movements centered and hypnotic."
+            ]
+          },
+          {
+            "Name": "Marking",
+            "Descriptions": [
+              "A birthmark shaped like a perfect crescent moon rests on her right hip, its color a few shades darker than her skin, marking her connection to nocturnal magic."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Legs",
+        "Details": [
+          {
+            "Name": "Shape and Tone",
+            "Descriptions": [
+              "Long and shapely, with lean, defined muscle that gives her a powerful, confident stance, suggesting both predatory speed and dancer's grace."
+            ]
+          },
+          {
+            "Name": "Enchantment",
+            "Descriptions": [
+              "An enchanted garter of woven shadow is permanently inked onto her upper left thigh, serving as a magical holster for a spectral dagger she can summon at will."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Feet",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Slender with high, elegant arches, they are always immaculately cared for, as she often levitates a mere breath above the ground."
+            ]
+          },
+          {
+            "Name": "Anklet",
+            "Descriptions": [
+              "Around her right ankle is a permanent, delicate chain of interlocking silver runes that hum with containment magic, sealing away a volatile power."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Breasts",
+        "Details": [
+          {
+            "Name": "Shape and Size",
+            "Descriptions": [
+              "Full and round, sitting high on her chest, contributing to her powerful and seductive silhouette which she wields as expertly as any spell."
+            ]
+          },
+          {
+            "Name": "Appearance",
+            "Descriptions": [
+              "The skin is flawless and seems to possess a soft, internal luminosity, like a candle flame viewed through fine porcelain."
+            ]
+          }
+        ]
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Mother",
+        "FirstName": "Unknown",
+        "LastName": "Witch",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Human",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Father (deceased)",
+        "FirstName": "Unknown",
+        "LastName": "Fisher",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Human",
+        "Gender": "Male"
+      },
+      {
+        "Relation": "Daughter",
+        "FirstName": "Ruby",
+        "LastName": "Fisher",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Human",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Daughter",
+        "FirstName": "Sapphire",
+        "LastName": "Fisher",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Human",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Daughter",
+        "FirstName": "Emerald",
+        "LastName": "Fisher",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Human",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Pearl",
+        "LastName": "Unknown",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Human",
+        "Gender": "Female"
+      }
+    ],
+    "Personality": [
+      "Ambitious",
+      "Alluring",
+      "Dangerous",
+      "Curious",
+      "Unpredictable",
+      "Practices magic rituals",
+      "Seeks out forbidden knowledge",
+      "Enjoys manipulating others"
+    ],
+    "Languages": [
+      "Ancient Tongue",
+      "World of Pearl Common"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Serpent",
+      "FavoriteColor": "Black",
+      "FavoriteDrink": "Dark Wine",
+      "FavoriteFood": "Exotic Fruits",
+      "FavoritePlant": "Nightshade"
+    },
+    "Skills": [
+      "Charm",
+      "Deception",
+      "Etiquette",
+      "Intimidation",
+      "Lore (Magic)",
+      "Meditation",
+      "Performance",
+      "Spellcasting (Primal)",
+      "Stealth"
+    ],
+    "Talents": [
+      "Natural Charmer",
+      "Seduction",
+      "Innate Magical Aptitude"
+    ],
+    "Advantages": [
+      "Powerful spellcaster",
+      "High intelligence",
+      "Charismatic and manipulative",
+      "Physically athletic"
+    ],
+    "Disadvantages": [
+      "Overly ambitious",
+      "Secretive and mistrustful",
+      "Manipulative nature can create enemies",
+      "Has a dark past"
+    ],
+    "Employer": [
+      {
+        "Company": "Self-Employed",
+        "JobTitles": [
+          "Witch"
+        ]
+      }
+    ],
+    "Possessions": [
+      {
+        "ItemType": "Magical Artifacts",
+        "Description": [
+          "A magical staff",
+          "A personal spellbook",
+          "Various potions and reagents"
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Casual"
+        ],
+        "Items": [
+          {
+            "Type": "Bikini bottom",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Tank top",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          },
+          {
+            "Type": "Pants",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Tight"
+          },
+          {
+            "Type": "Sandals",
+            "Color": "Green",
+            "Style": "Simple",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      },
+      {
+        "Usage": [
+          "Formal"
+        ],
+        "Items": [
+          {
+            "Type": "Dress",
+            "Color": "Black",
+            "Style": "Flowing",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Regular"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "Amber is a powerful and seductive witch.",
+      "She is always looking for new ways to improve her skills and knowledge, and she is not afraid to use her charms to get what she wants.",
+      "She is also very secretive, and she has a habit of keeping her true intentions hidden from others.",
+      "Amber is comfortable being nude and enjoys the feeling of water on her skin. She is likely to be playful and seductive in bathing scenes, but also wary of anyone who might try to take advantage of her.",
+      "Amber is an independent and powerful woman who is not afraid to take risks. She is a complex character with a dark past, and she is always looking for ways to improve her position in the world.",
+      "Overall Impression: Amber is a captivating and dangerous woman with a captivating blend of strength, cunning, and sensuality. She is sure to leave a lasting impression on anyone who meets her."
+    ]
+  }
+]
