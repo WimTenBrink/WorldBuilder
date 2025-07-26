@@ -1,0 +1,3844 @@
+[
+  {
+    "id": "char_1753485110506",
+    "Version": "1.0",
+    "Created": "2023-11-08T12:00:00Z",
+    "Age": 21,
+    "Worlds": [
+      "Earth",
+      "Modern Earth"
+    ],
+    "Name": {
+      "FirstName": "Roos",
+      "LastName": "Vermeulen",
+      "Race": "Caucasian",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "she/her"
+    ],
+    "Sexuality": "Lesbian (Poly-amorous)",
+    "Size": {
+      "Height": 170,
+      "Weight": 59,
+      "BMI": 20.4
+    },
+    "Birth": {
+      "BirthDateTime": "2002-07-15T00:00:00Z",
+      "BornCity": "Amsterdam",
+      "BornCountry": "Netherlands",
+      "Nationality": [
+        "Dutch"
+      ]
+    },
+    "IQ": 125,
+    "Naked": [
+      "Comfortable",
+      "Confident"
+    ],
+    "Story": [
+      "Roos grew up in a wealthy family, fostering a love for adventure and the outdoors. She met her partners through various elite social circles and shared interests in exploring the world. Their combined fortunes allowed them to purchase a farm in Abcoude, which serves as their home base, and a luxury yacht for their expeditions. She is the quiet leader of the group, often making the most calculated decisions."
+    ],
+    "Residence": "Abcoude, Netherlands (Farm)",
+    "BodyMarks": [],
+    "BodyParts": [
+      {
+        "Name": "Head",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Long",
+              "Wavy",
+              "Blonde"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Blue",
+              "Piercing"
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Fair",
+              "Clear"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Torso",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Athletic",
+              "Lean"
+            ]
+          },
+          {
+            "Name": "Muscles",
+            "Descriptions": [
+              "Well-defined"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Legs",
+        "Details": [
+          {
+            "Name": "Legs",
+            "Descriptions": [
+              "Strong",
+              "Agile"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hair",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "Warm chestnut brown, with subtle lighter streaks from sun exposure during her expeditions."
+            ]
+          },
+          {
+            "Name": "Texture",
+            "Descriptions": [
+              "Soft, slightly wavy, and remarkably thick, suggesting vitality and health."
+            ]
+          },
+          {
+            "Name": "Style",
+            "Descriptions": [
+              "Often tied back in a practical yet elegant braid or ponytail for her adventures, but cascades to her mid-back when loose, framing her face with a few wisps."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Eyes",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "Deep sapphire blue, sparkling with intensity when she's focused or excited."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Almond-shaped, with slightly upturned outer corners, giving her an alert and intelligent look."
+            ]
+          },
+          {
+            "Name": "Expression",
+            "Descriptions": [
+              "Intelligent and observant, often holding a calm, steady gaze that suggests deep thought and unwavering confidence."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nose",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Straight and classically proportionate to her facial features, neither too prominent nor too small."
+            ]
+          },
+          {
+            "Name": "Bridge",
+            "Descriptions": [
+              "Delicate, with a slight, almost imperceptible curve that adds to her refined profile."
+            ]
+          },
+          {
+            "Name": "Tip",
+            "Descriptions": [
+              "Slightly upturned, lending a touch of spirited elegance to her otherwise composed expression."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Ears",
+        "Details": [
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Small to medium in size, lying close to her head."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Well-proportioned and symmetrical, indicative of a classic aesthetic."
+            ]
+          },
+          {
+            "Name": "Lobes",
+            "Descriptions": [
+              "Unattached, often adorned with simple, elegant stud earrings or small, refined hoops."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mouth",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "A well-defined cupid's bow, contributing to a sense of subtle grace."
+            ]
+          },
+          {
+            "Name": "Lips",
+            "Descriptions": [
+              "Full and naturally rosy, typically unadorned but sometimes with a subtle, hydrating tint."
+            ]
+          },
+          {
+            "Name": "Smile",
+            "Descriptions": [
+              "Infrequent but genuine, transforming her calm demeanor into one of warmth and quiet amusement, revealing straight, pearly white teeth."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Neck",
+        "Details": [
+          {
+            "Name": "Length",
+            "Descriptions": [
+              "Long and graceful, emphasizing her elegant posture."
+            ]
+          },
+          {
+            "Name": "Contour",
+            "Descriptions": [
+              "Slightly slender but strong, supporting her head with an air of quiet determination."
+            ]
+          },
+          {
+            "Name": "Posture",
+            "Descriptions": [
+              "Always held high and straight, reflecting her confident and poised bearing, even in challenging situations."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Shoulders",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Broad enough to suggest underlying strength and capability, yet gracefully rounded."
+            ]
+          },
+          {
+            "Name": "Width",
+            "Descriptions": [
+              "Proportional to her height, indicating an athletic yet feminine build suitable for an adventurous lifestyle."
+            ]
+          },
+          {
+            "Name": "Muscle Tone",
+            "Descriptions": [
+              "Subtly defined, hinting at her outdoor pursuits and physical capabilities without being overly muscular."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Arms",
+        "Details": [
+          {
+            "Name": "Length",
+            "Descriptions": [
+              "Proportionately long and slender, complementing her overall height."
+            ]
+          },
+          {
+            "Name": "Muscle Tone",
+            "Descriptions": [
+              "Lean and toned, especially in the forearms, reflecting her active lifestyle and ability to handle physical tasks with ease."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Lightly tanned from sun exposure during her extensive travels and expeditions, smooth and healthy."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hands",
+        "Details": [
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Medium-sized, with long, elegant fingers that are surprisingly capable."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Capable yet refined, with visible knuckles that suggest strength and dexterity, rather than delicate fragility."
+            ]
+          },
+          {
+            "Name": "Palms",
+            "Descriptions": [
+              "Slightly calloused in places from gripping ropes or tools during her adventures, but otherwise smooth and well-kept."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nails",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Short and neatly trimmed, with a slightly oval shape, prioritizing practicality."
+            ]
+          },
+          {
+            "Name": "Condition",
+            "Descriptions": [
+              "Strong and healthy, indicating good self-care and a robust physique."
+            ]
+          },
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "Natural, often unpolished or with a clear protective coat, reflecting her grounded and practical nature."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Chest",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Well-formed and firm, contributing to her balanced and athletic torso."
+            ]
+          },
+          {
+            "Name": "Ribs",
+            "Descriptions": [
+              "Subtly visible, hinting at her lean physique without being overly prominent."
+            ]
+          },
+          {
+            "Name": "Posture",
+            "Descriptions": [
+              "Carried upright and open, contributing significantly to her confident and poised demeanor."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abdomen",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Flat and trim, indicative of a healthy diet and consistently active lifestyle."
+            ]
+          },
+          {
+            "Name": "Muscle Tone",
+            "Descriptions": [
+              "Subtly defined abdominal muscles, not overly bulky but clearly strong and capable."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Smooth and clear, consistent with the healthy appearance of the rest of her body."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hip",
+        "Details": [
+          {
+            "Name": "Width",
+            "Descriptions": [
+              "Moderately wide, providing a feminine curve without being exaggerated, balanced with her shoulders."
+            ]
+          },
+          {
+            "Name": "Curve",
+            "Descriptions": [
+              "Smooth and graceful, flowing into her well-toned legs."
+            ]
+          },
+          {
+            "Name": "Definition",
+            "Descriptions": [
+              "Lean and well-defined, complementing her athletic physique and suggesting agility."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Feet",
+        "Details": [
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Proportional to her height, neither remarkably small nor large, reflecting her balanced build."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Well-formed, with slightly visible veins on the top, a testament to their regular activity and strong circulation."
+            ]
+          },
+          {
+            "Name": "Arches",
+            "Descriptions": [
+              "High and strong, reflecting their capability for long walks, hikes, and physical exertion during her many adventures."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Genitals",
+        "Details": [
+          {
+            "Name": "External Features",
+            "Descriptions": [
+              "Naturally developed and symmetrical, typical of a healthy young woman."
+            ]
+          },
+          {
+            "Name": "Labia",
+            "Descriptions": [
+              "Typically neat and well-formed, of a moderate size, showing no unusual characteristics."
+            ]
+          },
+          {
+            "Name": "Pubic Hair",
+            "Descriptions": [
+              "Often neatly trimmed or naturally kept, presenting soft, light brown curls."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Breasts",
+        "Details": [
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Moderate, proportionate to her lean and athletic frame, offering a balanced silhouette (likely a B or C cup range)."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Naturally rounded and high-set, consistent with her age and active lifestyle."
+            ]
+          },
+          {
+            "Name": "Firmness",
+            "Descriptions": [
+              "Firm and well-supported, indicative of her youth and consistent physical activity."
+            ]
+          }
+        ]
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Partner",
+        "FirstName": "Fleur",
+        "LastName": "Janssen",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Isabelle",
+        "LastName": "Dubois",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Anouk",
+        "LastName": "De Vries",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Mixed",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Lynn",
+        "LastName": "Smit",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Kim",
+        "LastName": "Bakker",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      }
+    ],
+    "Personality": [
+      "Confident",
+      "Calm",
+      "Strategic",
+      "Loyal",
+      "Adventurous"
+    ],
+    "Languages": [
+      "Dutch",
+      "English",
+      "French"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Dolphin",
+      "FavoriteColor": "Aqua",
+      "FavoriteDrink": "Fresh Coconut Water",
+      "FavoriteFood": "Sushi",
+      "FavoritePlant": "Orchid"
+    },
+    "Skills": [
+      "Navigation",
+      "First Aid",
+      "Team Leadership",
+      "Financial Management",
+      "Culinary Arts"
+    ],
+    "Talents": [
+      "Strategic Thinking",
+      "Natural Leadership",
+      "Exceptional Swimmer"
+    ],
+    "Advantages": [
+      "Wealthy (Billions)",
+      "Attractive",
+      "Athletic",
+      "Survivalist",
+      "Combat Trained (Hand-to-Hand)",
+      "Diver",
+      "Navigator",
+      "Resourceful",
+      "Intelligent",
+      "Charismatic"
+    ],
+    "Disadvantages": [
+      "Overconfident (occasionally)",
+      "Impulsive (occasionally)"
+    ],
+    "Employer": [],
+    "Possessions": [
+      {
+        "ItemType": "Transportation/Equipment",
+        "Description": [
+          "Luxury yacht",
+          "High-end diving gear"
+        ]
+      },
+      {
+        "ItemType": "Wardrobe",
+        "Description": [
+          "Various styles, high quality"
+        ]
+      },
+      {
+        "ItemType": "Knives",
+        "Description": [
+          "High-grade steel, various sizes"
+        ]
+      },
+      {
+        "ItemType": "Machetes",
+        "Description": [
+          "Durable, sharp"
+        ]
+      },
+      {
+        "ItemType": "Spear Harpoons",
+        "Description": [
+          "Underwater fishing"
+        ]
+      },
+      {
+        "ItemType": "Fishing Gear",
+        "Description": [
+          "Professional fishing rods and nets"
+        ]
+      },
+      {
+        "ItemType": "Survival Kit",
+        "Description": [
+          "Satellite communication, first aid, maps"
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Yacht Deck",
+          "Diving",
+          "Exploration",
+          "Formal Events"
+        ],
+        "Items": [
+          {
+            "Type": "Bikini",
+            "Color": "Various",
+            "Style": "Sporty",
+            "Fabric": "Swimwear",
+            "Size": "M",
+            "Fit": "Snug"
+          },
+          {
+            "Type": "Wetsuit",
+            "Color": "Black",
+            "Style": "Diving",
+            "Fabric": "Neoprene",
+            "Size": "M",
+            "Fit": "Tight"
+          },
+          {
+            "Type": "Cargo Pants",
+            "Color": "Khaki",
+            "Style": "Adventure",
+            "Fabric": "Cotton",
+            "Size": "M",
+            "Fit": "Relaxed"
+          },
+          {
+            "Type": "T-shirt",
+            "Color": "Various",
+            "Style": "Adventure",
+            "Fabric": "Cotton",
+            "Size": "M",
+            "Fit": "Comfortable"
+          },
+          {
+            "Type": "Dress",
+            "Color": "Black",
+            "Style": "Formal",
+            "Fabric": "Silk",
+            "Size": "M",
+            "Fit": "Elegant"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "Leads the group with a calm demeanor.",
+      "Excellent at strategic planning."
+    ]
+  },
+  {
+    "id": "char_1753485129169",
+    "Version": "1.0",
+    "Created": "2023-11-08T12:00:00Z",
+    "Age": 20,
+    "Worlds": [
+      "Earth",
+      "Modern Earth"
+    ],
+    "Name": {
+      "FirstName": "Fleur",
+      "LastName": "Janssen",
+      "Race": "Caucasian",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "she/her"
+    ],
+    "Sexuality": "Lesbian (Poly-amorous)",
+    "Size": {
+      "Height": 168,
+      "Weight": 59,
+      "BMI": 20.9
+    },
+    "Birth": {
+      "BirthDateTime": "2003-03-20T00:00:00Z",
+      "BornCity": "Utrecht",
+      "BornCountry": "Netherlands",
+      "Nationality": [
+        "Dutch"
+      ]
+    },
+    "IQ": 120,
+    "Naked": [
+      "Free-spirited",
+      "Uninhibited"
+    ],
+    "Story": [
+      "Fleur, coming from a family of thrill-seekers, was introduced to extreme sports at a young age. Her natural athleticism and love for adventure quickly connected her with the rest of the group. She's the one always pushing for the next unexplored destination and is fiercely protective of her partners."
+    ],
+    "Residence": "Abcoude, Netherlands (Farm)",
+    "BodyMarks": [],
+    "BodyParts": [
+      {
+        "Name": "Head",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Short",
+              "Spiky",
+              "Dark Brown"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Green",
+              "Expressive"
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Lightly tanned"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Torso",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Compact",
+              "Muscular"
+            ]
+          },
+          {
+            "Name": "Abs",
+            "Descriptions": [
+              "Defined"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Legs",
+        "Details": [
+          {
+            "Name": "Legs",
+            "Descriptions": [
+              "Fast",
+              "Powerful"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hair",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "A vibrant auburn, streaked with lighter, sun-bleached highlights from constant outdoor exposure and adventure."
+            ]
+          },
+          {
+            "Name": "Style",
+            "Descriptions": [
+              "Typically worn in a practical, often messy, high ponytail or braid, but falls in thick, wild waves when unbound, reflecting her untamed spirit."
+            ]
+          },
+          {
+            "Name": "Texture",
+            "Descriptions": [
+              "Thick and resilient, with a slightly coarse texture from exposure to various elements."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Eyes",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "A striking hazel, flecked with gold and green, shifting subtly with the light."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Large and almond-shaped, set beneath strong, expressive brows, giving her a perpetually curious and attentive gaze."
+            ]
+          },
+          {
+            "Name": "Expression",
+            "Descriptions": [
+              "Sparkle with an adventurous glint, quick to widen in surprise or narrow in intense focus, always conveying her energetic and daring nature."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nose",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Straight and moderately sized, perfectly balanced for her face."
+            ]
+          },
+          {
+            "Name": "Tip",
+            "Descriptions": [
+              "A slight, almost imperceptible tilt upwards at the tip, giving her a perpetually optimistic appearance."
+            ]
+          },
+          {
+            "Name": "Bridge",
+            "Descriptions": [
+              "Shows faint signs of past sunburn or windburn, a testament to her outdoor pursuits."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Ears",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Well-formed and proportionate to her head, neither prominent nor recessed."
+            ]
+          },
+          {
+            "Name": "Lobe",
+            "Descriptions": [
+              "Attached lobes, smooth and unadorned, reflecting her practical nature."
+            ]
+          },
+          {
+            "Name": "Placement",
+            "Descriptions": [
+              "Set close to her head, minimizing interference during her dynamic activities."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mouth",
+        "Details": [
+          {
+            "Name": "Lips",
+            "Descriptions": [
+              "Full and naturally rosy, with a healthy, often sun-kissed sheen."
+            ]
+          },
+          {
+            "Name": "Smile",
+            "Descriptions": [
+              "A wide, genuine smile that reaches her eyes, revealing straight, white teeth, indicative of her joyful and spontaneous personality."
+            ]
+          },
+          {
+            "Name": "Expression",
+            "Descriptions": [
+              "Frequently curves into a ready grin or a look of focused determination, always active."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Neck",
+        "Details": [
+          {
+            "Name": "Length",
+            "Descriptions": [
+              "Of average length, allowing for good mobility and balance."
+            ]
+          },
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "Lean and strong, with visible tendons and slight definition from physical exertion."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Smooth, slightly tanned, with no visible marks, hinting at her carefulness despite her daring nature."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Shoulders",
+        "Details": [
+          {
+            "Name": "Width",
+            "Descriptions": [
+              "Broad and strong, providing a powerful base for her athletic frame."
+            ]
+          },
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "Clearly defined deltoids, hinting at her upper body strength, essential for climbing and various extreme sports."
+            ]
+          },
+          {
+            "Name": "Posture",
+            "Descriptions": [
+              "Carried with confident uprightness, suggesting a readiness for action and a commanding presence."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Arms",
+        "Details": [
+          {
+            "Name": "Length",
+            "Descriptions": [
+              "Proportional to her height, ensuring good reach and leverage for her activities."
+            ]
+          },
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "Lean but well-defined, showcasing the results of consistent training and physical demands."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Tanned and smooth, with a few faint scars on her forearms, telling tales of minor scrapes and adventurous exploits."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hands",
+        "Details": [
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Medium-sized, with long, agile fingers."
+            ]
+          },
+          {
+            "Name": "Digits",
+            "Descriptions": [
+              "Strong and flexible, capable of firm grips and delicate maneuvers, with some callouses on the palms from gripping equipment."
+            ]
+          },
+          {
+            "Name": "Texture",
+            "Descriptions": [
+              "The backs are tanned and smooth, while the palms show signs of practical use, tough but not rough."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nails",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Kept short and neatly trimmed for practicality, avoiding interference with her active pursuits."
+            ]
+          },
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "Clean and natural, devoid of polish or elaborate designs."
+            ]
+          },
+          {
+            "Name": "Condition",
+            "Descriptions": [
+              "Strong and healthy, reflecting good physical condition, despite occasional minor chips from her adventurous lifestyle."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Chest",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Athletic and lean, with subtle definition of her pectoral muscles, hinting at her upper body strength."
+            ]
+          },
+          {
+            "Name": "Ribcage",
+            "Descriptions": [
+              "Her ribcage is well-defined, speaking to her low body fat and physical conditioning."
+            ]
+          },
+          {
+            "Name": "Sternum",
+            "Descriptions": [
+              "Her sternum is visible, contributing to her overall athletic and toned appearance."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abdomen",
+        "Details": [
+          {
+            "Name": "Definition",
+            "Descriptions": [
+              "Flat and toned, with visible abdominal muscles that speak to her core strength and dedication to physical fitness."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Smooth and tanned, free of stretch marks or excess softness, a result of her active lifestyle."
+            ]
+          },
+          {
+            "Name": "Waistline",
+            "Descriptions": [
+              "Slightly V-shaped, flowing smoothly into her hips, indicating a lean and well-proportioned physique."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hip",
+        "Details": [
+          {
+            "Name": "Width",
+            "Descriptions": [
+              "Lean and athletic, providing a balanced proportion to her broad shoulders."
+            ]
+          },
+          {
+            "Name": "Curvature",
+            "Descriptions": [
+              "Subtly curved, not overly wide, consistent with her athletic build rather than a curvier figure."
+            ]
+          },
+          {
+            "Name": "Bone Structure",
+            "Descriptions": [
+              "Her iliac crests are faintly visible, a sign of her low body fat and strong core."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Feet",
+        "Details": [
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Proportional to her height, appearing strong and agile."
+            ]
+          },
+          {
+            "Name": "Arch",
+            "Descriptions": [
+              "Well-developed arches, suited for running, climbing, and absorbing impact from various activities."
+            ]
+          },
+          {
+            "Name": "Toes",
+            "Descriptions": [
+              "Straight and evenly spaced, with short, practical nails, reflecting their functional use."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Slightly calloused on the soles from extensive use, with tanned skin on the tops, indicating frequent exposure."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Genitals",
+        "Details": [
+          {
+            "Name": "General Appearance",
+            "Descriptions": [
+              "Naturally formed and healthy, consistent with an active young woman."
+            ]
+          },
+          {
+            "Name": "Pubic Hair",
+            "Descriptions": [
+              "Sparse but natural, consistent with her auburn hair color."
+            ]
+          },
+          {
+            "Name": "Labia",
+            "Descriptions": [
+              "Slightly recessed and symmetrical, consistent with her athletic build."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Breasts",
+        "Details": [
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Small to medium, proportional to her athletic frame, allowing for unhindered movement during her dynamic activities."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Firm and conical, sitting high on her chest, indicative of her strong pectoral muscles and active lifestyle."
+            ]
+          },
+          {
+            "Name": "Nipples",
+            "Descriptions": [
+              "Small and naturally pigmented, discreetly centered on the breast."
+            ]
+          }
+        ]
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Partner",
+        "FirstName": "Roos",
+        "LastName": "Vermeulen",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Isabelle",
+        "LastName": "Dubois",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Anouk",
+        "LastName": "De Vries",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Mixed",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Lynn",
+        "LastName": "Smit",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Kim",
+        "LastName": "Bakker",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      }
+    ],
+    "Personality": [
+      "Daring",
+      "Energetic",
+      "Spontaneous",
+      "Loyal",
+      "Curious"
+    ],
+    "Languages": [
+      "Dutch",
+      "English",
+      "Spanish"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Tiger",
+      "FavoriteColor": "Orange",
+      "FavoriteDrink": "Energy Drink",
+      "FavoriteFood": "Spicy Curry",
+      "FavoritePlant": "Cactus"
+    },
+    "Skills": [
+      "Martial Arts",
+      "Parkour",
+      "Electronic Gadgetry",
+      "Quick Problem Solving"
+    ],
+    "Talents": [
+      "Agility",
+      "Quick Reflexes",
+      "Technological Prowess"
+    ],
+    "Advantages": [
+      "Wealthy (Billions)",
+      "Attractive",
+      "Athletic",
+      "Survivalist",
+      "Combat Trained (Martial Arts)",
+      "Energetic",
+      "Adaptive",
+      "Technologically Savvy",
+      "Quick-witted"
+    ],
+    "Disadvantages": [
+      "Impulsive",
+      "Easily bored"
+    ],
+    "Employer": [],
+    "Possessions": [
+      {
+        "ItemType": "Transportation/Equipment",
+        "Description": [
+          "Luxury yacht",
+          "High-end diving gear"
+        ]
+      },
+      {
+        "ItemType": "Wardrobe",
+        "Description": [
+          "Various styles, high quality"
+        ]
+      },
+      {
+        "ItemType": "Knives",
+        "Description": [
+          "High-grade steel, various sizes"
+        ]
+      },
+      {
+        "ItemType": "Machetes",
+        "Description": [
+          "Durable, sharp"
+        ]
+      },
+      {
+        "ItemType": "Spear Harpoon",
+        "Description": [
+          "Underwater fishing"
+        ]
+      },
+      {
+        "ItemType": "Fishing Gear",
+        "Description": [
+          "Professional fishing rods and nets"
+        ]
+      },
+      {
+        "ItemType": "Survival Kit",
+        "Description": [
+          "Satellite communication, first aid, maps"
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Yacht Deck",
+          "Diving",
+          "Exploration",
+          "Formal Events"
+        ],
+        "Items": [
+          {
+            "Type": "Bikini",
+            "Color": "Bright Colors",
+            "Style": "Modern",
+            "Fabric": "Swimwear",
+            "Size": "M",
+            "Fit": "Sporty"
+          },
+          {
+            "Type": "Wetsuit",
+            "Color": "Black",
+            "Style": "Diving",
+            "Fabric": "Neoprene",
+            "Size": "M",
+            "Fit": "Tight"
+          },
+          {
+            "Type": "Cargo Pants",
+            "Color": "Olive Green",
+            "Style": "Adventure",
+            "Fabric": "Cotton",
+            "Size": "M",
+            "Fit": "Loose"
+          },
+          {
+            "Type": "Tank Top",
+            "Color": "Various",
+            "Style": "Adventure",
+            "Fabric": "Cotton",
+            "Size": "M",
+            "Fit": "Comfortable"
+          },
+          {
+            "Type": "Dress",
+            "Color": "Red",
+            "Style": "Cocktail",
+            "Fabric": "Chiffon",
+            "Size": "M",
+            "Fit": "Flowy"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "The most adventurous and daring of the group.",
+      "Always looking for the next thrill."
+    ]
+  },
+  {
+    "id": "char_1753485146108",
+    "Version": "1.0",
+    "Created": "2023-11-08T12:00:00Z",
+    "Age": 22,
+    "Worlds": [
+      "Earth",
+      "Modern Earth"
+    ],
+    "Name": {
+      "FirstName": "Isabelle",
+      "LastName": "Dubois",
+      "Race": "Caucasian",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "she/her"
+    ],
+    "Sexuality": "Lesbian (Poly-amorous)",
+    "Size": {
+      "Height": 173,
+      "Weight": 62,
+      "BMI": 20.7
+    },
+    "Birth": {
+      "BirthDateTime": "2001-09-01T00:00:00Z",
+      "BornCity": "Brussels",
+      "BornCountry": "Belgium",
+      "Nationality": [
+        "Belgian"
+      ]
+    },
+    "IQ": 130,
+    "Naked": [
+      "Artistic",
+      "Graceful"
+    ],
+    "Story": [
+      "Isabelle comes from a Belgian aristocratic family, accustomed to luxury and fine arts. Her interest in exploration developed as a desire to understand different cultures. She uses her diplomatic skills to navigate complex social situations and is a master of observation."
+    ],
+    "Residence": "Abcoude, Netherlands (Farm)",
+    "BodyMarks": [],
+    "BodyParts": [
+      {
+        "Name": "Head",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Long",
+              "Straight",
+              "Dark Brown"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Hazel",
+              "Warm"
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Porcelain"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Torso",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Elegant",
+              "Strong"
+            ]
+          },
+          {
+            "Name": "Arms",
+            "Descriptions": [
+              "Toned"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Legs",
+        "Details": [
+          {
+            "Name": "Legs",
+            "Descriptions": [
+              "Graceful",
+              "Powerful"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hair",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "Rich, deep chestnut, almost mahogany, catching glints of auburn in natural light."
+            ]
+          },
+          {
+            "Name": "Style",
+            "Descriptions": [
+              "Cascading in soft, elegant waves past her shoulders, often styled in an artfully loose chignon or a half-up twist, reflecting a refined yet practical aesthetic."
+            ]
+          },
+          {
+            "Name": "Texture",
+            "Descriptions": [
+              "Thick and lustrous, with a natural silkiness that speaks of careful tending."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Eyes",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "Intriguing cerulean blue, flecked with deeper indigo and hints of grey around the pupil, giving them a depth that suggests both calm and keen intelligence."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Almond-shaped, with slightly upturned outer corners, framed by long, dark lashes."
+            ]
+          },
+          {
+            "Name": "Expression",
+            "Descriptions": [
+              "Often hold a thoughtful, observant gaze, capable of conveying subtle understanding without words, reflecting her diplomatic nature."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nose",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Delicate and straight, with a slightly aquiline bridge, proportionate to her face and hinting at her aristocratic lineage."
+            ]
+          },
+          {
+            "Name": "Tip",
+            "Descriptions": [
+              "Finely sculpted, with a soft, slightly rounded tip."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Ears",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Small and well-formed, lying close to her head, often adorned with simple, elegant stud earrings or small drop pearls."
+            ]
+          },
+          {
+            "Name": "Lobe",
+            "Descriptions": [
+              "Attached lobes, smooth and unblemished."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mouth",
+        "Details": [
+          {
+            "Name": "Lips",
+            "Descriptions": [
+              "Naturally full, sculpted with a gentle Cupid's bow on the upper lip, usually a soft rose color."
+            ]
+          },
+          {
+            "Name": "Expression",
+            "Descriptions": [
+              "Capable of a warm, subtle smile that reaches her eyes, reflecting her calm and sophisticated demeanor."
+            ]
+          },
+          {
+            "Name": "Teeth",
+            "Descriptions": [
+              "Even and pearly white, visible when she smiles genuinely."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Neck",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Long and graceful, providing an elegant line from her shoulders to her chin, characteristic of a dancer or someone with refined posture."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Smooth and unblemished, suggesting meticulous care."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Shoulders",
+        "Details": [
+          {
+            "Name": "Posture",
+            "Descriptions": [
+              "Naturally broad for her frame, yet held with a slight, elegant slope, indicating good posture and a regal bearing."
+            ]
+          },
+          {
+            "Name": "Muscles",
+            "Descriptions": [
+              "Subtly defined, hinting at underlying strength from her explorations, without being overtly muscular."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Arms",
+        "Details": [
+          {
+            "Name": "Length",
+            "Descriptions": [
+              "Proportionately long, contributing to her graceful overall silhouette."
+            ]
+          },
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Slender but toned, with delicate muscle definition visible when flexed, suggesting agility and understated strength from her travels."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Smooth and pale, though sometimes lightly tanned from outdoor excursions."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hands",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Elegant and slender, with long, artistic fingers, indicative of someone accustomed to handling delicate objects or writing."
+            ]
+          },
+          {
+            "Name": "Dexterity",
+            "Descriptions": [
+              "Capable of both delicate precision and firm grip, reflecting her artistic nature and observational skills."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Soft and well-maintained, belying the potential for rough travel."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nails",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Well-manicured and oval-shaped, neither too long nor too short."
+            ]
+          },
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "Often left natural with a clear polish or a subtle, sophisticated nude hue, reflecting her understated elegance."
+            ]
+          },
+          {
+            "Name": "Condition",
+            "Descriptions": [
+              "Impeccably clean and strong, despite her adventurous pursuits."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Chest",
+        "Details": [
+          {
+            "Name": "Structure",
+            "Descriptions": [
+              "Rib cage is neatly proportioned, suggesting a healthy lung capacity and elegant posture."
+            ]
+          },
+          {
+            "Name": "Décolletage",
+            "Descriptions": [
+              "Smooth and fair-skinned, with prominent collarbones that hint at a graceful frame."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abdomen",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Flat and toned, indicative of good health and a disciplined lifestyle, without being overly muscular."
+            ]
+          },
+          {
+            "Name": "Waist",
+            "Descriptions": [
+              "Gracefully narrow, accentuating her feminine figure."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hip",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Gently curved, adding to her feminine silhouette while remaining proportionate to her athletic build."
+            ]
+          },
+          {
+            "Name": "Width",
+            "Descriptions": [
+              "Moderately wide, providing a classic hour-glass outline without exaggeration."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Feet",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Arched and slender, accustomed to both elegant footwear and sturdy boots for exploration."
+            ]
+          },
+          {
+            "Name": "Toes",
+            "Descriptions": [
+              "Straight and well-aligned, with neatly trimmed nails."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Smooth and soft, despite occasional treks."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Genitals",
+        "Details": [
+          {
+            "Name": "Appearance",
+            "Descriptions": [
+              "Neatly groomed, reflecting a personal preference for meticulous care."
+            ]
+          },
+          {
+            "Name": "Hygiene",
+            "Descriptions": [
+              "Maintained with utmost cleanliness and discretion, as expected of someone from her background."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Breasts",
+        "Details": [
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Moderate in size, appearing natural and well-proportioned to her slender frame."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Firm and high-set, with a graceful curve."
+            ]
+          },
+          {
+            "Name": "Profile",
+            "Descriptions": [
+              "Subtle and elegant, never ostentatious, fitting her sophisticated demeanor."
+            ]
+          }
+        ]
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Partner",
+        "FirstName": "Roos",
+        "LastName": "Vermeulen",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Fleur",
+        "LastName": "Janssen",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Anouk",
+        "LastName": "De Vries",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Mixed",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Lynn",
+        "LastName": "Smit",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Kim",
+        "LastName": "Bakker",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      }
+    ],
+    "Personality": [
+      "Sophisticated",
+      "Calm",
+      "Artistic",
+      "Loyal",
+      "Observant"
+    ],
+    "Languages": [
+      "French",
+      "Dutch",
+      "English",
+      "German"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Panther",
+      "FavoriteColor": "Silver",
+      "FavoriteDrink": "Champagne",
+      "FavoriteFood": "Fine Cheese",
+      "FavoritePlant": "Rose"
+    },
+    "Skills": [
+      "Diplomacy",
+      "Negotiation",
+      "Art History",
+      "Boxing",
+      "Survival Cooking"
+    ],
+    "Talents": [
+      "Art Appreciation",
+      "Language Acquisition",
+      "Social Grace"
+    ],
+    "Advantages": [
+      "Wealthy (Billions)",
+      "Attractive",
+      "Athletic",
+      "Survivalist",
+      "Combat Trained (Boxing)",
+      "Multilingual",
+      "Charming",
+      "Diplomatic",
+      "Creative"
+    ],
+    "Disadvantages": [
+      "Slightly aloof",
+      "Perfectionist"
+    ],
+    "Employer": [],
+    "Possessions": [
+      {
+        "ItemType": "Transportation/Equipment",
+        "Description": [
+          "Luxury yacht",
+          "High-end diving gear"
+        ]
+      },
+      {
+        "ItemType": "Wardrobe",
+        "Description": [
+          "Various styles, high quality"
+        ]
+      },
+      {
+        "ItemType": "Knives",
+        "Description": [
+          "High-grade steel, various sizes"
+        ]
+      },
+      {
+        "ItemType": "Machetes",
+        "Description": [
+          "Durable, sharp"
+        ]
+      },
+      {
+        "ItemType": "Spear Harpoon",
+        "Description": [
+          "Underwater fishing"
+        ]
+      },
+      {
+        "ItemType": "Fishing Gear",
+        "Description": [
+          "Professional fishing rods and nets"
+        ]
+      },
+      {
+        "ItemType": "Survival Kit",
+        "Description": [
+          "Satellite communication, first aid, maps"
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Yacht Deck",
+          "Diving",
+          "Exploration",
+          "Formal Events",
+          "Civilized Areas"
+        ],
+        "Items": [
+          {
+            "Type": "Bikini",
+            "Color": "Deep Blue",
+            "Style": "Elegant",
+            "Fabric": "Swimwear",
+            "Size": "M",
+            "Fit": "Classic"
+          },
+          {
+            "Type": "Wetsuit",
+            "Color": "Black",
+            "Style": "Diving",
+            "Fabric": "Neoprene",
+            "Size": "M",
+            "Fit": "Tight"
+          },
+          {
+            "Type": "Cargo Pants",
+            "Color": "Grey",
+            "Style": "Adventure",
+            "Fabric": "Cotton",
+            "Size": "M",
+            "Fit": "Tailored"
+          },
+          {
+            "Type": "Blouse",
+            "Color": "White",
+            "Style": "Plain Clothes",
+            "Fabric": "Linen",
+            "Size": "M",
+            "Fit": "Loose"
+          },
+          {
+            "Type": "Dress",
+            "Color": "Emerald Green",
+            "Style": "Gown",
+            "Fabric": "Satin",
+            "Size": "M",
+            "Fit": "Form-fitting"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "The most sophisticated and cultured.",
+      "Handles interactions with unknown groups."
+    ]
+  },
+  {
+    "id": "char_1753485162337",
+    "Version": "1.0",
+    "Created": "2023-11-08T12:00:00Z",
+    "Age": 19,
+    "Worlds": [
+      "Earth",
+      "Modern Earth"
+    ],
+    "Name": {
+      "FirstName": "Anouk",
+      "LastName": "De Vries",
+      "Race": "Mixed",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "she/her"
+    ],
+    "Sexuality": "Lesbian (Poly-amorous)",
+    "Size": {
+      "Height": 165,
+      "Weight": 59,
+      "BMI": 21.7
+    },
+    "Birth": {
+      "BirthDateTime": "2004-01-25T00:00:00Z",
+      "BornCity": "Rotterdam",
+      "BornCountry": "Netherlands",
+      "Nationality": [
+        "Dutch",
+        "African"
+      ]
+    },
+    "IQ": 118,
+    "Naked": [
+      "Natural",
+      "Confident"
+    ],
+    "Story": [
+      "Anouk grew up with a deep respect for nature, learning survival skills from a young age through her mixed heritage. She is the most intuitive of the group, often sensing danger before it arrives. Her wealth allowed her to pursue her passions for conservation and exploration."
+    ],
+    "Residence": "Abcoude, Netherlands (Farm)",
+    "BodyMarks": [],
+    "BodyParts": [
+      {
+        "Name": "Head",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Curly",
+              "Voluminous",
+              "Dark Brown with auburn highlights"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Brown",
+              "Deep"
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Olive",
+              "Smooth"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Torso",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Curvy",
+              "Strong"
+            ]
+          },
+          {
+            "Name": "Thighs",
+            "Descriptions": [
+              "Well-defined"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Legs",
+        "Details": [
+          {
+            "Name": "Legs",
+            "Descriptions": [
+              "Powerful",
+              "Grounded"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hair",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "A rich, deep auburn, almost like dried autumn leaves, with sun-kissed streaks that catch the light like dappled sunlight through a forest canopy."
+            ]
+          },
+          {
+            "Name": "Texture",
+            "Descriptions": [
+              "Thick and wavy, with a natural, unstyled flow that seems to move with an innate wildness, resilient to the elements."
+            ]
+          },
+          {
+            "Name": "Style",
+            "Descriptions": [
+              "Often left loose to tumble around her shoulders, or intricately braided into practical, survival-ready plaits that hint at a deep connection to nature's patterns."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Eyes",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "A profound, moss-green, flecked with hints of gold around the iris, reminiscent of ancient, sun-drenched forests, giving them an almost primal depth."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Large, almond-shaped, slightly upturned at the corners, giving her an alert and observant gaze."
+            ]
+          },
+          {
+            "Name": "Gaze",
+            "Descriptions": [
+              "Deeply empathetic and perceptive, her eyes hold a quiet wisdom, often appearing to see beyond the surface, sensing shifts in the environment or mood."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nose",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Straight and well-defined, with a subtle, graceful curve at the bridge that speaks of refined features."
+            ]
+          },
+          {
+            "Name": "Bridge",
+            "Descriptions": [
+              "Strong and slightly elevated, hinting at a sturdy and grounded character, resilient to the outdoor life."
+            ]
+          },
+          {
+            "Name": "Tip",
+            "Descriptions": [
+              "Delicately pointed, adding a touch of elegance without detracting from her overall practical appearance."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Ears",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Slightly tapered at the top, reminiscent of a fey creature, fitting her intuitive nature and acute senses."
+            ]
+          },
+          {
+            "Name": "Lobe",
+            "Descriptions": [
+              "Small and attached, clean-lined and unadorned, reflecting her preference for simplicity and practicality."
+            ]
+          },
+          {
+            "Name": "Placement",
+            "Descriptions": [
+              "Set close to her head, symmetrically framing her face, allowing her to 'listen' to the subtle whispers of nature."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mouth",
+        "Details": [
+          {
+            "Name": "Lips",
+            "Descriptions": [
+              "Medium-full, naturally rose-tinted, with a soft, inviting curve that easily transitions between a gentle smile and a determined set."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "A well-defined Cupid's bow on the upper lip, giving her mouth a subtle, expressive quality."
+            ]
+          },
+          {
+            "Name": "Expression",
+            "Descriptions": [
+              "Often rests in a thoughtful, serene line, but quick to soften with empathy or firm with resolve when protecting those she cares for."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Neck",
+        "Details": [
+          {
+            "Name": "Length",
+            "Descriptions": [
+              "Proportionately long and graceful, allowing for fluid movement and an elegant carriage."
+            ]
+          },
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Lean and strong, with visible tendons and muscles that speak of agility and constant outdoor activity."
+            ]
+          },
+          {
+            "Name": "Posture",
+            "Descriptions": [
+              "Held with an innate regality, yet relaxed and poised, reflecting her grounded and confident demeanor."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Shoulders",
+        "Details": [
+          {
+            "Name": "Width",
+            "Descriptions": [
+              "Moderately broad, providing a sturdy frame without being overly masculine, perfectly suited for carrying packs or navigating dense terrain."
+            ]
+          },
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Visibly toned and lean from years of outdoor life and physical activity, hinting at understated strength."
+            ]
+          },
+          {
+            "Name": "Slope",
+            "Descriptions": [
+              "Gently sloped, leading down to strong arms, giving her a balanced and athletic silhouette."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Arms",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Lean and corded with subtle muscle definition, shaped by climbing, hiking, and carrying, rather than overt bulk."
+            ]
+          },
+          {
+            "Name": "Forearms",
+            "Descriptions": [
+              "Slightly stronger and more defined than her upper arms, indicative of practical use and manual dexterity."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Sun-kissed and durable, with a few faint, almost imperceptible scars from brushes with thorns or rocks during her explorations."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hands",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Strong and capable, with long, slender fingers that are equally adept at delicate tasks and gripping rough surfaces."
+            ]
+          },
+          {
+            "Name": "Palms",
+            "Descriptions": [
+              "Lightly calloused in places from gripping tools or branches, yet the skin overall remains soft and sensitive."
+            ]
+          },
+          {
+            "Name": "Knuckles",
+            "Descriptions": [
+              "Slightly prominent, hinting at the strength held within her otherwise graceful hands."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nails",
+        "Details": [
+          {
+            "Name": "Length",
+            "Descriptions": [
+              "Kept short and neat, practical for her active lifestyle, avoiding snags or breaks."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Naturally strong and well-formed, with a healthy, natural pink hue."
+            ]
+          },
+          {
+            "Name": "Condition",
+            "Descriptions": [
+              "Immaculate and clean, reflecting her attention to detail and self-care, even in the wild."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Chest",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Athletic and trim, with a natural, feminine contour that speaks of good health and physical fitness."
+            ]
+          },
+          {
+            "Name": "Ribcage",
+            "Descriptions": [
+              "Subtly defined beneath the skin, suggesting lean musculature and ample lung capacity for long treks."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Smooth and unblemished, often protected from the sun, revealing a lighter tone than her more exposed skin."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abdomen",
+        "Details": [
+          {
+            "Name": "Tone",
+            "Descriptions": [
+              "Flat and toned, a result of a healthy lifestyle and active core engagement in her outdoor pursuits."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Streamlined and strong, contributing to her overall agile and balanced physique."
+            ]
+          },
+          {
+            "Name": "Navel",
+            "Descriptions": [
+              "Small and neatly inverted, a discreet detail on her otherwise strong midsection."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hip",
+        "Details": [
+          {
+            "Name": "Width",
+            "Descriptions": [
+              "Naturally proportionate to her shoulders, creating a balanced and athletic silhouette rather than a wide one."
+            ]
+          },
+          {
+            "Name": "Curve",
+            "Descriptions": [
+              "Gentle and feminine, allowing for freedom of movement crucial for her exploration and survival skills."
+            ]
+          },
+          {
+            "Name": "Flexibility",
+            "Descriptions": [
+              "Evident in her fluid movements, indicating strong, flexible joints from her active lifestyle."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Feet",
+        "Details": [
+          {
+            "Name": "Arch",
+            "Descriptions": [
+              "High and well-defined, providing excellent shock absorption and agility for navigating varied terrains."
+            ]
+          },
+          {
+            "Name": "Toes",
+            "Descriptions": [
+              "Straight and strong, with visible spacing, indicating they are well-used and accustomed to gripping uneven surfaces."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Tough and resilient on the soles from walking barefoot or in minimal footwear, yet supple on the tops."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Genitals",
+        "Details": [
+          {
+            "Name": "Form",
+            "Descriptions": [
+              "Naturally formed and healthy, reflecting her overall vitality and grounded connection to her body."
+            ]
+          },
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "A soft, dark growth, kept neatly trimmed for practicality and hygiene, yet maintaining a natural appearance."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Breasts",
+        "Details": [
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Modest and proportionate to her lean, athletic build, allowing for unhindered movement during her outdoor activities."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Naturally firm and rounded, with a youthful, high set that speaks to her age and physical condition."
+            ]
+          },
+          {
+            "Name": "Placement",
+            "Descriptions": [
+              "Positioned high on her chest, contributing to her agile and capable silhouette."
+            ]
+          }
+        ]
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Partner",
+        "FirstName": "Roos",
+        "LastName": "Vermeulen",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Fleur",
+        "LastName": "Janssen",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Isabelle",
+        "LastName": "Dubois",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Lynn",
+        "LastName": "Smit",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Kim",
+        "LastName": "Bakker",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      }
+    ],
+    "Personality": [
+      "Empathetic",
+      "Intuitive",
+      "Loyal",
+      "Grounded",
+      "Protective"
+    ],
+    "Languages": [
+      "Dutch",
+      "English",
+      "Swahili"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Elephant",
+      "FavoriteColor": "Forest Green",
+      "FavoriteDrink": "Mango Smoothie",
+      "FavoriteFood": "Stew",
+      "FavoritePlant": "Banyan Tree"
+    },
+    "Skills": [
+      "Tracking",
+      "Herbalism",
+      "Animal Handling",
+      "Wrestling",
+      "Crisis Management"
+    ],
+    "Talents": [
+      "Intuition",
+      "Natural Healing",
+      "Animal Whisperer"
+    ],
+    "Advantages": [
+      "Wealthy (Billions)",
+      "Attractive",
+      "Athletic",
+      "Survivalist",
+      "Combat Trained (Wrestling)",
+      "Strong Intuition",
+      "Empathetic",
+      "Problem Solver",
+      "Resourceful"
+    ],
+    "Disadvantages": [
+      "Can be stubborn",
+      "A bit naive at times"
+    ],
+    "Employer": [],
+    "Possessions": [
+      {
+        "ItemType": "Transportation/Equipment",
+        "Description": [
+          "Luxury yacht",
+          "High-end diving gear"
+        ]
+      },
+      {
+        "ItemType": "Wardrobe",
+        "Description": [
+          "Various styles, high quality"
+        ]
+      },
+      {
+        "ItemType": "Knives",
+        "Description": [
+          "High-grade steel, various sizes"
+        ]
+      },
+      {
+        "ItemType": "Machetes",
+        "Description": [
+          "Durable, sharp"
+        ]
+      },
+      {
+        "ItemType": "Spear Harpoon",
+        "Description": [
+          "Underwater fishing"
+        ]
+      },
+      {
+        "ItemType": "Fishing Gear",
+        "Description": [
+          "Professional fishing rods and nets"
+        ]
+      },
+      {
+        "ItemType": "Survival Kit",
+        "Description": [
+          "Satellite communication, first aid, maps"
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Yacht Deck",
+          "Diving",
+          "Exploration",
+          "Formal Events",
+          "Civilized Areas"
+        ],
+        "Items": [
+          {
+            "Type": "Bikini",
+            "Color": "Earth Tones",
+            "Style": "Bohemian",
+            "Fabric": "Swimwear",
+            "Size": "M",
+            "Fit": "Supportive"
+          },
+          {
+            "Type": "Wetsuit",
+            "Color": "Black",
+            "Style": "Diving",
+            "Fabric": "Neoprene",
+            "Size": "M",
+            "Fit": "Tight"
+          },
+          {
+            "Type": "Cargo Pants",
+            "Color": "Tan",
+            "Style": "Adventure",
+            "Fabric": "Cotton",
+            "Size": "M",
+            "Fit": "Relaxed"
+          },
+          {
+            "Type": "Tunic",
+            "Color": "Various",
+            "Style": "Plain Clothes",
+            "Fabric": "Cotton",
+            "Size": "M",
+            "Fit": "Loose"
+          },
+          {
+            "Type": "Dress",
+            "Color": "Gold",
+            "Style": "Evening",
+            "Fabric": "Silk",
+            "Size": "M",
+            "Fit": "Flowy"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "The heart of the group, always looking out for others.",
+      "Has a strong connection to nature."
+    ]
+  },
+  {
+    "id": "char_1753485193401",
+    "Version": "1.0",
+    "Created": "2023-11-08T12:00:00Z",
+    "Age": 23,
+    "Worlds": [
+      "Earth",
+      "Modern Earth"
+    ],
+    "Name": {
+      "FirstName": "Lynn",
+      "LastName": "Smit",
+      "Race": "Caucasian",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "she/her"
+    ],
+    "Sexuality": "Lesbian (Poly-amorous)",
+    "Size": {
+      "Height": 172,
+      "Weight": 59,
+      "BMI": 19.9
+    },
+    "Birth": {
+      "BirthDateTime": "2000-05-10T00:00:00Z",
+      "BornCity": "Groningen",
+      "BornCountry": "Netherlands",
+      "Nationality": [
+        "Dutch"
+      ]
+    },
+    "IQ": 122,
+    "Naked": [
+      "Playful",
+      "Uninhibited"
+    ],
+    "Story": [
+      "Lynn, a former gymnast, used her athletic prowess to transition into urban exploration and ultimately, global adventures. Her wealth provided the means to combine her love for physical challenges with exploring remote corners of the world. She's the one who can get them out of tight spots with her agility."
+    ],
+    "Residence": "Abcoude, Netherlands (Farm)",
+    "BodyMarks": [],
+    "BodyParts": [
+      {
+        "Name": "Head",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Long",
+              "Straight",
+              "Reddish-Brown"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Amber",
+              "Sharp"
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Freckled",
+              "Fair"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Torso",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Slender",
+              "Flexible"
+            ]
+          },
+          {
+            "Name": "Core",
+            "Descriptions": [
+              "Lean"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Legs",
+        "Details": [
+          {
+            "Name": "Legs",
+            "Descriptions": [
+              "Nimble",
+              "Quick"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hair",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "A vibrant, sun-kissed blonde, often appearing lighter at the ends from exposure to elements."
+            ]
+          },
+          {
+            "Name": "Style",
+            "Descriptions": [
+              "Typically worn in a practical high ponytail or bun to stay out of the way during her adventures, but cascades into soft, resilient waves when down."
+            ]
+          },
+          {
+            "Name": "Texture",
+            "Descriptions": [
+              "Fine yet incredibly strong, with a healthy sheen that catches the light."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Eyes",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "Clear, bright sky-blue, reflecting her optimistic outlook."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Almond-shaped, with slightly upturned outer corners that give her a perpetually curious and playful look."
+            ]
+          },
+          {
+            "Name": "Expression",
+            "Descriptions": [
+              "Sparkling with intelligence and a ready twinkle of amusement, always alert and taking in her surroundings."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nose",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Delicately sculpted with a straight bridge and a slightly upturned tip, giving her face a youthful, approachable quality."
+            ]
+          },
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Proportionate to her slender face, neither too prominent nor too small."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Ears",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Small and neatly tucked, lying close to her head, with well-defined lobes."
+            ]
+          },
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Delicate and proportional to her face, not drawing undue attention."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mouth",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Full and well-defined, with a pronounced cupid's bow that adds to her playful charm."
+            ]
+          },
+          {
+            "Name": "Expression",
+            "Descriptions": [
+              "Often curved into a wide, genuine smile or a mischievous smirk, reflecting her cheerful and adventurous spirit."
+            ]
+          },
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "A healthy, natural rose pink, smooth and supple."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Neck",
+        "Details": [
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "Long and graceful, exhibiting clear definition of the sternocleidomastoid muscles, a testament to her gymnastic training and agility."
+            ]
+          },
+          {
+            "Name": "Flexibility",
+            "Descriptions": [
+              "Remarkably flexible, allowing for quick head turns and a wide range of motion essential for urban exploration."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Smooth and unblemished, blending seamlessly with her complexion."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Shoulders",
+        "Details": [
+          {
+            "Name": "Definition",
+            "Descriptions": [
+              "Broad and defined, indicative of a strong upper body cultivated through gymnastics and climbing, yet retaining a feminine grace."
+            ]
+          },
+          {
+            "Name": "Mobility",
+            "Descriptions": [
+              "Possessing an impressive range of motion, allowing for dynamic and fluid movements."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Arms",
+        "Details": [
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "Lean and sculpted, showcasing clearly defined biceps and triceps from years of bodyweight exercises and climbing, without being overly bulky."
+            ]
+          },
+          {
+            "Name": "Length",
+            "Descriptions": [
+              "Proportionately long, aiding in reach and leverage during climbing and acrobatic maneuvers."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hands",
+        "Details": [
+          {
+            "Name": "Structure",
+            "Descriptions": [
+              "Strong and agile, with clearly defined knuckles, hinting at their capability for gripping and manipulating."
+            ]
+          },
+          {
+            "Name": "Texture",
+            "Descriptions": [
+              "Long and slender, yet resilient, with a network of faint lines and occasional, subtle calluses on the palms, evidence of her active lifestyle."
+            ]
+          },
+          {
+            "Name": "Dexterity",
+            "Descriptions": [
+              "Capable of delicate precision for intricate tasks, balanced with exceptional strength for gripping and holding."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nails",
+        "Details": [
+          {
+            "Name": "Length",
+            "Descriptions": [
+              "Kept short and neatly trimmed, prioritizing practicality and preventing snagging during her adventures."
+            ]
+          },
+          {
+            "Name": "Condition",
+            "Descriptions": [
+              "Naturally strong and healthy, with a clean, unpolished appearance, save for perhaps a clear protective coat."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Chest",
+        "Details": [
+          {
+            "Name": "Definition",
+            "Descriptions": [
+              "Her ribcage is faintly visible, typical of an athletic build, indicating low body fat and a strong core."
+            ]
+          },
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "The musculature around her chest is firm and toned, a result of extensive upper body training in gymnastics."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abdomen",
+        "Details": [
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "Flat and incredibly toned, with subtle lines hinting at a well-defined rectus abdominis, indicative of her powerful core strength."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Smooth and taut, with no excess body fat, reflecting her lean, athletic physique."
+            ]
+          },
+          {
+            "Name": "Navel",
+            "Descriptions": [
+              "A small, neat indentation, perfectly centered."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hip",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Strong and agile, with a subtle curve that transitions smoothly into powerful, toned glutes, allowing for explosive movements and balance."
+            ]
+          },
+          {
+            "Name": "Mobility",
+            "Descriptions": [
+              "Exhibiting excellent flexibility, allowing for deep squats, high kicks, and wide strides, crucial for her urban exploration and gymnastic background."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Feet",
+        "Details": [
+          {
+            "Name": "Arches",
+            "Descriptions": [
+              "Well-arched and strong, capable of absorbing impact and providing spring for jumps and climbs."
+            ]
+          },
+          {
+            "Name": "Toes",
+            "Descriptions": [
+              "Straight and agile, with slightly broader tips, indicating a strong grip and balance."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "The soles show resilience with subtle calluses in areas of high friction, a natural consequence of rigorous physical activity."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Genitals",
+        "Details": [
+          {
+            "Name": "General Appearance",
+            "Descriptions": [
+              "Her female anatomy is healthy and naturally formed, maintaining a clean and well-kept appearance, consistent with her active lifestyle."
+            ]
+          },
+          {
+            "Name": "Pubic Hair",
+            "Descriptions": [
+              "Soft, natural pubic hair, likely kept neatly trimmed or in a natural state that does not impede movement or hygiene during physical activities."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Breasts",
+        "Details": [
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Modest in size, proportional to her lean, athletic frame, not large but distinctly feminine."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Firm and high-set, showing the natural lift and shape characteristic of a toned physique."
+            ]
+          },
+          {
+            "Name": "Nipples",
+            "Descriptions": [
+              "Average in size, with a healthy, natural pink-brown hue."
+            ]
+          }
+        ]
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Partner",
+        "FirstName": "Roos",
+        "LastName": "Vermeulen",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Fleur",
+        "LastName": "Janssen",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Isabelle",
+        "LastName": "Dubois",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Anouk",
+        "LastName": "De Vries",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Mixed",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Kim",
+        "LastName": "Bakker",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      }
+    ],
+    "Personality": [
+      "Optimistic",
+      "Playful",
+      "Agile",
+      "Loyal",
+      "Curious"
+    ],
+    "Languages": [
+      "Dutch",
+      "English",
+      "Japanese"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Fox",
+      "FavoriteColor": "Electric Blue",
+      "FavoriteDrink": "Smoothie",
+      "FavoriteFood": "Pizza",
+      "FavoritePlant": "Sunflower"
+    },
+    "Skills": [
+      "Acrobatics",
+      "Parkour",
+      "Mechanical Repair",
+      "Knot Tying",
+      "Survival Crafting"
+    ],
+    "Talents": [
+      "Agility",
+      "Quick Thinking",
+      "Mechanical Aptitude"
+    ],
+    "Advantages": [
+      "Wealthy (Billions)",
+      "Attractive",
+      "Athletic",
+      "Survivalist",
+      "Combat Trained (Acrobatics)",
+      "Agile",
+      "Optimistic",
+      "Problem Solver",
+      "Technical Skills"
+    ],
+    "Disadvantages": [
+      "Can be distracted",
+      "Gets easily frustrated with inefficiency"
+    ],
+    "Employer": [],
+    "Possessions": [
+      {
+        "ItemType": "Transportation/Equipment",
+        "Description": [
+          "Luxury yacht",
+          "High-end diving gear"
+        ]
+      },
+      {
+        "ItemType": "Wardrobe",
+        "Description": [
+          "Various styles, high quality"
+        ]
+      },
+      {
+        "ItemType": "Knives",
+        "Description": [
+          "High-grade steel, various sizes"
+        ]
+      },
+      {
+        "ItemType": "Machetes",
+        "Description": [
+          "Durable, sharp"
+        ]
+      },
+      {
+        "ItemType": "Spear Harpoon",
+        "Description": [
+          "Underwater fishing"
+        ]
+      },
+      {
+        "ItemType": "Fishing Gear",
+        "Description": [
+          "Professional fishing rods and nets"
+        ]
+      },
+      {
+        "ItemType": "Survival Kit",
+        "Description": [
+          "Satellite communication, first aid, maps"
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Yacht Deck",
+          "Diving",
+          "Exploration",
+          "Formal Events"
+        ],
+        "Items": [
+          {
+            "Type": "Bikini",
+            "Color": "Neon Green",
+            "Style": "Sporty",
+            "Fabric": "Swimwear",
+            "Size": "M",
+            "Fit": "Athletic"
+          },
+          {
+            "Type": "Wetsuit",
+            "Color": "Black",
+            "Style": "Diving",
+            "Fabric": "Neoprene",
+            "Size": "M",
+            "Fit": "Tight"
+          },
+          {
+            "Type": "Cargo Pants",
+            "Color": "Navy Blue",
+            "Style": "Adventure",
+            "Fabric": "Cotton",
+            "Size": "M",
+            "Fit": "Slim"
+          },
+          {
+            "Type": "Hoodie",
+            "Color": "Various",
+            "Style": "Adventure",
+            "Fabric": "Cotton",
+            "Size": "M",
+            "Fit": "Comfortable"
+          },
+          {
+            "Type": "Dress",
+            "Color": "Silver",
+            "Style": "Party",
+            "Fabric": "Metallic",
+            "Size": "M",
+            "Fit": "Mini"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "The most agile and acrobatic.",
+      "Always finds an alternative route."
+    ]
+  },
+  {
+    "id": "char_1753485210881",
+    "Version": "1.0",
+    "Created": "2023-11-08T12:00:00Z",
+    "Age": 24,
+    "Worlds": [
+      "Earth",
+      "Modern Earth"
+    ],
+    "Name": {
+      "FirstName": "Kim",
+      "LastName": "Bakker",
+      "Race": "Caucasian",
+      "Gender": "Female",
+      "Names": [],
+      "MaidenName": null
+    },
+    "Pronouns": [
+      "she/her"
+    ],
+    "Sexuality": "Lesbian (Poly-amorous)",
+    "Size": {
+      "Height": 175,
+      "Weight": 62,
+      "BMI": 20.2
+    },
+    "Birth": {
+      "BirthDateTime": "1999-11-05T00:00:00Z",
+      "BornCity": "The Hague",
+      "BornCountry": "Netherlands",
+      "Nationality": [
+        "Dutch"
+      ]
+    },
+    "IQ": 128,
+    "Naked": [
+      "Ethereal",
+      "Confident"
+    ],
+    "Story": [
+      "Kim, a former competitive archer and marksman, used her inherited wealth to pursue her passion for exploration. Her meticulous nature and keen observation skills make her an invaluable asset to the group, especially when it comes to assessing threats and planning safe routes."
+    ],
+    "Residence": "Abcoude, Netherlands (Farm)",
+    "BodyMarks": [],
+    "BodyParts": [
+      {
+        "Name": "Head",
+        "Details": [
+          {
+            "Name": "Hair",
+            "Descriptions": [
+              "Long",
+              "Straight",
+              "Platinum Blonde"
+            ]
+          },
+          {
+            "Name": "Eyes",
+            "Descriptions": [
+              "Grey",
+              "Intense"
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Pale",
+              "Flawless"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Torso",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Tall",
+              "Lean"
+            ]
+          },
+          {
+            "Name": "Shoulders",
+            "Descriptions": [
+              "Strong"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Legs",
+        "Details": [
+          {
+            "Name": "Legs",
+            "Descriptions": [
+              "Long",
+              "Powerful"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hair",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "Ash blonde with subtle sun-kissed highlights, indicating time spent outdoors."
+            ]
+          },
+          {
+            "Name": "Texture",
+            "Descriptions": [
+              "Thick, straight, and often tied back in a practical, neat braid or ponytail, reflecting her meticulous nature."
+            ]
+          },
+          {
+            "Name": "Style",
+            "Descriptions": [
+              "Usually pulled back tightly to keep out of her eyes, a practical choice for an archer and explorer."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Eyes",
+        "Details": [
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "Piercing, intelligent grey-blue, reminiscent of a stormy sky, often narrowed slightly from keen observation."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Almond-shaped, with a slight upturn at the outer corners, giving her an alert and focused gaze."
+            ]
+          },
+          {
+            "Name": "Expression",
+            "Descriptions": [
+              "Calm and assessing, reflecting her meticulous nature and ability to evaluate situations quickly."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nose",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Straight and finely sculpted, with a slightly aquiline bridge, adding to her refined appearance."
+            ]
+          },
+          {
+            "Name": "Bridge",
+            "Descriptions": [
+              "Narrow and symmetrical, consistent with her precise and balanced physique."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Ears",
+        "Details": [
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Well-proportioned and close-set to her head, not overly prominent, practical for an active lifestyle."
+            ]
+          },
+          {
+            "Name": "Lobes",
+            "Descriptions": [
+              "Attached lobes, small and neat, devoid of piercings, indicating a preference for simplicity."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mouth",
+        "Details": [
+          {
+            "Name": "Lips",
+            "Descriptions": [
+              "Medium fullness, often held in a natural, neutral line, hinting at her calm and composed demeanor."
+            ]
+          },
+          {
+            "Name": "Corners",
+            "Descriptions": [
+              "Subtly upturned at rest, suggesting an underlying quiet warmth despite her serious focus."
+            ]
+          },
+          {
+            "Name": "Expression",
+            "Descriptions": [
+              "Rarely breaks into a wide smile, but her lips curve gently when she is amused or pleased."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Neck",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Slender yet strong, indicative of good posture and core strength from her archery background."
+            ]
+          },
+          {
+            "Name": "Length",
+            "Descriptions": [
+              "Elegantly long, contributing to her graceful and poised bearing."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Shoulders",
+        "Details": [
+          {
+            "Name": "Width",
+            "Descriptions": [
+              "Broad enough to suggest strength and athletic build, but not overly muscular, maintaining a lean frame."
+            ]
+          },
+          {
+            "Name": "Posture",
+            "Descriptions": [
+              "Held with a natural, confident back arch, a testament to her disciplined training."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Arms",
+        "Details": [
+          {
+            "Name": "Musculature",
+            "Descriptions": [
+              "Lean and toned, with visible definition in the biceps and triceps, reflecting her archery and exploration activities."
+            ]
+          },
+          {
+            "Name": "Skin",
+            "Descriptions": [
+              "Slightly tanned from outdoor exposure, occasionally showing faint scars or calluses from handling equipment."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hands",
+        "Details": [
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Proportionate to her height, with long, agile fingers."
+            ]
+          },
+          {
+            "Name": "Condition",
+            "Descriptions": [
+              "Practical and capable, with slight calluses on the palms and fingers from gripping bows and tools, yet remarkably steady."
+            ]
+          },
+          {
+            "Name": "Fingers",
+            "Descriptions": [
+              "Tapered, reflecting precision, but with strong joints."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Nails",
+        "Details": [
+          {
+            "Name": "Length",
+            "Descriptions": [
+              "Kept short and immaculately clean, practical for an active lifestyle and handling delicate equipment."
+            ]
+          },
+          {
+            "Name": "Color",
+            "Descriptions": [
+              "Natural, healthy pink, without polish, reflecting her preference for utility over ornamentation."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Chest",
+        "Details": [
+          {
+            "Name": "Build",
+            "Descriptions": [
+              "Lean and athletic, with well-defined pectorals indicating good upper body strength, but not overly muscular."
+            ]
+          },
+          {
+            "Name": "Rib Cage",
+            "Descriptions": [
+              "Clearly defined, suggesting a low body fat percentage and excellent respiratory capacity."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abdomen",
+        "Details": [
+          {
+            "Name": "Tone",
+            "Descriptions": [
+              "Flat and well-toned, with subtle lines of abdominal muscles visible, a result of her athletic background and disciplined lifestyle."
+            ]
+          },
+          {
+            "Name": "Waistline",
+            "Descriptions": [
+              "Narrow and defined, creating a sleek silhouette."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Hip",
+        "Details": [
+          {
+            "Name": "Width",
+            "Descriptions": [
+              "Moderately wide, providing a stable base consistent with an archer's stance, but not exaggerated."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Smooth and contoured, flowing seamlessly into her lean physique."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Feet",
+        "Details": [
+          {
+            "Name": "Arch",
+            "Descriptions": [
+              "High arches, indicating good support and balance, essential for long treks."
+            ]
+          },
+          {
+            "Name": "Condition",
+            "Descriptions": [
+              "Practical and robust, possibly with hardened soles or minor signs of wear from extensive travel and outdoor activities."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Genitals",
+        "Details": [
+          {
+            "Name": "Appearance",
+            "Descriptions": [
+              "Naturally formed, healthy, and unadorned, reflecting her overall practical and modest nature."
+            ]
+          },
+          {
+            "Name": "Hygiene",
+            "Descriptions": [
+              "Impeccably clean and well-maintained, consistent with her meticulous personality."
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Breasts",
+        "Details": [
+          {
+            "Name": "Size",
+            "Descriptions": [
+              "Modest and proportionate to her athletic frame, allowing for unhindered movement during physical activities."
+            ]
+          },
+          {
+            "Name": "Shape",
+            "Descriptions": [
+              "Naturally firm and subtly rounded, reflecting her youth and toned physique."
+            ]
+          },
+          {
+            "Name": "Support",
+            "Descriptions": [
+              "Often appears to be well-supported, suggesting a preference for practical athletic wear."
+            ]
+          }
+        ]
+      }
+    ],
+    "Relations": [
+      {
+        "Relation": "Partner",
+        "FirstName": "Roos",
+        "LastName": "Vermeulen",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Fleur",
+        "LastName": "Janssen",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Isabelle",
+        "LastName": "Dubois",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Anouk",
+        "LastName": "De Vries",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Mixed",
+        "Gender": "Female"
+      },
+      {
+        "Relation": "Partner",
+        "FirstName": "Lynn",
+        "LastName": "Smit",
+        "Names": [],
+        "MaidenName": null,
+        "Race": "Caucasian",
+        "Gender": "Female"
+      }
+    ],
+    "Personality": [
+      "Patient",
+      "Observant",
+      "Calm",
+      "Loyal",
+      "Protective"
+    ],
+    "Languages": [
+      "Dutch",
+      "English",
+      "Russian"
+    ],
+    "Favorites": {
+      "FavoriteAnimal": "Wolf",
+      "FavoriteColor": "White",
+      "FavoriteDrink": "Green Tea",
+      "FavoriteFood": "Salad",
+      "FavoritePlant": "Bamboo"
+    },
+    "Skills": [
+      "Archery",
+      "Marksmanship",
+      "Perimeter Security",
+      "Survival Photography",
+      "Wilderness Navigation"
+    ],
+    "Talents": [
+      "Marksmanship",
+      "Observation",
+      "Patience"
+    ],
+    "Advantages": [
+      "Wealthy (Billions)",
+      "Attractive",
+      "Athletic",
+      "Survivalist",
+      "Combat Trained (Archery)",
+      "Sharp-shooter",
+      "Patient",
+      "Observant",
+      "Calm Under Pressure"
+    ],
+    "Disadvantages": [
+      "Can be overly cautious",
+      "Holds grudges"
+    ],
+    "Employer": [],
+    "Possessions": [
+      {
+        "ItemType": "Transportation/Equipment",
+        "Description": [
+          "Luxury yacht",
+          "High-end diving gear"
+        ]
+      },
+      {
+        "ItemType": "Wardrobe",
+        "Description": [
+          "Various styles, high quality"
+        ]
+      },
+      {
+        "ItemType": "Knives",
+        "Description": [
+          "High-grade steel, various sizes"
+        ]
+      },
+      {
+        "ItemType": "Machetes",
+        "Description": [
+          "Durable, sharp"
+        ]
+      },
+      {
+        "ItemType": "Spear Harpoon",
+        "Description": [
+          "Underwater fishing"
+        ]
+      },
+      {
+        "ItemType": "Fishing Gear",
+        "Description": [
+          "Professional fishing rods and nets"
+        ]
+      },
+      {
+        "ItemType": "Survival Kit",
+        "Description": [
+          "Satellite communication, first aid, maps"
+        ]
+      }
+    ],
+    "Dresses": [
+      {
+        "Usage": [
+          "Yacht Deck",
+          "Diving",
+          "Exploration",
+          "Formal Events"
+        ],
+        "Items": [
+          {
+            "Type": "Bikini",
+            "Color": "White",
+            "Style": "Chic",
+            "Fabric": "Swimwear",
+            "Size": "M",
+            "Fit": "Minimalist"
+          },
+          {
+            "Type": "Wetsuit",
+            "Color": "Black",
+            "Style": "Diving",
+            "Fabric": "Neoprene",
+            "Size": "M",
+            "Fit": "Tight"
+          },
+          {
+            "Type": "Cargo Pants",
+            "Color": "Black",
+            "Style": "Adventure",
+            "Fabric": "Cotton",
+            "Size": "M",
+            "Fit": "Slim"
+          },
+          {
+            "Type": "Long Sleeve Shirt",
+            "Color": "Black",
+            "Style": "Adventure",
+            "Fabric": "Synthetic",
+            "Size": "M",
+            "Fit": "Athletic"
+          },
+          {
+            "Type": "Dress",
+            "Color": "White",
+            "Style": "Elegant",
+            "Fabric": "Silk",
+            "Size": "M",
+            "Fit": "Maxi"
+          }
+        ]
+      }
+    ],
+    "Notes": [
+      "The sharpest eyes and aim of the group.",
+      "Excellent at long-range planning and observation."
+    ]
+  }
+]
