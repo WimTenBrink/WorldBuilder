@@ -1,10 +1,8 @@
 
-
-
 import React, { useState, useEffect, useCallback } from 'react';
 import Dialog from '../ui/Dialog';
 import { useAppContext } from '../../context/AppContext';
-import { DialogType, World, CelestialObject, GeographicFeature, LandmarkFeature, Country, City, Village, DiplomaticRelation } from '../../types';
+import { DialogType, World } from '../../types';
 import SaveIcon from '../icons/SaveIcon';
 import CancelIcon from '../icons/CancelIcon';
 import Accordion from '../ui/Accordion';
@@ -95,17 +93,17 @@ const EditWorldDialog: React.FC = () => {
                 </Panel>
 
                 <Panel title="Celestial Objects">
-                    <ListEditor title="Stars" list={world.celestialObjects?.stars || []} path="celestialObjects.stars" field="stars" onListChange={handleListChange} renderItem={(item, index, path) => (<><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><Textarea label="Description" path={`${path}.description`} value={item.description} onChange={handleChange} rows={2} /></>)} />
-                    <ListEditor title="Planets" list={world.celestialObjects?.planets || []} path="celestialObjects.planets" field="planets" onListChange={handleListChange} renderItem={(item, index, path) => (<><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><Textarea label="Description" path={`${path}.description`} value={item.description} onChange={handleChange} rows={2} /></>)} />
-                    <ListEditor title="Moons" list={world.celestialObjects?.moons || []} path="celestialObjects.moons" field="moons" onListChange={handleListChange} renderItem={(item, index, path) => (<><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><Textarea label="Description" path={`${path}.description`} value={item.description} onChange={handleChange} rows={2} /></>)} />
-                    <ListEditor title="Constellations" list={world.celestialObjects?.constellations || []} path="celestialObjects.constellations" field="constellations" onListChange={handleListChange} renderItem={(item, index, path) => (<><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><Textarea label="Description" path={`${path}.description`} value={item.description} onChange={handleChange} rows={2} /></>)} />
+                    <ListEditor title="Stars" list={world.celestialObjects?.stars || []} path="celestialObjects.stars" field="stars" onListChange={handleListChange} renderItem={(item, index, path) => (<><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><EditableTextarea label="Description" value={item.description} onChange={(v) => handleChange(`${path}.description`, v)} /></>)} />
+                    <ListEditor title="Planets" list={world.celestialObjects?.planets || []} path="celestialObjects.planets" field="planets" onListChange={handleListChange} renderItem={(item, index, path) => (<><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><EditableTextarea label="Description" value={item.description} onChange={(v) => handleChange(`${path}.description`, v)} /></>)} />
+                    <ListEditor title="Moons" list={world.celestialObjects?.moons || []} path="celestialObjects.moons" field="moons" onListChange={handleListChange} renderItem={(item, index, path) => (<><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><EditableTextarea label="Description" value={item.description} onChange={(v) => handleChange(`${path}.description`, v)} /></>)} />
+                    <ListEditor title="Constellations" list={world.celestialObjects?.constellations || []} path="celestialObjects.constellations" field="constellations" onListChange={handleListChange} renderItem={(item, index, path) => (<><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><EditableTextarea label="Description" value={item.description} onChange={(v) => handleChange(`${path}.description`, v)} /></>)} />
                 </Panel>
 
                  <Panel title="Geography">
-                    <ListEditor title="Oceans" list={world.geography?.oceans || []} path="geography.oceans" field="oceans" onListChange={handleListChange} renderItem={(item, index, path) => (<><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><Textarea label="Description" path={`${path}.description`} value={item.description} onChange={handleChange} rows={2} /></>)} />
-                    <ListEditor title="Seas" list={world.geography?.seas || []} path="geography.seas" field="seas" onListChange={handleListChange} renderItem={(item, index, path) => (<><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><Textarea label="Description" path={`${path}.description`} value={item.description} onChange={handleChange} rows={2} /></>)} />
-                    <ListEditor title="Rivers" list={world.geography?.rivers || []} path="geography.rivers" field="rivers" onListChange={handleListChange} renderItem={(item, index, path) => (<><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><Textarea label="Description" path={`${path}.description`} value={item.description} onChange={handleChange} rows={2} /></>)} />
-                    <ListEditor title="Landmarks" list={world.geography?.landmarks || []} path="geography.landmarks" field="landmarks" onListChange={handleListChange} renderItem={(item, index, path) => (<div className="grid grid-cols-2 gap-2"><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><Input label="Type" path={`${path}.type`} value={item.type} onChange={handleChange} /><div className="col-span-2"><Input label="Location" path={`${path}.location`} value={item.location} onChange={handleChange} /></div><div className="col-span-2"><Textarea label="Description" path={`${path}.description`} value={item.description} onChange={handleChange} rows={2} /></div></div>)} />
+                    <ListEditor title="Oceans" list={world.geography?.oceans || []} path="geography.oceans" field="oceans" onListChange={handleListChange} renderItem={(item, index, path) => (<><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><EditableTextarea label="Description" value={item.description} onChange={(v) => handleChange(`${path}.description`, v)} /></>)} />
+                    <ListEditor title="Seas" list={world.geography?.seas || []} path="geography.seas" field="seas" onListChange={handleListChange} renderItem={(item, index, path) => (<><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><EditableTextarea label="Description" value={item.description} onChange={(v) => handleChange(`${path}.description`, v)} /></>)} />
+                    <ListEditor title="Rivers" list={world.geography?.rivers || []} path="geography.rivers" field="rivers" onListChange={handleListChange} renderItem={(item, index, path) => (<><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><EditableTextarea label="Description" value={item.description} onChange={(v) => handleChange(`${path}.description`, v)} /></>)} />
+                    <ListEditor title="Landmarks" list={world.geography?.landmarks || []} path="geography.landmarks" field="landmarks" onListChange={handleListChange} renderItem={(item, index, path) => (<div className="grid grid-cols-2 gap-2"><Input label="Name" path={`${path}.name`} value={item.name} onChange={handleChange} /><Input label="Type" path={`${path}.type`} value={item.type} onChange={handleChange} /><div className="col-span-2"><Input label="Location" path={`${path}.location`} value={item.location} onChange={handleChange} /></div><div className="col-span-2"><EditableTextarea label="Description" value={item.description} onChange={(v) => handleChange(`${path}.description`, v)} /></div></div>)} />
                 </Panel>
 
                 <Panel title="Countries">
@@ -187,22 +185,6 @@ const Checkbox = React.memo(function Checkbox({ label, path, value, onChange }: 
                 className="h-4 w-4 rounded border-gray-300 text-primary-light focus:ring-primary-light"
             />
             <label htmlFor={path} className="ml-2 block text-sm text-text-secondary-light dark:text-text-secondary-dark">{label}</label>
-        </div>
-    );
-});
-
-
-const Textarea = React.memo(function Textarea({ label, path, value, onChange, rows = 3 }: { label: string; path: string; value: string; onChange: (path: string, value: any) => void; rows?: number }) {
-    return (
-        <div>
-            <label htmlFor={path} className="block text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark mb-1">{label}</label>
-            <textarea
-                id={path}
-                value={value}
-                onChange={e => onChange(path, e.target.value)}
-                rows={rows}
-                className="w-full px-2 py-1 bg-slate-200 dark:bg-slate-800 border border-border-light dark:border-border-dark rounded-md focus:outline-none focus:ring-1 focus:ring-primary-light dark:focus:ring-primary-dark text-sm resize-y text-text-primary-light dark:text-text-primary-dark"
-            />
         </div>
     );
 });

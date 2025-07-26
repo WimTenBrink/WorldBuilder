@@ -4,9 +4,13 @@
 
 
 
+
+
+
+
 import React, { createContext, use, useState, useEffect, ReactNode, useCallback, useRef } from 'react';
 import { useLocalStorage } from '../hooks/useLocalStorage';
-import { DialogType, LogEntry, LogLevel, LogSource, AppMode, VisionFeatureType, VISION_FEATURES, ChatMessage, KijkwijzerResult, ImagenConfig, AspectRatio, Company, Employee, EmployeeState, EmotionalState, emotionalStates, UserGender, AutoReplyIntervalValue, AutoReplyChanceValue, ImageStyle, AUTO_REPLY_CHANCES, AUTO_REPLY_INTERVALS, USER_GENDERS, Character, AppContextType, CharacterDetailType, World, Country } from '../types';
+import { DialogType, LogEntry, LogLevel, LogSource, AppMode, VisionFeatureType, VISION_FEATURES, ChatMessage, KijkwijzerResult, ImagenConfig, AspectRatio, Company, Employee, EmployeeState, EmotionalState, emotionalStates, UserGender, AutoReplyIntervalValue, AutoReplyChanceValue, ImageStyle, AUTO_REPLY_CHANCES, AUTO_REPLY_INTERVALS, USER_GENDERS, Character, AppContextType, CharacterDetailType, World, Country, EditTarget } from '../types';
 import { parseVisionResponse } from '../services/visionService';
 import { mapVisionToKijkwijzer } from '../utils/kijkwijzerMapper';
 import { GoogleGenAI, HarmCategory, HarmBlockThreshold, Type } from '@google/genai';
@@ -857,6 +861,7 @@ export const AppProvider = ({ children }: { children: ReactNode }) => {
     const [isEnhancingDetail, setIsEnhancingDetail] = useState(false);
     const [isExportingPdf, setIsExportingPdf] = useState(false);
     const [deletionTarget, setDeletionTarget] = useState<string | 'all' | null>(null);
+    const [editTarget, setEditTarget] = useState<EditTarget | null>(null);
 
     useEffect(() => {
         if (selectedCharacterId && !characters[selectedCharacterId]) {
@@ -1960,11 +1965,9 @@ ${JSON.stringify(character, null, 2)}
             
             switch (subAction.type) {
                 case 'create_character':
-                    if (subAction.characterData) {
-                        const newChar = await addCharacterFromAi(subAction.characterData);
-                        completedTasksRef.current.push({ ...task, result: `Created character: ${newChar.Name.FirstName}` });
-                        setChatHistory(prev => [...prev, { id: `action-done-${newChar.id}`, role: 'employee', employeeId: workerId, content: `I've finished creating ${newChar.Name.FirstName} ${newChar.Name.LastName}.` }]);
-                    }
+                    const newChar = await addCharacterFromAi(subAction.characterData || {});
+                    completedTasksRef.current.push({ ...task, result: `Created character: ${newChar.Name.FirstName}` });
+                    setChatHistory(prev => [...prev, { id: `action-done-${newChar.id}`, role: 'employee', employeeId: workerId, content: `I've finished creating ${newChar.Name.FirstName} ${newChar.Name.LastName}.` }]);
                     break;
                 
                 case 'update_character':
@@ -2148,7 +2151,7 @@ ${JSON.stringify(character, null, 2)}
     const value: AppContextType = {
         theme, toggleTheme, openDialog, showDialog, apiKey, setApiKey, geminiModel, setGeminiModel, imagenModel, setImagenModel, logs, addLog, clearAndSaveLogs, appMode, setAppMode, userName, setUserName, userGender, setUserGender, isNsfwMode, toggleNsfwMode, isBusy, busyMessage,
         world, updateWorld, importWorld, exportWorld, isExportingWorldPdf, generateWorldHeaderImage, uploadWorldImage, removeWorldImage, generateNewWorld,
-        characters, selectedCharacterId, isCharacterImageLoading, isEnhancingDetail, selectCharacter, createNewCharacter, updateCharacter, deleteCharacter, deleteAllCharacters, deletionTarget, confirmDeletion, importCharacter, importCharacterFromMarkdown, loadCharacters, saveAllCharacters, exportCharacter, generateCharacterImage, enhanceCharacterDetail, fixCharacterDetails, isExportingPdf,
+        characters, selectedCharacterId, isCharacterImageLoading, isEnhancingDetail, selectCharacter, createNewCharacter, updateCharacter, deleteCharacter, deleteAllCharacters, deletionTarget, confirmDeletion, importCharacter, importCharacterFromMarkdown, loadCharacters, saveAllCharacters, exportCharacter, generateCharacterImage, enhanceCharacterDetail, fixCharacterDetails, isExportingPdf, editTarget, setEditTarget,
         selectedImage, selectedFeatures, isLoading, resultMarkdown, resultJson, error, kijkwijzerResult, handleImageUpload, handleFeatureChange, handleAnalyzeClick, sendImageToChat,
         chatHistory, isGeminiLoading, allCompanies, allEmployees, selectedEmployees, employeeStates, thinkingEmployeeId, isAutoReplyEnabled, setIsAutoReplyEnabled, autoReplyInterval, setAutoReplyInterval, autoReplyChance, setAutoReplyChance, startNewChat, sendGeminiMessage, toggleEmployeeSelection, addMultipleEmployeesToSelection, setEmployeeState, saveChatHistory, sendEventMessage, continueGeminiConversation, stopGeminiResponse,
         imagenConfig, setImagenConfig, isImagenLoading, generatedImage, imagenPrompt, imagenError, generateImage, isVisionForImagenLoading, visionForImagenResult, visionForImagenJson, visionForImagenError, kijkwijzerForImagen,

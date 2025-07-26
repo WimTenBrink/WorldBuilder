@@ -4,6 +4,8 @@
 
 
 
+
+
 export enum LogLevel {
   DEBUG = 'DEBUG',
   INFO = 'INFO',
@@ -31,6 +33,9 @@ export enum DialogType {
   GENERATE_IMAGE = 'GENERATE_IMAGE',
   CONFIRM_DELETE = 'CONFIRM_DELETE',
   NEW_WORLD = 'NEW_WORLD',
+  EDIT_RELATIONSHIP = 'EDIT_RELATIONSHIP',
+  EDIT_POSSESSION = 'EDIT_POSSESSION',
+  EDIT_WARDROBE = 'EDIT_WARDROBE',
 }
 
 export interface LogEntry {
@@ -290,6 +295,11 @@ export interface World {
     countries: Country[];
 }
 
+export interface EditTarget {
+    characterId: string;
+    index: number; // -1 for new item
+}
+
 export interface AppContextType {
   theme: 'light' | 'dark';
   toggleTheme: () => void;
@@ -333,6 +343,8 @@ export interface AppContextType {
   isEnhancingDetail: boolean;
   isExportingPdf: boolean;
   deletionTarget: string | 'all' | null;
+  editTarget: EditTarget | null;
+  setEditTarget: (target: EditTarget | null) => void;
   selectCharacter: (id: string | null) => void;
   createNewCharacter: () => Promise<void>;
   updateCharacter: (id: string, updates: Partial<Character>) => void;
