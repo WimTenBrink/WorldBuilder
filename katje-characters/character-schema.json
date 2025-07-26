@@ -1,0 +1,182 @@
+
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Character",
+  "description": "Schema for a story character, based on the structure of existing character JSON files and Empty.person.json.",
+  "type": "object",
+  "properties": {
+    "Version": { "type": "string", "description": "Schema version for the character data." },
+    "Created": { "type": "string", "format": "date-time", "description": "ISO 8601 timestamp of when the character data was created or last updated by the AI." },
+    "Age": { "type": "integer", "description": "Character's age in years. Should be estimated if an image is provided, otherwise defaults to young adult (e.g., 18-29)." },
+    "Worlds": { "type": "array", "items": { "type": "string" }, "description": "Worlds, settings, or story universes the character belongs to." },
+    "Name": {
+      "type": "object",
+      "properties": {
+        "FirstName": { "type": "string", "description": "Character's first name. Must not be empty." },
+        "Names": { "type": "array", "items": { "type": "string" }, "description": "Alternative, middle, or given names." },
+        "LastName": { "type": "string", "description": "Character's last name. Must not be empty." },
+        "MaidenName": { "type": ["string", "null"], "description": "Maiden name, if applicable." },
+        "Race": { "type": "string", "description": "Character's race or species (e.g., Human, Elf, Dwarf)." },
+        "Gender": { "type": "string", "description": "Character's gender identity." }
+      },
+      "required": ["FirstName", "LastName", "Race", "Gender"],
+      "additionalProperties": false
+    },
+    "Pronouns": { "type": "array", "items": { "type": "string" }, "description": "Character's pronouns." },
+    "Sexuality": { "type": "string", "description": "Character's sexual orientation." },
+    "Size": {
+      "type": "object",
+      "properties": {
+        "Height": { "type": "number", "description": "Height in centimeters." },
+        "Weight": { "type": "number", "description": "Weight in kilograms." },
+        "BMI": { "type": "number", "description": "Body Mass Index." }
+      },
+      "required": ["Height", "Weight", "BMI"],
+      "additionalProperties": false
+    },
+    "Birth": {
+      "type": "object",
+      "properties": {
+        "BirthDateTime": { "type": "string", "description": "Date and optionally time of birth (e.g., YYYY-MM-DD or YYYY-MM-DDTHH:mm:ssZ)." },
+        "BornCity": { "type": "string" },
+        "BornCountry": { "type": "string" },
+        "Nationality": { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["BirthDateTime", "BornCity", "BornCountry", "Nationality"],
+      "additionalProperties": false
+    },
+    "IQ": { "type": ["integer", "null"], "description": "Character's Intelligence Quotient, if applicable." },
+    "Naked": { "type": "array", "items": { "type": "string" }, "description": "Descriptive sentences about the character's appearance when unclothed AND their comfort level with nudity." },
+    "Story": { "type": "array", "items": { "type": "string" }, "description": "Key elements of the character's backstory, motivations, or narrative arcs." },
+    "Notes": { "type": "array", "items": { "type": "string" }, "description": "Additional user-defined notes for the character." },
+    "Residence": { "type": ["string", "null"], "description": "Character's current place of residence." },
+    "BodyMarks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Name": { "type": "string", "description": "Type of body mark (e.g., Tattoo, Scar, Birthmark)." },
+          "Location": { "type": "string", "description": "Location of the body mark." },
+          "Description": { "type": "string", "description": "Detailed description of the body mark." },
+          "Details": { "type": "array", "items": { "type": "string" }, "description": "Additional specific details about the mark." }
+        },
+        "required": ["Name", "Location", "Description"],
+        "additionalProperties": false
+      }
+    },
+    "BodyParts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Name": { "type": "string", "description": "Name of the body part (e.g., Eyes, Hair, Face)." },
+          "Details": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Name": { "type": "string", "description": "Specific aspect of the body part (e.g., Color, Shape, Texture)." },
+                "Descriptions": { "type": "array", "items": { "type": "string" }, "description": "One or more descriptive phrases for this aspect." }
+              },
+              "required": ["Name", "Descriptions"],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": ["Name", "Details"],
+        "additionalProperties": false
+      }
+    },
+    "Relations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Relation": { "type": "string", "description": "Type of relationship (e.g., Friend, Partner, Sibling)." },
+          "FirstName": { "type": "string" },
+          "Names": { "type": "array", "items": { "type": "string" }, "description": "Alternative names of the related person." },
+          "LastName": { "type": "string" },
+          "MaidenName": { "type": ["string", "null"] },
+          "Race": { "type": "string" },
+          "Gender": { "type": "string" }
+        },
+        "required": ["Relation", "FirstName", "LastName", "Race", "Gender"],
+        "additionalProperties": false
+      }
+    },
+    "Personality": { "type": "array", "items": { "type": "string" }, "description": "Key personality traits, quirks, or habits." },
+    "Languages": { "type": "array", "items": { "type": "string" }, "description": "Languages spoken by the character." },
+    "Favorites": {
+      "type": "object",
+      "properties": {
+        "FavoriteAnimal": { "type": ["string", "null"] },
+        "FavoriteColor": { "type": ["string", "null"] },
+        "FavoriteDrink": { "type": ["string", "null"] },
+        "FavoriteFood": { "type": ["string", "null"] },
+        "FavoritePlant": { "type": ["string", "null"] }
+      },
+      "additionalProperties": false
+    },
+    "Advantages": { "type": "array", "items": { "type": "string" }, "description": "List of advantages, like allies, night vision or other advantages. or other detals. (GURPS Style)" },
+    "Disadvantages": { "type": "array", "items": { "type": "string" }, "description": "List of disadvantages, like enemies, mental problems or other detals. (GURPS Style)" },
+    "Skills": { "type": "array", "items": { "type": "string" }, "description": "Skills of the character." },
+    "Talents": { "type": "array", "items": { "type": "string" }, "description": "Talents of the character." },
+    "Employer": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Company": { "type": "string", "description": "Name of the employer or organization." },
+          "JobTitles": { "type": "array", "items": { "type": "string" }, "description": "Job titles or roles held." }
+        },
+        "required": ["Company", "JobTitles"],
+        "additionalProperties": false
+      }
+    },
+    "Possessions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "ItemType": { "type": "string", "description": "Type or category of the possession." },
+          "Description": { "type": "array", "items": { "type": "string" }, "description": "Description of the possession." }
+        },
+        "required": ["ItemType", "Description"],
+        "additionalProperties": false
+      }
+    },
+    "Dresses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Usage": { "type": "array", "items": { "type": "string" }, "description": "Context, occasion, or season for the outfit (e.g., Summer, Work, Formal)." },
+          "Items": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Type": { "type": "string", "description": "Type of clothing item (e.g., Shirt, Pants, Dress)." },
+                "Color": { "type": ["string", "null"] },
+                "Style": { "type": ["string", "null"] },
+                "Fabric": { "type": ["string", "null"] },
+                "Size": { "type": ["string", "null"] },
+                "Fit": { "type": ["string", "null"] }
+              },
+              "required": ["Type"],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": ["Usage", "Items"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "Version", "Created", "Age", "Worlds", "Name", "Pronouns", "Sexuality", "Size", "Birth",
+    "Naked", "Story", "Notes", "Residence", "BodyMarks", "BodyParts", "Relations", "Personality", "Languages", "Favorites",
+    "Advantages", "Disadvantages", "Skills", "Talents", "Employer", "Possessions", "Dresses"
+  ],
+  "additionalProperties": false
+}

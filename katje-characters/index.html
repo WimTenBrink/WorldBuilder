@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Katje Character Sheets</title>
+    <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            typography: (theme) => ({
+              DEFAULT: {
+                css: {
+                  '--tw-prose-body': theme('colors.text.primary.light'),
+                  '--tw-prose-headings': theme('colors.text.primary.light'),
+                  '--tw-prose-links': theme('colors.primary.light'),
+                  '--tw-prose-bold': theme('colors.text.primary.light'),
+                  '--tw-prose-counters': theme('colors.text.secondary.light'),
+                  '--tw-prose-bullets': theme('colors.border.light'),
+                  '--tw-prose-hr': theme('colors.border.light'),
+                  '--tw-prose-quotes': theme('colors.text.primary.light'),
+                  '--tw-prose-quote-borders': theme('colors.primary.light'),
+                  '--tw-prose-captions': theme('colors.text.secondary.light'),
+                  '--tw-prose-code': theme('colors.secondary.light'),
+                  '--tw-prose-pre-code': theme('colors.text.primary.light'),
+                  '--tw-prose-pre-bg': theme('colors.background.light'),
+                  '--tw-prose-th-borders': theme('colors.border.light'),
+                  '--tw-prose-td-borders': theme('colors.border.light'),
+
+                  '--tw-prose-invert-body': theme('colors.text.primary.dark'),
+                  '--tw-prose-invert-headings': theme('colors.text.primary.dark'),
+                  '--tw-prose-invert-links': theme('colors.primary.dark'),
+                  '--tw-prose-invert-bold': theme('colors.text.primary.dark'),
+                  '--tw-prose-invert-counters': theme('colors.text.secondary.dark'),
+                  '--tw-prose-invert-bullets': theme('colors.border.dark'),
+                  '--tw-prose-invert-hr': theme('colors.border.dark'),
+                  '--tw-prose-invert-quotes': theme('colors.text.primary.dark'),
+                  '--tw-prose-invert-quote-borders': theme('colors.primary.dark'),
+                  '--tw-prose-invert-captions': theme('colors.text.secondary.dark'),
+                  '--tw-prose-invert-code': theme('colors.secondary.dark'),
+                  '--tw-prose-invert-pre-code': theme('colors.text.primary.dark'),
+                  '--tw-prose-invert-pre-bg': theme('colors.surface.dark'),
+                  '--tw-prose-invert-th-borders': theme('colors.border.dark'),
+                  '--tw-prose-invert-td-borders': theme('colors.border.dark'),
+                }
+              }
+            }),
+            colors: {
+              primary: {
+                light: '#4f46e5', // indigo-600
+                dark: '#818cf8',  // indigo-400
+              },
+              secondary: {
+                light: '#6366f1', // indigo-500
+                dark: '#a5b4fc', // indigo-300
+              },
+              background: {
+                light: '#f1f5f9', // slate-100
+                dark: '#0f172a'   // slate-900
+              },
+              surface: {
+                light: '#ffffff', // white
+                dark: '#1e293b'  // slate-800
+              },
+              text: {
+                primary: {
+                  light: '#1e293b', // slate-800
+                  dark: '#e2e8f0'   // slate-200
+                },
+                secondary: {
+                  light: '#475569', // slate-600
+                  dark: '#94a3b8'  // slate-400
+                }
+              },
+              border: {
+                  light: '#cbd5e1', // slate-300
+                  dark: '#334155'  // slate-700
+              }
+            }
+          }
+        }
+      }
+    </script>
+<style>
+  .force-print-light-theme {
+    --tw-bg-opacity: 1 !important;
+    background-color: #ffffff !important;
+    color-scheme: light;
+  }
+  .force-print-light-theme .dark, 
+  .force-print-light-theme [class*="dark:"],
+  .force-print-light-theme [class*="dark:prose-invert"] {
+    color: #1e293b !important;
+  }
+  .force-print-light-theme .dark\:bg-background-dark {
+     background-color: #f1f5f9 !important;
+  }
+   .force-print-light-theme .dark\:bg-surface-dark {
+     background-color: #ffffff !important;
+  }
+  .force-print-light-theme .dark\:text-text-primary-dark,
+  .force-print-light-theme .dark\:text-text-secondary-dark {
+     color: #1e293b !important;
+  }
+   .force-print-light-theme .dark\:text-primary-dark {
+     color: #4f46e5 !important;
+   }
+   .force-print-light-theme .dark\:border-border-dark {
+      border-color: #cbd5e1 !important;
+   }
+   .force-print-light-theme .prose-invert {
+      --tw-prose-body: #1e293b !important;
+      --tw-prose-headings: #1e293b !important;
+      --tw-prose-links: #4f46e5 !important;
+      --tw-prose-bold: #1e293b !important;
+   }
+</style>
+<script type="importmap">
+{
+  "imports": {
+    "react": "https://esm.sh/react@^19.1.0",
+    "react-dom/": "https://esm.sh/react-dom@^19.1.0/",
+    "react/": "https://esm.sh/react@^19.1.0/",
+    "@google/genai": "https://esm.sh/@google/genai@^1.11.0",
+    "html2canvas": "https://esm.sh/html2canvas@^1.4.1",
+    "jspdf": "https://esm.sh/jspdf@^3.0.1"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>
