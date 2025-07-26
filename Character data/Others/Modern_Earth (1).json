@@ -1,0 +1,1432 @@
+{
+  "id": "world_modern_earth_2025",
+  "name": "Modern Earth",
+  "style": "Modern Reality",
+  "calendar": {
+    "name": "Gregorian Calendar",
+    "details": "Standard 365/366 day calendar used globally, based on the Earth's revolution around the Sun."
+  },
+  "technologyLevel": "2025 - Digital Age with emerging AI, global connectivity, and early stages of commercial space travel.",
+  "celestialObjects": {
+    "stars": [
+      {
+        "name": "Sol",
+        "description": "The G-type main-sequence star at the center of the Solar System."
+      }
+    ],
+    "planets": [
+      {
+        "name": "Earth",
+        "description": "The third planet from the Sun, the only astronomical object known to harbor life."
+      },
+      {
+        "name": "Mars",
+        "description": "The fourth planet from the Sun, a dusty, cold, desert world with a thin atmosphere. Subject of colonization efforts."
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Orion",
+        "description": "A prominent constellation located on the celestial equator, visible throughout the world."
+      }
+    ],
+    "moons": [
+      {
+        "name": "The Moon (Luna)",
+        "description": "Earth's only natural satellite, a rocky body with a heavily cratered surface."
+      }
+    ]
+  },
+  "geography": {
+    "oceans": [
+      {
+        "name": "Atlantic Ocean",
+        "description": "Separates the \"Old World\" of Europe and Africa from the \"New World\" of the Americas."
+      }
+    ],
+    "seas": [
+      {
+        "name": "North Sea",
+        "description": "A marginal sea of the Atlantic Ocean located between Great Britain, Scandinavia, Germany, the Netherlands, Belgium, and France."
+      }
+    ],
+    "rivers": [
+      {
+        "name": "Rhine",
+        "description": "A major European river, which begins in the Swiss Alps and flows through Germany and the Netherlands into the North Sea."
+      }
+    ],
+    "landmarks": [
+      {
+        "name": "Eiffel Tower",
+        "type": "Structure",
+        "location": "Paris, France",
+        "description": "A wrought-iron lattice tower on the Champ de Mars, a global cultural icon of France."
+      }
+    ]
+  },
+  "countries": [
+    {
+      "name": "The Netherlands",
+      "politicalSystem": "Parliamentary constitutional monarchy",
+      "diplomaticRelations": [
+        {
+          "with": "United States of America",
+          "status": "Ally"
+        },
+        {
+          "with": "Germany",
+          "status": "Trade Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Amsterdam",
+          "isCapital": true,
+          "politicalSystem": "Municipal government led by a mayor and aldermen.",
+          "villages": [
+            {
+              "name": "Durgerdam",
+              "nearestTown": "Amsterdam",
+              "politicalSystem": "Part of Amsterdam municipality."
+            }
+          ]
+        },
+        {
+          "name": "Utrecht",
+          "isCapital": false,
+          "politicalSystem": "Municipal government.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "United States of America",
+      "politicalSystem": "Federal presidential constitutional republic",
+      "diplomaticRelations": [
+        {
+          "with": "The Netherlands",
+          "status": "Ally"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Washington, D.C.",
+          "isCapital": true,
+          "politicalSystem": "Federal district with a local government under the authority of the U.S. Congress.",
+          "villages": []
+        },
+        {
+          "name": "New York City",
+          "isCapital": false,
+          "politicalSystem": "Strong mayor-council system.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Andorra",
+      "politicalSystem": "Parliamentary Co-principality",
+      "diplomaticRelations": [
+        {
+          "with": "France",
+          "status": "Close Partner and Co-principality Representative"
+        },
+        {
+          "with": "Spain",
+          "status": "Close Partner and Co-principality Representative"
+        },
+        {
+          "with": "European Union",
+          "status": "Special Economic Relationship"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Andorra la Vella",
+          "isCapital": true,
+          "politicalSystem": "Communal government led by a Mayor (Cònsol Major) and Counsellors.",
+          "villages": [
+            {
+              "name": "Santa Coloma",
+              "nearestTown": "Andorra la Vella",
+              "politicalSystem": "Part of the Andorra la Vella parish (municipality)."
+            }
+          ]
+        },
+        {
+          "name": "Escaldes-Engordany",
+          "isCapital": false,
+          "politicalSystem": "Communal government led by a Mayor (Cònsol Major) and Counsellors.",
+          "villages": []
+        },
+        {
+          "name": "Encamp",
+          "isCapital": false,
+          "politicalSystem": "Communal government led by a Mayor (Cònsol Major) and Counsellors.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Denmark",
+      "politicalSystem": "Parliamentary constitutional monarchy",
+      "diplomaticRelations": [
+        {
+          "with": "Sweden",
+          "status": "Close Neighbor, Strategic Partner"
+        },
+        {
+          "with": "Germany",
+          "status": "Key Trade Partner, EU Member"
+        },
+        {
+          "with": "United States of America",
+          "status": "NATO Ally"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Copenhagen",
+          "isCapital": true,
+          "politicalSystem": "Municipal council led by a Lord Mayor.",
+          "villages": [
+            {
+              "name": "Dragør",
+              "nearestTown": "Copenhagen",
+              "politicalSystem": "Part of Capital Region of Denmark, with its own municipal council."
+            }
+          ]
+        },
+        {
+          "name": "Aarhus",
+          "isCapital": false,
+          "politicalSystem": "Municipal council led by a Mayor.",
+          "villages": []
+        },
+        {
+          "name": "Odense",
+          "isCapital": false,
+          "politicalSystem": "Municipal council led by a Mayor.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Lithuania",
+      "politicalSystem": "Semi-presidential republic",
+      "diplomaticRelations": [
+        {
+          "with": "Poland",
+          "status": "Strategic Partner"
+        },
+        {
+          "with": "Germany",
+          "status": "Economic Partner"
+        },
+        {
+          "with": "United States of America",
+          "status": "NATO Ally"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Vilnius",
+          "isCapital": true,
+          "politicalSystem": "Municipal government led by a mayor and city council.",
+          "villages": [
+            {
+              "name": "Salininkai",
+              "nearestTown": "Vilnius",
+              "politicalSystem": "Part of Vilnius city municipality."
+            }
+          ]
+        },
+        {
+          "name": "Kaunas",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a mayor and city council.",
+          "villages": []
+        },
+        {
+          "name": "Klaipėda",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a mayor and city council.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "politicalSystem": "Semi-presidential republic",
+      "diplomaticRelations": [
+        {
+          "with": "Germany",
+          "status": "Close Ally"
+        },
+        {
+          "with": "United States of America",
+          "status": "NATO Ally"
+        },
+        {
+          "with": "United Kingdom",
+          "status": "Strategic Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Paris",
+          "isCapital": true,
+          "politicalSystem": "Special statute collectivity, governed by a mayor and council of Paris",
+          "villages": [
+            {
+              "name": "Montmartre",
+              "nearestTown": "Paris",
+              "politicalSystem": "District of Paris"
+            }
+          ]
+        },
+        {
+          "name": "Marseille",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a mayor and municipal council",
+          "villages": []
+        },
+        {
+          "name": "Lyon",
+          "isCapital": false,
+          "politicalSystem": "Metropolitan government led by a mayor and city council",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Belarus",
+      "politicalSystem": "Presidential Republic",
+      "diplomaticRelations": [
+        {
+          "with": "Russian Federation",
+          "status": "Strategic Ally"
+        },
+        {
+          "with": "People's Republic of China",
+          "status": "Economic Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Minsk",
+          "isCapital": true,
+          "politicalSystem": "City administration led by a mayor appointed by the President.",
+          "villages": [
+            {
+              "name": "Zaslawye",
+              "nearestTown": "Minsk",
+              "politicalSystem": "Part of Minsk Region, governed by local council and executive committee."
+            }
+          ]
+        },
+        {
+          "name": "Grodno",
+          "isCapital": false,
+          "politicalSystem": "Regional administration led by a chairman of the regional executive committee.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Albania",
+      "politicalSystem": "Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "Italy",
+          "status": "Close Economic and Cultural Partner"
+        },
+        {
+          "with": "Greece",
+          "status": "Neighboring Ally"
+        },
+        {
+          "with": "United States of America",
+          "status": "Strategic Ally and NATO Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Tirana",
+          "isCapital": true,
+          "politicalSystem": "Municipal government with an elected mayor and city council.",
+          "villages": [
+            {
+              "name": "Dajt",
+              "nearestTown": "Tirana",
+              "politicalSystem": "Administered as part of Tirana municipality."
+            }
+          ]
+        },
+        {
+          "name": "Durrës",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a mayor and municipal council.",
+          "villages": []
+        },
+        {
+          "name": "Vlorë",
+          "isCapital": false,
+          "politicalSystem": "Municipal government.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Austria",
+      "politicalSystem": "Federal Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "Germany",
+          "status": "Strong Ally"
+        },
+        {
+          "with": "Switzerland",
+          "status": "Economic Partner"
+        },
+        {
+          "with": "France",
+          "status": "EU Member State"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Vienna",
+          "isCapital": true,
+          "politicalSystem": "City-state and federal capital, governed by a mayor and city council.",
+          "villages": [
+            {
+              "name": "Grinzing",
+              "nearestTown": "Vienna",
+              "politicalSystem": "District of Vienna (Döbling), administered by the city."
+            }
+          ]
+        },
+        {
+          "name": "Salzburg",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a mayor and city council, capital of Salzburg state.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "politicalSystem": "Federal parliamentary republic",
+      "diplomaticRelations": [
+        {
+          "with": "France",
+          "status": "Strategic Ally"
+        },
+        {
+          "with": "United States of America",
+          "status": "Key NATO Partner"
+        },
+        {
+          "with": "Poland",
+          "status": "Neighbor and Economic Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Berlin",
+          "isCapital": true,
+          "politicalSystem": "City-state within a federal republic, governed by a Governing Mayor and Senate.",
+          "villages": [
+            {
+              "name": "Lübars",
+              "nearestTown": "Berlin",
+              "politicalSystem": "Part of the Reinickendorf borough, within Berlin's municipality."
+            }
+          ]
+        },
+        {
+          "name": "Munich",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a Mayor and City Council.",
+          "villages": [
+            {
+              "name": "Grünwald",
+              "nearestTown": "Munich",
+              "politicalSystem": "Independent municipality within Munich district."
+            }
+          ]
+        },
+        {
+          "name": "Hamburg",
+          "isCapital": false,
+          "politicalSystem": "City-state within a federal republic, governed by a First Mayor and Senate.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Belgium",
+      "politicalSystem": "Federal parliamentary constitutional monarchy",
+      "diplomaticRelations": [
+        {
+          "with": "France",
+          "status": "Ally"
+        },
+        {
+          "with": "Netherlands",
+          "status": "Close Partner"
+        },
+        {
+          "with": "Germany",
+          "status": "Economic Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Brussels",
+          "isCapital": true,
+          "politicalSystem": "Brussels-Capital Region government, composed of a Parliament and a Government.",
+          "villages": [
+            {
+              "name": "Uccle",
+              "nearestTown": "Brussels",
+              "politicalSystem": "One of the 19 municipalities of the Brussels-Capital Region."
+            },
+            {
+              "name": "Woluwe-Saint-Pierre",
+              "nearestTown": "Brussels",
+              "politicalSystem": "One of the 19 municipalities of the Brussels-Capital Region."
+            }
+          ]
+        },
+        {
+          "name": "Antwerp",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a Mayor and Aldermen.",
+          "villages": [
+            {
+              "name": "Hoboken",
+              "nearestTown": "Antwerp",
+              "politicalSystem": "District within the municipality of Antwerp."
+            }
+          ]
+        },
+        {
+          "name": "Ghent",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a Mayor and Aldermen.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Luxembourg",
+      "politicalSystem": "Parliamentary constitutional monarchy",
+      "diplomaticRelations": [
+        {
+          "with": "Germany",
+          "status": "Ally"
+        },
+        {
+          "with": "France",
+          "status": "Trade Partner"
+        },
+        {
+          "with": "Belgium",
+          "status": "Neighboring Ally"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Luxembourg City",
+          "isCapital": true,
+          "politicalSystem": "Communal government led by a mayor and aldermen.",
+          "villages": [
+            {
+              "name": "Clausen",
+              "nearestTown": "Luxembourg City",
+              "politicalSystem": "Part of Luxembourg City commune."
+            },
+            {
+              "name": "Gasperich",
+              "nearestTown": "Luxembourg City",
+              "politicalSystem": "Part of Luxembourg City commune."
+            }
+          ]
+        },
+        {
+          "name": "Esch-sur-Alzette",
+          "isCapital": false,
+          "politicalSystem": "Communal government led by a mayor and aldermen.",
+          "villages": []
+        },
+        {
+          "name": "Differdange",
+          "isCapital": false,
+          "politicalSystem": "Communal government led by a mayor and aldermen.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Kosovo",
+      "politicalSystem": "Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "United States of America",
+          "status": "Strategic Ally"
+        },
+        {
+          "with": "Albania",
+          "status": "Close Partner"
+        },
+        {
+          "with": "Serbia",
+          "status": "Strained Relations"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Pristina",
+          "isCapital": true,
+          "politicalSystem": "Municipal government led by a Mayor and Municipal Assembly.",
+          "villages": [
+            {
+              "name": "Gračanica",
+              "nearestTown": "Pristina",
+              "politicalSystem": "Municipal government with a Serb-majority assembly."
+            }
+          ]
+        },
+        {
+          "name": "Prizren",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a Mayor and Municipal Assembly.",
+          "villages": []
+        },
+        {
+          "name": "Peja",
+          "isCapital": false,
+          "politicalSystem": "Municipal government with a local Mayor and Assembly.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Montenegro",
+      "politicalSystem": "Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "Serbia",
+          "status": "Historical Ties, Economic Partner"
+        },
+        {
+          "with": "Italy",
+          "status": "Trade Partner, Cultural Exchange"
+        },
+        {
+          "with": "Germany",
+          "status": "Economic Aid, Investment Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Podgorica",
+          "isCapital": true,
+          "politicalSystem": "Municipal government led by a Mayor and City Assembly.",
+          "villages": [
+            {
+              "name": "Tuzi",
+              "nearestTown": "Podgorica",
+              "politicalSystem": "Independent municipality since 2018, formerly part of Podgorica."
+            }
+          ]
+        },
+        {
+          "name": "Kotor",
+          "isCapital": false,
+          "politicalSystem": "Municipal government.",
+          "villages": [
+            {
+              "name": "Perast",
+              "nearestTown": "Kotor",
+              "politicalSystem": "Part of Kotor municipality, with local community council."
+            }
+          ]
+        },
+        {
+          "name": "Budva",
+          "isCapital": false,
+          "politicalSystem": "Municipal government.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Hungary",
+      "politicalSystem": "Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "Germany",
+          "status": "Economic Partner"
+        },
+        {
+          "with": "Austria",
+          "status": "Cultural & Economic Partner"
+        },
+        {
+          "with": "United States of America",
+          "status": "NATO Ally"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Budapest",
+          "isCapital": true,
+          "politicalSystem": "Municipal government led by a Lord Mayor and a General Assembly, with a decentralized system of district governments.",
+          "villages": [
+            {
+              "name": "Vecsés",
+              "nearestTown": "Budapest",
+              "politicalSystem": "Independent town within Pest County, closely linked to Budapest's metropolitan area."
+            }
+          ]
+        },
+        {
+          "name": "Debrecen",
+          "isCapital": false,
+          "politicalSystem": "Local government led by a Mayor and a General Assembly, overseeing city administration and services.",
+          "villages": []
+        },
+        {
+          "name": "Szeged",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a Mayor and a General Assembly, responsible for local governance and development.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Republic of Cyprus",
+      "politicalSystem": "Presidential Republic",
+      "diplomaticRelations": [
+        {
+          "with": "Greece",
+          "status": "Close Ally"
+        },
+        {
+          "with": "United Kingdom",
+          "status": "Commonwealth Partner"
+        },
+        {
+          "with": "European Union",
+          "status": "Member State"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Nicosia",
+          "isCapital": true,
+          "politicalSystem": "Municipal government led by a Mayor and Municipal Council.",
+          "villages": [
+            {
+              "name": "Pera Chorio",
+              "nearestTown": "Nicosia",
+              "politicalSystem": "Administered within the Nicosia District."
+            },
+            {
+              "name": "Geri",
+              "nearestTown": "Nicosia",
+              "politicalSystem": "Administered within the Nicosia District as a municipality."
+            }
+          ]
+        },
+        {
+          "name": "Limassol",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a Mayor and Municipal Council.",
+          "villages": [
+            {
+              "name": "Kolossi",
+              "nearestTown": "Limassol",
+              "politicalSystem": "Local council within Limassol District."
+            }
+          ]
+        },
+        {
+          "name": "Larnaca",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a Mayor and Municipal Council.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Croatia",
+      "politicalSystem": "Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "Germany",
+          "status": "Strategic Partner"
+        },
+        {
+          "with": "Italy",
+          "status": "Economic Partner"
+        },
+        {
+          "with": "United States of America",
+          "status": "NATO Ally"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Zagreb",
+          "isCapital": true,
+          "politicalSystem": "Unitary local self-government led by a mayor and city assembly",
+          "villages": [
+            {
+              "name": "Brezovica",
+              "nearestTown": "Zagreb",
+              "politicalSystem": "Part of Zagreb's administrative district"
+            }
+          ]
+        },
+        {
+          "name": "Split",
+          "isCapital": false,
+          "politicalSystem": "Unitary local self-government led by a mayor and city council",
+          "villages": []
+        },
+        {
+          "name": "Dubrovnik",
+          "isCapital": false,
+          "politicalSystem": "Unitary local self-government led by a mayor and city council",
+          "villages": [
+            {
+              "name": "Mokošica",
+              "nearestTown": "Dubrovnik",
+              "politicalSystem": "Part of Dubrovnik's administrative area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Moldova",
+      "politicalSystem": "Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "Romania",
+          "status": "Strategic Partner"
+        },
+        {
+          "with": "European Union",
+          "status": "Candidate Country"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Chișinău",
+          "isCapital": true,
+          "politicalSystem": "Municipal government led by a General Mayor and Municipal Council.",
+          "villages": [
+            {
+              "name": "Durlești",
+              "nearestTown": "Chișinău",
+              "politicalSystem": "Part of Chișinău municipality."
+            }
+          ]
+        },
+        {
+          "name": "Bălți",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a Mayor and Municipal Council.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Estonia",
+      "politicalSystem": "Parliamentary republic",
+      "diplomaticRelations": [
+        {
+          "with": "Finland",
+          "status": "Close Partner"
+        },
+        {
+          "with": "Germany",
+          "status": "EU Member State"
+        },
+        {
+          "with": "NATO",
+          "status": "Strategic Ally"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Tallinn",
+          "isCapital": true,
+          "politicalSystem": "City government led by a Mayor and City Council.",
+          "villages": [
+            {
+              "name": "Viimsi",
+              "nearestTown": "Tallinn",
+              "politicalSystem": "Separate municipality, closely integrated with Tallinn metropolitan area."
+            },
+            {
+              "name": "Maardu",
+              "nearestTown": "Tallinn",
+              "politicalSystem": "Independent municipality within Harju County."
+            }
+          ]
+        },
+        {
+          "name": "Tartu",
+          "isCapital": false,
+          "politicalSystem": "City government led by a Mayor and City Council.",
+          "villages": [
+            {
+              "name": "Luunja",
+              "nearestTown": "Tartu",
+              "politicalSystem": "Rural municipality government."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finland",
+      "politicalSystem": "Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "Sweden",
+          "status": "Close Ally"
+        },
+        {
+          "with": "Germany",
+          "status": "EU Partner"
+        },
+        {
+          "with": "United States of America",
+          "status": "NATO Ally"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Helsinki",
+          "isCapital": true,
+          "politicalSystem": "Municipal government led by a Mayor and City Council.",
+          "villages": [
+            {
+              "name": "Suomenlinna",
+              "nearestTown": "Helsinki",
+              "politicalSystem": "Part of Helsinki municipality, UNESCO World Heritage Site."
+            }
+          ]
+        },
+        {
+          "name": "Tampere",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a Mayor and City Council.",
+          "villages": []
+        },
+        {
+          "name": "Turku",
+          "isCapital": false,
+          "politicalSystem": "Municipal government.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "politicalSystem": "Federal Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "Croatia",
+          "status": "Neighboring Ally"
+        },
+        {
+          "with": "Germany",
+          "status": "Economic Partner"
+        },
+        {
+          "with": "Serbia",
+          "status": "Regional Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Sarajevo",
+          "isCapital": true,
+          "politicalSystem": "Cantonal and municipal government led by a mayor and city council.",
+          "villages": []
+        },
+        {
+          "name": "Banja Luka",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a mayor and city assembly.",
+          "villages": []
+        },
+        {
+          "name": "Mostar",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a mayor and city council.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Iceland",
+      "politicalSystem": "Unitary parliamentary republic",
+      "diplomaticRelations": [
+        {
+          "with": "Norway",
+          "status": "Close Nordic Ally"
+        },
+        {
+          "with": "United States of America",
+          "status": "NATO Ally"
+        },
+        {
+          "with": "Denmark",
+          "status": "Historical and Cultural Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Reykjavik",
+          "isCapital": true,
+          "politicalSystem": "City Council led by a Mayor",
+          "villages": [
+            {
+              "name": "Seltjarnarnes",
+              "nearestTown": "Reykjavik",
+              "politicalSystem": "Independent municipal council, part of the Capital Region."
+            }
+          ]
+        },
+        {
+          "name": "Akureyri",
+          "isCapital": false,
+          "politicalSystem": "Municipal Council",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Monaco",
+      "politicalSystem": "Unitary parliamentary constitutional monarchy (Principality)",
+      "diplomaticRelations": [
+        {
+          "with": "France",
+          "status": "Protective Ally and Close Partner"
+        },
+        {
+          "with": "Italy",
+          "status": "Economic Partner and Neighbor"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Monaco-Ville",
+          "isCapital": true,
+          "politicalSystem": "Direct administration by the Monégasque government, serving as the historic capital district and seat of state institutions.",
+          "villages": []
+        },
+        {
+          "name": "Monte Carlo",
+          "isCapital": false,
+          "politicalSystem": "Administered as a ward of the Principality, recognized globally for its tourism and economic activity.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Liechtenstein",
+      "politicalSystem": "Constitutional monarchy; parliamentary democracy",
+      "diplomaticRelations": [
+        {
+          "with": "Switzerland",
+          "status": "Close Ally"
+        },
+        {
+          "with": "Austria",
+          "status": "Neighboring Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Vaduz",
+          "isCapital": true,
+          "politicalSystem": "Direct municipal democracy led by a municipal council and mayor.",
+          "villages": []
+        },
+        {
+          "name": "Schaan",
+          "isCapital": false,
+          "politicalSystem": "Direct municipal democracy led by a municipal council and mayor.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Greece",
+      "politicalSystem": "Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "Germany",
+          "status": "European Union Partner"
+        },
+        {
+          "with": "United States of America",
+          "status": "NATO Ally"
+        },
+        {
+          "with": "Cyprus",
+          "status": "Close Ally"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Athens",
+          "isCapital": true,
+          "politicalSystem": "Municipal government led by an elected Mayor, within the Attica Region.",
+          "villages": [
+            {
+              "name": "Glyfada",
+              "nearestTown": "Athens",
+              "politicalSystem": "Independent municipality within the Athens urban agglomeration."
+            },
+            {
+              "name": "Voula",
+              "nearestTown": "Athens",
+              "politicalSystem": "Part of the Vari-Voula-Vouliagmeni municipality in Attica."
+            }
+          ]
+        },
+        {
+          "name": "Thessaloniki",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by an elected Mayor, within the Central Macedonia Region.",
+          "villages": [
+            {
+              "name": "Peraia",
+              "nearestTown": "Thessaloniki",
+              "politicalSystem": "Part of the Thermaikos municipality, a suburb of Thessaloniki."
+            }
+          ]
+        },
+        {
+          "name": "Patras",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by an elected Mayor, within the Western Greece Region.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "politicalSystem": "Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "France",
+          "status": "Strategic Partner"
+        },
+        {
+          "with": "Germany",
+          "status": "Economic Ally"
+        },
+        {
+          "with": "United States of America",
+          "status": "NATO Ally"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Rome",
+          "isCapital": true,
+          "politicalSystem": "Municipal government led by a Mayor and City Council.",
+          "villages": [
+            {
+              "name": "Ostia Antica",
+              "nearestTown": "Rome",
+              "politicalSystem": "Frazione within the Municipality of Rome."
+            },
+            {
+              "name": "Acilia",
+              "nearestTown": "Rome",
+              "politicalSystem": "Suburb/Frazione within the Municipality of Rome."
+            }
+          ]
+        },
+        {
+          "name": "Milan",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a Mayor and City Council.",
+          "villages": [
+            {
+              "name": "Baggio",
+              "nearestTown": "Milan",
+              "politicalSystem": "District of Milan, formerly an independent commune."
+            }
+          ]
+        },
+        {
+          "name": "Florence",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a Mayor and City Council.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "The Netherlands",
+      "politicalSystem": "Unitary parliamentary constitutional monarchy",
+      "diplomaticRelations": [
+        {
+          "with": "Germany",
+          "status": "Key European Union Partner"
+        },
+        {
+          "with": "Belgium",
+          "status": "Close Neighbor and Benelux Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Amsterdam",
+          "isCapital": true,
+          "politicalSystem": "Municipal government, led by a mayor appointed by the Crown and a directly elected municipal council.",
+          "villages": [
+            {
+              "name": "Durgerdam",
+              "nearestTown": "Amsterdam",
+              "politicalSystem": "Part of the Amsterdam municipality, administered through a district council."
+            }
+          ]
+        },
+        {
+          "name": "Rotterdam",
+          "isCapital": false,
+          "politicalSystem": "Municipal government, led by a mayor and a directly elected municipal council.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Czech Republic",
+      "politicalSystem": "Parliamentary republic",
+      "diplomaticRelations": [
+        {
+          "with": "Germany",
+          "status": "Strategic Partner"
+        },
+        {
+          "with": "Slovakia",
+          "status": "Close Ally"
+        },
+        {
+          "with": "Poland",
+          "status": "Regional Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Prague",
+          "isCapital": true,
+          "politicalSystem": "Magistrate of the Capital City of Prague, led by a Lord Mayor.",
+          "villages": []
+        },
+        {
+          "name": "Brno",
+          "isCapital": false,
+          "politicalSystem": "Statutory City governed by a City Council and Mayor.",
+          "villages": []
+        },
+        {
+          "name": "Ostrava",
+          "isCapital": false,
+          "politicalSystem": "Statutory City with a Mayor and City Council.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Bulgaria",
+      "politicalSystem": "Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "Germany",
+          "status": "EU Member, Economic Partner"
+        },
+        {
+          "with": "United States of America",
+          "status": "NATO Ally, Strategic Partner"
+        },
+        {
+          "with": "Greece",
+          "status": "EU Member, Regional Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Sofia",
+          "isCapital": true,
+          "politicalSystem": "Municipal government, led by a Mayor and City Council, with a system of 24 administrative districts.",
+          "villages": []
+        },
+        {
+          "name": "Plovdiv",
+          "isCapital": false,
+          "politicalSystem": "Municipal government, led by a Mayor and City Council, divided into 6 administrative districts.",
+          "villages": []
+        },
+        {
+          "name": "Varna",
+          "isCapital": false,
+          "politicalSystem": "Municipal government, led by a Mayor and City Council, with several administrative districts.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Ireland",
+      "politicalSystem": "Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "United Kingdom",
+          "status": "Close Partner"
+        },
+        {
+          "with": "United States of America",
+          "status": "Strategic Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Dublin",
+          "isCapital": true,
+          "politicalSystem": "Municipal government led by a Lord Mayor and Dublin City Council.",
+          "villages": [
+            {
+              "name": "Howth",
+              "nearestTown": "Dublin",
+              "politicalSystem": "Part of Fingal County Council's administrative area."
+            }
+          ]
+        },
+        {
+          "name": "Cork",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a Lord Mayor and Cork City Council.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Malta",
+      "politicalSystem": "Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "Italy",
+          "status": "Close Strategic Partner"
+        },
+        {
+          "with": "European Union",
+          "status": "Member State"
+        },
+        {
+          "with": "United Kingdom",
+          "status": "Commonwealth Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Valletta",
+          "isCapital": true,
+          "politicalSystem": "Local Council",
+          "villages": [
+            {
+              "name": "Floriana",
+              "nearestTown": "Valletta",
+              "politicalSystem": "Autonomous Local Council adjacent to Valletta."
+            }
+          ]
+        },
+        {
+          "name": "Birkirkara",
+          "isCapital": false,
+          "politicalSystem": "Local Council",
+          "villages": [
+            {
+              "name": "Ta' Paris",
+              "nearestTown": "Birkirkara",
+              "politicalSystem": "Administered by Birkirkara Local Council."
+            }
+          ]
+        },
+        {
+          "name": "Sliema",
+          "isCapital": false,
+          "politicalSystem": "Local Council",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Latvia",
+      "politicalSystem": "Parliamentary Republic",
+      "diplomaticRelations": [
+        {
+          "with": "Estonia",
+          "status": "Ally"
+        },
+        {
+          "with": "Lithuania",
+          "status": "Ally"
+        },
+        {
+          "with": "Germany",
+          "status": "Strategic Partner"
+        },
+        {
+          "with": "European Union",
+          "status": "Member State"
+        },
+        {
+          "with": "NATO",
+          "status": "Member State"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Riga",
+          "isCapital": true,
+          "politicalSystem": "Municipal government led by a City Council and Mayor.",
+          "villages": [
+            {
+              "name": "Vecāķi",
+              "nearestTown": "Riga",
+              "politicalSystem": "District within Riga municipality."
+            }
+          ]
+        },
+        {
+          "name": "Daugavpils",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a City Council and Mayor.",
+          "villages": []
+        },
+        {
+          "name": "Liepāja",
+          "isCapital": false,
+          "politicalSystem": "Municipal government led by a City Council and Mayor.",
+          "villages": []
+        }
+      ]
+    }
+  ]
+}
