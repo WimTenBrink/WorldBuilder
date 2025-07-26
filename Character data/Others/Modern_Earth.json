@@ -1,0 +1,128 @@
+{
+  "id": "world_modern_earth_2025",
+  "name": "Modern Earth",
+  "style": "Modern Reality",
+  "calendar": {
+    "name": "Gregorian Calendar",
+    "details": "Standard 365/366 day calendar used globally, based on the Earth's revolution around the Sun."
+  },
+  "technologyLevel": "2025 - Digital Age with emerging AI, global connectivity, and early stages of commercial space travel.",
+  "celestialObjects": {
+    "stars": [
+      {
+        "name": "Sol",
+        "description": "The G-type main-sequence star at the center of the Solar System."
+      }
+    ],
+    "planets": [
+      {
+        "name": "Earth",
+        "description": "The third planet from the Sun, the only astronomical object known to harbor life."
+      },
+      {
+        "name": "Mars",
+        "description": "The fourth planet from the Sun, a dusty, cold, desert world with a thin atmosphere. Subject of colonization efforts."
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Orion",
+        "description": "A prominent constellation located on the celestial equator, visible throughout the world."
+      }
+    ],
+    "moons": [
+      {
+        "name": "The Moon (Luna)",
+        "description": "Earth's only natural satellite, a rocky body with a heavily cratered surface."
+      }
+    ]
+  },
+  "geography": {
+    "oceans": [
+      {
+        "name": "Atlantic Ocean",
+        "description": "Separates the \"Old World\" of Europe and Africa from the \"New World\" of the Americas."
+      }
+    ],
+    "seas": [
+      {
+        "name": "North Sea",
+        "description": "A marginal sea of the Atlantic Ocean located between Great Britain, Scandinavia, Germany, the Netherlands, Belgium, and France."
+      }
+    ],
+    "rivers": [
+      {
+        "name": "Rhine",
+        "description": "A major European river, which begins in the Swiss Alps and flows through Germany and the Netherlands into the North Sea."
+      }
+    ],
+    "landmarks": [
+      {
+        "name": "Eiffel Tower",
+        "type": "Structure",
+        "location": "Paris, France",
+        "description": "A wrought-iron lattice tower on the Champ de Mars, a global cultural icon of France."
+      }
+    ]
+  },
+  "countries": [
+    {
+      "name": "The Netherlands",
+      "politicalSystem": "Parliamentary constitutional monarchy",
+      "diplomaticRelations": [
+        {
+          "with": "United States of America",
+          "status": "Ally"
+        },
+        {
+          "with": "Germany",
+          "status": "Trade Partner"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Amsterdam",
+          "isCapital": true,
+          "politicalSystem": "Municipal government led by a mayor and aldermen.",
+          "villages": [
+            {
+              "name": "Durgerdam",
+              "nearestTown": "Amsterdam",
+              "politicalSystem": "Part of Amsterdam municipality."
+            }
+          ]
+        },
+        {
+          "name": "Utrecht",
+          "isCapital": false,
+          "politicalSystem": "Municipal government.",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "United States of America",
+      "politicalSystem": "Federal presidential constitutional republic",
+      "diplomaticRelations": [
+        {
+          "with": "The Netherlands",
+          "status": "Ally"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Washington, D.C.",
+          "isCapital": true,
+          "politicalSystem": "Federal district with a local government under the authority of the U.S. Congress.",
+          "villages": []
+        },
+        {
+          "name": "New York City",
+          "isCapital": false,
+          "politicalSystem": "Strong mayor-council system.",
+          "villages": []
+        }
+      ]
+    }
+  ]
+}
